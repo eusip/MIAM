@@ -1,0 +1,2362 @@
+Speaker,Utterance,Dialogue_Act,Dialogue_ID,File_ID
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,0,B209_BA5c3
+U,"Hola , quería obtener el horario para ir a Valencia",Pregunta,0,B209_BA5c3
+U,desde Barcelona,Pregunta,0,B209_BA5c3
+U,para viajar mañana o pasado mañana .,Pregunta,0,B209_BA5c3
+M,"Le consulto horarios de trenes con salida en barcelona destino valencia saliendo el viernes , día 27 de febrero de 2004 .",Confirmacion,0,B209_BA5c3
+M,Un momento por favor .,Espera,0,B209_BA5c3
+M,Hay varios trenes . El primero sale a las 7 de la mañana y el último a las 9 de la noche .,Respuesta,0,B209_BA5c3
+M,Desea algo más ? .,Nueva_consulta,0,B209_BA5c3
+U,"Sí , quería saber a qué hora llega el tren de las siete de la mañana .",Pregunta,0,B209_BA5c3
+M,Ese tren sale a las 7 de la mañana y llega a las 9 y 50 de la mañana .,Respuesta,0,B209_BA5c3
+M,Desea algo más ? .,Nueva_consulta,0,B209_BA5c3
+U,"No , gracias .",Cierre,0,B209_BA5c3
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,0,B209_BA5c3
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,15,B207_BA5c1
+U,"Hola , quería saber el horario de un tren de Barcelona",Pregunta,15,B207_BA5c1
+U,a Tarragona .,Pregunta,15,B207_BA5c1
+M,¿ A qué ciudad desea llegar ? .,Pregunta,15,B207_BA5c1
+U,Tarragona .,Respuesta,15,B207_BA5c1
+M,"Quiere horarios de trenes a tarragona ,",Confirmacion,15,B207_BA5c1
+M,¿ desde barcelona ? .,Confirmacion,15,B207_BA5c1
+U,Sí .,Afirmacion,15,B207_BA5c1
+M,¿ Qué día desea salir ? .,Pregunta,15,B207_BA5c1
+U,.,Indefinida,15,B207_BA5c1
+M,¿ Qué día desea salir ? .,Pregunta,15,B207_BA5c1
+U,Mañana .,Respuesta,15,B207_BA5c1
+M,"¿ Desea salir el jueves , día 26 de febrero de 2004 ? .",Confirmacion,15,B207_BA5c1
+U,Sí .,Indefinida,15,B207_BA5c1
+M,"Le consulto horarios de trenes con salida en barcelona destino tarragona saliendo el jueves , día 26 de febrero de 2004 .",Confirmacion,15,B207_BA5c1
+M,Un momento por favor .,Espera,15,B207_BA5c1
+M,Hay varios trenes . El primero sale a las 5 y 52 de la madrugada y el último a las 11 de la noche .,Respuesta,15,B207_BA5c1
+M,Desea algo más ? .,Nueva_consulta,15,B207_BA5c1
+U,"No , gracias .",Cierre,15,B207_BA5c1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,15,B207_BA5c1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,31,B402_BB0c0
+U,"Hola buenos días , quería saber el horario y los precios de los viajes en tren a Oviedo",Pregunta,31,B402_BB0c0
+U,saliendo el uno o el dos de agosto .,Pregunta,31,B402_BB0c0
+M,¿ A qué ciudad desea viajar ? .,Pregunta,31,B402_BB0c0
+U,A Oviedo .,Respuesta,31,B402_BB0c0
+M,"Quiere horarios de trenes a oviedo ,",Confirmacion,31,B402_BB0c0
+M,¿ desde bilbao ? .,Confirmacion,31,B402_BB0c0
+U,Sí .,Afirmacion,31,B402_BB0c0
+M,¿ Qué día desea salir ? .,Pregunta,31,B402_BB0c0
+U,El uno o el dos de agosto .,Respuesta,31,B402_BB0c0
+M,"¿ Desea salir el domingo , día 1 de agosto de 2004 ? .",Confirmacion,31,B402_BB0c0
+U,Sí .,Afirmacion,31,B402_BB0c0
+M,"Le consulto horarios de trenes con salida en bilbao destino oviedo saliendo el domingo , día 1 de agosto de 2004 .",Confirmacion,31,B402_BB0c0
+M,Un momento por favor .,Espera,31,B402_BB0c0
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 de la noche .,Respuesta,31,B402_BB0c0
+M,Desea algo más ? .,Nueva_consulta,31,B402_BB0c0
+U,"Sí , quiero saber que tren sale hacia las doce del mediodía .",Pregunta,31,B402_BB0c0
+M,¿ Quiere salir entre las 11 y 30 y las 12 y 30 de la mañana ? .,Confirmacion,31,B402_BB0c0
+U,Sí .,Afirmacion,31,B402_BB0c0
+M,"Le consulto horarios de bilbao a oviedo el domingo , día 1 de agosto de 2004 entre las 11 y 30 y las 12 y 30 de la mañana .",Confirmacion,31,B402_BB0c0
+M,Un momento por favor .,Espera,31,B402_BB0c0
+M,El único tren que realiza el trayecto es un talgo que sale a las 11 y 55 de la mañana .,Respuesta,31,B402_BB0c0
+M,Desea algo más ? .,Nueva_consulta,31,B402_BB0c0
+U,"Sí , quiero saber el precio de ese tren .",Pregunta,31,B402_BB0c0
+M,El precio de ese tren en clase turista es 44 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,31,B402_BB0c0
+M,Desea algo más ? .,Nueva_consulta,31,B402_BB0c0
+U,"No , gracias , eso es todo .",Cierre,31,B402_BB0c0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,31,B402_BB0c0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,44,Z209_ZA3c4
+U,Me gustaría viajar el viernes nueve de Abril,Pregunta,44,Z209_ZA3c4
+U,"a Sevilla ,",Pregunta,44,Z209_ZA3c4
+U,en el tren más rápido .,Pregunta,44,Z209_ZA3c4
+M,¿ Quiere saber horarios ? .,Confirmacion,44,Z209_ZA3c4
+U,"Sí , sí que quiero .",Afirmacion,44,Z209_ZA3c4
+M,¿ Qué día desea salir ? .,Pregunta,44,Z209_ZA3c4
+U,El viernes nueve de abril .,Respuesta,44,Z209_ZA3c4
+M,"Quiere horarios de trenes a sevilla ,",Confirmacion,44,Z209_ZA3c4
+M,¿ desde zaragoza ? .,Confirmacion,44,Z209_ZA3c4
+U,"Sí , sí que quiero .",Afirmacion,44,Z209_ZA3c4
+M,"Le consulto horarios de trenes con salida en zaragoza destino sevilla saliendo el viernes , día 9 de abril de 2004 .",Confirmacion,44,Z209_ZA3c4
+M,Un momento por favor .,Espera,44,Z209_ZA3c4
+M,El único tren que realiza el trayecto es un triana que sale a las 12 y 10 de la mañana .,Respuesta,44,Z209_ZA3c4
+M,Desea algo más ? .,Nueva_consulta,44,Z209_ZA3c4
+U,"No , muchas gracias .",Cierre,44,Z209_ZA3c4
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,44,Z209_ZA3c4
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,68,B206_BA3c1
+U,"Hola , querría consultar horarios de viajes de ida",Pregunta,68,B206_BA3c1
+U,a Barcelona,Pregunta,68,B206_BA3c1
+U,para llegar el sábado,Pregunta,68,B206_BA3c1
+U,y que sea rápido .,Pregunta,68,B206_BA3c1
+M,"¿ Desea salir el sábado , día 28 de febrero de 2004 ? .",Confirmacion,68,B206_BA3c1
+U,Sí .,Afirmacion,68,B206_BA3c1
+M,"Le consulto horarios de trenes con salida en bilbao destino barcelona saliendo el sábado , día 28 de febrero de 2004 .",Confirmacion,68,B206_BA3c1
+M,Un momento por favor .,Espera,68,B206_BA3c1
+M,El único tren que realiza el trayecto es un miguel_de_unamuno que sale a las 10 y 5 de la mañana .,Respuesta,68,B206_BA3c1
+M,Desea algo más ? .,Nueva_consulta,68,B206_BA3c1
+U,No .,Cierre,68,B206_BA3c1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,68,B206_BA3c1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,90,V407_VA8c7
+U,"Quieres , quisiera saber el horario de los trenes que van de Murcia",Pregunta,90,V407_VA8c7
+U,a Alicante,Pregunta,90,V407_VA8c7
+U,y llegen el viernes,Pregunta,90,V407_VA8c7
+U,antes de las diez .,Pregunta,90,V407_VA8c7
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,90,V407_VA8c7
+U,Quisiera saber los horarios de los trenes que salen de Murcia,Pregunta,90,V407_VA8c7
+U,a Alicante,Pregunta,90,V407_VA8c7
+U,y lleguen el viernes,Pregunta,90,V407_VA8c7
+U,antes de las diez .,Pregunta,90,V407_VA8c7
+M,"Quiere horarios de trenes a alicante ,",Confirmacion,90,V407_VA8c7
+M,¿ desde murcia ? .,Confirmacion,90,V407_VA8c7
+U,Sí .,Afirmacion,90,V407_VA8c7
+M,¿ Qué día desea salir ? .,Pregunta,90,V407_VA8c7
+U,El viernes .,Respuesta,90,V407_VA8c7
+M,"¿ Desea salir el viernes , día 2 de abril de 2004 ? .",Confirmacion,90,V407_VA8c7
+U,Sí .,Afirmacion,90,V407_VA8c7
+M,"Le consulto horarios de trenes con salida en murcia destino alicante saliendo el viernes , día 2 de abril de 2004 .",Confirmacion,90,V407_VA8c7
+M,Un momento por favor .,Espera,90,V407_VA8c7
+M,Hay varios trenes . El primero sale a las 5 y 55 de la madrugada y llega a las 7 y 18 de la mañana y el último sale a las 5 y 40 de la tarde y llega a las 6 y 57 de la tarde .,Respuesta,90,V407_VA8c7
+M,Desea algo más ? .,Nueva_consulta,90,V407_VA8c7
+U,El tipo de tren que sale a las cinco y cincuenta y cinco .,Pregunta,90,V407_VA8c7
+M,Ese tren es un regional_expres .,Respuesta,90,V407_VA8c7
+M,Desea algo más ? .,Nueva_consulta,90,V407_VA8c7
+U,No .,Cierre,90,V407_VA8c7
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,90,V407_VA8c7
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,91,V407_VB5a1
+U,"Hola , quería saber los horarios de los trenes que salen de Albacete",Pregunta,91,V407_VB5a1
+U,a Valencia,Pregunta,91,V407_VB5a1
+U,el quince de agosto del dos mil cuatro .,Pregunta,91,V407_VB5a1
+M,¿ Quiere viajar desde albacete ? .,Confirmacion,91,V407_VB5a1
+U,Sí .,Afirmacion,91,V407_VB5a1
+M,¿ Qué día desea salir ? .,Pregunta,91,V407_VB5a1
+U,Quince de agosto dos mil cuatro .,Respuesta,91,V407_VB5a1
+M,"¿ Desea salir el domingo , día 15 de agosto de 2004 ? .",Confirmacion,91,V407_VB5a1
+U,Sí .,Afirmacion,91,V407_VB5a1
+M,"Le consulto horarios de trenes con salida en albacete destino valencia saliendo el domingo , día 15 de agosto de 2004 .",Confirmacion,91,V407_VB5a1
+M,Un momento por favor .,Espera,91,V407_VB5a1
+M,Hay varios trenes . El primero sale a las 3 y 53 de la madrugada y llega a las 5 y 38 de la madrugada y el último sale a las 10 y 19 de la noche y llega a las 11 y 45 de la noche .,Respuesta,91,V407_VB5a1
+M,Desea algo más ? .,Nueva_consulta,91,V407_VB5a1
+U,"Sí , el tipo de tren que sea talgo .",Pregunta,91,V407_VB5a1
+M,¿ Desea hacer el viaje en un talgo ? .,Confirmacion,91,V407_VB5a1
+U,Sí .,Afirmacion,91,V407_VB5a1
+M,"Le consulto horarios de trenes con salida en albacete destino valencia saliendo el domingo , día 15 de agosto de 2004 en talgo .",Confirmacion,91,V407_VB5a1
+M,Un momento por favor .,Espera,91,V407_VB5a1
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,91,V407_VB5a1
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,91,V407_VB5a1
+U,", viajar en cualquier tren .",Pregunta,91,V407_VB5a1
+M,"Le consulto horarios de trenes con salida en albacete destino valencia saliendo el domingo , día 15 de agosto de 2004 .",Confirmacion,91,V407_VB5a1
+M,Un momento por favor .,Espera,91,V407_VB5a1
+M,Hay varios trenes . El primero sale a las 3 y 53 de la madrugada y llega a las 5 y 38 de la madrugada y el último sale a las 10 y 19 de la noche y llega a las 11 y 45 de la noche .,Respuesta,91,V407_VB5a1
+M,Desea algo más ? .,Nueva_consulta,91,V407_VB5a1
+U,"Sí , quisiera saber el precio del tren que sale a las diez y diecinueve .",Pregunta,91,V407_VB5a1
+M,El precio de ese tren en clase turista es 21 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,91,V407_VB5a1
+M,Desea algo más ? .,Nueva_consulta,91,V407_VB5a1
+U,"No , gracias .",Cierre,91,V407_VB5a1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,91,V407_VB5a1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,104,Z206_ZA5c0
+U,"Sí , quería saber los horarios de trenes para viajar de Barcelona",Pregunta,104,Z206_ZA5c0
+U,a Madrid,Pregunta,104,Z206_ZA5c0
+U,el próximo veinticuatro de mayo .,Pregunta,104,Z206_ZA5c0
+M,"Le consulto horarios de trenes con salida en barcelona destino madrid saliendo el lunes , día 24 de mayo de 2004 .",Confirmacion,104,Z206_ZA5c0
+M,Un momento por favor .,Espera,104,Z206_ZA5c0
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 3 y 30 de la tarde .,Respuesta,104,Z206_ZA5c0
+M,Desea algo más ? .,Nueva_consulta,104,Z206_ZA5c0
+U,"Sí , ¿ me podría decir el último",Pregunta,104,Z206_ZA5c0
+U,que sale de Barcelona,Pregunta,104,Z206_ZA5c0
+U,pero llega antes de las cinco de la tarde,Pregunta,104,Z206_ZA5c0
+U,a Madrid ? .,Pregunta,104,Z206_ZA5c0
+M,Le consulto horarios .,Confirmacion,104,Z206_ZA5c0
+M,Un momento por favor .,Espera,104,Z206_ZA5c0
+M,Ese tren sale a las 8 y 30 de la mañana y llega a las 3 y 1 de la tarde .,Respuesta,104,Z206_ZA5c0
+M,Desea algo más ? .,Nueva_consulta,104,Z206_ZA5c0
+U,"Nada más , muchas gracias .",Cierre,104,Z206_ZA5c0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,104,Z206_ZA5c0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,121,V111_VB6c6
+U,Desearía conocer el horario de trenes de Alicante,Pregunta,121,V111_VB6c6
+U,a Valencia,Pregunta,121,V111_VB6c6
+U,en talgo .,Pregunta,121,V111_VB6c6
+M,¿ Qué día desea salir ? .,Pregunta,121,V111_VB6c6
+U,El próximo lunes .,Respuesta,121,V111_VB6c6
+M,"Le consulto horarios de trenes con salida en alicante destino valencia saliendo el lunes , día 15 de marzo de 2004 .",Confirmacion,121,V111_VB6c6
+M,Un momento por favor .,Espera,121,V111_VB6c6
+M,Hay varios trenes . El primero sale a las 6 y 55 de la mañana y el último a las 7 de la tarde .,Respuesta,121,V111_VB6c6
+M,Desea algo más ? .,Nueva_consulta,121,V111_VB6c6
+U,"Sí , me gustaría obtener el precio .",Pregunta,121,V111_VB6c6
+M,Le consulto precios .,Confirmacion,121,V111_VB6c6
+M,Un momento por favor .,Espera,121,V111_VB6c6
+M,"Hay varios trenes . En clase turista , el tren más caro es un euromed que cuesta 22 con 50 euros la ida y el más barato es un regional_expres que cuesta 10 con 30 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,121,V111_VB6c6
+M,Desea algo más ? .,Nueva_consulta,121,V111_VB6c6
+U,"Sí , ¿ podría realizar este viaje en talgo ? .",Pregunta,121,V111_VB6c6
+M,¿ Desea hacer el viaje en un talgo ? .,Confirmacion,121,V111_VB6c6
+U,Sí .,Afirmacion,121,V111_VB6c6
+M,"Le consulto horarios de trenes con salida en alicante destino valencia saliendo el lunes , día 15 de marzo de 2004 en talgo .",Confirmacion,121,V111_VB6c6
+M,Un momento por favor .,Espera,121,V111_VB6c6
+M,El único tren que realiza el trayecto es un talgo y su precio en clase turista es 20 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,121,V111_VB6c6
+M,Desea algo más ? .,Nueva_consulta,121,V111_VB6c6
+U,No .,Cierre,121,V111_VB6c6
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,121,V111_VB6c6
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,137,B311_BC1c1
+U,Me gustaría obtener horarios y precio de un viaje de ida y vuelta,Pregunta,137,B311_BC1c1
+U,desde Bilbao,Pregunta,137,B311_BC1c1
+U,a Pamplona .,Pregunta,137,B311_BC1c1
+M,¿ Quiere salir desde pamplona ? .,Confirmacion,137,B311_BC1c1
+U,"No ,",Negacion,137,B311_BC1c1
+U,desde Bilbao . De Bilbao,Respuesta,137,B311_BC1c1
+U,a Pamplona .,Respuesta,137,B311_BC1c1
+M,¿ Qué día desea salir ? .,Pregunta,137,B311_BC1c1
+U,El próximo jueves,Respuesta,137,B311_BC1c1
+U,antes de las diez y media,Respuesta,137,B311_BC1c1
+U,y coger el de vuelta,Respuesta,137,B311_BC1c1
+U,antes de las ocho de la tarde .,Respuesta,137,B311_BC1c1
+M,¿ Quiere salir entre las 0 de la noche y las 10 y 30 de la mañana ? .,Confirmacion,137,B311_BC1c1
+U,Sí .,Afirmacion,137,B311_BC1c1
+M,"Le consulto horarios de bilbao a pamplona el jueves , día 1 de abril de 2004 entre las 0 de la noche y las 10 y 30 de la mañana .",Confirmacion,137,B311_BC1c1
+M,Un momento por favor .,Espera,137,B311_BC1c1
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 10 y 30 de la mañana .,Respuesta,137,B311_BC1c1
+M,Desea algo más ? .,Nueva_consulta,137,B311_BC1c1
+U,"Sí , también horarios y precios de un tren el mismo día",Pregunta,137,B311_BC1c1
+U,antes de las ocho de la tarde .,Pregunta,137,B311_BC1c1
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,137,B311_BC1c1
+U,Sí el horario y precios de un mismo tren ese mismo día,Pregunta,137,B311_BC1c1
+U,antes de las ocho de la tarde .,Pregunta,137,B311_BC1c1
+M,¿ Quiere salir entre las 0 de la noche y las 8 de la tarde ? .,Confirmacion,137,B311_BC1c1
+U,Sí .,Afirmacion,137,B311_BC1c1
+M,"Le consulto horarios de pamplona a bilbao el jueves , día 1 de abril de 2004 entre las 0 de la noche y las 8 de la tarde .",Confirmacion,137,B311_BC1c1
+M,Un momento por favor .,Espera,137,B311_BC1c1
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 3 y 30 de la tarde .,Respuesta,137,B311_BC1c1
+M,Desea algo más ? .,Nueva_consulta,137,B311_BC1c1
+U,"Sí , el precio de ida",Pregunta,137,B311_BC1c1
+U,desde Bilbao,Pregunta,137,B311_BC1c1
+U,a Pamplona,Pregunta,137,B311_BC1c1
+U,y el de vuelta,Pregunta,137,B311_BC1c1
+U,de Pamplona,Pregunta,137,B311_BC1c1
+U,a Bilbao .,Pregunta,137,B311_BC1c1
+M,Le consulto precios de bilbao a pamplona .,Confirmacion,137,B311_BC1c1
+M,Un momento por favor .,Espera,137,B311_BC1c1
+M,"Hay varios trenes . En clase turista , el tren más caro es un talgo que cuesta 44 euros la ida y el más barato es un intercity que cuesta 40 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,137,B311_BC1c1
+M,Desea algo más ? .,Nueva_consulta,137,B311_BC1c1
+U,"No , gracias .",Cierre,137,B311_BC1c1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,137,B311_BC1c1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,138,B311_BA2a2
+U,Me gustaría que me diera horarios y tipo de trenes para realizar un viaje de ida,Pregunta,138,B311_BA2a2
+U,a París .,Pregunta,138,B311_BA2a2
+M,Este servicio no está preparado para atender consultas sobre trenes de cercanías o internacionales .,Indefinida,138,B311_BA2a2
+M,Desea realizar otra consulta ? .,Nueva_consulta,138,B311_BA2a2
+U,"Sí , pues me gustaría obtener horarios y tipo de tren para realizar un viaje de ida",Pregunta,138,B311_BA2a2
+U,a Barcelona .,Pregunta,138,B311_BA2a2
+M,"Quiere horarios de trenes a barcelona ,",Confirmacion,138,B311_BA2a2
+M,¿ desde bilbao ? .,Confirmacion,138,B311_BA2a2
+U,Sí .,Afirmacion,138,B311_BA2a2
+M,¿ Qué día desea salir ? .,Pregunta,138,B311_BA2a2
+U,El día cuatro de mayo .,Respuesta,138,B311_BA2a2
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,138,B311_BA2a2
+U,El día cuatro de mayo .,Respuesta,138,B311_BA2a2
+M,"Le consulto horarios de trenes con salida en bilbao destino barcelona saliendo el martes , día 4 de mayo de 2004 .",Confirmacion,138,B311_BA2a2
+M,Un momento por favor .,Espera,138,B311_BA2a2
+M,El único tren que realiza el trayecto es un miguel_de_unamuno que sale a las 10 y 5 de la mañana .,Respuesta,138,B311_BA2a2
+M,Desea algo más ? .,Nueva_consulta,138,B311_BA2a2
+U,"No , gracias .",Cierre,138,B311_BA2a2
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,138,B311_BA2a2
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,140,V312_VB9c3
+U,"Buenos días , querría obtener el precio de un viaje de Zaragoza",Pregunta,140,V312_VB9c3
+U,a Bilbao .,Pregunta,140,V312_VB9c3
+M,¿ Qué día desea salir ? .,Pregunta,140,V312_VB9c3
+U,El próximo viernes,Respuesta,140,V312_VB9c3
+U,por la tarde .,Respuesta,140,V312_VB9c3
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,140,V312_VB9c3
+U,El próximo viernes,Respuesta,140,V312_VB9c3
+U,por la tarde .,Respuesta,140,V312_VB9c3
+M,"Le consulto precios de zaragoza a bilbao saliendo el viernes , día 2 de abril de 2004 .",Confirmacion,140,V312_VB9c3
+M,Un momento por favor .,Espera,140,V312_VB9c3
+M,El único tren que realiza el trayecto es un miguel_de_unamuno y su precio en clase turista es 22 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,140,V312_VB9c3
+M,Desea algo más ? .,Nueva_consulta,140,V312_VB9c3
+U,"Sí , ¿ a qué hora sale dicho tren ? .",Pregunta,140,V312_VB9c3
+M,Ese tren sale a las 5 y 10 de la tarde y llega a las 9 y 55 de la noche .,Respuesta,140,V312_VB9c3
+M,Desea algo más ? .,Nueva_consulta,140,V312_VB9c3
+U,"No , gracias .",Cierre,140,V312_VB9c3
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,140,V312_VB9c3
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,144,V510_VA9a3
+U,Quería saber los trenes .,Indefinida,144,V510_VA9a3
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,144,V510_VA9a3
+U,Quería saber el horario de los trenes que van Gerona,Pregunta,144,V510_VA9a3
+U,a Logroño .,Pregunta,144,V510_VA9a3
+M,¿ Quiere viajar desde gerona ? .,Confirmacion,144,V510_VA9a3
+U,"Sí ,",Afirmacion,144,V510_VA9a3
+U,quiero por la mañana .,Respuesta,144,V510_VA9a3
+M,¿ Quiere viajar a la_coruña ? .,Confirmacion,144,V510_VA9a3
+U,"No ,",Negacion,144,V510_VA9a3
+U,quiero viajar a Logroño .,Respuesta,144,V510_VA9a3
+M,¿ Qué día desea salir ? .,Pregunta,144,V510_VA9a3
+U,Quiero salir mañana .,Respuesta,144,V510_VA9a3
+M,"Le consulto horarios de gerona a logroño el miércoles , día 5 de mayo de 2004 entre las 5 de la madrugada y la una de la tarde .",Confirmacion,144,V510_VA9a3
+M,Un momento por favor .,Espera,144,V510_VA9a3
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 y 55 de la mañana .,Respuesta,144,V510_VA9a3
+M,Desea algo más ? .,Nueva_consulta,144,V510_VA9a3
+U,Quiero saber si sale algún tren para las diecisiete treinta .,Pregunta,144,V510_VA9a3
+M,Le consulto horarios .,Confirmacion,144,V510_VA9a3
+M,Un momento por favor .,Espera,144,V510_VA9a3
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,144,V510_VA9a3
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,144,V510_VA9a3
+U,"Sí , quería saber si hay algún tren que salga .",Indefinida,144,V510_VA9a3
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,144,V510_VA9a3
+U,Quiero saber si sale algún tren alrededor de las cinco y media .,Pregunta,144,V510_VA9a3
+M,Le consulto horarios .,Confirmacion,144,V510_VA9a3
+M,Un momento por favor .,Espera,144,V510_VA9a3
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,144,V510_VA9a3
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,144,V510_VA9a3
+U,"No , gracias .",Cierre,144,V510_VA9a3
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,144,V510_VA9a3
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,148,Z311_ZA7c4
+U,Me gustaría conocer los horarios ir a Ávila,Pregunta,148,Z311_ZA7c4
+U,en un tren rápido,Pregunta,148,Z311_ZA7c4
+U,durante la segunda semana de febrero .,Pregunta,148,Z311_ZA7c4
+M,¿ A qué ciudad desea viajar ? .,Pregunta,148,Z311_ZA7c4
+U,A Ávila .,Respuesta,148,Z311_ZA7c4
+M,¿ Qué día desea salir ? .,Pregunta,148,Z311_ZA7c4
+U,Durante la segunda semana de febrero preferentemente el día nueve .,Respuesta,148,Z311_ZA7c4
+M,"Quiere horarios de trenes a ávila ,",Confirmacion,148,Z311_ZA7c4
+M,¿ desde zaragoza ? .,Confirmacion,148,Z311_ZA7c4
+U,"Sí , eso es lo que quiero exactamente .",Afirmacion,148,Z311_ZA7c4
+M,"Le consulto horarios de trenes con salida en zaragoza destino ávila saliendo el miércoles , día 9 de febrero de 2005 .",Confirmacion,148,Z311_ZA7c4
+M,Un momento por favor .,Espera,148,Z311_ZA7c4
+M,Hay varios trenes . El más rápido sale a las 8 y 30 de la mañana y el más lento a las 11 de la noche .,Respuesta,148,Z311_ZA7c4
+M,Desea algo más ? .,Nueva_consulta,148,Z311_ZA7c4
+U,"No , nada más gracias .",Cierre,148,Z311_ZA7c4
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,148,Z311_ZA7c4
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,165,B310_BA2a1
+U,Buenos días quisiera saber horarios de trenes de Bilbao,Pregunta,165,B310_BA2a1
+U,a Madrid para llegar a Madrid,Pregunta,165,B310_BA2a1
+U,antes de las diez y media de la mañana,Pregunta,165,B310_BA2a1
+U,la salida podría ser el día dieciséis o el día diecisiete .,Pregunta,165,B310_BA2a1
+M,¿ Qué día desea salir ? .,Pregunta,165,B310_BA2a1
+U,El dieciséis o el diecisiete de marzo .,Respuesta,165,B310_BA2a1
+M,"¿ Desea salir el martes , día 16 de marzo de 2004 ? .",Confirmacion,165,B310_BA2a1
+U,"Sí , .",Afirmacion,165,B310_BA2a1
+M,"Le consulto horarios de trenes con salida en bilbao destino madrid saliendo el martes , día 16 de marzo de 2004 .",Confirmacion,165,B310_BA2a1
+M,Un momento por favor .,Espera,165,B310_BA2a1
+M,El único tren que realiza el trayecto es un talgo que sale a las 4 y 30 de la tarde .,Respuesta,165,B310_BA2a1
+M,Desea algo más ? .,Nueva_consulta,165,B310_BA2a1
+U,"Sí , por favor ¿ y saliendo el diecisiete de marzo ? .",Pregunta,165,B310_BA2a1
+M,"Le consulto horarios de trenes con salida en bilbao destino madrid saliendo el miércoles , día 17 de marzo de 2004 .",Confirmacion,165,B310_BA2a1
+M,Un momento por favor .,Espera,165,B310_BA2a1
+M,El único tren que realiza el trayecto es un talgo que sale a las 4 y 30 de la tarde .,Respuesta,165,B310_BA2a1
+M,Desea algo más ? .,Nueva_consulta,165,B310_BA2a1
+U,"Sí , ¿ No hay ningún tren nocturno",Pregunta,165,B310_BA2a1
+U,qué pueda llevarme a Madrid,Pregunta,165,B310_BA2a1
+U,desde Bilbao ? .,Pregunta,165,B310_BA2a1
+M,¿ Quiere salir entre las 9 de la noche y las 5 de la madrugada ? .,Confirmacion,165,B310_BA2a1
+U,"Sí , perfecto .",Afirmacion,165,B310_BA2a1
+M,"Le consulto horarios de bilbao a madrid el miércoles , día 17 de marzo de 2004 entre las 9 de la noche y las 5 de la madrugada .",Confirmacion,165,B310_BA2a1
+M,Un momento por favor .,Espera,165,B310_BA2a1
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,165,B310_BA2a1
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,165,B310_BA2a1
+U,"No , ¿ saliendo el dieciséis habría alguno ? .",Pregunta,165,B310_BA2a1
+M,"Le consulto horarios de bilbao a madrid el martes , día 16 de marzo de 2004 entre las 9 de la noche y las 5 de la madrugada .",Confirmacion,165,B310_BA2a1
+M,Un momento por favor .,Espera,165,B310_BA2a1
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,165,B310_BA2a1
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,165,B310_BA2a1
+U,"No , gracias , está bien .",Cierre,165,B310_BA2a1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,165,B310_BA2a1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,177,V110_VB4c1
+U,"Sí , quisiera un billete de ida",Pregunta,177,V110_VB4c1
+U,a Tarragona,Pregunta,177,V110_VB4c1
+U,para el próximo jueves o viernes y quisiera saber qué horarios y precios tiene .,Pregunta,177,V110_VB4c1
+M,¿ Quiere salir desde lérida ? .,Confirmacion,177,V110_VB4c1
+U,Sí .,Afirmacion,177,V110_VB4c1
+M,"¿ Desea salir el jueves , día 19 de febrero de 2004 ? .",Confirmacion,177,V110_VB4c1
+U,Sí .,Afirmacion,177,V110_VB4c1
+M,"Le consulto horarios de trenes con salida en lérida destino tarragona saliendo el jueves , día 19 de febrero de 2004 .",Confirmacion,177,V110_VB4c1
+M,Un momento por favor .,Espera,177,V110_VB4c1
+M,Hay varios trenes . El primero sale a las 5 de la madrugada y llega a las 6 y 25 de la mañana y el último sale a las 4 y 24 de la tarde y llega a las 5 y 41 de la tarde .,Respuesta,177,V110_VB4c1
+M,Desea algo más ? .,Nueva_consulta,177,V110_VB4c1
+U,"Sí , quisiera comprar un billete para un tren pero antes de las doce de la mañana .",Pregunta,177,V110_VB4c1
+M,"Le consulto horarios de lérida a tarragona el jueves , día 19 de febrero de 2004 entre las 0 de la noche y las 12 de la mañana .",Confirmacion,177,V110_VB4c1
+M,Un momento por favor .,Espera,177,V110_VB4c1
+M,Hay varios trenes . El primero sale a las 5 de la madrugada y llega a las 6 y 25 de la mañana y el último sale a las 6 y 38 de la mañana y llega a las 8 y 14 de la mañana .,Respuesta,177,V110_VB4c1
+M,Desea algo más ? .,Nueva_consulta,177,V110_VB4c1
+U,"Sí , quisiera saber el precio del tren que sale a las seis y treinta y ocho de la mañana .",Pregunta,177,V110_VB4c1
+M,El precio de ese tren en clase turista es 4 con 25 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,177,V110_VB4c1
+M,Desea algo más ? .,Nueva_consulta,177,V110_VB4c1
+U,"no deseo nada más , gracias .",Cierre,177,V110_VB4c1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,177,V110_VB4c1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,183,B113_BC6a0
+U,"Hola buenas , me gustaría obtener los horarios y el precio de un viaje de ida y vuelta",Pregunta,183,B113_BC6a0
+U,desde San_Sebastián,Pregunta,183,B113_BC6a0
+U,hasta Soria .,Pregunta,183,B113_BC6a0
+U,Me gustaría ir el lunes o el martes,Pregunta,183,B113_BC6a0
+U,de día,Pregunta,183,B113_BC6a0
+U,y volver,Pregunta,183,B113_BC6a0
+U,el jueves .,Pregunta,183,B113_BC6a0
+M,"Quiere horarios de trenes a sevilla ,",Confirmacion,183,B113_BC6a0
+M,¿ desde barcelona ? .,Confirmacion,183,B113_BC6a0
+U,no .,Negacion,183,B113_BC6a0
+M,¿ A qué ciudad desea viajar ? .,Pregunta,183,B113_BC6a0
+U,A Soria .,Respuesta,183,B113_BC6a0
+M,"Horarios para llegar a soria ,",Confirmacion,183,B113_BC6a0
+M,¿ saliendo de barcelona ? .,Confirmacion,183,B113_BC6a0
+U,No .,Negacion,183,B113_BC6a0
+M,"Quiere horarios de trenes a soria ,",Confirmacion,183,B113_BC6a0
+M,¿ desde bilbao ? .,Confirmacion,183,B113_BC6a0
+U,"No ,",Negacion,183,B113_BC6a0
+U,desde San_Sebastián .,Respuesta,183,B113_BC6a0
+M,"Le consulto horarios de trenes con salida en san_sebastián destino soria saliendo el lunes , día 23 de febrero de 2004 .",Confirmacion,183,B113_BC6a0
+M,Un momento por favor .,Espera,183,B113_BC6a0
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 de la noche .,Respuesta,183,B113_BC6a0
+M,Desea algo más ? .,Nueva_consulta,183,B113_BC6a0
+U,"Sí , deseo también informarme del precio y del viaje de vuelta .",Pregunta,183,B113_BC6a0
+M,¿ Quiere saber horarios ? .,Confirmacion,183,B113_BC6a0
+U,"Para la vuelta ,",Respuesta,183,B113_BC6a0
+U,sí .,Afirmacion,183,B113_BC6a0
+M,"Le consulto horarios de trenes con salida en soria destino san_sebastián saliendo el lunes , día 23 de febrero de 2004 .",Confirmacion,183,B113_BC6a0
+M,Un momento por favor .,Espera,183,B113_BC6a0
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 de la noche .,Respuesta,183,B113_BC6a0
+M,Desea algo más ? .,Nueva_consulta,183,B113_BC6a0
+U,Sí no quiero volver,Pregunta,183,B113_BC6a0
+U,"el lunes ,",Pregunta,183,B113_BC6a0
+U,quiero volver,Pregunta,183,B113_BC6a0
+U,el jueves o el viernes .,Pregunta,183,B113_BC6a0
+M,"Le consulto horarios de trenes con salida en soria destino san_sebastián saliendo el jueves , día 26 de febrero de 2004 .",Confirmacion,183,B113_BC6a0
+M,Un momento por favor .,Espera,183,B113_BC6a0
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 de la noche .,Respuesta,183,B113_BC6a0
+M,Desea algo más ? .,Nueva_consulta,183,B113_BC6a0
+U,"Sí , me gustaría saber el precio .",Pregunta,183,B113_BC6a0
+M,Le consulto precios de soria a san_sebastián .,Confirmacion,183,B113_BC6a0
+M,Un momento por favor .,Espera,183,B113_BC6a0
+M,"Hay varios trenes . En clase turista , el tren más caro es un talgo que cuesta 44 euros la ida y el más barato es un diurno que cuesta 32 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,183,B113_BC6a0
+M,Desea algo más ? .,Nueva_consulta,183,B113_BC6a0
+U,"Sí , entonces ¿ cuánto me cuesta el viaje de ida y vuelta",Pregunta,183,B113_BC6a0
+U,desde San_Sebastián,Pregunta,183,B113_BC6a0
+U,a Soria ? .,Pregunta,183,B113_BC6a0
+M,Le consulto precios .,Confirmacion,183,B113_BC6a0
+M,Un momento por favor .,Espera,183,B113_BC6a0
+M,"Hay varios trenes . En clase turista , el tren más caro es un talgo que cuesta 44 euros la ida y el más barato es un diurno que cuesta 32 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,183,B113_BC6a0
+M,Desea algo más ? .,Nueva_consulta,183,B113_BC6a0
+U,"No , muchas gracias .",Cierre,183,B113_BC6a0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,183,B113_BC6a0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,202,Z310_ZA2a1
+U,Me gustaría obtener el horario y el tipo de tren para ir a Barcelona,Pregunta,202,Z310_ZA2a1
+U,el próximo sábado día uno .,Pregunta,202,Z310_ZA2a1
+M,"Quiere horarios de trenes a barcelona ,",Confirmacion,202,Z310_ZA2a1
+M,¿ desde zaragoza ? .,Confirmacion,202,Z310_ZA2a1
+U,Sí .,Afirmacion,202,Z310_ZA2a1
+M,"Le consulto horarios de trenes con salida en zaragoza destino barcelona saliendo el sábado , día 1 de mayo de 2004 .",Confirmacion,202,Z310_ZA2a1
+M,Un momento por favor .,Espera,202,Z310_ZA2a1
+M,Hay varios trenes . El primero sale a la una y 50 de la madrugada y el último a las 7 de la tarde .,Respuesta,202,Z310_ZA2a1
+M,Desea algo más ? .,Nueva_consulta,202,Z310_ZA2a1
+U,"Sí , me gustaría obtener el tipo de tren para ir a Barcelona",Pregunta,202,Z310_ZA2a1
+U,el próximo sábado día uno .,Pregunta,202,Z310_ZA2a1
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,202,Z310_ZA2a1
+U,"Sí , me gustaría obtener el tipo de tren para ir a Barcelona",Pregunta,202,Z310_ZA2a1
+U,el próximo sábado día uno .,Pregunta,202,Z310_ZA2a1
+M,Hay varios tipos de trenes . El tren más rápido es un talgo y el más lento es un trenhotel .,Respuesta,202,Z310_ZA2a1
+M,Desea algo más ? .,Nueva_consulta,202,Z310_ZA2a1
+U,No .,Cierre,202,Z310_ZA2a1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,202,Z310_ZA2a1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,205,Z107_ZB3c6
+U,"Buenas tardes , desearía viajar desde Zaragoza",Pregunta,205,Z107_ZB3c6
+U,a Barcelona .,Pregunta,205,Z107_ZB3c6
+M,¿ Quiere saber horarios ? .,Confirmacion,205,Z107_ZB3c6
+U,Horarios y precios .,Pregunta,205,Z107_ZB3c6
+M,¿ Qué día desea salir ? .,Pregunta,205,Z107_ZB3c6
+U,Salida el próximo viernes día veintisiete,Respuesta,205,Z107_ZB3c6
+U,a partir de las diez de la mañana,Respuesta,205,Z107_ZB3c6
+U,y llegada antes de las diez de la mañana,Respuesta,205,Z107_ZB3c6
+U,del sábado veintiocho .,Respuesta,205,Z107_ZB3c6
+M,"Quiere horarios de trenes a barcelona ,",Confirmacion,205,Z107_ZB3c6
+M,¿ desde zaragoza ? .,Confirmacion,205,Z107_ZB3c6
+U,"Sí ,",Afirmacion,205,Z107_ZB3c6
+U,"a poder ser viajar en talgo , si es posible .",Respuesta,205,Z107_ZB3c6
+M,"Le consulto horarios de trenes con salida en zaragoza destino barcelona saliendo el viernes , día 27 de febrero de 2004 en talgo .",Confirmacion,205,Z107_ZB3c6
+M,Un momento por favor .,Espera,205,Z107_ZB3c6
+M,Hay varios trenes . El primero sale a las 6 y 50 de la mañana y el último a las 6 y 46 de la tarde .,Respuesta,205,Z107_ZB3c6
+M,Desea algo más ? .,Nueva_consulta,205,Z107_ZB3c6
+U,"Sí , me gustaría que la salida fuese a partir de las diez de la mañana",Pregunta,205,Z107_ZB3c6
+U,para poder llegar a Barcelona,Pregunta,205,Z107_ZB3c6
+U,antes de las diez de la mañana,Pregunta,205,Z107_ZB3c6
+U,del día siguiente .,Pregunta,205,Z107_ZB3c6
+M,"Le consulto horarios de zaragoza a barcelona el viernes , día 27 de febrero de 2004 entre las 0 de la noche y las 10 de la mañana en talgo .",Confirmacion,205,Z107_ZB3c6
+M,Un momento por favor .,Espera,205,Z107_ZB3c6
+M,Sólo hay dos trenes . El primero sale a las 6 y 50 de la mañana y el otro a las 10 de la mañana .,Respuesta,205,Z107_ZB3c6
+M,Desea algo más ? .,Nueva_consulta,205,Z107_ZB3c6
+U,"Sí , desearía que saliese el talgo",Pregunta,205,Z107_ZB3c6
+U,a partir de las diez de la mañana no antes .,Pregunta,205,Z107_ZB3c6
+M,Le consulto horarios .,Confirmacion,205,Z107_ZB3c6
+M,Un momento por favor .,Espera,205,Z107_ZB3c6
+M,Hay varios trenes . El primero sale a las 10 de la mañana y el último a las 6 y 46 de la tarde .,Respuesta,205,Z107_ZB3c6
+M,Desea algo más ? .,Nueva_consulta,205,Z107_ZB3c6
+U,"No , gracias eso es todo .",Cierre,205,Z107_ZB3c6
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,205,Z107_ZB3c6
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,214,Z304_ZA6c5
+U,Quería obtener los horarios para ir a Peñíscola,Pregunta,214,Z304_ZA6c5
+U,en septiembre .,Pregunta,214,Z304_ZA6c5
+M,¿ Quiere saber horarios ? .,Confirmacion,214,Z304_ZA6c5
+U,Sí .,Afirmacion,214,Z304_ZA6c5
+M,¿ A qué ciudad desea viajar ? .,Pregunta,214,Z304_ZA6c5
+U,Pamplona .,Respuesta,214,Z304_ZA6c5
+M,"Quiere horarios de trenes a pamplona ,",Confirmacion,214,Z304_ZA6c5
+M,¿ desde zaragoza ? .,Confirmacion,214,Z304_ZA6c5
+U,"No ,",Negacion,214,Z304_ZA6c5
+U,quiero ir desde Murcia .,Respuesta,214,Z304_ZA6c5
+M,"Le consulto horarios de trenes con salida en murcia destino pamplona saliendo el miércoles , día 7 de julio de 2004 .",Confirmacion,214,Z304_ZA6c5
+M,Un momento por favor .,Espera,214,Z304_ZA6c5
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 de la noche .,Respuesta,214,Z304_ZA6c5
+M,Desea algo más ? .,Nueva_consulta,214,Z304_ZA6c5
+U,No .,Cierre,214,Z304_ZA6c5
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,214,Z304_ZA6c5
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,216,Z109_ZA1c0
+U,Quisiera horarios de trenes para Madrid,Pregunta,216,Z109_ZA1c0
+U,el próximo viernes .,Pregunta,216,Z109_ZA1c0
+M,"Quiere horarios de trenes a madrid ,",Confirmacion,216,Z109_ZA1c0
+M,¿ desde zaragoza ? .,Confirmacion,216,Z109_ZA1c0
+U,Sí .,Afirmacion,216,Z109_ZA1c0
+M,"Le consulto horarios de trenes con salida en zaragoza destino madrid saliendo el viernes , día 5 de marzo de 2004 .",Confirmacion,216,Z109_ZA1c0
+M,Un momento por favor .,Espera,216,Z109_ZA1c0
+M,Hay varios trenes . El primero sale a las 2 y 48 de la madrugada y el último a las 7 y 10 de la tarde .,Respuesta,216,Z109_ZA1c0
+M,Desea algo más ? .,Nueva_consulta,216,Z109_ZA1c0
+U,"Sí , quisiera los horarios que llegan antes de la una .",Pregunta,216,Z109_ZA1c0
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,216,Z109_ZA1c0
+U,Quiero los horarios de trenes que llegan antes de la una de la tarde .,Pregunta,216,Z109_ZA1c0
+M,Un momento por favor .,Espera,216,Z109_ZA1c0
+M,Hay varios trenes . El primero sale a las 2 y 48 de la madrugada y llega a las 7 de la mañana y el último sale a las 9 de la mañana y llega a las 12 y 20 de la mañana .,Respuesta,216,Z109_ZA1c0
+M,Desea algo más ? .,Nueva_consulta,216,Z109_ZA1c0
+U,No .,Cierre,216,Z109_ZA1c0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,216,Z109_ZA1c0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,219,Z109_ZC4a0
+U,Quisiera los horarios para viajar desde Zaragoza,Pregunta,219,Z109_ZC4a0
+U,a Bilbao,Pregunta,219,Z109_ZC4a0
+U,el veinte de marzo .,Pregunta,219,Z109_ZC4a0
+M,"Le consulto horarios de trenes con salida en zaragoza destino bilbao saliendo el sábado , día 20 de marzo de 2004 .",Confirmacion,219,Z109_ZC4a0
+M,Un momento por favor .,Espera,219,Z109_ZC4a0
+M,El único tren que realiza el trayecto es un pío_baroja que sale a las 2 y 30 de la madrugada .,Respuesta,219,Z109_ZC4a0
+M,Desea algo más ? .,Nueva_consulta,219,Z109_ZC4a0
+U,Quisiera los horarios para volver,Pregunta,219,Z109_ZC4a0
+U,desde Bilbao .,Pregunta,219,Z109_ZC4a0
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,219,Z109_ZC4a0
+U,Quisiera los horarios de vuelta,Pregunta,219,Z109_ZC4a0
+U,desde Bilbao .,Pregunta,219,Z109_ZC4a0
+M,"Le consulto horarios de trenes con salida en bilbao destino zaragoza saliendo el sábado , día 20 de marzo de 2004 .",Confirmacion,219,Z109_ZC4a0
+M,Un momento por favor .,Espera,219,Z109_ZC4a0
+M,El único tren que realiza el trayecto es un miguel_de_unamuno que sale a las 10 y 5 de la mañana .,Respuesta,219,Z109_ZC4a0
+M,Desea algo más ? .,Nueva_consulta,219,Z109_ZC4a0
+U,"Sí , quisiera saber el precio .",Pregunta,219,Z109_ZC4a0
+M,El precio de ese tren en clase turista es 22 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,219,Z109_ZC4a0
+M,Desea algo más ? .,Nueva_consulta,219,Z109_ZC4a0
+U,No .,Cierre,219,Z109_ZC4a0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,219,Z109_ZC4a0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,221,B501_BA7a2
+U,"Sí , quería saber el horario de un viaje de ida .",Pregunta,221,B501_BA7a2
+M,¿ A qué ciudad desea viajar ? .,Pregunta,221,B501_BA7a2
+U,A Barcelona .,Respuesta,221,B501_BA7a2
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,221,B501_BA7a2
+U,"Sí , quería viajar a Barcelona .",Pregunta,221,B501_BA7a2
+M,"Quiere horarios de trenes a barcelona ,",Confirmacion,221,B501_BA7a2
+M,¿ desde bilbao ? .,Confirmacion,221,B501_BA7a2
+U,Sí .,Afirmacion,221,B501_BA7a2
+M,¿ Qué día desea salir ? .,Pregunta,221,B501_BA7a2
+U,El doce de abril .,Respuesta,221,B501_BA7a2
+M,"¿ Desea salir el lunes , día 12 de abril de 2004 ? .",Confirmacion,221,B501_BA7a2
+U,Sí .,Afirmacion,221,B501_BA7a2
+M,"Le consulto horarios de trenes con salida en bilbao destino barcelona saliendo el lunes , día 12 de abril de 2004 .",Confirmacion,221,B501_BA7a2
+M,Un momento por favor .,Espera,221,B501_BA7a2
+M,El único tren que realiza el trayecto es un miguel_de_unamuno que sale a las 10 y 5 de la mañana .,Respuesta,221,B501_BA7a2
+M,Desea algo más ? .,Nueva_consulta,221,B501_BA7a2
+U,"Pues si es el único tren que hay , pues nada más , muchas gracias .",Cierre,221,B501_BA7a2
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,221,B501_BA7a2
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,237,B506_BB8a3
+U,Sí me gustaría viajar a Barcelona .,Pregunta,237,B506_BB8a3
+M,¿ Quiere saber horarios ? .,Confirmacion,237,B506_BB8a3
+U,Sí,Afirmacion,237,B506_BB8a3
+U,me gustaría saber horarios en coche cama .,Pregunta,237,B506_BB8a3
+M,¿ Quiere llegar a barcelona ? .,Confirmacion,237,B506_BB8a3
+U,Sí,Afirmacion,237,B506_BB8a3
+U,deseo un viaje de ida,Pregunta,237,B506_BB8a3
+U,por la noche,Pregunta,237,B506_BB8a3
+U,del próximo jueves de Semana_Santa .,Pregunta,237,B506_BB8a3
+M,"¿ Desea salir el jueves , día 1 de abril de 2004 ? .",Confirmacion,237,B506_BB8a3
+U,"No ,",Negacion,237,B506_BB8a3
+U,deseo salir el jueves ocho de abril de dos mil cuatro .,Respuesta,237,B506_BB8a3
+M,"Le consulto horarios de bilbao a barcelona el jueves , día 8 de abril de 2004 entre las 9 de la noche y las 5 de la madrugada en clase cama .",Confirmacion,237,B506_BB8a3
+M,Un momento por favor .,Espera,237,B506_BB8a3
+M,El único tren que realiza el trayecto es un pío_baroja que sale a las 10 y 45 de la noche .,Respuesta,237,B506_BB8a3
+M,Desea algo más ? .,Nueva_consulta,237,B506_BB8a3
+U,"Sí , deseo saber el precio por favor .",Pregunta,237,B506_BB8a3
+M,El precio de ese tren en clase cama es 78 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,237,B506_BB8a3
+M,Desea algo más ? .,Nueva_consulta,237,B506_BB8a3
+U,"No , gracias .",Cierre,237,B506_BB8a3
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,237,B506_BB8a3
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,238,B506_BA8a3
+U,Quiero un viaje de ida,Pregunta,238,B506_BA8a3
+U,a Madrid,Pregunta,238,B506_BA8a3
+U,el jueves uno de marzo .,Pregunta,238,B506_BA8a3
+M,¿ Quiere saber horarios ? .,Confirmacion,238,B506_BA8a3
+U,Sí,Afirmacion,238,B506_BA8a3
+U,quiero salir desde Bilbao,Pregunta,238,B506_BA8a3
+U,a Madrid,Pregunta,238,B506_BA8a3
+U,entre las siete y las ocho horas de la mañana .,Pregunta,238,B506_BA8a3
+M,¿ Quiere salir entre las 7 y las 8 de la mañana ? .,Confirmacion,238,B506_BA8a3
+U,Sí .,Afirmacion,238,B506_BA8a3
+M,¿ Qué día desea salir ? .,Pregunta,238,B506_BA8a3
+U,¿ Perdone ? No le he entendido .,No_entendido,238,B506_BA8a3
+M,¿ Qué día desea salir ? .,Pregunta,238,B506_BA8a3
+U,.,Indefinida,238,B506_BA8a3
+M,"¿ Desea salir el martes , día 30 de marzo de 2004 ? .",Confirmacion,238,B506_BA8a3
+U,"No ,",Negacion,238,B506_BA8a3
+U,deseo salir el jueves uno de marzo de dos mil cuatro .,Respuesta,238,B506_BA8a3
+M,"El día de la semana no se corresponde con la fecha indicada , confirme por favor si desea salir el lunes , día 1 de marzo de 2004 .",Confirmacion,238,B506_BA8a3
+U,"Sí ,",Afirmacion,238,B506_BA8a3
+U,quiero salir el lunes uno de marzo de dos mil cuatro .,Respuesta,238,B506_BA8a3
+M,"Le consulto horarios de bilbao a madrid el lunes , día 1 de marzo de 2004 entre las 7 y las 8 de la mañana .",Confirmacion,238,B506_BA8a3
+M,Un momento por favor .,Espera,238,B506_BA8a3
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,238,B506_BA8a3
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,238,B506_BA8a3
+U,"Sí , deseo cambiar el día .",Pregunta,238,B506_BA8a3
+M,¿ Qué día desea salir ? .,Pregunta,238,B506_BA8a3
+U,al día siguiente dos de marzo martes del año dos mil cuatro .,Respuesta,238,B506_BA8a3
+M,"¿ Desea salir el martes , día 2 de marzo de 2004 ? .",Confirmacion,238,B506_BA8a3
+U,Sí .,Afirmacion,238,B506_BA8a3
+M,"Le consulto horarios de bilbao a madrid el martes , día 2 de marzo de 2004 entre las 7 y las 8 de la mañana .",Confirmacion,238,B506_BA8a3
+M,Un momento por favor .,Espera,238,B506_BA8a3
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,238,B506_BA8a3
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,238,B506_BA8a3
+U,Sí deseo cambiar el intervalo de las horas si podría ser desde las seis de la mañana a las nueve de la mañana .,Pregunta,238,B506_BA8a3
+M,"Le consulto horarios de bilbao a madrid el martes , día 2 de marzo de 2004 entre las 5 de la madrugada y la una de la tarde .",Confirmacion,238,B506_BA8a3
+M,Un momento por favor .,Espera,238,B506_BA8a3
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,238,B506_BA8a3
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,238,B506_BA8a3
+U,"Sí , deseo cambiar el intervalo de hora .",Pregunta,238,B506_BA8a3
+M,"Le consulto horarios de trenes con salida en bilbao destino madrid saliendo el martes , día 2 de marzo de 2004 .",Confirmacion,238,B506_BA8a3
+M,Un momento por favor .,Espera,238,B506_BA8a3
+M,El único tren que realiza el trayecto es un talgo que sale a las 4 y 50 de la tarde .,Respuesta,238,B506_BA8a3
+M,Desea algo más ? .,Nueva_consulta,238,B506_BA8a3
+U,Sí me gustaría que me confirme el billete .,Indefinida,238,B506_BA8a3
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,238,B506_BA8a3
+U,Sí me gustaría comprar un billete para el talgo de las cuatro de la tarde el martes dos de marzo de dos mil cuatro .,Indefinida,238,B506_BA8a3
+M,Este servicio no está preparado para realizar reservas .,Indefinida,238,B506_BA8a3
+M,Desea realizar otra consulta ? .,Nueva_consulta,238,B506_BA8a3
+U,"No , gracias .",Cierre,238,B506_BA8a3
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,238,B506_BA8a3
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,241,B304_BC9c2
+U,Quería saber cuánto cuesta el tren que sale de Barcelona,Pregunta,241,B304_BC9c2
+U,y llega a Valencia .,Pregunta,241,B304_BC9c2
+M,"Quiere saber el precio a valencia ,",Confirmacion,241,B304_BC9c2
+M,¿ saliendo de barcelona ? .,Confirmacion,241,B304_BC9c2
+U,Sí .,Afirmacion,241,B304_BC9c2
+M,¿ Qué día desea salir ? .,Pregunta,241,B304_BC9c2
+U,Quería un viaje de ida y vuelta,Pregunta,241,B304_BC9c2
+U,y deseo salir el sábado,Pregunta,241,B304_BC9c2
+U,por la mañana,Pregunta,241,B304_BC9c2
+U,y volver,Pregunta,241,B304_BC9c2
+U,el domingo,Pregunta,241,B304_BC9c2
+U,por la tarde .,Pregunta,241,B304_BC9c2
+M,¿ Qué día desea llegar ? .,Pregunta,241,B304_BC9c2
+U,.,Indefinida,241,B304_BC9c2
+M,¿ Qué día desea salir ? .,Pregunta,241,B304_BC9c2
+U,Deseo salir el sábado,Respuesta,241,B304_BC9c2
+U,por la mañana .,Respuesta,241,B304_BC9c2
+M,¿ Quiere salir entre las 5 de la madrugada y la una de la tarde ? .,Confirmacion,241,B304_BC9c2
+U,Sí .,Afirmacion,241,B304_BC9c2
+M,"Le consulto precios de barcelona a valencia saliendo el sábado , día 6 de marzo de 2004 .",Confirmacion,241,B304_BC9c2
+M,Un momento por favor .,Espera,241,B304_BC9c2
+M,"Hay varios trenes . En clase turista , el tren más caro es un euromed que cuesta 33 con 50 euros la ida y el más barato es un regional_expres que cuesta 18 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,241,B304_BC9c2
+M,Desea algo más ? .,Nueva_consulta,241,B304_BC9c2
+U,"Sí , ¿ me puede decir cuánto es exactamente el billete ida y vuelta",Pregunta,241,B304_BC9c2
+U,en el euromed ?,Pregunta,241,B304_BC9c2
+M,El precio de ese tren en clase turista es 33 con 50 euros el billete de ida y 53 con 60 euros el billete de ida y vuelta .,Respuesta,241,B304_BC9c2
+M,Desea algo más ? .,Nueva_consulta,241,B304_BC9c2
+U,No gracias .,Cierre,241,B304_BC9c2
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,241,B304_BC9c2
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,259,B303_BB8c2
+U,"Hola , quiero saber el precio de un billete de ida",Pregunta,259,B303_BB8c2
+U,para ir desde Alicante,Pregunta,259,B303_BB8c2
+U,a Valencia,Pregunta,259,B303_BB8c2
+U,y si es posible ir en euromed,Pregunta,259,B303_BB8c2
+U,"en clase turista ,",Pregunta,259,B303_BB8c2
+U,para salir el próximo fin de semana .,Pregunta,259,B303_BB8c2
+M,"¿ Desea salir el sábado , día 6 de marzo de 2004 ? .",Confirmacion,259,B303_BB8c2
+U,"Sí , me viene bien .",Afirmacion,259,B303_BB8c2
+M,"Quiere saber el precio a valencia ,",Confirmacion,259,B303_BB8c2
+M,¿ desde alicante ? .,Confirmacion,259,B303_BB8c2
+U,"Sí ,",Afirmacion,259,B303_BB8c2
+U,de billete de ida .,Respuesta,259,B303_BB8c2
+M,"Le consulto precios de alicante a valencia saliendo el sábado , día 6 de marzo de 2004 .",Confirmacion,259,B303_BB8c2
+M,Un momento por favor .,Espera,259,B303_BB8c2
+M,"Hay varios trenes . En clase turista , el tren más caro es un euromed que cuesta 22 con 50 euros la ida y el más barato es un regional_expres que cuesta 10 con 30 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,259,B303_BB8c2
+M,Desea algo más ? .,Nueva_consulta,259,B303_BB8c2
+U,"Sí , por favor , si me puedes decir en clase turista",Pregunta,259,B303_BB8c2
+U,en el euromed .,Pregunta,259,B303_BB8c2
+M,El primer tren es un euromed y su precio en clase turista es 22 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,259,B303_BB8c2
+M,Desea algo más ? .,Nueva_consulta,259,B303_BB8c2
+U,"No , gracias , ya está todo , adiós .",Cierre,259,B303_BB8c2
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,259,B303_BB8c2
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,288,B507_BB9a0
+U,Quisiera el precio de un viaje de ida,Pregunta,288,B507_BB9a0
+U,de San_Sebastián,Pregunta,288,B507_BB9a0
+U,a Barcelona .,Pregunta,288,B507_BB9a0
+M,¿ Qué día desea salir ? .,Pregunta,288,B507_BB9a0
+U,El cinco de mayo,Respuesta,288,B507_BB9a0
+U,a las cinco la tarde .,Respuesta,288,B507_BB9a0
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,288,B507_BB9a0
+U,El cinco de mayo,Respuesta,288,B507_BB9a0
+U,a las cinco de la tarde .,Respuesta,288,B507_BB9a0
+M,¿ Quiere salir entre las 4 y 30 y las 5 y 30 de la tarde ? .,Confirmacion,288,B507_BB9a0
+U,Sí .,Afirmacion,288,B507_BB9a0
+M,Le consulto precios .,Confirmacion,288,B507_BB9a0
+M,Un momento por favor .,Espera,288,B507_BB9a0
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,288,B507_BB9a0
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,288,B507_BB9a0
+U,"Sí , el horario entre las tres y las cinco .",Pregunta,288,B507_BB9a0
+M,¿ Quiere salir entre las 3 y las 5 de la tarde ? .,Confirmacion,288,B507_BB9a0
+M,Le consulto precios .,Confirmacion,288,B507_BB9a0
+M,Un momento por favor .,Espera,288,B507_BB9a0
+M,El único tren que realiza el trayecto es un talgo y su precio en clase turista es 44 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,288,B507_BB9a0
+M,Desea algo más ? .,Nueva_consulta,288,B507_BB9a0
+U,Sí .,Indefinida,288,B507_BB9a0
+U,No .,Cierre,288,B507_BB9a0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,288,B507_BB9a0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,290,B507_BB2c4
+U,Quisiera conocer el horario y el precio de un viaje a Huesca,Pregunta,290,B507_BB2c4
+U,para el uno o dos .,Pregunta,290,B507_BB2c4
+M,¿ Qué día desea salir ? .,Pregunta,290,B507_BB2c4
+U,El uno o dos de julio .,Respuesta,290,B507_BB2c4
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,290,B507_BB2c4
+U,El día uno o dos de julio .,Respuesta,290,B507_BB2c4
+M,"Le consulto horarios de trenes con salida en bilbao destino huesca saliendo el jueves , día 1 de julio de 2004 .",Confirmacion,290,B507_BB2c4
+M,Un momento por favor .,Espera,290,B507_BB2c4
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 de la noche .,Respuesta,290,B507_BB2c4
+M,Desea algo más ? .,Nueva_consulta,290,B507_BB2c4
+U,"Sí , que sea en un tren rápido .",Pregunta,290,B507_BB2c4
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,290,B507_BB2c4
+U,En tren rápido .,Pregunta,290,B507_BB2c4
+M,El tren más rápido es un intercity que sale a las 8 y 30 de la mañana y llega a las 3 y 1 de la tarde .,Respuesta,290,B507_BB2c4
+M,Desea algo más ? .,Nueva_consulta,290,B507_BB2c4
+U,"Sí , el precio .",Pregunta,290,B507_BB2c4
+M,El precio de ese tren en clase turista es 40 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,290,B507_BB2c4
+M,Desea algo más ? .,Nueva_consulta,290,B507_BB2c4
+U,No .,Cierre,290,B507_BB2c4
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,290,B507_BB2c4
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,295,V504_VB8a1
+U,Quiero obtener el precio de un viaje de ida .,Pregunta,295,V504_VB8a1
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,295,V504_VB8a1
+U,Quiero el precio de un viaje de ida .,Pregunta,295,V504_VB8a1
+M,¿ A qué ciudad desea viajar ? .,Pregunta,295,V504_VB8a1
+U,A Vitoria .,Respuesta,295,V504_VB8a1
+M,"Precios desde valencia ,",Confirmacion,295,V504_VB8a1
+M,¿ quiere llegar a vitoria ? .,Confirmacion,295,V504_VB8a1
+U,No .,Negacion,295,V504_VB8a1
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,295,V504_VB8a1
+U,Quiero obtener el precio del viaje de ida .,Pregunta,295,V504_VB8a1
+M,Perdón . No consigo entenderle .,No_entendido,295,V504_VB8a1
+U,Quiero el precio del viaje de ida,Pregunta,295,V504_VB8a1
+U,con salida en Vigo,Pregunta,295,V504_VB8a1
+U,y llegada en Vitoria .,Pregunta,295,V504_VB8a1
+M,"Quiere saber el precio a vitoria ,",Confirmacion,295,V504_VB8a1
+M,¿ saliendo de vigo ? .,Confirmacion,295,V504_VB8a1
+U,Sí .,Afirmacion,295,V504_VB8a1
+M,¿ Qué día desea salir ? .,Pregunta,295,V504_VB8a1
+U,Veintiocho de abril .,Respuesta,295,V504_VB8a1
+M,"¿ Desea salir el miércoles , día 28 de abril de 2004 ? .",Confirmacion,295,V504_VB8a1
+U,Sí .,Afirmacion,295,V504_VB8a1
+M,Le consulto precios de vigo a vitoria .,Confirmacion,295,V504_VB8a1
+M,Un momento por favor .,Espera,295,V504_VB8a1
+M,El único tren que realiza el trayecto es un diurno y su precio en clase turista es 33 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,295,V504_VB8a1
+M,Desea algo más ? .,Nueva_consulta,295,V504_VB8a1
+U,No .,Cierre,295,V504_VB8a1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,295,V504_VB8a1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,296,Z305_ZB8c4
+U,Quería obtener el precio de un billete de ida,Pregunta,296,Z305_ZB8c4
+U,con salida de Madrid,Pregunta,296,Z305_ZB8c4
+U,y llegada a Sevilla,Pregunta,296,Z305_ZB8c4
+U,para los días doce de mayo o quince de mayo .,Pregunta,296,Z305_ZB8c4
+M,Su frase ha sido demasiado larga . Repita por favor su consulta utilizando frases más cortas .,No_entendido,296,Z305_ZB8c4
+U,Quería obtener el precio de un billete de ida,Pregunta,296,Z305_ZB8c4
+U,para ir a Sevilla,Pregunta,296,Z305_ZB8c4
+U,saliendo de Madrid .,Pregunta,296,Z305_ZB8c4
+M,¿ A qué ciudad desea viajar ? .,Pregunta,296,Z305_ZB8c4
+U,Sevilla .,Respuesta,296,Z305_ZB8c4
+M,¿ Qué día desea salir ? .,Pregunta,296,Z305_ZB8c4
+U,Entre el doce y el quince de mayo,Respuesta,296,Z305_ZB8c4
+U,en Ave si es posible .,Respuesta,296,Z305_ZB8c4
+M,"Quiere saber el precio a sevilla ,",Confirmacion,296,Z305_ZB8c4
+M,¿ desde zaragoza ? .,Confirmacion,296,Z305_ZB8c4
+U,"No ,",Negacion,296,Z305_ZB8c4
+U,desde Madrid .,Respuesta,296,Z305_ZB8c4
+M,Le consulto precios de madrid a sevilla en tipo tren ave .,Confirmacion,296,Z305_ZB8c4
+M,Un momento por favor .,Espera,296,Z305_ZB8c4
+M,"Los trenes son ave y en clase turista , el billete cuesta 64 euros la ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,296,Z305_ZB8c4
+M,Desea algo más ? .,Nueva_consulta,296,Z305_ZB8c4
+U,No .,Cierre,296,Z305_ZB8c4
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,296,Z305_ZB8c4
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,308,B509_BA9a2
+U,Quería consultar los horarios de trenes .,Pregunta,308,B509_BA9a2
+M,¿ A qué ciudad desea viajar ? .,Pregunta,308,B509_BA9a2
+U,A Madrid .,Respuesta,308,B509_BA9a2
+M,¿ Quiere salir desde madrid ? .,Confirmacion,308,B509_BA9a2
+U,"No ,",Negacion,308,B509_BA9a2
+U,querría salir desde Bilbao .,Respuesta,308,B509_BA9a2
+M,"Quiere horarios de trenes a madrid ,",Confirmacion,308,B509_BA9a2
+M,¿ desde bilbao ? .,Confirmacion,308,B509_BA9a2
+U,Sí .,Afirmacion,308,B509_BA9a2
+M,¿ Qué día desea salir ? .,Pregunta,308,B509_BA9a2
+U,El día siete .,Respuesta,308,B509_BA9a2
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,308,B509_BA9a2
+U,El día siete de marzo .,Respuesta,308,B509_BA9a2
+M,"¿ Desea salir el jueves , día 17 de marzo de 2005 ? .",Confirmacion,308,B509_BA9a2
+U,"No ,",Negacion,308,B509_BA9a2
+U,del dos mil cuatro .,Respuesta,308,B509_BA9a2
+M,"¿ Desea salir el miércoles , día 17 de marzo de 2004 ? .",Confirmacion,308,B509_BA9a2
+U,Sí .,Afirmacion,308,B509_BA9a2
+M,"Le consulto horarios de trenes con salida en bilbao destino madrid saliendo el miércoles , día 17 de marzo de 2004 .",Confirmacion,308,B509_BA9a2
+M,Un momento por favor .,Espera,308,B509_BA9a2
+M,El único tren que realiza el trayecto es un talgo que sale a las 4 y 30 de la tarde .,Respuesta,308,B509_BA9a2
+M,Desea algo más ? .,Nueva_consulta,308,B509_BA9a2
+U,No .,Cierre,308,B509_BA9a2
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,308,B509_BA9a2
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,325,B101_BA0c0
+U,hola mira que quería ir a Málaga,Pregunta,325,B101_BA0c0
+U,desde aquí desde Bilbao y quería saber los horarios de los trenes .,Pregunta,325,B101_BA0c0
+M,¿ Quiere viajar a madrid ? .,Confirmacion,325,B101_BA0c0
+U,No .,Negacion,325,B101_BA0c0
+M,¿ A qué ciudad desea viajar ? .,Pregunta,325,B101_BA0c0
+U,A Málaga .,Respuesta,325,B101_BA0c0
+M,¿ Qué día desea salir ? .,Pregunta,325,B101_BA0c0
+U,¿ El sábado,Respuesta,325,B101_BA0c0
+U,por la tarde ? .,Respuesta,325,B101_BA0c0
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,325,B101_BA0c0
+U,El sábado,Respuesta,325,B101_BA0c0
+U,por la tarde .,Respuesta,325,B101_BA0c0
+M,"Le consulto horarios de bilbao a málaga el sábado , día 14 de febrero de 2004 entre la una de la tarde y las 9 de la noche .",Confirmacion,325,B101_BA0c0
+M,Un momento por favor .,Espera,325,B101_BA0c0
+M,El único tren que realiza el trayecto es un talgo que sale a las 3 y 30 de la tarde .,Respuesta,325,B101_BA0c0
+M,Desea algo más ? .,Nueva_consulta,325,B101_BA0c0
+U,"¿ Me podría decir la duración del trayecto aproximado , más o menos ? .",Pregunta,325,B101_BA0c0
+M,El único tren que realiza el trayecto tarda 6 horas y 50 minutos y es un talgo .,Respuesta,325,B101_BA0c0
+M,Desea algo más ? .,Nueva_consulta,325,B101_BA0c0
+U,No muchas gracias .,Cierre,325,B101_BA0c0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,325,B101_BA0c0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,335,V105_VA0c4
+U,Quería saber los horarios para el viernes dieciséis de abril,Pregunta,335,V105_VA0c4
+U,de los trenes que van a Sevilla .,Pregunta,335,V105_VA0c4
+M,¿ A qué ciudad desea viajar ? .,Pregunta,335,V105_VA0c4
+U,A Sevilla .,Pregunta,335,V105_VA0c4
+M,"Le consulto horarios de trenes con salida en valencia destino sevilla saliendo el viernes , día 16 de abril de 2004 .",Confirmacion,335,V105_VA0c4
+M,Un momento por favor .,Espera,335,V105_VA0c4
+M,El único tren que realiza el trayecto es un garcía_lorca que sale a las 11 y 30 de la mañana y llega a las 8 y 18 de la tarde .,Respuesta,335,V105_VA0c4
+M,Desea algo más ? .,Nueva_consulta,335,V105_VA0c4
+U,no quería saber nada más .,Cierre,335,V105_VA0c4
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,335,V105_VA0c4
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,341,V308_VC0c2
+U,Quisiera saber horarios para ir a Barcelona,Pregunta,341,V308_VC0c2
+U,mañana .,Pregunta,341,V308_VC0c2
+M,¿ Quiere viajar a sevilla ? .,Confirmacion,341,V308_VC0c2
+U,Sí .,Afirmacion,341,V308_VC0c2
+M,¿ Qué día desea salir ? .,Pregunta,341,V308_VC0c2
+U,Diecisiete de septiembre de dos mil cuatro .,Respuesta,341,V308_VC0c2
+M,"¿ Desea salir el viernes , día 17 de septiembre de 2004 ? .",Confirmacion,341,V308_VC0c2
+U,Sí .,Afirmacion,341,V308_VC0c2
+M,"Le consulto horarios de trenes con salida en valencia destino sevilla saliendo el viernes , día 17 de septiembre de 2004 .",Confirmacion,341,V308_VC0c2
+M,Un momento por favor .,Espera,341,V308_VC0c2
+M,El único tren que realiza el trayecto es un garcía_lorca que sale a las 11 y 30 de la mañana .,Respuesta,341,V308_VC0c2
+M,Desea algo más ? .,Nueva_consulta,341,V308_VC0c2
+U,"Sí , el precio y la vuelta",Pregunta,341,V308_VC0c2
+U,el diecinueve de septiembre .,Pregunta,341,V308_VC0c2
+M,Le consulto precios de sevilla a valencia .,Confirmacion,341,V308_VC0c2
+M,Un momento por favor .,Espera,341,V308_VC0c2
+M,El único tren que realiza el trayecto es un garcía_lorca y su precio en clase turista es 41 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,341,V308_VC0c2
+M,Desea algo más ? .,Nueva_consulta,341,V308_VC0c2
+U,"Sí , el horario . El horario tren de vuelta .",Pregunta,341,V308_VC0c2
+M,Ese tren sale a las 8 de la mañana y llega a las 4 y 40 de la tarde .,Respuesta,341,V308_VC0c2
+M,Desea algo más ? .,Nueva_consulta,341,V308_VC0c2
+U,No .,Cierre,341,V308_VC0c2
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,341,V308_VC0c2
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,353,Z507_ZB2c4
+U,Hola quería saber qué horarios hay para los trenes que van a Huesca,Pregunta,353,Z507_ZB2c4
+U,el día uno o el día dos de julio .,Pregunta,353,Z507_ZB2c4
+M,"¿ Desea salir el miércoles , día 1 de diciembre de 2004 ? .",Confirmacion,353,Z507_ZB2c4
+U,"No ,",Negacion,353,Z507_ZB2c4
+U,el uno o el dos de julio de dos mil cuatro .,Respuesta,353,Z507_ZB2c4
+M,"Quiere horarios de trenes a huesca ,",Confirmacion,353,Z507_ZB2c4
+M,¿ desde zaragoza ? .,Confirmacion,353,Z507_ZB2c4
+U,"Sí , así es .",Afirmacion,353,Z507_ZB2c4
+M,"Le consulto horarios de trenes con salida en zaragoza destino huesca saliendo el jueves , día 1 de julio de 2004 .",Confirmacion,353,Z507_ZB2c4
+M,Un momento por favor .,Espera,353,Z507_ZB2c4
+M,Hay varios trenes . El primero sale a las 7 y 10 de la mañana y el último a las 9 y 25 de la noche .,Respuesta,353,Z507_ZB2c4
+M,Desea algo más ? .,Nueva_consulta,353,Z507_ZB2c4
+U,Sí me gustaría saber el precio de los trenes .,Pregunta,353,Z507_ZB2c4
+M,"Hay varios trenes . En clase turista , el tren más caro es un río_aragón que cuesta 10 euros la ida y el más barato es un regional que cuesta 4 con 25 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,353,Z507_ZB2c4
+M,Desea algo más ? .,Nueva_consulta,353,Z507_ZB2c4
+U,"Sí , me gustaría saber el horario y el precio del tren más rápido .",Pregunta,353,Z507_ZB2c4
+M,Hay varios trenes . El más rápido sale a las 2 y 17 de la tarde y el más lento a las 7 y 35 de la mañana .,Respuesta,353,Z507_ZB2c4
+M,Desea algo más ? .,Nueva_consulta,353,Z507_ZB2c4
+U,"No , gracias .",Cierre,353,Z507_ZB2c4
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,353,Z507_ZB2c4
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,373,B410_BA6a0
+U,Quería un billete de ida .,Pregunta,373,B410_BA6a0
+M,¿ Quiere saber horarios ? .,Confirmacion,373,B410_BA6a0
+U,"Sí , por favor .",Afirmacion,373,B410_BA6a0
+M,¿ A qué ciudad desea viajar ? .,Pregunta,373,B410_BA6a0
+U,A Santander .,Respuesta,373,B410_BA6a0
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,373,B410_BA6a0
+U,A Santander .,Respuesta,373,B410_BA6a0
+M,¿ Qué día desea salir ? .,Pregunta,373,B410_BA6a0
+U,"El viernes , a ser posible .",Respuesta,373,B410_BA6a0
+M,"Quiere horarios de trenes a santander ,",Confirmacion,373,B410_BA6a0
+M,¿ desde bilbao ? .,Confirmacion,373,B410_BA6a0
+U,"Sí , por favor y conocer el tipo de tren .",Pregunta,373,B410_BA6a0
+M,"Le consulto horarios de trenes con salida en bilbao destino santander saliendo el viernes , día 19 de marzo de 2004 .",Confirmacion,373,B410_BA6a0
+M,Un momento por favor .,Espera,373,B410_BA6a0
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 de la noche .,Respuesta,373,B410_BA6a0
+M,Desea algo más ? .,Nueva_consulta,373,B410_BA6a0
+U,"Sí , me gustaría que el tren saliera por la tarde .",Pregunta,373,B410_BA6a0
+M,"Le consulto horarios de bilbao a santander el viernes , día 19 de marzo de 2004 entre la una de la tarde y las 9 de la noche .",Confirmacion,373,B410_BA6a0
+M,Un momento por favor .,Espera,373,B410_BA6a0
+M,El único tren que realiza el trayecto es un talgo que sale a las 3 y 30 de la tarde .,Respuesta,373,B410_BA6a0
+M,Desea algo más ? .,Nueva_consulta,373,B410_BA6a0
+U,"No , está bien ese tren , gracias .",Cierre,373,B410_BA6a0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,373,B410_BA6a0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,376,V413_VB6a3
+U,Quería saber el horario desde Valencia,Pregunta,376,V413_VB6a3
+U,hasta Barcelona,Pregunta,376,V413_VB6a3
+U,el nueve de abril .,Pregunta,376,V413_VB6a3
+M,¿ A qué ciudad desea viajar ? .,Pregunta,376,V413_VB6a3
+U,A Barcelona .,Respuesta,376,V413_VB6a3
+M,¿ Quiere viajar a barcelona ? .,Confirmacion,376,V413_VB6a3
+U,Sí .,Afirmacion,376,V413_VB6a3
+M,"Le consulto horarios de trenes con salida en valencia destino barcelona saliendo el viernes , día 9 de abril de 2004 .",Confirmacion,376,V413_VB6a3
+M,Un momento por favor .,Espera,376,V413_VB6a3
+M,Hay varios trenes . El primero sale a las 5 y 45 de la madrugada y llega a las 9 y 50 de la mañana y el último sale a las 8 y 5 de la tarde y llega a las 11 y 3 de la noche .,Respuesta,376,V413_VB6a3
+M,Desea algo más ? .,Nueva_consulta,376,V413_VB6a3
+U,Que el intervalo de hora sea desde las tres hasta las siete .,Pregunta,376,V413_VB6a3
+M,¿ Quiere salir entre las 3 y las 7 de la tarde ? .,Confirmacion,376,V413_VB6a3
+U,Sí .,Afirmacion,376,V413_VB6a3
+M,Le consulto horarios .,Confirmacion,376,V413_VB6a3
+M,Un momento por favor .,Espera,376,V413_VB6a3
+M,Hay varios trenes . El primero sale a las 3 y 5 de la tarde y llega a las 6 y 42 de la tarde y el último sale a las 6 y 5 de la tarde y llega a las 9 y 5 de la noche .,Respuesta,376,V413_VB6a3
+M,Desea algo más ? .,Nueva_consulta,376,V413_VB6a3
+U,"Sí , que el tren sea un arco .",Pregunta,376,V413_VB6a3
+M,¿ Desea hacer el viaje en un arco ? .,Confirmacion,376,V413_VB6a3
+U,Sí .,Afirmacion,376,V413_VB6a3
+M,"Le consulto horarios de trenes con salida en valencia destino barcelona saliendo el viernes , día 9 de abril de 2004 en arco .",Confirmacion,376,V413_VB6a3
+M,Un momento por favor .,Espera,376,V413_VB6a3
+M,El único tren que realiza el trayecto es un arco que sale a las 3 y 5 de la tarde y llega a las 6 y 42 de la tarde .,Respuesta,376,V413_VB6a3
+M,Desea algo más ? .,Nueva_consulta,376,V413_VB6a3
+U,"Sí , el precio de ese tren .",Pregunta,376,V413_VB6a3
+M,El precio de ese tren en clase turista es 29 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,376,V413_VB6a3
+M,Desea algo más ? .,Nueva_consulta,376,V413_VB6a3
+U,"No , gracias .",Cierre,376,V413_VB6a3
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,376,V413_VB6a3
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,382,Z212_ZC7c3
+U,Me gustaría saber los precios de los trenes talgo,Pregunta,382,Z212_ZC7c3
+U,desde Zaragoza,Pregunta,382,Z212_ZC7c3
+U,a Toledo,Pregunta,382,Z212_ZC7c3
+U,para el próximo sábado .,Pregunta,382,Z212_ZC7c3
+M,¿ Desea hacer el viaje en un talgo ? .,Confirmacion,382,Z212_ZC7c3
+U,"Sí ,",Afirmacion,382,Z212_ZC7c3
+U,para el próximo sábado .,Respuesta,382,Z212_ZC7c3
+M,"Le consulto precios de zaragoza a toledo saliendo el sábado , día 27 de marzo de 2004 .",Confirmacion,382,Z212_ZC7c3
+M,Un momento por favor .,Espera,382,Z212_ZC7c3
+M,"Los trenes son talgo y en clase turista , el billete cuesta 44 euros la ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,382,Z212_ZC7c3
+M,Desea algo más ? .,Nueva_consulta,382,Z212_ZC7c3
+U,"Sí , obtener el precio de la vuelta",Pregunta,382,Z212_ZC7c3
+U,una semana después saliendo también un sábado .,Pregunta,382,Z212_ZC7c3
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,382,Z212_ZC7c3
+U,El precio del viaje de vuelta,Pregunta,382,Z212_ZC7c3
+U,Zaragoza,Pregunta,382,Z212_ZC7c3
+U,a Toledo,Pregunta,382,Z212_ZC7c3
+U,viajando en un talgo,Pregunta,382,Z212_ZC7c3
+U,una semana después .,Pregunta,382,Z212_ZC7c3
+M,¿ Desea hacer el viaje en un talgo ? .,Confirmacion,382,Z212_ZC7c3
+U,"Sí ,",Afirmacion,382,Z212_ZC7c3
+U,una semana después .,Respuesta,382,Z212_ZC7c3
+M,"Le consulto precios de toledo a zaragoza saliendo el sábado , día 3 de abril de 2004 .",Confirmacion,382,Z212_ZC7c3
+M,Un momento por favor .,Espera,382,Z212_ZC7c3
+M,"Los trenes son talgo y en clase turista , el billete cuesta 44 euros la ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,382,Z212_ZC7c3
+M,Desea algo más ? .,Nueva_consulta,382,Z212_ZC7c3
+U,"Sí , los precios desde Toledo",Pregunta,382,Z212_ZC7c3
+U,a Zaragoza,Pregunta,382,Z212_ZC7c3
+U,en talgo .,Pregunta,382,Z212_ZC7c3
+M,"Le consulto precios de toledo a zaragoza saliendo el sábado , día 3 de abril de 2004 .",Confirmacion,382,Z212_ZC7c3
+M,Un momento por favor .,Espera,382,Z212_ZC7c3
+M,"Los trenes son talgo y en clase turista , el billete cuesta 44 euros la ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,382,Z212_ZC7c3
+M,Desea algo más ? .,Nueva_consulta,382,Z212_ZC7c3
+U,"No , gracias .",Cierre,382,Z212_ZC7c3
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,382,Z212_ZC7c3
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,391,B215_BC8c2
+U,"Hola buenos días , mira quería obtener el horario para viajar a Sevilla",Pregunta,391,B215_BC8c2
+U,entre el dieciocho y veinte de abril .,Pregunta,391,B215_BC8c2
+M,"¿ Desea salir el domingo , día 1 de agosto de 2004 ? .",Confirmacion,391,B215_BC8c2
+U,"Sí ,",Afirmacion,391,B215_BC8c2
+U,querría viajar a Sevilla,Respuesta,391,B215_BC8c2
+U,algún día entre el dieciocho y el veinte de abril .,Respuesta,391,B215_BC8c2
+M,¿ Quiere saber horarios ? .,Confirmacion,391,B215_BC8c2
+U,"Bien , estaría bien , sí .",Afirmacion,391,B215_BC8c2
+M,"Le consulto horarios de trenes con salida en murcia destino córdoba saliendo el domingo , día 1 de agosto de 2004 .",Confirmacion,391,B215_BC8c2
+M,Un momento por favor .,Espera,391,B215_BC8c2
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 de la noche .,Respuesta,391,B215_BC8c2
+M,Desea algo más ? .,Nueva_consulta,391,B215_BC8c2
+U,"Sí , me gustaría viajar a primera hora de la mañana .",Pregunta,391,B215_BC8c2
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,391,B215_BC8c2
+U,"Bueno , entre las seis y las diez , por ejemplo .",Pregunta,391,B215_BC8c2
+M,El tren más barato es un diurno que sale a las 10 y 3 de la noche y llega a las 7 de la mañana .,Respuesta,391,B215_BC8c2
+M,Desea algo más ? .,Nueva_consulta,391,B215_BC8c2
+U,"Sí , querría saber cuál es el más rápido de los dos .",Pregunta,391,B215_BC8c2
+M,El precio de ese tren en clase turista es 32 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,391,B215_BC8c2
+M,Desea algo más ? .,Nueva_consulta,391,B215_BC8c2
+U,"No , muchas gracias .",Cierre,391,B215_BC8c2
+M,"Le consulto horarios de trenes con salida en córdoba destino murcia saliendo el lunes , día 16 de agosto de 2004 .",Confirmacion,391,B215_BC8c2
+M,Un momento por favor .,Espera,391,B215_BC8c2
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 de la noche .,Respuesta,391,B215_BC8c2
+M,Desea algo más ? .,Nueva_consulta,391,B215_BC8c2
+U,"Sí , me gustaría saber cuál es el que tiene el precio más barato .",Pregunta,391,B215_BC8c2
+M,El tren más barato es un diurno que sale a las 10 y 3 de la noche y llega a las 7 de la mañana .,Respuesta,391,B215_BC8c2
+M,Desea algo más ? .,Nueva_consulta,391,B215_BC8c2
+U,"Sí , cuál es el precio de ese tren .",Pregunta,391,B215_BC8c2
+M,El precio de ese tren en clase turista es 32 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,391,B215_BC8c2
+M,Desea algo más ? .,Nueva_consulta,391,B215_BC8c2
+U,"No , eso es todo , muchas gracias .",Cierre,391,B215_BC8c2
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,391,B215_BC8c2
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,403,B212_BA5c6
+U,Quisiera saber el horario de trenes de Valencia,Pregunta,403,B212_BA5c6
+U,a Barcelona,Pregunta,403,B212_BA5c6
+U,el próximo sábado,Pregunta,403,B212_BA5c6
+U,que lleguen a Barcelona antes de las ocho .,Pregunta,403,B212_BA5c6
+M,"Quiere horarios de trenes a barcelona ,",Confirmacion,403,B212_BA5c6
+M,¿ desde valencia ? .,Confirmacion,403,B212_BA5c6
+U,Sí .,Afirmacion,403,B212_BA5c6
+M,"Le consulto horarios de valencia a barcelona llegando el sábado , día 28 de febrero de 2004 entre las 0 de la noche y las 8 de la tarde .",Confirmacion,403,B212_BA5c6
+M,Un momento por favor .,Espera,403,B212_BA5c6
+M,Hay varios trenes . El primero sale a las 5 y 45 de la madrugada y el último a las 3 y 5 de la tarde .,Respuesta,403,B212_BA5c6
+M,Desea algo más ? .,Nueva_consulta,403,B212_BA5c6
+U,No .,Cierre,403,B212_BA5c6
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,403,B212_BA5c6
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,419,V412_VA9c4
+U,Quería obtener el horario de Alicante,Pregunta,419,V412_VA9c4
+U,a Barcelona,Pregunta,419,V412_VA9c4
+U,el día nueve de diciembre .,Pregunta,419,V412_VA9c4
+M,¿ Qué día desea salir ? .,Pregunta,419,V412_VA9c4
+U,El nueve de diciembre,Respuesta,419,V412_VA9c4
+U,a las trece horas .,Respuesta,419,V412_VA9c4
+M,"Le consulto horarios de trenes con salida en alicante destino barcelona saliendo el jueves , día 9 de diciembre de 2004 .",Confirmacion,419,V412_VA9c4
+M,Un momento por favor .,Espera,419,V412_VA9c4
+M,Hay varios trenes . El primero sale a las 6 y 55 de la mañana y llega a las 11 y 33 de la mañana y el último sale a las 6 y 25 de la tarde y llega a las 11 y 3 de la noche .,Respuesta,419,V412_VA9c4
+M,Desea algo más ? .,Nueva_consulta,419,V412_VA9c4
+U,Sí llega a la una de la tarde .,Pregunta,419,V412_VA9c4
+M,Un momento por favor .,Espera,419,V412_VA9c4
+M,El único tren que realiza el trayecto es un arco que sale a las 8 de la mañana y llega a la una y 35 de la tarde .,Respuesta,419,V412_VA9c4
+M,Desea algo más ? .,Nueva_consulta,419,V412_VA9c4
+U,"Sí , que sea un tren rápido .",Pregunta,419,V412_VA9c4
+M,El único tren que realiza el trayecto tarda 5 horas y 35 minutos y es un arco .,Respuesta,419,V412_VA9c4
+M,Desea algo más ? .,Nueva_consulta,419,V412_VA9c4
+U,No .,Cierre,419,V412_VA9c4
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,419,V412_VA9c4
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,433,B214_BB3a1
+U,"Hola buenas tardes , me gustaría saber el horario y el precio de los trenes con destino a Cáceres",Pregunta,433,B214_BB3a1
+U,para mañana sábado,Pregunta,433,B214_BB3a1
+U,por la tarde .,Pregunta,433,B214_BB3a1
+M,"Quiere horarios de trenes a cáceres ,",Confirmacion,433,B214_BB3a1
+M,¿ desde zaragoza ? .,Confirmacion,433,B214_BB3a1
+U,"No ,",Negacion,433,B214_BB3a1
+U,quiero horario de trenes a Cáceres,Respuesta,433,B214_BB3a1
+U,desde Bilbao .,Respuesta,433,B214_BB3a1
+M,¿ Qué día desea salir ? .,Pregunta,433,B214_BB3a1
+U,Mañana sábado .,Respuesta,433,B214_BB3a1
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,433,B214_BB3a1
+U,Mañana sábado .,Respuesta,433,B214_BB3a1
+M,"Le consulto horarios de trenes con salida en bilbao destino cáceres saliendo el sábado , día 28 de febrero de 2004 .",Confirmacion,433,B214_BB3a1
+M,Un momento por favor .,Espera,433,B214_BB3a1
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 10 y 3 de la noche .,Respuesta,433,B214_BB3a1
+M,Desea algo más ? .,Nueva_consulta,433,B214_BB3a1
+U,"Sí , quiero saber solamente los trenes que salen por la tarde .",Pregunta,433,B214_BB3a1
+M,¿ Quiere salir entre la una de la tarde y las 9 de la noche ? .,Confirmacion,433,B214_BB3a1
+U,Sí .,Afirmacion,433,B214_BB3a1
+M,"Le consulto horarios de bilbao a cáceres el sábado , día 28 de febrero de 2004 entre la una de la tarde y las 9 de la noche .",Confirmacion,433,B214_BB3a1
+M,Un momento por favor .,Espera,433,B214_BB3a1
+M,El único tren que realiza el trayecto es un talgo que sale a las 3 y 30 de la tarde .,Respuesta,433,B214_BB3a1
+M,Desea algo más ? .,Nueva_consulta,433,B214_BB3a1
+U,"Sí , por favor , ¿ me dice cuál es el precio del billete ? .",Pregunta,433,B214_BB3a1
+M,El precio de ese tren en clase turista es 44 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,433,B214_BB3a1
+M,Desea algo más ? .,Nueva_consulta,433,B214_BB3a1
+U,"No , gracias , eso es todo .",Cierre,433,B214_BB3a1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,433,B214_BB3a1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,438,Z411_ZA6a1
+U,Pues quiero el horario de un tren .,Pregunta,438,Z411_ZA6a1
+M,¿ A qué ciudad desea viajar ? .,Pregunta,438,Z411_ZA6a1
+U,A Logroño .,Respuesta,438,Z411_ZA6a1
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,438,Z411_ZA6a1
+U,Quiero ir a Logroño .,Respuesta,438,Z411_ZA6a1
+M,¿ Qué día desea salir ? .,Pregunta,438,Z411_ZA6a1
+U,El miércoles .,Respuesta,438,Z411_ZA6a1
+M,"Quiere horarios de trenes a logroño ,",Confirmacion,438,Z411_ZA6a1
+M,¿ desde zaragoza ? .,Confirmacion,438,Z411_ZA6a1
+U,sí .,Afirmacion,438,Z411_ZA6a1
+M,"Le consulto horarios de trenes con salida en zaragoza destino logroño saliendo el miércoles , día 31 de marzo de 2004 .",Confirmacion,438,Z411_ZA6a1
+M,Un momento por favor .,Espera,438,Z411_ZA6a1
+M,Hay varios trenes . El primero sale a las 2 y 30 de la madrugada y el último a las 8 y 14 de la tarde .,Respuesta,438,Z411_ZA6a1
+M,Desea algo más ? .,Nueva_consulta,438,Z411_ZA6a1
+U,"No , nada , cojonudo .",Cierre,438,Z411_ZA6a1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,438,Z411_ZA6a1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,458,V402_VB0c0
+U,"Sí , quisiera saber el horario de cualquier tren que salga de Valencia",Pregunta,458,V402_VB0c0
+U,hasta Oviedo .,Pregunta,458,V402_VB0c0
+M,¿ Quiere viajar a oviedo ? .,Confirmacion,458,V402_VB0c0
+U,"Sí , exacto .",Afirmacion,458,V402_VB0c0
+M,¿ Qué día desea salir ? .,Pregunta,458,V402_VB0c0
+U,"Pues , desearía salir el uno de agosto .",Respuesta,458,V402_VB0c0
+M,"Le consulto horarios de trenes con salida en valencia destino oviedo saliendo el domingo , día 1 de agosto de 2004 .",Confirmacion,458,V402_VB0c0
+M,Un momento por favor .,Espera,458,V402_VB0c0
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 de la noche .,Respuesta,458,V402_VB0c0
+M,Desea algo más ? .,Nueva_consulta,458,V402_VB0c0
+U,"Sí , quisiera saber el precio del tren que sale a las once de la noche .",Pregunta,458,V402_VB0c0
+M,El precio de ese tren en clase turista es 40 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,458,V402_VB0c0
+M,Desea algo más ? .,No_entendido,458,V402_VB0c0
+U,"No , gracias , no deseaba nada más .",Cierre,458,V402_VB0c0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,458,V402_VB0c0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,470,Z408_ZA9c0
+U,Quisiera el horario del Ave,Pregunta,470,Z408_ZA9c0
+U,Sevilla,Pregunta,470,Z408_ZA9c0
+U,"a Madrid ,",Pregunta,470,Z408_ZA9c0
+U,que salga a partir de las nueve,Pregunta,470,Z408_ZA9c0
+U,el día doce de noviembre .,Pregunta,470,Z408_ZA9c0
+M,¿ A qué ciudad desea viajar ? .,Pregunta,470,Z408_ZA9c0
+U,A Madrid .,Respuesta,470,Z408_ZA9c0
+M,"Quiere horarios de trenes a madrid ,",Confirmacion,470,Z408_ZA9c0
+M,¿ desde zaragoza ? .,Confirmacion,470,Z408_ZA9c0
+U,"No ,",Negacion,470,Z408_ZA9c0
+U,desde Sevilla .,Respuesta,470,Z408_ZA9c0
+M,"Le consulto horarios de trenes con salida en sevilla destino madrid saliendo el viernes , día 12 de noviembre de 2004 en ave .",Confirmacion,470,Z408_ZA9c0
+M,Un momento por favor .,Espera,470,Z408_ZA9c0
+M,Hay varios trenes . El primero sale a las 6 y 30 de la mañana y el último a las 10 de la noche .,Respuesta,470,Z408_ZA9c0
+M,Desea algo más ? .,Nueva_consulta,470,Z408_ZA9c0
+U,Necesitaría saber si hay algún horario a partir de las nueve de la mañana .,Pregunta,470,Z408_ZA9c0
+M,Un momento por favor .,Espera,470,Z408_ZA9c0
+M,Hay varios trenes . El primero sale a las 8 de la mañana y el último a las 10 de la mañana .,Respuesta,470,Z408_ZA9c0
+M,Desea algo más ? .,Nueva_consulta,470,Z408_ZA9c0
+U,El que sale a las diez de la mañana,Pregunta,470,Z408_ZA9c0
+U,¿ a qué hora llega a Sevilla ? .,Pregunta,470,Z408_ZA9c0
+M,Ese tren sale a las 10 de la mañana y llega a las 12 y 30 de la mañana .,Respuesta,470,Z408_ZA9c0
+M,Desea algo más ? .,Nueva_consulta,470,Z408_ZA9c0
+U,"No , gracias .",Cierre,470,Z408_ZA9c0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,470,Z408_ZA9c0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,480,B203_BA2c6
+U,"Hola , quería saber a qué hora tengo tren para Salamanca",Pregunta,480,B203_BA2c6
+U,este viernes y qué tipo de tren sería .,Pregunta,480,B203_BA2c6
+M,¿ Quiere salir desde salamanca ? .,Confirmacion,480,B203_BA2c6
+U,"No ,",Negacion,480,B203_BA2c6
+U,quiero llegar a Salamanca .,Respuesta,480,B203_BA2c6
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,480,B203_BA2c6
+U,Quiero obtener el horario para ir a Salamanca,Pregunta,480,B203_BA2c6
+U,el próximo viernes .,Pregunta,480,B203_BA2c6
+M,"Quiere horarios de trenes a salamanca ,",Confirmacion,480,B203_BA2c6
+M,¿ desde bilbao ? .,Confirmacion,480,B203_BA2c6
+U,Sí .,Afirmacion,480,B203_BA2c6
+M,"Le consulto horarios de trenes con salida en bilbao destino salamanca saliendo el viernes , día 27 de febrero de 2004 .",Confirmacion,480,B203_BA2c6
+M,Un momento por favor .,Espera,480,B203_BA2c6
+M,El único tren que realiza el trayecto es un diurno que sale a las 2 y 5 de la tarde .,Respuesta,480,B203_BA2c6
+M,Desea algo más ? .,Nueva_consulta,480,B203_BA2c6
+U,No .,Cierre,480,B203_BA2c6
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,480,B203_BA2c6
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,483,B203_BA4c5
+U,Hola quería saber el horario para ir a Valladolid,Pregunta,483,B203_BA4c5
+U,el próximo viernes .,Pregunta,483,B203_BA4c5
+M,¿ A qué ciudad desea viajar ? .,Pregunta,483,B203_BA4c5
+U,A Valladolid .,Respuesta,483,B203_BA4c5
+M,"Quiere horarios de trenes a valladolid ,",Confirmacion,483,B203_BA4c5
+M,¿ desde bilbao ? .,Confirmacion,483,B203_BA4c5
+U,Sí .,Afirmacion,483,B203_BA4c5
+M,"Le consulto horarios de trenes con salida en bilbao destino valladolid saliendo el viernes , día 27 de febrero de 2004 .",Confirmacion,483,B203_BA4c5
+M,Un momento por favor .,Espera,483,B203_BA4c5
+M,Sólo hay dos trenes . El primero sale a las 2 y 5 de la tarde y el otro a las 8 y 35 de la tarde .,Respuesta,483,B203_BA4c5
+M,Desea algo más ? .,Nueva_consulta,483,B203_BA4c5
+U,"Pues , no .",Cierre,483,B203_BA4c5
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,483,B203_BA4c5
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,488,B204_BA4c6
+U,"Hola , quiero saber qué trenes hay para ir a Vigo .",Pregunta,488,B204_BA4c6
+M,¿ Quiere saber horarios ? .,Confirmacion,488,B204_BA4c6
+U,"Sí ,",Afirmacion,488,B204_BA4c6
+U,a ser posible por la tarde .,Respuesta,488,B204_BA4c6
+M,¿ Quiere salir desde barcelona ? .,Confirmacion,488,B204_BA4c6
+U,"No ,",Negacion,488,B204_BA4c6
+U,desde Bilbao .,Respuesta,488,B204_BA4c6
+M,¿ A qué ciudad desea viajar ? .,Pregunta,488,B204_BA4c6
+U,Quiero ir a Vigo .,Respuesta,488,B204_BA4c6
+M,"Quiere horarios de trenes a vigo ,",Confirmacion,488,B204_BA4c6
+M,¿ desde bilbao ? .,Confirmacion,488,B204_BA4c6
+U,"Sí , así es .",Afirmacion,488,B204_BA4c6
+M,¿ Qué día desea salir ? .,Pregunta,488,B204_BA4c6
+U,Me gustaría salir el próximo viernes,Respuesta,488,B204_BA4c6
+U,por la noche,Respuesta,488,B204_BA4c6
+U,"en el tren más rápido posible , por favor .",Respuesta,488,B204_BA4c6
+M,"Le consulto horarios de bilbao a vigo el viernes , día 27 de febrero de 2004 entre las 9 de la noche y las 5 de la madrugada .",Confirmacion,488,B204_BA4c6
+M,Un momento por favor .,Espera,488,B204_BA4c6
+M,Sólo hay dos trenes . El primero sale a las 10 y 3 de la noche y el otro a las 11 de la noche .,Respuesta,488,B204_BA4c6
+M,Desea algo más ? .,Nueva_consulta,488,B204_BA4c6
+U,"Nada más , muchas gracias .",Cierre,488,B204_BA4c6
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,488,B204_BA4c6
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,493,V207_VA5c1
+U,"Hola , quería los horarios para ir de Barcelona",Pregunta,493,V207_VA5c1
+U,a Tarragona,Pregunta,493,V207_VA5c1
+U,para mañana .,Pregunta,493,V207_VA5c1
+M,"Le consulto horarios de trenes con salida en barcelona destino tarragona saliendo el viernes , día 19 de diciembre de 2003 .",Confirmacion,493,V207_VA5c1
+M,Un momento por favor .,Espera,493,V207_VA5c1
+M,Hay varios trenes . El primero sale a las 5 y 52 y el último a las 23 .,Respuesta,493,V207_VA5c1
+M,Desea algo más ? .,Nueva_consulta,493,V207_VA5c1
+U,"Sí , ¿ me puedes decir para llegar a Tarragona",Pregunta,493,V207_VA5c1
+U,sobre las diez de la mañana a qué hora tengo que salir ? .,Pregunta,493,V207_VA5c1
+M,Le consulto horarios .,Confirmacion,493,V207_VA5c1
+M,Un momento por favor .,Espera,493,V207_VA5c1
+M,Hay varios trenes . El primero llega a las 9 y 2 y el último a las 10 y 48 .,Respuesta,493,V207_VA5c1
+M,Desea algo más ? .,Nueva_consulta,493,V207_VA5c1
+U,"Sí , que me digas el horario de salida del tren que llega a las nueve y dos .",Pregunta,493,V207_VA5c1
+M,Ese tren sale a las 7 y 50 y llega a las 9 y 2 .,Respuesta,493,V207_VA5c1
+M,Desea algo más ? .,Nueva_consulta,493,V207_VA5c1
+U,"No , gracias .",Cierre,493,V207_VA5c1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,493,V207_VA5c1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,518,Z202_ZA2c5
+U,Quería obtener el horario para Granada,Pregunta,518,Z202_ZA2c5
+U,y el tipo de tren para el próximo fin de semana .,Pregunta,518,Z202_ZA2c5
+M,¿ A qué ciudad desea viajar ? .,Pregunta,518,Z202_ZA2c5
+U,A Granada .,Respuesta,518,Z202_ZA2c5
+M,"Quiere horarios de trenes a granada ,",Confirmacion,518,Z202_ZA2c5
+M,¿ desde zaragoza ? .,Confirmacion,518,Z202_ZA2c5
+U,Sí .,Afirmacion,518,Z202_ZA2c5
+M,"Le consulto horarios de trenes con salida en zaragoza destino granada saliendo el sábado , día 28 de febrero de 2004 .",Confirmacion,518,Z202_ZA2c5
+M,Un momento por favor .,Espera,518,Z202_ZA2c5
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 10 y 3 de la noche .,Respuesta,518,Z202_ZA2c5
+M,Desea algo más ? .,Nueva_consulta,518,Z202_ZA2c5
+U,.,Indefinida,518,Z202_ZA2c5
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,518,Z202_ZA2c5
+U,Quiero obtener el tipo de tren .,Pregunta,518,Z202_ZA2c5
+M,Hay varios tipos de trenes . El tren más rápido es un intercity y el más lento es un diurno .,Respuesta,518,Z202_ZA2c5
+M,Desea algo más ? .,Nueva_consulta,518,Z202_ZA2c5
+U,Quiero el horario para el intercity .,Pregunta,518,Z202_ZA2c5
+M,"Le consulto horarios de trenes con salida en zaragoza destino granada saliendo el sábado , día 28 de febrero de 2004 en intercity .",Confirmacion,518,Z202_ZA2c5
+M,Un momento por favor .,Espera,518,Z202_ZA2c5
+M,El único tren que realiza el trayecto es un intercity que sale a las 8 y 30 de la mañana .,Respuesta,518,Z202_ZA2c5
+M,Desea algo más ? .,Nueva_consulta,518,Z202_ZA2c5
+U,"No , gracias .",Cierre,518,Z202_ZA2c5
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,518,Z202_ZA2c5
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,521,V206_VC6c1
+U,Por favor ¿ podría decirme los horarios de los trenes que van a Valencia,Pregunta,521,V206_VC6c1
+U,"desde Castellón ,",Pregunta,521,V206_VC6c1
+U,para los días dieciséis y diecisiete de marzo ? .,Pregunta,521,V206_VC6c1
+M,"Le consulto horarios de trenes con salida en castellón destino valencia saliendo el miércoles , día 17 de marzo de 2004 .",Confirmacion,521,V206_VC6c1
+M,Un momento por favor .,Espera,521,V206_VC6c1
+M,Hay varios trenes . El primero sale a las 6 y 45 de la madrugada y el último a las 11 y 30 de la noche .,Respuesta,521,V206_VC6c1
+M,Desea algo más ? .,Nueva_consulta,521,V206_VC6c1
+U,Sí quería saber de esos horarios corresponde al euromed y un euromed,Pregunta,521,V206_VC6c1
+U,que llegue de día,Pregunta,521,V206_VC6c1
+U,a Valencia .,Pregunta,521,V206_VC6c1
+M,Le consulto horarios .,Confirmacion,521,V206_VC6c1
+M,Un momento por favor .,Espera,521,V206_VC6c1
+M,Hay varios trenes . El primero sale a las 9 y 6 de la mañana y el último a las 10 y 37 de la noche .,Respuesta,521,V206_VC6c1
+M,Desea algo más ? .,No_entendido,521,V206_VC6c1
+U,"Sí , también quería saber los horarios de vuelta",Pregunta,521,V206_VC6c1
+U,para el día veinte .,Pregunta,521,V206_VC6c1
+M,"Le consulto horarios de trenes con salida en valencia destino castellón saliendo el sábado , día 20 de diciembre de 2003 .",Confirmacion,521,V206_VC6c1
+M,Un momento por favor .,Espera,521,V206_VC6c1
+M,Hay varios trenes . El primero sale a las 6 y 40 de la madrugada y el último a las 8 y 5 de la tarde .,Respuesta,521,V206_VC6c1
+M,Desea algo más ? .,Nueva_consulta,521,V206_VC6c1
+U,"Sí , al igual que antes estaba interesado euromed y también de paso dígame cuál es el precio del billete .",Pregunta,521,V206_VC6c1
+M,Le consulto horarios .,Confirmacion,521,V206_VC6c1
+M,Un momento por favor .,Espera,521,V206_VC6c1
+M,Hay varios trenes . El primero sale a las 6 y 40 de la madrugada y el último a las 8 y 5 de la tarde .,Respuesta,521,V206_VC6c1
+M,Desea algo más ? .,Nueva_consulta,521,V206_VC6c1
+U,Sí quería saber exactamente cuál es el precio billete del euromed .,Pregunta,521,V206_VC6c1
+M,El primer tren es un euromed y su precio en turista es 14 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,521,V206_VC6c1
+M,Desea algo más ? .,Nueva_consulta,521,V206_VC6c1
+U,"Nada más , muchas gracias .",Cierre,521,V206_VC6c1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,521,V206_VC6c1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,528,Z407_ZB5a1
+U,Quería conocer horarios de trenes a Sevilla,Pregunta,528,Z407_ZB5a1
+U,entre el diez de mayo y el doce de mayo .,Pregunta,528,Z407_ZB5a1
+M,¿ Qué día desea salir ? .,Pregunta,528,Z407_ZB5a1
+U,Entre el diez y el doce de mayo .,Respuesta,528,Z407_ZB5a1
+M,"¿ Desea salir el martes , día 18 de mayo de 2004 ? .",Confirmacion,528,Z407_ZB5a1
+U,"No ,",Negacion,528,Z407_ZB5a1
+U,el día once de mayo .,Respuesta,528,Z407_ZB5a1
+M,"Quiere horarios de trenes a sevilla ,",Confirmacion,528,Z407_ZB5a1
+M,¿ desde zaragoza ? .,Confirmacion,528,Z407_ZB5a1
+U,"Sí ,",Afirmacion,528,Z407_ZB5a1
+U,el día once de mayo .,Respuesta,528,Z407_ZB5a1
+M,"Le consulto horarios de trenes con salida en zaragoza destino sevilla saliendo el martes , día 11 de mayo de 2004 .",Confirmacion,528,Z407_ZB5a1
+M,Un momento por favor .,Espera,528,Z407_ZB5a1
+M,El único tren que realiza el trayecto es un triana que sale a las 12 y 10 de la mañana .,Respuesta,528,Z407_ZB5a1
+M,Desea algo más ? .,Nueva_consulta,528,Z407_ZB5a1
+U,¿ Qué precio tiene el billete ? .,Pregunta,528,Z407_ZB5a1
+M,El precio de ese tren en clase turista es 58 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,528,Z407_ZB5a1
+M,Desea algo más ? .,Nueva_consulta,528,Z407_ZB5a1
+U,"No , nada más .",Cierre,528,Z407_ZB5a1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,528,Z407_ZB5a1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,546,Z409_ZA9c1
+U,Obtener horario .,Pregunta,546,Z409_ZA9c1
+M,¿ A qué ciudad desea viajar ? .,Pregunta,546,Z409_ZA9c1
+U,A Barcelona .,Respuesta,546,Z409_ZA9c1
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,546,Z409_ZA9c1
+U,Barcelona .,Respuesta,546,Z409_ZA9c1
+M,¿ Qué día desea salir ? .,Pregunta,546,Z409_ZA9c1
+U,El próximo sábado,Respuesta,546,Z409_ZA9c1
+U,a partir de las nueve .,Respuesta,546,Z409_ZA9c1
+M,"Quiere horarios de trenes a barcelona ,",Confirmacion,546,Z409_ZA9c1
+M,¿ desde zaragoza ? .,Confirmacion,546,Z409_ZA9c1
+U,"No ,",Negacion,546,Z409_ZA9c1
+U,desde Gerona .,Respuesta,546,Z409_ZA9c1
+M,"Le consulto horarios de trenes con salida en gerona destino barcelona saliendo el sábado , día 10 de abril de 2004 .",Confirmacion,546,Z409_ZA9c1
+M,Un momento por favor .,Espera,546,Z409_ZA9c1
+M,Hay varios trenes . El primero sale a las 8 y 30 de la mañana y el último a las 8 y 32 de la tarde .,Respuesta,546,Z409_ZA9c1
+M,Desea algo más ? .,Nueva_consulta,546,Z409_ZA9c1
+U,"No , nada más .",Cierre,546,Z409_ZA9c1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,546,Z409_ZA9c1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,561,B510_BB2c7
+U,Buenas tardes me gustaría saber el horario y el precio de los trenes que van desde Bilbao,Pregunta,561,B510_BB2c7
+U,a Valladolid,Pregunta,561,B510_BB2c7
+U,solo viaje de ida .,Pregunta,561,B510_BB2c7
+M,"Quiere horarios de trenes a oviedo ,",Confirmacion,561,B510_BB2c7
+M,¿ desde bilbao ? .,Confirmacion,561,B510_BB2c7
+U,"No ,",Negacion,561,B510_BB2c7
+U,he preguntado por trenes a Valladolid .,Respuesta,561,B510_BB2c7
+M,¿ Quiere llegar a valladolid ? .,Confirmacion,561,B510_BB2c7
+U,"Sí ,",Afirmacion,561,B510_BB2c7
+U,a poder ser el primer sábado de mayo .,Respuesta,561,B510_BB2c7
+M,"¿ Desea salir el sábado , día 1 de mayo de 2004 ? .",Confirmacion,561,B510_BB2c7
+U,No .,Negacion,561,B510_BB2c7
+U,"Sí me gustaría llegar el sábado , salir y llegar el sábado .",Respuesta,561,B510_BB2c7
+M,"Le consulto horarios de bilbao a valladolid llegando el sábado , día 1 de mayo de 2004 .",Confirmacion,561,B510_BB2c7
+M,Un momento por favor .,Espera,561,B510_BB2c7
+M,El único tren que realiza el trayecto es un diurno que sale a las 2 y 5 de la tarde .,Respuesta,561,B510_BB2c7
+M,Desea algo más ? .,Nueva_consulta,561,B510_BB2c7
+U,¿ No tiene ningún otro tren ? .,Pregunta,561,B510_BB2c7
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,561,B510_BB2c7
+U,Si no hay ningún otro tren que salga el sábado .,Pregunta,561,B510_BB2c7
+M,"Le consulto horarios de trenes con salida en bilbao destino valladolid saliendo el sábado , día 1 de mayo de 2004 .",Confirmacion,561,B510_BB2c7
+M,Un momento por favor .,Espera,561,B510_BB2c7
+M,El único tren que realiza el trayecto es un diurno que sale a las 2 y 5 de la tarde .,Respuesta,561,B510_BB2c7
+M,Desea algo más ? .,Nueva_consulta,561,B510_BB2c7
+U,Me gustaría saber el precio de ese tren .,Pregunta,561,B510_BB2c7
+M,El precio de ese tren en clase turista es 19 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,561,B510_BB2c7
+M,Desea algo más ? .,Nueva_consulta,561,B510_BB2c7
+U,"No , muchas gracias . No , muchas gracias .",Cierre,561,B510_BB2c7
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,561,B510_BB2c7
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,567,Z315_ZA3a2
+U,Quería conocer el horario para realizar un viaje desde Zaragoza,Pregunta,567,Z315_ZA3a2
+U,a Valencia .,Pregunta,567,Z315_ZA3a2
+M,¿ Qué día desea salir ? .,Pregunta,567,Z315_ZA3a2
+U,El próximo lunes cinco de abril .,Respuesta,567,Z315_ZA3a2
+M,"Le consulto horarios de trenes con salida en zaragoza destino valencia saliendo el lunes , día 5 de abril de 2004 .",Confirmacion,567,Z315_ZA3a2
+M,Un momento por favor .,Espera,567,Z315_ZA3a2
+M,Sólo hay dos trenes . El primero sale a las 8 y 10 de la mañana y el otro a las 3 y 45 de la tarde .,Respuesta,567,Z315_ZA3a2
+M,Desea algo más ? .,Nueva_consulta,567,Z315_ZA3a2
+U,"Sí , qué tipo de tren es el primero .",Pregunta,567,Z315_ZA3a2
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,567,Z315_ZA3a2
+U,Qué tipo de tren es el primero .,Pregunta,567,Z315_ZA3a2
+M,Ese tren es un regional .,Respuesta,567,Z315_ZA3a2
+M,Desea algo más ? .,Nueva_consulta,567,Z315_ZA3a2
+U,"No , gracias .",Cierre,567,Z315_ZA3a2
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,567,Z315_ZA3a2
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,578,V112_VA1c3
+U,Quería saber el horario para un billete de ida,Pregunta,578,V112_VA1c3
+U,de Valencia,Pregunta,578,V112_VA1c3
+U,a Albacete para .,Pregunta,578,V112_VA1c3
+M,¿ Qué día desea salir ? .,Pregunta,578,V112_VA1c3
+U,El viernes cuatro de junio .,Respuesta,578,V112_VA1c3
+M,"¿ Desea salir el viernes , día 4 de junio de 2004 ? .",Confirmacion,578,V112_VA1c3
+U,Sí .,Afirmacion,578,V112_VA1c3
+M,"Le consulto horarios de trenes con salida en valencia destino albacete saliendo el viernes , día 4 de junio de 2004 .",Confirmacion,578,V112_VA1c3
+M,Un momento por favor .,Espera,578,V112_VA1c3
+M,Hay varios trenes . El primero sale a las 0 y 27 de la noche y llega a las 2 y 13 de la madrugada y el último sale a las 8 y 15 de la tarde y llega a las 9 y 37 de la noche .,Respuesta,578,V112_VA1c3
+M,Desea algo más ? .,Nueva_consulta,578,V112_VA1c3
+U,"Sí , quiero que el tren llegue a las doce .",Pregunta,578,V112_VA1c3
+M,Le consulto horarios .,Confirmacion,578,V112_VA1c3
+M,Un momento por favor .,Espera,578,V112_VA1c3
+M,Un momento por favor .,Espera,578,V112_VA1c3
+M,El único tren que realiza el trayecto es un alaris que sale a las 11 y 20 de la mañana y llega a las 12 y 42 de la mañana .,Respuesta,578,V112_VA1c3
+M,Desea algo más ? .,Nueva_consulta,578,V112_VA1c3
+U,"No , gracias .",Cierre,578,V112_VA1c3
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,578,V112_VA1c3
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,593,B120_BC9a1
+U,"Hola , me gustaría saber el precio de un billete de Bilbao",Pregunta,593,B120_BC9a1
+U,Barcelona,Pregunta,593,B120_BC9a1
+U,ida y vuelta .,Pregunta,593,B120_BC9a1
+M,¿ Qué día desea salir ? .,Pregunta,593,B120_BC9a1
+U,Me gustaría salir el dieciocho de marzo,Respuesta,593,B120_BC9a1
+U,en el primer tren .,Respuesta,593,B120_BC9a1
+M,"Le consulto precios de bilbao a barcelona saliendo el jueves , día 18 de marzo de 2004 .",Confirmacion,593,B120_BC9a1
+M,Un momento por favor .,Espera,593,B120_BC9a1
+M,El único tren que realiza el trayecto es un miguel_de_unamuno y su precio en clase turista es 34 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,593,B120_BC9a1
+M,Desea algo más ? .,Nueva_consulta,593,B120_BC9a1
+U,"Sí , entonces me gustaría saber el precio del billete de ida y vuelta .",Pregunta,593,B120_BC9a1
+M,El precio de ese tren en clase turista es 34 euros el billete de ida y 54 con 39 euros el billete de ida y vuelta .,Respuesta,593,B120_BC9a1
+M,Desea algo más ? .,Nueva_consulta,593,B120_BC9a1
+U,"Sí , me gustaría saber los horarios para salir el dieciocho de marzo",Pregunta,593,B120_BC9a1
+U,por la mañana,Pregunta,593,B120_BC9a1
+U,y volver,Pregunta,593,B120_BC9a1
+U,el veintiocho de marzo,Pregunta,593,B120_BC9a1
+U,por la tarde .,Pregunta,593,B120_BC9a1
+M,"Le consulto horarios de bilbao a barcelona el jueves , día 18 de marzo de 2004 entre las 5 de la madrugada y la una de la tarde .",Confirmacion,593,B120_BC9a1
+M,Un momento por favor .,Espera,593,B120_BC9a1
+M,El único tren que realiza el trayecto es un miguel_de_unamuno que sale a las 10 y 5 de la mañana .,Respuesta,593,B120_BC9a1
+M,Desea algo más ? .,Nueva_consulta,593,B120_BC9a1
+U,"Sí , me gustaría saber los horarios para la vuelta",Pregunta,593,B120_BC9a1
+U,el veintiocho de marzo .,Pregunta,593,B120_BC9a1
+M,"Le consulto horarios de trenes con salida en barcelona destino bilbao saliendo el domingo , día 28 de marzo de 2004 .",Confirmacion,593,B120_BC9a1
+M,Un momento por favor .,Espera,593,B120_BC9a1
+M,El único tren que realiza el trayecto es un miguel_de_unamuno que sale a la una de la tarde .,Respuesta,593,B120_BC9a1
+M,Desea algo más ? .,Nueva_consulta,593,B120_BC9a1
+U,¿ No hay ningún tren que salga más tarde ? .,Pregunta,593,B120_BC9a1
+M,El único tren que realiza el trayecto es un miguel_de_unamuno que sale a la una de la tarde .,Respuesta,593,B120_BC9a1
+M,Desea algo más ? .,Nueva_consulta,593,B120_BC9a1
+U,"No , gracias .",Cierre,593,B120_BC9a1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,593,B120_BC9a1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,597,V311_VC1c1
+U,Quiero saber el horario y el precio de un viaje de ida y vuelta,Pregunta,597,V311_VC1c1
+U,a Pamplona .,Pregunta,597,V311_VC1c1
+M,¿ Quiere viajar a pamplona ? .,Confirmacion,597,V311_VC1c1
+U,Sí .,Afirmacion,597,V311_VC1c1
+M,¿ Qué día desea salir ? .,Pregunta,597,V311_VC1c1
+U,El próximo jueves,Respuesta,597,V311_VC1c1
+U,antes de las diez y media .,Respuesta,597,V311_VC1c1
+M,"¿ Desea salir el jueves , día 1 de abril de 2004 ? .",Confirmacion,597,V311_VC1c1
+U,Sí .,Afirmacion,597,V311_VC1c1
+M,"Le consulto horarios de trenes con salida en valencia destino pamplona saliendo el jueves , día 1 de abril de 2004 .",Confirmacion,597,V311_VC1c1
+M,Un momento por favor .,Espera,597,V311_VC1c1
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y llega a la una y 35 de la tarde y el último sale a las 11 de la noche y llega a las 8 de la mañana .,Respuesta,597,V311_VC1c1
+M,Desea algo más ? .,Nueva_consulta,597,V311_VC1c1
+U,"Sí , quiero saber el horario de vuelta .",Pregunta,597,V311_VC1c1
+M,"Le consulto horarios de trenes con salida en pamplona destino valencia saliendo el jueves , día 1 de abril de 2004 .",Confirmacion,597,V311_VC1c1
+M,Un momento por favor .,Espera,597,V311_VC1c1
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y llega a la una y 35 de la tarde y el último sale a las 11 de la noche y llega a las 8 de la mañana .,Respuesta,597,V311_VC1c1
+M,Desea algo más ? .,Nueva_consulta,597,V311_VC1c1
+U,Obtener el precio .,Pregunta,597,V311_VC1c1
+M,Le consulto precios .,Confirmacion,597,V311_VC1c1
+M,Un momento por favor .,Espera,597,V311_VC1c1
+M,"Hay varios trenes . En clase turista , el tren más caro es un talgo que cuesta 44 euros la ida y el más barato es un diurno que cuesta 32 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,597,V311_VC1c1
+M,Desea algo más ? .,Nueva_consulta,597,V311_VC1c1
+U,No .,Cierre,597,V311_VC1c1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,597,V311_VC1c1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,603,B312_BA7c5
+U,Hola buenos días quería saber el horario de un viaje de ida,Pregunta,603,B312_BA7c5
+U,de Madrid,Pregunta,603,B312_BA7c5
+U,a Córdoba,Pregunta,603,B312_BA7c5
+U,"para ir el próximo domingo ,",Pregunta,603,B312_BA7c5
+U,y en Ave si es posible .,Pregunta,603,B312_BA7c5
+M,"¿ Desea salir el domingo , día 14 de marzo de 2004 ? .",Confirmacion,603,B312_BA7c5
+U,Sí .,Afirmacion,603,B312_BA7c5
+M,"Le consulto horarios de trenes con salida en madrid destino córdoba saliendo el domingo , día 14 de marzo de 2004 .",Confirmacion,603,B312_BA7c5
+M,Un momento por favor .,Espera,603,B312_BA7c5
+M,Hay varios trenes . El primero sale a las 7 y 30 de la mañana y el último a las 11 y 10 de la noche .,Respuesta,603,B312_BA7c5
+M,Desea algo más ? .,Nueva_consulta,603,B312_BA7c5
+U,"Quiero saber los horarios del Ave ,",Pregunta,603,B312_BA7c5
+U,ese domingo .,Pregunta,603,B312_BA7c5
+M,¿ Desea hacer el viaje en un ave ? .,Confirmacion,603,B312_BA7c5
+U,Sí .,Afirmacion,603,B312_BA7c5
+M,"Le consulto horarios de trenes con salida en madrid destino córdoba saliendo el domingo , día 14 de marzo de 2004 en ave .",Confirmacion,603,B312_BA7c5
+M,Un momento por favor .,Espera,603,B312_BA7c5
+M,Hay varios trenes . El primero sale a las 7 y 30 de la mañana y el último a las 10 de la noche .,Respuesta,603,B312_BA7c5
+M,Desea algo más ? .,Nueva_consulta,603,B312_BA7c5
+U,"No , gracias .",Cierre,603,B312_BA7c5
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,603,B312_BA7c5
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,611,Z510_ZA9a3
+U,Hola buenas tardes me gustaría ir Salamanca,Pregunta,611,Z510_ZA9a3
+U,desde Madrid,Pregunta,611,Z510_ZA9a3
+U,un viaje de ida para asistir a un concierto . Me gustaría saber el horario que podría tener .,Pregunta,611,Z510_ZA9a3
+M,¿ Qué día desea salir ? .,Pregunta,611,Z510_ZA9a3
+U,El diez de julio,Respuesta,611,Z510_ZA9a3
+U,por la mañana .,Respuesta,611,Z510_ZA9a3
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,611,Z510_ZA9a3
+U,Me gustaría salir el diez de julio,Respuesta,611,Z510_ZA9a3
+U,por la mañana .,Respuesta,611,Z510_ZA9a3
+M,"Le consulto horarios de madrid a salamanca el sábado , día 10 de julio de 2004 entre las 5 de la madrugada y la una de la tarde .",Confirmacion,611,Z510_ZA9a3
+M,Un momento por favor .,Espera,611,Z510_ZA9a3
+M,Sólo hay dos trenes . El primero sale a las 8 y 45 de la mañana y el otro a las 11 de la mañana .,Respuesta,611,Z510_ZA9a3
+M,Desea algo más ? .,Nueva_consulta,611,Z510_ZA9a3
+U,No gracias .,Cierre,611,Z510_ZA9a3
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,611,Z510_ZA9a3
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,629,Z314_ZC2c0
+U,Querría un tren para Santander,Pregunta,629,Z314_ZC2c0
+U,el quince de agosto .,Pregunta,629,Z314_ZC2c0
+M,¿ Quiere saber horarios ? .,Confirmacion,629,Z314_ZC2c0
+U,"Sí ,",Afirmacion,629,Z314_ZC2c0
+U,para el quince de agosto .,Respuesta,629,Z314_ZC2c0
+M,"Quiere horarios de trenes a santander ,",Confirmacion,629,Z314_ZC2c0
+M,¿ desde zaragoza ? .,Confirmacion,629,Z314_ZC2c0
+U,Sí .,Afirmacion,629,Z314_ZC2c0
+M,"Le consulto horarios de trenes con salida en zaragoza destino santander saliendo el domingo , día 15 de agosto de 2004 .",Confirmacion,629,Z314_ZC2c0
+M,Un momento por favor .,Espera,629,Z314_ZC2c0
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 de la noche .,Respuesta,629,Z314_ZC2c0
+M,Desea algo más ? .,Nueva_consulta,629,Z314_ZC2c0
+U,Querría saber horarios de vuelta,Pregunta,629,Z314_ZC2c0
+U,el veinte de agosto .,Pregunta,629,Z314_ZC2c0
+M,"Le consulto horarios de trenes con salida en santander destino zaragoza saliendo el viernes , día 20 de agosto de 2004 .",Confirmacion,629,Z314_ZC2c0
+M,Un momento por favor .,Espera,629,Z314_ZC2c0
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 de la noche .,Respuesta,629,Z314_ZC2c0
+M,Desea algo más ? .,Nueva_consulta,629,Z314_ZC2c0
+U,Querría saber el precio del más barato .,Pregunta,629,Z314_ZC2c0
+M,"Hay varios trenes . En clase turista , el tren más caro es un talgo que cuesta 44 euros la ida y el más barato es un diurno que cuesta 32 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,629,Z314_ZC2c0
+M,Desea algo más ? .,Nueva_consulta,629,Z314_ZC2c0
+U,Querría saber el horario del más barato .,Pregunta,629,Z314_ZC2c0
+M,Ese tren sale a las 10 y 3 de la noche y llega a las 7 de la mañana .,Respuesta,629,Z314_ZC2c0
+M,Desea algo más ? .,Nueva_consulta,629,Z314_ZC2c0
+U,Querría saber el horario de .,Pregunta,629,Z314_ZC2c0
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,629,Z314_ZC2c0
+U,Querría un tren que saliera a partir de las cinco de la tarde .,Pregunta,629,Z314_ZC2c0
+M,"Le consulto horarios de santander a zaragoza el viernes , día 20 de agosto de 2004 .",Confirmacion,629,Z314_ZC2c0
+M,Un momento por favor .,Espera,629,Z314_ZC2c0
+M,Sólo hay dos trenes . El primero sale a las 10 y 3 de la noche y llega a las 7 de la mañana y el otro sale a las 11 de la noche y llega a las 8 de la mañana .,Respuesta,629,Z314_ZC2c0
+M,Desea algo más ? .,Nueva_consulta,629,Z314_ZC2c0
+U,"Nada más , gracias .",Cierre,629,Z314_ZC2c0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,629,Z314_ZC2c0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,630,Z314_ZA7c7
+U,"Hola , querría saber el horario para ir a Bilbao .",Pregunta,630,Z314_ZA7c7
+M,¿ Qué día desea salir ? .,Pregunta,630,Z314_ZA7c7
+U,Querría salir el viernes .,Respuesta,630,Z314_ZA7c7
+M,"Quiere horarios de trenes a bilbao ,",Confirmacion,630,Z314_ZA7c7
+M,¿ desde zaragoza ? .,Confirmacion,630,Z314_ZA7c7
+U,"No ,",Negacion,630,Z314_ZA7c7
+U,querría que fuera desde San_Sebastián .,Respuesta,630,Z314_ZA7c7
+M,"Le consulto horarios de trenes con salida en san_sebastián destino bilbao saliendo el viernes , día 9 de abril de 2004 .",Confirmacion,630,Z314_ZA7c7
+M,Un momento por favor .,Espera,630,Z314_ZA7c7
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 de la noche .,Respuesta,630,Z314_ZA7c7
+M,Desea algo más ? .,Nueva_consulta,630,Z314_ZA7c7
+U,"No , es suficiente .",Cierre,630,Z314_ZA7c7
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,630,Z314_ZA7c7
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,632,Z313_ZC1c3
+U,Quería saber los horarios y precios de un viaje de ida y vuelta,Pregunta,632,Z313_ZC1c3
+U,de Zaragoza,Pregunta,632,Z313_ZC1c3
+U,a Madrid .,Pregunta,632,Z313_ZC1c3
+M,¿ Qué día desea salir ? .,Pregunta,632,Z313_ZC1c3
+U,Pasado mañana .,Respuesta,632,Z313_ZC1c3
+M, Lo siento . No he entendido bien . puede repetir ? .,No_entendido,632,Z313_ZC1c3
+U,Pasado mañana .,Respuesta,632,Z313_ZC1c3
+M,"Le consulto horarios de trenes con salida en zaragoza destino madrid saliendo el jueves , día 8 de abril de 2004 .",Confirmacion,632,Z313_ZC1c3
+M,Un momento por favor .,Espera,632,Z313_ZC1c3
+M,Hay varios trenes . El primero sale a las 2 y 48 de la madrugada y el último a las 7 y 10 de la tarde .,Respuesta,632,Z313_ZC1c3
+M,Desea algo más ? .,Nueva_consulta,632,Z313_ZC1c3
+U,Quería llegar a Madrid,Pregunta,632,Z313_ZC1c3
+U,sobre la una del mediodía .,Pregunta,632,Z313_ZC1c3
+M,Un momento por favor .,Espera,632,Z313_ZC1c3
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,632,Z313_ZC1c3
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,632,Z313_ZC1c3
+U,Quería llegar a las doce .,Pregunta,632,Z313_ZC1c3
+M,Un momento por favor .,Espera,632,Z313_ZC1c3
+M,Sólo hay dos trenes . El primero sale a las 8 de la mañana y llega a las 11 y 48 de la mañana y el otro sale a las 9 de la mañana y llega a las 12 y 20 de la mañana .,Respuesta,632,Z313_ZC1c3
+M,Desea algo más ? .,Nueva_consulta,632,Z313_ZC1c3
+U,Quería saber el precio de los billetes .,Pregunta,632,Z313_ZC1c3
+M,"Los trenes son intercity y en clase turista , el billete cuesta 21 con 50 euros la ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,632,Z313_ZC1c3
+M,Desea algo más ? .,Nueva_consulta,632,Z313_ZC1c3
+U,Quería saber los horarios del viaje de vuelta,Pregunta,632,Z313_ZC1c3
+U,de Madrid,Pregunta,632,Z313_ZC1c3
+U,a Zaragoza .,Pregunta,632,Z313_ZC1c3
+M,"Le consulto horarios de trenes con salida en madrid destino zaragoza saliendo el jueves , día 8 de abril de 2004 .",Confirmacion,632,Z313_ZC1c3
+M,Un momento por favor .,Espera,632,Z313_ZC1c3
+M,Hay varios trenes . El primero sale a las 7 de la mañana y el último a las 11 de la noche .,Respuesta,632,Z313_ZC1c3
+M,Desea algo más ? .,Nueva_consulta,632,Z313_ZC1c3
+U,"No , gracias .",Cierre,632,Z313_ZC1c3
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,632,Z313_ZC1c3
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,634,Z313_ZA7c6
+U,Quiero obtener el horario para un viaje de ida .,Pregunta,634,Z313_ZA7c6
+M,¿ A qué ciudad desea viajar ? .,Pregunta,634,Z313_ZA7c6
+U,Tarragona .,Respuesta,634,Z313_ZA7c6
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,634,Z313_ZA7c6
+U,Tarragona .,Respuesta,634,Z313_ZA7c6
+M,¿ Qué día desea salir ? .,Pregunta,634,Z313_ZA7c6
+U,El miércoles .,Respuesta,634,Z313_ZA7c6
+M,"Quiere horarios de trenes a tarragona ,",Confirmacion,634,Z313_ZA7c6
+M,¿ desde zaragoza ? .,Confirmacion,634,Z313_ZA7c6
+U,No .,Negacion,634,Z313_ZA7c6
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,634,Z313_ZA7c6
+U,"No ,",Negacion,634,Z313_ZA7c6
+U,desde Barcelona .,Respuesta,634,Z313_ZA7c6
+M,"Le consulto horarios de trenes con salida en barcelona destino tarragona saliendo el miércoles , día 7 de abril de 2004 .",Confirmacion,634,Z313_ZA7c6
+M,Un momento por favor .,Espera,634,Z313_ZA7c6
+M,Hay varios trenes . El primero sale a las 5 y 52 de la madrugada y el último a las 11 de la noche .,Respuesta,634,Z313_ZA7c6
+M,Desea algo más ? .,Nueva_consulta,634,Z313_ZA7c6
+U,No .,Cierre,634,Z313_ZA7c6
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,634,Z313_ZA7c6
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,639,B119_BB5c2
+U,"Hola , me gustaría saber el horario de un tren Barcelona",Pregunta,639,B119_BB5c2
+U,Castellón .,Pregunta,639,B119_BB5c2
+M,¿ Qué día desea salir ? .,Pregunta,639,B119_BB5c2
+U,Mañana .,Respuesta,639,B119_BB5c2
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,639,B119_BB5c2
+U,Quiero salir mañana .,Respuesta,639,B119_BB5c2
+M,"Le consulto horarios de trenes con salida en barcelona destino castellón saliendo el viernes , día 20 de febrero de 2004 .",Confirmacion,639,B119_BB5c2
+M,Un momento por favor .,Espera,639,B119_BB5c2
+M,Hay varios trenes . El primero sale a las 7 de la mañana y el último a las 9 de la noche .,Respuesta,639,B119_BB5c2
+M,Desea algo más ? .,Nueva_consulta,639,B119_BB5c2
+U,"Sí , si me puedes concretar el horario de los trenes por la mañana .",Pregunta,639,B119_BB5c2
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,639,B119_BB5c2
+U,Mañana,Pregunta,639,B119_BB5c2
+U,por la mañana qué horario de trenes hay .,Pregunta,639,B119_BB5c2
+M,"Le consulto horarios de barcelona a castellón el viernes , día 20 de febrero de 2004 entre las 7 de la mañana y la una de la tarde .",Confirmacion,639,B119_BB5c2
+M,Un momento por favor .,Espera,639,B119_BB5c2
+M,Hay varios trenes . El primero sale a las 7 de la mañana y llega a las 9 y 4 de la mañana y el último sale a las 12 de la mañana y llega a las 2 y 25 de la tarde .,Respuesta,639,B119_BB5c2
+M,Desea algo más ? .,Nueva_consulta,639,B119_BB5c2
+U,"Sí , ¿ alguno de esos trenes es euromed ? .",Pregunta,639,B119_BB5c2
+M,¿ Desea hacer el viaje en un euromed ? .,Confirmacion,639,B119_BB5c2
+U,Sí .,Afirmacion,639,B119_BB5c2
+M,"Le consulto horarios de barcelona a castellón el viernes , día 20 de febrero de 2004 entre las 7 de la mañana y la una de la tarde en euromed .",Confirmacion,639,B119_BB5c2
+M,Un momento por favor .,Espera,639,B119_BB5c2
+M,Hay varios trenes . El primero sale a las 7 de la mañana y el último a las 11 de la mañana .,Respuesta,639,B119_BB5c2
+M,Desea algo más ? .,Nueva_consulta,639,B119_BB5c2
+U,"Sí , ¿ puedo ir en primera clase ? .",Pregunta,639,B119_BB5c2
+M,"Le consulto horarios de barcelona a castellón el viernes , día 20 de febrero de 2004 entre las 7 de la mañana y la una de la tarde en clase preferente .",Confirmacion,639,B119_BB5c2
+M,Un momento por favor .,Espera,639,B119_BB5c2
+M,Hay varios trenes . El primero sale a las 7 de la mañana y el último a las 11 de la mañana .,Respuesta,639,B119_BB5c2
+M,Desea algo más ? .,Nueva_consulta,639,B119_BB5c2
+U,"No , gracias .",Cierre,639,B119_BB5c2
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,639,B119_BB5c2
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,652,V114_VB4c5
+U,Quería información sobre viajes desde Madrid,Pregunta,652,V114_VB4c5
+U,a Córdoba,Pregunta,652,V114_VB4c5
+U,para el próximo sábado .,Pregunta,652,V114_VB4c5
+M,¿ Quiere saber horarios ? .,Confirmacion,652,V114_VB4c5
+U,Sí .,Afirmacion,652,V114_VB4c5
+M,"¿ Desea salir el sábado , día 13 de marzo de 2004 ? .",Confirmacion,652,V114_VB4c5
+U,Sí .,Afirmacion,652,V114_VB4c5
+M,"Le consulto horarios de trenes con salida en madrid destino córdoba saliendo el sábado , día 13 de marzo de 2004 .",Confirmacion,652,V114_VB4c5
+M,Un momento por favor .,Espera,652,V114_VB4c5
+M,Hay varios trenes . El primero sale a las 7 y 10 de la mañana y llega a las 9 y 10 de la mañana y el último sale a las 11 y 10 de la noche y llega a las 4 y 42 de la madrugada .,Respuesta,652,V114_VB4c5
+M,Desea algo más ? .,Nueva_consulta,652,V114_VB4c5
+U,"Sí , quería los precios .",Pregunta,652,V114_VB4c5
+M,Le consulto precios .,Confirmacion,652,V114_VB4c5
+M,Un momento por favor .,Espera,652,V114_VB4c5
+M,"Hay varios trenes . En clase turista , el tren más caro es un ave que cuesta 47 euros la ida y el más barato es un estrecho que cuesta 25 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,652,V114_VB4c5
+M,Desea algo más ? .,Nueva_consulta,652,V114_VB4c5
+U,No .,Cierre,652,V114_VB4c5
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,652,V114_VB4c5
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,657,B117_BB7c4
+U,"Hola , sí ¿ me podría decir el precio los trenes talgo",Pregunta,657,B117_BB7c4
+U,para ir a Segovia,Pregunta,657,B117_BB7c4
+U,el dieciocho de agosto ? .,Pregunta,657,B117_BB7c4
+M,"¿ Desea salir el sábado , día 7 de agosto de 2004 ? .",Confirmacion,657,B117_BB7c4
+U,"No , perdone ,",Negacion,657,B117_BB7c4
+U,el dieciocho de agosto .,Respuesta,657,B117_BB7c4
+M,¿ Quiere saber horarios ? .,Confirmacion,657,B117_BB7c4
+U,"No , muchas gracias ¡ eh ! .",Negacion,657,B117_BB7c4
+M,¿ A qué ciudad desea viajar ? .,Pregunta,657,B117_BB7c4
+U,A Segovia .,Respuesta,657,B117_BB7c4
+M,"Quiere saber el precio a segovia ,",Confirmacion,657,B117_BB7c4
+M,¿ desde bilbao ? .,Confirmacion,657,B117_BB7c4
+U,"Sí , eso es .",Afirmacion,657,B117_BB7c4
+M,"Le consulto precios de bilbao a segovia saliendo el miércoles , día 18 de agosto de 2004 .",Confirmacion,657,B117_BB7c4
+M,Un momento por favor .,Espera,657,B117_BB7c4
+M,"Los trenes son talgo y en clase turista , el billete cuesta 44 euros la ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,657,B117_BB7c4
+M,Desea algo más ? .,Nueva_consulta,657,B117_BB7c4
+U,"No , muchas gracias ¡ eh ! .",Cierre,657,B117_BB7c4
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,657,B117_BB7c4
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,669,V303_VA0a2
+U,"Sí , me gustaría Granada",Pregunta,669,V303_VA0a2
+U,saliendo el treinta de enero .,Pregunta,669,V303_VA0a2
+M,¿ Quiere saber horarios ? .,Confirmacion,669,V303_VA0a2
+U,"Sí ,",Afirmacion,669,V303_VA0a2
+U,saber el horario para el viernes treinta de enero .,Pregunta,669,V303_VA0a2
+M,"Quiere horarios de trenes a granada ,",Confirmacion,669,V303_VA0a2
+M,¿ desde valencia ? .,Confirmacion,669,V303_VA0a2
+U,"Sí , por .",Afirmacion,669,V303_VA0a2
+M,"Le consulto horarios de trenes con salida en valencia destino granada saliendo el martes , día 13 de enero de 2004 .",Confirmacion,669,V303_VA0a2
+M,Un momento por favor .,Espera,669,V303_VA0a2
+M,El único tren que realiza el trayecto es un trenhotel que sale a las 0 y 27 de la noche .,Respuesta,669,V303_VA0a2
+M,Desea algo más ? .,Nueva_consulta,669,V303_VA0a2
+U,"No , muchas gracias .",Cierre,669,V303_VA0a2
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,669,V303_VA0a2
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,670,V303_VC9c1
+U,.,Indefinida,670,V303_VC9c1
+U,"Sí , me gustaría ir de Oviedo",Pregunta,670,V303_VC9c1
+U,a Orense,Pregunta,670,V303_VC9c1
+U,el uno de agosto,Pregunta,670,V303_VC9c1
+U,por la mañana .,Pregunta,670,V303_VC9c1
+M,"Le consulto precios de oviedo a orense saliendo el domingo , día 1 de agosto de 2004 .",Confirmacion,670,V303_VC9c1
+M,Un momento por favor .,Espera,670,V303_VC9c1
+M,"Hay varios trenes . En turista , el tren más caro es un talgo que cuesta 44 euros la ida y el más barato es un diurno que cuesta 32 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,670,V303_VC9c1
+M,Desea algo más ? .,Nueva_consulta,670,V303_VC9c1
+U,"No , precios .",Pregunta,670,V303_VC9c1
+M,Le consulto precios de orense a oviedo en coche cama .,Confirmacion,670,V303_VC9c1
+M,Un momento por favor .,Espera,670,V303_VC9c1
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,670,V303_VC9c1
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,670,V303_VC9c1
+U,"Sí , me gustaría regresar el día catorce",Pregunta,670,V303_VC9c1
+U,por la tarde,Pregunta,670,V303_VC9c1
+U,en cama .,Pregunta,670,V303_VC9c1
+M,"Le consulto precios de orense a oviedo saliendo el sábado , día 14 de agosto de 2004 .",Confirmacion,670,V303_VC9c1
+M,Un momento por favor .,Espera,670,V303_VC9c1
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,670,V303_VC9c1
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,670,V303_VC9c1
+U,Precios .,Pregunta,670,V303_VC9c1
+M,"Le consulto precios de orense a oviedo saliendo el domingo , día 15 de agosto de 2004 .",Confirmacion,670,V303_VC9c1
+M,Un momento por favor .,Espera,670,V303_VC9c1
+M,Le consulto precios .,Confirmacion,670,V303_VC9c1
+M,Un momento por favor .,Espera,670,V303_VC9c1
+M,"Sólo hay dos trenes . En cama , el tren más caro es un trenhotel que cuesta 117 con 50 euros la ida y el otro es un diurno que cuesta 78 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,670,V303_VC9c1
+M,Desea algo más ? .,Nueva_consulta,670,V303_VC9c1
+U,"No , gracias .",Cierre,670,V303_VC9c1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,670,V303_VC9c1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,690,Z502_ZA7a3
+U,Querría saber el horario y el precio de un viaje desde Zaragoza,Pregunta,690,Z502_ZA7a3
+U,a Barcelona .,Pregunta,690,Z502_ZA7a3
+M,¿ Qué día desea salir ? .,Pregunta,690,Z502_ZA7a3
+U,Querría salir el próximo martes,Respuesta,690,Z502_ZA7a3
+U,antes de las diez y media de la mañana .,Respuesta,690,Z502_ZA7a3
+M,"Le consulto horarios de trenes con salida en Madrid destino Zaragoza saliendo el miércoles , día 12 de mayo de 2004 .",Confirmacion,690,Z502_ZA7a3
+M,Un momento por favor .,Espera,690,Z502_ZA7a3
+M,Hay varios trenes . El primero sale a las 7 de la mañana y el último a las 11 de la noche .,Respuesta,690,Z502_ZA7a3
+M,Desea algo más ? .,Nueva_consulta,690,Z502_ZA7a3
+U,Querría salir el martes .,Pregunta,690,Z502_ZA7a3
+M,"¿ Desea salir el martes , día 11 de mayo de 2004 ? .",Confirmacion,690,Z502_ZA7a3
+U,"Sí ,",Afirmacion,690,Z502_ZA7a3
+U,deseo obtener el precio .,Pregunta,690,Z502_ZA7a3
+M,"Le consulto precios de Madrid a Zaragoza saliendo el martes , día 11 de mayo de 2004 .",Confirmacion,690,Z502_ZA7a3
+M,Un momento por favor .,Espera,690,Z502_ZA7a3
+M,"Hay varios trenes . En clase turista , el tren más caro es un talgo que cuesta 28 con 50 euros la ida y el más barato es un río_aragón que cuesta 21 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone una ahorro del 20 por ciento .",Respuesta,690,Z502_ZA7a3
+M,Desea algo más ? .,Nueva_consulta,690,Z502_ZA7a3
+U,"No , gracias .",Cierre,690,Z502_ZA7a3
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,690,Z502_ZA7a3
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,702,B104_BA0c3
+U,"Hola , sí , quería ir a Córdoba",Pregunta,702,B104_BA0c3
+U,"el próximo fin de semana , bueno saliendo el viernes ,",Pregunta,702,B104_BA0c3
+U,"entonces bueno , quería saber los horarios de los trenes que hay para ir a Córdoba .",Pregunta,702,B104_BA0c3
+M,¿ A qué ciudad desea viajar ? .,Pregunta,702,B104_BA0c3
+U,A Córdoba .,Respuesta,702,B104_BA0c3
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,702,B104_BA0c3
+U,"Sí , quiero viajar a Córdoba .",Respuesta,702,B104_BA0c3
+M,¿ Qué día desea salir ? .,Pregunta,702,B104_BA0c3
+U,Este viernes .,Respuesta,702,B104_BA0c3
+M,"Le consulto horarios de trenes con salida en oviedo destino córdoba saliendo el viernes , día 26 de diciembre de 2003 .",Confirmacion,702,B104_BA0c3
+M,Un momento por favor .,Espera,702,B104_BA0c3
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 de la noche .,Respuesta,702,B104_BA0c3
+M,Desea algo más ? .,Nueva_consulta,702,B104_BA0c3
+U,"Sí creo que ha habido un error , la salida es desde Bilbao . Entonces , quiero ir desde Bilbao",Pregunta,702,B104_BA0c3
+U,a Córdoba .,Pregunta,702,B104_BA0c3
+M,"Le consulto horarios de trenes con salida en bilbao destino córdoba saliendo el viernes , día 26 de diciembre de 2003 .",Confirmacion,702,B104_BA0c3
+M,Un momento por favor .,Espera,702,B104_BA0c3
+M,El único tren que realiza el trayecto es un picasso que sale a las 8 y 35 de la tarde .,Respuesta,702,B104_BA0c3
+M,Desea algo más ? .,Nueva_consulta,702,B104_BA0c3
+U,"No , nada más . Vale , gracias .",Cierre,702,B104_BA0c3
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,702,B104_BA0c3
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,729,V506_VC3c3
+U,"Buenas , me gustaría saber los horarios de los trenes que viajan hacia Cuenca .",Pregunta,729,V506_VC3c3
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,729,V506_VC3c3
+U,Me gustaría saber los horarios de los trenes que viajan hacia Cuenca .,Pregunta,729,V506_VC3c3
+M,"Quiere horarios de trenes a cuenca ,",Confirmacion,729,V506_VC3c3
+M,¿ saliendo de valencia ? .,Confirmacion,729,V506_VC3c3
+U,Sí .,Afirmacion,729,V506_VC3c3
+M,¿ Qué día desea salir ? .,Pregunta,729,V506_VC3c3
+U,El viernes,Respuesta,729,V506_VC3c3
+U,a partir de las cuatro de la tarde .,Respuesta,729,V506_VC3c3
+M,"Le consulto horarios de trenes con salida en valencia destino cuenca saliendo el viernes , día 30 de abril de 2004 .",Confirmacion,729,V506_VC3c3
+M,Un momento por favor .,Espera,729,V506_VC3c3
+M,El único tren que realiza el trayecto es un regional que sale a las 6 y 18 de la tarde y llega a las 9 y 39 de la noche .,Respuesta,729,V506_VC3c3
+M,Desea algo más ? .,Nueva_consulta,729,V506_VC3c3
+U,"Sí , me gustaría saber su precio .",Pregunta,729,V506_VC3c3
+M,El precio de ese tren en clase turista es 9 con 84 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,729,V506_VC3c3
+M,Desea algo más ? .,Nueva_consulta,729,V506_VC3c3
+U,"No , gracias .",Cierre,729,V506_VC3c3
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,729,V506_VC3c3
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,739,V501_VC2c2
+U,Quería saber los horarios y el precio de un viaje de ida y vuelta,Pregunta,739,V501_VC2c2
+U,a Granada,Pregunta,739,V501_VC2c2
+U,el próximo fin de semana .,Pregunta,739,V501_VC2c2
+M,"Quiere horarios de trenes a granada ,",Confirmacion,739,V501_VC2c2
+M,¿ saliendo de valencia ? .,Confirmacion,739,V501_VC2c2
+U,Sí .,Afirmacion,739,V501_VC2c2
+M,"¿ Desea salir el viernes , día 23 de abril de 2004 ? .",Confirmacion,739,V501_VC2c2
+U,Sí .,Afirmacion,739,V501_VC2c2
+M,"Le consulto horarios de trenes con salida en valencia destino granada saliendo el viernes , día 23 de abril de 2004 .",Confirmacion,739,V501_VC2c2
+M,Un momento por favor .,Espera,739,V501_VC2c2
+M,Sólo hay dos trenes . El primero sale a las 0 y 27 de la noche y el otro a las 11 y 30 de la mañana .,Respuesta,739,V501_VC2c2
+M,Desea algo más ? .,Nueva_consulta,739,V501_VC2c2
+U,Que la vuelta,Pregunta,739,V501_VC2c2
+U,sea el domingo,Pregunta,739,V501_VC2c2
+U,por la noche .,Pregunta,739,V501_VC2c2
+M,"Le consulto horarios de granada a valencia el domingo , día 25 de abril de 2004 entre las 9 de la noche y las 5 de la madrugada .",Confirmacion,739,V501_VC2c2
+M,Un momento por favor .,Espera,739,V501_VC2c2
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,739,V501_VC2c2
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,739,V501_VC2c2
+U,"Sí , que la vuelta",Pregunta,739,V501_VC2c2
+U,sea el día siguiente .,Pregunta,739,V501_VC2c2
+M,"Le consulto horarios de trenes con salida en granada destino valencia saliendo el lunes , día 26 de abril de 2004 .",Confirmacion,739,V501_VC2c2
+M,Un momento por favor .,Espera,739,V501_VC2c2
+M,El único tren que realiza el trayecto es un garcía_lorca que sale a las 8 y 30 de la mañana y llega a las 4 y 40 de la tarde .,Respuesta,739,V501_VC2c2
+M,Desea algo más ? .,Nueva_consulta,739,V501_VC2c2
+U,"Sí , que sea en litera .",Pregunta,739,V501_VC2c2
+M,"Le consulto horarios de trenes con salida en granada destino valencia saliendo el lunes , día 26 de abril de 2004 en clase litera .",Confirmacion,739,V501_VC2c2
+M,Un momento por favor .,Espera,739,V501_VC2c2
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,739,V501_VC2c2
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,739,V501_VC2c2
+U,Que sea al día siguiente .,Pregunta,739,V501_VC2c2
+M,"Le consulto horarios de trenes con salida en granada destino valencia saliendo el lunes , día 26 de abril de 2004 .",Confirmacion,739,V501_VC2c2
+M,Un momento por favor .,Espera,739,V501_VC2c2
+M,El único tren que realiza el trayecto es un garcía_lorca que sale a las 8 y 30 de la mañana y llega a las 4 y 40 de la tarde .,Respuesta,739,V501_VC2c2
+M,Desea algo más ? .,Nueva_consulta,739,V501_VC2c2
+U,Saber el precio del tren que sale a las cero veintisiete .,Pregunta,739,V501_VC2c2
+M,Le consulto precios .,Confirmacion,739,V501_VC2c2
+M,Un momento por favor .,Espera,739,V501_VC2c2
+M,Le consulto precios .,Confirmacion,739,V501_VC2c2
+M,Un momento por favor .,Espera,739,V501_VC2c2
+M,El único tren que realiza el trayecto es un garcía_lorca y su precio en clase turista es 39 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,739,V501_VC2c2
+M,Desea algo más ? .,Nueva_consulta,739,V501_VC2c2
+U,Que el billete sea de ida y vuelta .,Pregunta,739,V501_VC2c2
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,739,V501_VC2c2
+U,Que el billete sea de ida y vuelta .,Pregunta,739,V501_VC2c2
+M,El precio de ese tren en clase turista es 39 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,739,V501_VC2c2
+M,Desea algo más ? .,Nueva_consulta,739,V501_VC2c2
+U,No .,Cierre,739,V501_VC2c2
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,739,V501_VC2c2
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,749,V106_VB6c1
+U,Quería saber el horario y el precio de un tren de Castellón,Pregunta,749,V106_VB6c1
+U,a Tarragona .,Pregunta,749,V106_VB6c1
+U,Para llegar el viernes,Pregunta,749,V106_VB6c1
+U,por la mañana .,Pregunta,749,V106_VB6c1
+M,¿ Quiere viajar desde castellon ? .,Confirmacion,749,V106_VB6c1
+U,"Sí ,",Afirmacion,749,V106_VB6c1
+U,en el euromed .,Pregunta,749,V106_VB6c1
+M,¿ Desea hacer el viaje en un euromed ? .,Confirmacion,749,V106_VB6c1
+U,Sí .,Afirmacion,749,V106_VB6c1
+M,"Le consulto horarios de trenes con salida en castellón destino barcelona saliendo el viernes , día 13 de febrero de 2004 .",Confirmacion,749,V106_VB6c1
+M,Un momento por favor .,Espera,749,V106_VB6c1
+M,Hay varios trenes . El primero llega a las 9 y 36 de la mañana y el último a las 11 y 3 de la noche .,Respuesta,749,V106_VB6c1
+M,Desea algo más ? .,Nueva_consulta,749,V106_VB6c1
+U,El tren es de Castellón,Pregunta,749,V106_VB6c1
+U,a Tarragona .,Pregunta,749,V106_VB6c1
+M,"Le consulto horarios de trenes con salida en castellón destino tarragona saliendo el viernes , día 13 de febrero de 2004 en euromed .",Confirmacion,749,V106_VB6c1
+M,Un momento por favor .,Espera,749,V106_VB6c1
+M,Hay varios trenes . El primero llega a las 8 y 34 de la mañana y el último a las 10 y 3 de la noche .,Respuesta,749,V106_VB6c1
+M,Desea algo más ? .,Nueva_consulta,749,V106_VB6c1
+U,Quiero llegar por la mañana .,Pregunta,749,V106_VB6c1
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,749,V106_VB6c1
+U,Quiero que el tren llegue por la mañana .,Pregunta,749,V106_VB6c1
+M,Le consulto horarios .,Confirmacion,749,V106_VB6c1
+M,Un momento por favor .,Espera,749,V106_VB6c1
+M,Sólo hay dos trenes . El primero llega a las 8 y 34 de la mañana y el otro a las 10 y 35 de la mañana .,Respuesta,749,V106_VB6c1
+M,Desea algo más ? .,Nueva_consulta,749,V106_VB6c1
+U,saber el precio del tren y treinta y cinco .,Pregunta,749,V106_VB6c1
+M,El precio de ese tren en clase turista es 24 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,749,V106_VB6c1
+M,Desea algo más ? .,Nueva_consulta,749,V106_VB6c1
+U,"No , gracias .",Cierre,749,V106_VB6c1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,749,V106_VB6c1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,751,V106_VA0c5
+U,Quería obtener el horario en un viaje de ida,Pregunta,751,V106_VA0c5
+U,a Barcelona,Pregunta,751,V106_VA0c5
+U,el próximo sábado .,Pregunta,751,V106_VA0c5
+M,"Le consulto horarios de trenes con salida en valencia destino barcelona saliendo el sábado , día 14 de febrero de 2004 .",Confirmacion,751,V106_VA0c5
+M,Un momento por favor .,Espera,751,V106_VA0c5
+M,Hay varios trenes . El primero sale a las 5 y 45 de la madrugada y el último a las 8 y 5 de la tarde .,Respuesta,751,V106_VA0c5
+M,Desea algo más ? .,Nueva_consulta,751,V106_VA0c5
+U,"No , gracias .",Cierre,751,V106_VA0c5
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,751,V106_VA0c5
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,752,B308_BB8c7
+U,"Hola buenas tardes , quería saber el precio de los viajes de ida",Pregunta,752,B308_BB8c7
+U,de San_Sebastián,Pregunta,752,B308_BB8c7
+U,Gerona,Pregunta,752,B308_BB8c7
+U,", para el próximo fin de semana .",Pregunta,752,B308_BB8c7
+M,"Quiere saber el precio a barcelona ,",Confirmacion,752,B308_BB8c7
+M,¿ desde san_sebastián ? .,Confirmacion,752,B308_BB8c7
+U,"No ,",Negacion,752,B308_BB8c7
+U,de San_Sebastián,Respuesta,752,B308_BB8c7
+U,"Gerona , a Gerona .",Respuesta,752,B308_BB8c7
+M,"Le consulto precios de san_sebastián a gerona saliendo el sábado , día 6 de marzo de 2004 .",Confirmacion,752,B308_BB8c7
+M,Un momento por favor .,Espera,752,B308_BB8c7
+M,"Hay varios trenes . En clase turista , el tren más caro es un talgo que cuesta 44 euros la ida y el más barato es un diurno que cuesta 32 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,752,B308_BB8c7
+M,Desea algo más ? .,Nueva_consulta,752,B308_BB8c7
+U,Desearía un billete de ida,Pregunta,752,B308_BB8c7
+U,y si es posible viajar en intercity .,Pregunta,752,B308_BB8c7
+M,Le consulto precios de san_sebastián a gerona en tipo tren intercity .,Confirmacion,752,B308_BB8c7
+M,Un momento por favor .,Espera,752,B308_BB8c7
+M,El único tren que realiza el trayecto es un intercity y su precio en clase turista es 40 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,752,B308_BB8c7
+M,Desea algo más ? .,Nueva_consulta,752,B308_BB8c7
+U,"No , gracias .",Cierre,752,B308_BB8c7
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,752,B308_BB8c7
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,754,B308_BA7c1
+U,"Hola buenas tardes , quería un billete de ida",Pregunta,754,B308_BA7c1
+U,desde Zaragoza,Pregunta,754,B308_BA7c1
+U,a Madrid,Pregunta,754,B308_BA7c1
+U,para el día seis de marzo,Pregunta,754,B308_BA7c1
+U,y si es posible viajar en el Ave .,Pregunta,754,B308_BA7c1
+M,¿ Desea hacer el viaje en un alaris ? .,Confirmacion,754,B308_BA7c1
+U,No,Negacion,754,B308_BA7c1
+U,desearía hacer el viaje en el Ave .,Respuesta,754,B308_BA7c1
+M,¿ Desea hacer el viaje en un ave ? .,Confirmacion,754,B308_BA7c1
+U,Sí .,Afirmacion,754,B308_BA7c1
+M,¿ Quiere saber horarios ? .,Confirmacion,754,B308_BA7c1
+U,"Sí , por favor .",Afirmacion,754,B308_BA7c1
+M,¿ Qué día desea salir ? .,Pregunta,754,B308_BA7c1
+U,El día seis de marzo .,Respuesta,754,B308_BA7c1
+M,"¿ Desea salir el sábado , día 6 de marzo de 2004 ? .",Confirmacion,754,B308_BA7c1
+U,Sí .,Afirmacion,754,B308_BA7c1
+M,"Le consulto horarios de trenes con salida en zaragoza destino madrid saliendo el sábado , día 6 de marzo de 2004 en ave .",Confirmacion,754,B308_BA7c1
+M,Un momento por favor .,Espera,754,B308_BA7c1
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,754,B308_BA7c1
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,754,B308_BA7c1
+U,No .,Cierre,754,B308_BA7c1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,754,B308_BA7c1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,756,V101_VC0a0
+U,"Hola buenos días , mira quería saber horarios de trenes para ir a Ciudad_Real .",Pregunta,756,V101_VC0a0
+M,¿ A qué ciudad desea viajar ? .,Pregunta,756,V101_VC0a0
+U,A Ciudad_Real .,Respuesta,756,V101_VC0a0
+M,¿ Qué día desea salir ? .,Pregunta,756,V101_VC0a0
+U,Pues puedo salir este sábado .,Respuesta,756,V101_VC0a0
+M,"¿ Desea salir el sábado , día 31 de enero de 2004 ? .",Confirmacion,756,V101_VC0a0
+U,"Sí , por favor",Afirmacion,756,V101_VC0a0
+U,y la vuelta,Respuesta,756,V101_VC0a0
+U,el siguiente sábado .,Respuesta,756,V101_VC0a0
+M,"Le consulto horarios de trenes con salida en valencia destino ciudad_real saliendo el sábado , día 31 de enero de 2004 .",Confirmacion,756,V101_VC0a0
+M,Un momento por favor .,Espera,756,V101_VC0a0
+M,El único tren que realiza el trayecto es un garcía_lorca que sale a las 11 y 30 de la mañana y llega a las 4 y 24 de la tarde .,Respuesta,756,V101_VC0a0
+M,Desea algo más ? .,Nueva_consulta,756,V101_VC0a0
+U,"Sí , ahora me gustaría saber horarios para la vuelta ,",Pregunta,756,V101_VC0a0
+U,para el sábado siguiente .,Pregunta,756,V101_VC0a0
+M,"Horarios para llegar a valencia ,",Confirmacion,756,V101_VC0a0
+M,"¿ saliendo el sábado , día 7 de febrero de 2004 ? .",Confirmacion,756,V101_VC0a0
+U,"Sí , por favor .",Afirmacion,756,V101_VC0a0
+M,Le consulto horarios .,Confirmacion,756,V101_VC0a0
+M,Un momento por favor .,Espera,756,V101_VC0a0
+M,El único tren que realiza el trayecto es un garcía_lorca que sale a las 11 y 38 de la mañana y llega a las 4 y 40 de la tarde .,Respuesta,756,V101_VC0a0
+M,Desea algo más ? .,Nueva_consulta,756,V101_VC0a0
+U,¿ Me puedes decir el precio del viaje ? Del viaje de ida y vuelta .,Pregunta,756,V101_VC0a0
+M,"Puede repetir de manera clara lo último que ha dicho , por favor .",No_entendido,756,V101_VC0a0
+U,"Sí , que si me puedes decir por favor el precio del viaje de ida y vuelta .",Pregunta,756,V101_VC0a0
+M,El precio de ese tren en clase turista es 31 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,756,V101_VC0a0
+M,Desea algo más ? .,Nueva_consulta,756,V101_VC0a0
+U,"Pues no , gracias .",Cierre,756,V101_VC0a0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,756,V101_VC0a0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,757,V101_VA0c0
+U,"Hola buenos días mira , quería saber horario de trenes para ir a Cuenca .",Pregunta,757,V101_VA0c0
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,757,V101_VA0c0
+U,"Sí , que quería saber horarios de trenes para ir a Cuenca .",Pregunta,757,V101_VA0c0
+M,¿ Qué día desea salir ? .,Pregunta,757,V101_VA0c0
+U,Pues quiero salir el día treinta de junio .,Respuesta,757,V101_VA0c0
+M,"Le consulto horarios de trenes con salida en valencia destino cuenca saliendo el miércoles , día 30 de junio de 2004 .",Confirmacion,757,V101_VA0c0
+M,Un momento por favor .,Espera,757,V101_VA0c0
+M,Hay varios trenes . El primero sale a las 8 y 18 de la mañana y el último a las 6 y 18 de la tarde .,Respuesta,757,V101_VA0c0
+M,Desea algo más ? .,Nueva_consulta,757,V101_VA0c0
+U,"Pues no , gracias .",Cierre,757,V101_VA0c0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,757,V101_VA0c0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,760,B102_BC0a1
+U,Quería saber si hay algún tren que vaya a Madrid,Pregunta,760,B102_BC0a1
+U,el día veinticuatro de diciembre .,Pregunta,760,B102_BC0a1
+M,¿ A qué ciudad desea viajar ? .,Pregunta,760,B102_BC0a1
+U,A Madrid .,Respuesta,760,B102_BC0a1
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,760,B102_BC0a1
+U,¿ Me podría decir los horarios de trenes que vayan a Madrid,Pregunta,760,B102_BC0a1
+U,el día veinticuatro de diciembre,Pregunta,760,B102_BC0a1
+U,por la tarde ?,Pregunta,760,B102_BC0a1
+M,"Le consulto horarios de trenes con salida en bilbao destino madrid saliendo el miércoles , día 24 de diciembre de 2003 .",Confirmacion,760,B102_BC0a1
+M,Un momento por favor .,Espera,760,B102_BC0a1
+M,El único tren que realiza el trayecto es un talgo que sale a las 4 y 30 de la tarde .,Respuesta,760,B102_BC0a1
+M,Desea algo más ? .,Nueva_consulta,760,B102_BC0a1
+U,"Sí , saber el precio .",Pregunta,760,B102_BC0a1
+M,El precio de ese tren en turista es 29 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,760,B102_BC0a1
+M,Desea algo más ? .,Nueva_consulta,760,B102_BC0a1
+U,"Sí , ¿ me puede decir el horario de los trenes que salen de Madrid",Pregunta,760,B102_BC0a1
+U,a Bilbao,Pregunta,760,B102_BC0a1
+U,el día veintiséis ? .,Pregunta,760,B102_BC0a1
+M,Le consulto horarios .,Confirmacion,760,B102_BC0a1
+M,Un momento por favor .,Espera,760,B102_BC0a1
+M,El único tren que realiza el trayecto es un talgo que sale a las 3 y 35 de la tarde .,Respuesta,760,B102_BC0a1
+M,Desea algo más ? .,Nueva_consulta,760,B102_BC0a1
+U,"Sí , ¿ me podría decir el precio ? .",Pregunta,760,B102_BC0a1
+M,El precio de ese tren en turista es 29 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,760,B102_BC0a1
+M,Desea algo más ? .,Nueva_consulta,760,B102_BC0a1
+U,"No , nada más .",Cierre,760,B102_BC0a1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,760,B102_BC0a1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,785,B301_BB8c0
+U,Quería un billete de tren desde Zaragoza,Pregunta,785,B301_BB8c0
+U,hasta Santander .,Pregunta,785,B301_BB8c0
+M,¿ Quiere saber horarios ? .,Confirmacion,785,B301_BB8c0
+U,No .,Negacion,785,B301_BB8c0
+M,¿ Quiere saber horarios ? .,Confirmacion,785,B301_BB8c0
+U,No .,Negacion,785,B301_BB8c0
+M,¿ Le consulto precios ? .,Confirmacion,785,B301_BB8c0
+U,Bien .,Afirmacion,785,B301_BB8c0
+M,¿ Qué día desea salir ? .,Pregunta,785,B301_BB8c0
+U,Jueves o viernes de la semana que viene,Respuesta,785,B301_BB8c0
+U,en el intercity .,Respuesta,785,B301_BB8c0
+M,"¿ Desea salir el viernes , día 12 de marzo de 2004 ? .",Confirmacion,785,B301_BB8c0
+U,Sí .,Afirmacion,785,B301_BB8c0
+M,Le consulto precios de zaragoza a santander en tipo tren intercity .,Confirmacion,785,B301_BB8c0
+M,Un momento por favor .,Espera,785,B301_BB8c0
+M,El único tren que realiza el trayecto es un intercity y su precio en clase turista es 40 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,785,B301_BB8c0
+M,Desea algo más ? .,Nueva_consulta,785,B301_BB8c0
+U,"No , gracias .",Cierre,785,B301_BB8c0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,785,B301_BB8c0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,787,B301_BC8c3
+U,Quería un billete de Madrid,Pregunta,787,B301_BC8c3
+U,"a Santander ,",Pregunta,787,B301_BC8c3
+U,para salir hoy,Pregunta,787,B301_BC8c3
+U,y volver,Pregunta,787,B301_BC8c3
+U,pasado mañana .,Pregunta,787,B301_BC8c3
+M,¿ Quiere saber horarios ? .,Confirmacion,787,B301_BC8c3
+U,No .,Negacion,787,B301_BC8c3
+M,¿ Le consulto precios ? .,Confirmacion,787,B301_BC8c3
+U,Bien .,Afirmacion,787,B301_BC8c3
+M,"Quiere saber el precio a santander ,",Confirmacion,787,B301_BC8c3
+M,¿ desde madrid ? .,Confirmacion,787,B301_BC8c3
+U,Sí .,Afirmacion,787,B301_BC8c3
+M,¿ Qué día desea salir ? .,Pregunta,787,B301_BC8c3
+U,Hoy .,Respuesta,787,B301_BC8c3
+M,"Le consulto precios de madrid a santander saliendo el martes , día 2 de marzo de 2004 .",Confirmacion,787,B301_BC8c3
+M,Un momento por favor .,Espera,787,B301_BC8c3
+M,"Hay varios trenes . En clase turista , el tren más caro es un talgo que cuesta 44 euros la ida y el más barato es un diurno que cuesta 32 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,787,B301_BC8c3
+M,Desea algo más ? .,Nueva_consulta,787,B301_BC8c3
+U,"Sí , ¿ cuánto cuesta el billete en primera ? .",Pregunta,787,B301_BC8c3
+M,Le consulto precios de madrid a santander en clase preferente .,Confirmacion,787,B301_BC8c3
+M,Un momento por favor .,Espera,787,B301_BC8c3
+M,"Hay varios trenes . En clase preferente , el tren más caro es un talgo que cuesta 58 euros la ida y el más barato es un diurno que cuesta 43 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,787,B301_BC8c3
+M,Desea algo más ? .,Nueva_consulta,787,B301_BC8c3
+U,¿ Cuánto costaría el billete de ida y vuelta ? .,Pregunta,787,B301_BC8c3
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,787,B301_BC8c3
+U,¿ cuánto cuesta el billete de vuelta ? .,Pregunta,787,B301_BC8c3
+M,Le consulto precios de santander a madrid en clase preferente .,Confirmacion,787,B301_BC8c3
+M,Un momento por favor .,Espera,787,B301_BC8c3
+M,"Hay varios trenes . En clase preferente , el tren más caro es un talgo que cuesta 58 euros la ida y el más barato es un diurno que cuesta 43 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,787,B301_BC8c3
+M,Desea algo más ? .,Nueva_consulta,787,B301_BC8c3
+U,"No , gracias .",Cierre,787,B301_BC8c3
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,787,B301_BC8c3
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,799,B503_BB8a0
+U,Pues sí quisiera saber el precio de los trenes con destino a Cádiz,Pregunta,799,B503_BB8a0
+U,en viaje de ida .,Pregunta,799,B503_BB8a0
+M,¿ A qué ciudad desea llegar ? .,Pregunta,799,B503_BB8a0
+U,"A Cádiz ,",Respuesta,799,B503_BB8a0
+U,me gustaría que fuera un coche cama si es posible .,Respuesta,799,B503_BB8a0
+M,"Quiere saber el precio a cádiz ,",Confirmacion,799,B503_BB8a0
+M,¿ desde bilbao ? .,Confirmacion,799,B503_BB8a0
+U,"Sí eso es ,",Afirmacion,799,B503_BB8a0
+U,en coche cama .,Respuesta,799,B503_BB8a0
+M,¿ Qué día desea salir ? .,Pregunta,799,B503_BB8a0
+U,Pues a poder ser el ventiuno de junio .,Respuesta,799,B503_BB8a0
+M,Le consulto precios de bilbao a cádiz en clase cama .,Confirmacion,799,B503_BB8a0
+M,Un momento por favor .,Espera,799,B503_BB8a0
+M,"Sólo hay dos trenes . En clase cama , el tren más caro es un trenhotel que cuesta 117 con 50 euros la ida y el otro es un diurno que cuesta 78 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,799,B503_BB8a0
+M,Desea algo más ? .,Nueva_consulta,799,B503_BB8a0
+U,No muchas gracias .,Cierre,799,B503_BB8a0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,799,B503_BB8a0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,802,Z301_ZB8c0
+U,Quisiera obtener el precio de un viaje de tren .,Pregunta,802,Z301_ZB8c0
+M,¿ A qué ciudad desea viajar ? .,Pregunta,802,Z301_ZB8c0
+U,Quiero viajar a la ciudad de Santander .,Respuesta,802,Z301_ZB8c0
+M,¿ Qué día desea salir ? .,Pregunta,802,Z301_ZB8c0
+U,Quiero salir el jueves o el viernes de la semana que viene,Respuesta,802,Z301_ZB8c0
+U,a poder ser en viaje en intercity .,Respuesta,802,Z301_ZB8c0
+M,"Quiere saber el precio a santander ,",Confirmacion,802,Z301_ZB8c0
+M,¿ desde zaragoza ? .,Confirmacion,802,Z301_ZB8c0
+U,"Sí ,",Afirmacion,802,Z301_ZB8c0
+U,quiero saber el precio a Santander,Pregunta,802,Z301_ZB8c0
+U,desde Zaragoza,Pregunta,802,Z301_ZB8c0
+U,el jueves o el viernes de la semana que viene,Pregunta,802,Z301_ZB8c0
+U,a poder ser en viaje en intercity .,Pregunta,802,Z301_ZB8c0
+M,"Le consulto precios de zaragoza a santander saliendo el jueves , día 25 de marzo de 2004 .",Confirmacion,802,Z301_ZB8c0
+M,Un momento por favor .,Espera,802,Z301_ZB8c0
+M,El único tren que realiza el trayecto es un intercity y su precio en clase turista es 40 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,802,Z301_ZB8c0
+M,Desea algo más ? .,Nueva_consulta,802,Z301_ZB8c0
+U,"No , no deseo nada más .",Cierre,802,Z301_ZB8c0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,802,Z301_ZB8c0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,805,V507_VA9a0
+U,"Hola buenas tardes , quisiera saber los horarios de ida",Pregunta,805,V507_VA9a0
+U,a Madrid,Pregunta,805,V507_VA9a0
+U,el treinta y uno de febrero .,Pregunta,805,V507_VA9a0
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,805,V507_VA9a0
+U,"Buenas tardes , quisiera saber los horarios de ida",Pregunta,805,V507_VA9a0
+U,a Madrid,Pregunta,805,V507_VA9a0
+U,para el treinta y uno de febrero .,Pregunta,805,V507_VA9a0
+M,"Quiere horarios de trenes a madrid ,",Confirmacion,805,V507_VA9a0
+M,¿ saliendo de valencia ? .,Confirmacion,805,V507_VA9a0
+U,"No ,",Negacion,805,V507_VA9a0
+U,saliendo de Segovia .,Respuesta,805,V507_VA9a0
+M,"Quiere horarios de trenes a madrid ,",Confirmacion,805,V507_VA9a0
+M,¿ saliendo de segovia ? .,Confirmacion,805,V507_VA9a0
+U,"Sí , gracias .",Afirmacion,805,V507_VA9a0
+M,¿ Qué día desea salir ? .,Pregunta,805,V507_VA9a0
+U,El treinta y uno de febrero .,Respuesta,805,V507_VA9a0
+M,¿ Qué día desea salir ? .,Pregunta,805,V507_VA9a0
+U,El veintiocho de febrero .,Respuesta,805,V507_VA9a0
+M,"Le consulto horarios de trenes con salida en segovia destino madrid saliendo el lunes , día 28 de febrero de 2005 .",Confirmacion,805,V507_VA9a0
+M,Un momento por favor .,Espera,805,V507_VA9a0
+M,Hay varios trenes . El primero sale a las 5 y 55 de la madrugada y el último a las 8 y 55 de la tarde .,Respuesta,805,V507_VA9a0
+M,Desea algo más ? .,Nueva_consulta,805,V507_VA9a0
+U,"Sí , quisiera llegar antes de las veintidós horas .",Pregunta,805,V507_VA9a0
+M,Le consulto horarios .,Confirmacion,805,V507_VA9a0
+M,Un momento por favor .,Espera,805,V507_VA9a0
+M,Hay varios trenes . El primero sale a las 5 y 55 de la madrugada y llega a las 7 y 52 de la mañana y el último sale a las 6 y 55 de la tarde y llega a las 8 y 50 de la tarde .,Respuesta,805,V507_VA9a0
+M,Desea algo más ? .,Nueva_consulta,805,V507_VA9a0
+U,"No , muchas gracias .",Cierre,805,V507_VA9a0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,805,V507_VA9a0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,816,Z308_ZA1a3
+U,"Hola , me gustaría obtener un horario para viajar a Logroño ,",Pregunta,816,Z308_ZA1a3
+U,el doce de abril .,Pregunta,816,Z308_ZA1a3
+M,¿ Quiere llegar a orense ? .,Confirmacion,816,Z308_ZA1a3
+U,No,Negacion,816,Z308_ZA1a3
+U,querría llegar a Logroño .,Respuesta,816,Z308_ZA1a3
+M,¿ Qué día desea salir ? .,Pregunta,816,Z308_ZA1a3
+U,El doce de abril .,Respuesta,816,Z308_ZA1a3
+M,"Quiere horarios de trenes a logroño ,",Confirmacion,816,Z308_ZA1a3
+M,¿ desde zaragoza ? .,Confirmacion,816,Z308_ZA1a3
+U,"Sí ,",Afirmacion,816,Z308_ZA1a3
+U,si podría ser de doce a dos .,Respuesta,816,Z308_ZA1a3
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,816,Z308_ZA1a3
+U,"Querría horarios a Logroño ,",Pregunta,816,Z308_ZA1a3
+U,"el doce de abril ,",Pregunta,816,Z308_ZA1a3
+U,de doce a dos de la mañana .,Pregunta,816,Z308_ZA1a3
+M,"Le consulto horarios de zaragoza a logroño el martes , día 12 de abril de 2005 entre las 12 de la mañana y las 2 de la tarde .",Confirmacion,816,Z308_ZA1a3
+M,Un momento por favor .,Espera,816,Z308_ZA1a3
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,816,Z308_ZA1a3
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,816,Z308_ZA1a3
+U,"No , gracias .",Cierre,816,Z308_ZA1a3
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,816,Z308_ZA1a3
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,827,Z102_ZC0a1
+U,"Hola , deseo saber el horario de un tren a San_Sebastián",Pregunta,827,Z102_ZC0a1
+U,el veintiuno de abril .,Pregunta,827,Z102_ZC0a1
+M,"Quiere horarios de trenes a san_sebastián ,",Confirmacion,827,Z102_ZC0a1
+M,¿ desde zaragoza ? .,Confirmacion,827,Z102_ZC0a1
+U,Sí .,Afirmacion,827,Z102_ZC0a1
+M,"Le consulto horarios de trenes con salida en zaragoza destino san_sebastián saliendo el miércoles , día 21 de abril de 2004 .",Confirmacion,827,Z102_ZC0a1
+M,Un momento por favor .,Espera,827,Z102_ZC0a1
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 11 de la noche .,Respuesta,827,Z102_ZC0a1
+M,Desea algo más ? .,Nueva_consulta,827,Z102_ZC0a1
+U,¿ Me puede dar el precio ? .,Pregunta,827,Z102_ZC0a1
+M,"Hay varios trenes . En clase turista , el tren más caro es un talgo que cuesta 44 euros la ida y el más barato es un diurno que cuesta 32 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,827,Z102_ZC0a1
+M,Desea algo más ? .,Nueva_consulta,827,Z102_ZC0a1
+U,"Sí , deseo también el viaje de vuelta .",Pregunta,827,Z102_ZC0a1
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,827,Z102_ZC0a1
+U,Deseo el horario del viaje de vuelta,Pregunta,827,Z102_ZC0a1
+U,el veinticuatro de abril .,Pregunta,827,Z102_ZC0a1
+M,"Le consulto horarios de trenes con salida en san_sebastián destino zaragoza saliendo el sábado , día 24 de abril de 2004 .",Confirmacion,827,Z102_ZC0a1
+M,Un momento por favor .,Espera,827,Z102_ZC0a1
+M,Hay varios trenes . El primero sale a las 7 y 3 de la mañana y el último a las 10 y 3 de la noche .,Respuesta,827,Z102_ZC0a1
+M,Desea algo más ? .,Nueva_consulta,827,Z102_ZC0a1
+U,¿ Me puede dar el precio ? .,Pregunta,827,Z102_ZC0a1
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,827,Z102_ZC0a1
+U,"Nada , muchas gracias .",Cierre,827,Z102_ZC0a1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,827,Z102_ZC0a1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,828,B211_BC7c2
+U,"Hola buenas tardes , me gustaría saber el precio de un viaje de ida y vuelta",Pregunta,828,B211_BC7c2
+U,"a Cádiz , por favor .",Pregunta,828,B211_BC7c2
+M,"Quiere saber el precio a zaragoza ,",Confirmacion,828,B211_BC7c2
+M,¿ desde madrid ? .,Confirmacion,828,B211_BC7c2
+U,"No ,",Negacion,828,B211_BC7c2
+U,desde Bilbao,Respuesta,828,B211_BC7c2
+U,a Cádiz .,Respuesta,828,B211_BC7c2
+M,¿ Qué día desea salir ? .,Pregunta,828,B211_BC7c2
+U,A principios de junio .,Respuesta,828,B211_BC7c2
+M,"¿ Desea salir el martes , día 1 de junio de 2004 ? .",Confirmacion,828,B211_BC7c2
+U,"Sí , perfecto .",Afirmacion,828,B211_BC7c2
+M,"Le consulto precios de bilbao a cádiz saliendo el martes , día 1 de junio de 2004 .",Confirmacion,828,B211_BC7c2
+M,Un momento por favor .,Espera,828,B211_BC7c2
+M,"Hay varios trenes . En clase turista , el tren más caro es un talgo que cuesta 44 euros la ida y el más barato es un diurno que cuesta 32 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,828,B211_BC7c2
+M,Desea algo más ? .,Nueva_consulta,828,B211_BC7c2
+U,"Sí , el viaje de vuelta",Pregunta,828,B211_BC7c2
+U,me gustaría que fuese el día quince .,Pregunta,828,B211_BC7c2
+M,¿ Quiere saber horarios ? .,Confirmacion,828,B211_BC7c2
+U,"Sí , por favor ,",Afirmacion,828,B211_BC7c2
+U,y me gustaría en coche cama .,Respuesta,828,B211_BC7c2
+M,"Le consulto precios de cádiz a bilbao saliendo el martes , día 15 de junio de 2004 .",Confirmacion,828,B211_BC7c2
+M,Un momento por favor .,Espera,828,B211_BC7c2
+M,"Sólo hay dos trenes . En clase cama , el tren más caro es un trenhotel que cuesta 117 con 50 euros la ida y el otro es un diurno que cuesta 78 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,828,B211_BC7c2
+M,Desea algo más ? .,Nueva_consulta,828,B211_BC7c2
+U,"¡ No ! , eso es todo , muchas gracias .",Cierre,828,B211_BC7c2
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,828,B211_BC7c2
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,834,V212_VA3c7
+U,"Hola buenos días , quería ir de Valencia",Pregunta,834,V212_VA3c7
+U,a Madrid .,Pregunta,834,V212_VA3c7
+M,¿ Quiere saber horarios ? .,Confirmacion,834,V212_VA3c7
+U,"Sí ,",Afirmacion,834,V212_VA3c7
+U,saliendo el próximo miércoles .,Respuesta,834,V212_VA3c7
+M,"Le consulto horarios de trenes con salida en valencia destino madrid saliendo el miércoles , día 24 de diciembre de 2003 .",Confirmacion,834,V212_VA3c7
+M,Un momento por favor .,Espera,834,V212_VA3c7
+M,Hay varios trenes . El primero sale a las 6 y 45 y el último a las 20 y 15 .,Respuesta,834,V212_VA3c7
+M,Desea algo más ? .,Nueva_consulta,834,V212_VA3c7
+U,Me gustaría viajar en un tren alaris .,Pregunta,834,V212_VA3c7
+M,Le consulto horarios .,Confirmacion,834,V212_VA3c7
+M,Un momento por favor .,Espera,834,V212_VA3c7
+M,Hay varios trenes . El primero sale a las 6 y 45 y el último a las 20 y 15 .,Respuesta,834,V212_VA3c7
+M,Desea algo más ? .,Nueva_consulta,834,V212_VA3c7
+U,.,Indefinida,834,V212_VA3c7
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,834,V212_VA3c7
+U,"Nada más , gracias .",Cierre,834,V212_VA3c7
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,834,V212_VA3c7
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,839,Z414_ZB7a0
+U,Quisiera información sobre precios de trenes .,Pregunta,839,Z414_ZB7a0
+M,¿ A qué ciudad desea viajar ? .,Pregunta,839,Z414_ZB7a0
+U,A León .,Respuesta,839,Z414_ZB7a0
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,839,Z414_ZB7a0
+U,Lugo .,Respuesta,839,Z414_ZB7a0
+M,¿ Qué día desea salir ? .,Pregunta,839,Z414_ZB7a0
+U,El uno o el dos de mayo .,Respuesta,839,Z414_ZB7a0
+M,"Quiere saber el precio a lugo ,",Confirmacion,839,Z414_ZB7a0
+M,¿ desde zaragoza ? .,Confirmacion,839,Z414_ZB7a0
+U,Sí .,Afirmacion,839,Z414_ZB7a0
+M,"Le consulto precios de zaragoza a lugo saliendo el sábado , día 1 de mayo de 2004 .",Confirmacion,839,Z414_ZB7a0
+M,Un momento por favor .,Espera,839,Z414_ZB7a0
+M,"Hay varios trenes . En clase turista , el tren más caro es un talgo que cuesta 44 euros la ida y el más barato es un diurno que cuesta 32 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,839,Z414_ZB7a0
+M,Desea algo más ? .,Nueva_consulta,839,Z414_ZB7a0
+U,"No , gracias .",Cierre,839,Z414_ZB7a0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,839,Z414_ZB7a0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,851,Z211_ZB2a2
+U,Quisiera obtener horario y precio .,Pregunta,851,Z211_ZB2a2
+M,¿ A qué ciudad desea viajar ? .,Pregunta,851,Z211_ZB2a2
+U,Madrid .,Respuesta,851,Z211_ZB2a2
+M,¿ Qué día desea salir ? .,Pregunta,851,Z211_ZB2a2
+U,El once de abril .,Respuesta,851,Z211_ZB2a2
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,851,Z211_ZB2a2
+U,El once de abril .,Respuesta,851,Z211_ZB2a2
+M,"Quiere saber el precio a madrid ,",Confirmacion,851,Z211_ZB2a2
+M,¿ desde zaragoza ? .,Confirmacion,851,Z211_ZB2a2
+U,Sí .,Afirmacion,851,Z211_ZB2a2
+M,"Le consulto precios de zaragoza a madrid saliendo el domingo , día 11 de abril de 2004 .",Confirmacion,851,Z211_ZB2a2
+M,Un momento por favor .,Espera,851,Z211_ZB2a2
+M,"Hay varios trenes . En clase turista , el tren más caro es un talgo que cuesta 28 con 50 euros la ida y el más barato es un costa_brava que cuesta 21 con 50 euros . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .",Respuesta,851,Z211_ZB2a2
+M,Desea algo más ? .,Nueva_consulta,851,Z211_ZB2a2
+U,"Sí , obtener el horario .",Pregunta,851,Z211_ZB2a2
+M,Hay varios trenes . El primero sale a las 2 y 48 de la madrugada y el último a las 9 de la noche .,Respuesta,851,Z211_ZB2a2
+M,Desea algo más ? .,Nueva_consulta,851,Z211_ZB2a2
+U,Que el tipo de tren sea Ave .,Pregunta,851,Z211_ZB2a2
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,851,Z211_ZB2a2
+U,"Sí , el tipo de tren sea Ave .",Pregunta,851,Z211_ZB2a2
+M,"Le consulto horarios de trenes con salida en zaragoza destino madrid saliendo el domingo , día 11 de abril de 2004 en ave .",Confirmacion,851,Z211_ZB2a2
+M,Un momento por favor .,Espera,851,Z211_ZB2a2
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,851,Z211_ZB2a2
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,851,Z211_ZB2a2
+U,"Sí , el tipo de tren talgo .",Pregunta,851,Z211_ZB2a2
+M,"Le consulto horarios de trenes con salida en zaragoza destino madrid saliendo el domingo , día 11 de abril de 2004 en talgo .",Confirmacion,851,Z211_ZB2a2
+M,Un momento por favor .,Espera,851,Z211_ZB2a2
+M,Hay varios trenes . El primero sale a las 10 y 30 de la mañana y el último a las 8 de la tarde .,Respuesta,851,Z211_ZB2a2
+M,Desea algo más ? .,Nueva_consulta,851,Z211_ZB2a2
+U,"Sí , viajar en coche cama .",Pregunta,851,Z211_ZB2a2
+M,Un momento por favor .,Espera,851,Z211_ZB2a2
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,851,Z211_ZB2a2
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,851,Z211_ZB2a2
+U,No .,Cierre,851,Z211_ZB2a2
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,851,Z211_ZB2a2
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,852,B414_BA9c6
+U,Quisiera saber el horario del tren Ave,Pregunta,852,B414_BA9c6
+U,de Sevilla,Pregunta,852,B414_BA9c6
+U,a Madrid .,Pregunta,852,B414_BA9c6
+M,¿ Quiere viajar desde madrid ? .,Confirmacion,852,B414_BA9c6
+U,"No ,",Negacion,852,B414_BA9c6
+U,quiero salir de Sevilla .,Respuesta,852,B414_BA9c6
+M,¿ A qué ciudad desea viajar ? .,Pregunta,852,B414_BA9c6
+U,A Madrid .,Respuesta,852,B414_BA9c6
+M,"Quiere horarios de trenes a madrid ,",Confirmacion,852,B414_BA9c6
+M,¿ desde sevilla ? .,Confirmacion,852,B414_BA9c6
+U,Sí .,Afirmacion,852,B414_BA9c6
+M,¿ Qué día desea salir ? .,Pregunta,852,B414_BA9c6
+U,El quince de junio .,Respuesta,852,B414_BA9c6
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,852,B414_BA9c6
+U,Quince de junio .,Respuesta,852,B414_BA9c6
+M,"Le consulto horarios de trenes con salida en sevilla destino madrid saliendo el martes , día 15 de junio de 2004 .",Confirmacion,852,B414_BA9c6
+M,Un momento por favor .,Espera,852,B414_BA9c6
+M,Hay varios trenes . El primero sale a las 6 y 30 de la mañana y el último a las 10 de la noche .,Respuesta,852,B414_BA9c6
+M,Desea algo más ? .,Nueva_consulta,852,B414_BA9c6
+U,¿ Hay posibilidad de viajar en el Ave ? .,Pregunta,852,B414_BA9c6
+M,¿ Desea hacer el viaje en un ave ? .,Confirmacion,852,B414_BA9c6
+U,Sí .,Afirmacion,852,B414_BA9c6
+M,"Le consulto horarios de trenes con salida en sevilla destino madrid saliendo el martes , día 15 de junio de 2004 en ave .",Confirmacion,852,B414_BA9c6
+M,Un momento por favor .,Espera,852,B414_BA9c6
+M,Hay varios trenes . El primero sale a las 6 y 30 de la mañana y el último a las 10 de la noche .,Respuesta,852,B414_BA9c6
+M,Desea algo más ? .,Nueva_consulta,852,B414_BA9c6
+U,El que sale a las seis treinta,Pregunta,852,B414_BA9c6
+U,¿ a qué hora llega a Madrid ? .,Pregunta,852,B414_BA9c6
+M,Ese tren sale a las 6 y 30 de la mañana y llega a las 9 y 5 de la mañana .,Respuesta,852,B414_BA9c6
+M,Desea algo más ? .,Nueva_consulta,852,B414_BA9c6
+U,No .,Cierre,852,B414_BA9c6
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,852,B414_BA9c6
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,855,B414_BB1c4
+U,Quisiera saber el horario y el precio de los trenes a La_Coruña .,Pregunta,855,B414_BB1c4
+M,¿ Quiere llegar a la_coruña ? .,Confirmacion,855,B414_BB1c4
+U,Sí .,Afirmacion,855,B414_BB1c4
+M,¿ Qué día desea salir ? .,Pregunta,855,B414_BB1c4
+U,El once de marzo .,Respuesta,855,B414_BB1c4
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,855,B414_BB1c4
+U,Once de marzo .,Respuesta,855,B414_BB1c4
+M,"¿ Desea salir el viernes , día 11 de marzo de 2005 ? .",Confirmacion,855,B414_BB1c4
+U,Sí .,Afirmacion,855,B414_BB1c4
+M,"Quiere horarios de trenes a la_coruña ,",Confirmacion,855,B414_BB1c4
+M,¿ desde bilbao ? .,Confirmacion,855,B414_BB1c4
+U,Sí .,Afirmacion,855,B414_BB1c4
+M,"Le consulto horarios de trenes con salida en bilbao destino la_coruña saliendo el viernes , día 11 de marzo de 2005 .",Confirmacion,855,B414_BB1c4
+M,Un momento por favor .,Espera,855,B414_BB1c4
+M,El único tren que realiza el trayecto es un diurno que sale a las 9 y 25 de la mañana .,Respuesta,855,B414_BB1c4
+M,Desea algo más ? .,Nueva_consulta,855,B414_BB1c4
+U,¿ A qué hora llega a La_Coruña ? .,Pregunta,855,B414_BB1c4
+M,Ese tren sale a las 9 y 25 de la mañana y llega a las 9 y 18 de la noche .,Respuesta,855,B414_BB1c4
+M,Desea algo más ? .,Nueva_consulta,855,B414_BB1c4
+U,¿ Cuál es el precio del viaje ? .,Pregunta,855,B414_BB1c4
+M,El precio de ese tren en clase turista es 36 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,855,B414_BB1c4
+M,Desea algo más ? .,Nueva_consulta,855,B414_BB1c4
+U,No .,Cierre,855,B414_BB1c4
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,855,B414_BB1c4
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,867,V214_VA6c0
+U,"Hola , quiero saber el horario de un tren que salga de Sevilla",Pregunta,867,V214_VA6c0
+U,y vaya a Córdoba,Pregunta,867,V214_VA6c0
+U,para este viernes .,Pregunta,867,V214_VA6c0
+M,"Le consulto horarios de trenes con salida en valencia destino córdoba saliendo el viernes , día 19 de diciembre de 2003 .",Confirmacion,867,V214_VA6c0
+M,Un momento por favor .,Espera,867,V214_VA6c0
+M,"Sólo hay dos trenes con salida el viernes , día 19 de diciembre de 2003 . El primero sale a las 0 y 27 y el otro a las 11 y 30 .",Respuesta,867,V214_VA6c0
+M,Desea algo más ? .,Nueva_consulta,867,V214_VA6c0
+U,Qué tipo de tren hay en ese horario .,Pregunta,867,V214_VA6c0
+M,Le consulto tipos de tren .,Confirmacion,867,V214_VA6c0
+M,Un momento por favor .,Espera,867,V214_VA6c0
+M,Dispone de dos tipos de trenes . El tren más rápido es un trenhotel y el otro es un garcía_lorca .,Respuesta,867,V214_VA6c0
+M,Desea algo más ? .,Nueva_consulta,867,V214_VA6c0
+U,"No , ya está , muchas gracias .",Cierre,867,V214_VA6c0
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,867,V214_VA6c0
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,881,Z415_ZA7a1
+U,Deseo obtener horario para viajar de Sevilla,Pregunta,881,Z415_ZA7a1
+U,"a Cádiz ,",Pregunta,881,Z415_ZA7a1
+U,"el próximo día treinta ,",Pregunta,881,Z415_ZA7a1
+U,en un tren regional .,Pregunta,881,Z415_ZA7a1
+M,¿ Qué día desea salir ? .,Pregunta,881,Z415_ZA7a1
+U,El próximo día treinta de abril .,Respuesta,881,Z415_ZA7a1
+M,"Quiere horarios de trenes a sevilla ,",Confirmacion,881,Z415_ZA7a1
+M,¿ desde zaragoza ? .,Confirmacion,881,Z415_ZA7a1
+U,"No ,",Negacion,881,Z415_ZA7a1
+U,quiero a Sevilla,Respuesta,881,Z415_ZA7a1
+U,desde Cádiz .,Respuesta,881,Z415_ZA7a1
+M,"Le consulto horarios de trenes con salida en cádiz destino sevilla saliendo el viernes , día 30 de abril de 2004 .",Confirmacion,881,Z415_ZA7a1
+M,Un momento por favor .,Espera,881,Z415_ZA7a1
+M,Hay varios trenes . El primero sale a las 5 y 55 de la madrugada y el último a las 7 y 57 de la tarde .,Respuesta,881,Z415_ZA7a1
+M,Desea algo más ? .,Nueva_consulta,881,Z415_ZA7a1
+U,"Sí , quiero horario desde Sevilla",Pregunta,881,Z415_ZA7a1
+U,a Cádiz,Pregunta,881,Z415_ZA7a1
+U,para el próximo día treinta de abril .,Pregunta,881,Z415_ZA7a1
+M,"Le consulto horarios de trenes con salida en sevilla destino cádiz saliendo el viernes , día 30 de abril de 2004 .",Confirmacion,881,Z415_ZA7a1
+M,Un momento por favor .,Espera,881,Z415_ZA7a1
+M,Hay varios trenes . El primero sale a las 6 y 53 de la mañana y el último a las 9 y 35 de la noche .,Respuesta,881,Z415_ZA7a1
+M,Desea algo más ? .,Nueva_consulta,881,Z415_ZA7a1
+U,Que sea un tren regional .,Pregunta,881,Z415_ZA7a1
+M,"Le consulto horarios de trenes con salida en sevilla destino cádiz saliendo el viernes , día 30 de abril de 2004 en regional .",Confirmacion,881,Z415_ZA7a1
+M,Un momento por favor .,Espera,881,Z415_ZA7a1
+M,No hay ningún tren que cumpla estos requerimientos .,Respuesta,881,Z415_ZA7a1
+M,Desea cambiar alguna de las características solicitadas ? .,Nueva_consulta,881,Z415_ZA7a1
+U,No .,Cierre,881,Z415_ZA7a1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,881,Z415_ZA7a1
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,892,Z210_ZA3c5
+U,Quiero saber horarios un tren que salga de Madrid,Pregunta,892,Z210_ZA3c5
+U,el día veinte de abril .,Pregunta,892,Z210_ZA3c5
+M,"¿ Desea salir el martes , día 27 de abril de 2004 ? .",Confirmacion,892,Z210_ZA3c5
+U,No .,Negacion,892,Z210_ZA3c5
+M,¿ A qué ciudad desea viajar ? .,Pregunta,892,Z210_ZA3c5
+U,Madrid .,Respuesta,892,Z210_ZA3c5
+M,¿ Qué día desea salir ? .,Pregunta,892,Z210_ZA3c5
+U,Veinte de abril .,Respuesta,892,Z210_ZA3c5
+M,"Quiere horarios de trenes a madrid ,",Confirmacion,892,Z210_ZA3c5
+M,¿ desde zaragoza ? .,Confirmacion,892,Z210_ZA3c5
+U,Sí .,Afirmacion,892,Z210_ZA3c5
+M,"Le consulto horarios de trenes con salida en zaragoza destino madrid saliendo el martes , día 20 de abril de 2004 .",Confirmacion,892,Z210_ZA3c5
+M,Un momento por favor .,Espera,892,Z210_ZA3c5
+M,Hay varios trenes . El primero sale a las 2 y 48 de la madrugada y el último a las 8 de la tarde .,Respuesta,892,Z210_ZA3c5
+M,Desea algo más ? .,Nueva_consulta,892,Z210_ZA3c5
+U,"No , gracias .",Cierre,892,Z210_ZA3c5
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,892,Z210_ZA3c5
+M,Bienvenido al servicio de información de trenes . ¿ En qué puedo ayudarle? .,Apertura,897,B415_BB7a1
+U,Quisiera saber el precio de viaje de ida,Pregunta,897,B415_BB7a1
+U,desde Bilbao,Pregunta,897,B415_BB7a1
+U,"hasta Madrid ,",Pregunta,897,B415_BB7a1
+U,"el diecisiete de abril ,",Pregunta,897,B415_BB7a1
+U,en un tren rápido .,Pregunta,897,B415_BB7a1
+M,"Quiere saber el precio a madrid ,",Confirmacion,897,B415_BB7a1
+M,¿ desde zaragoza ? .,Confirmacion,897,B415_BB7a1
+U,"No ,",Negacion,897,B415_BB7a1
+U,desde Bilbao .,Respuesta,897,B415_BB7a1
+M,¿ Quiere salir desde bilbao ? .,Confirmacion,897,B415_BB7a1
+U,Sí .,Afirmacion,897,B415_BB7a1
+M,¿ Qué día desea salir ? .,Pregunta,897,B415_BB7a1
+U,Diecisiete de abril del dos mil cuatro .,Respuesta,897,B415_BB7a1
+M,Lo siento . No he entendido bien . puede repetir ? .,No_entendido,897,B415_BB7a1
+U,Diecisiete de abril .,Respuesta,897,B415_BB7a1
+M,"Le consulto precios de bilbao a madrid saliendo el sábado , día 17 de abril de 2004 .",Confirmacion,897,B415_BB7a1
+M,Un momento por favor .,Espera,897,B415_BB7a1
+M,El único tren que realiza el trayecto es un talgo y su precio en clase turista es 29 con 50 euros el billete de ida . Recuerde que el billete de ida y vuelta siempre supone un ahorro del 20 por ciento .,Respuesta,897,B415_BB7a1
+M,Desea algo más ? .,Nueva_consulta,897,B415_BB7a1
+U,No .,Cierre,897,B415_BB7a1
+M,Gracias por utilizar este servicio . Feliz viaje .,Cierre,897,B415_BB7a1

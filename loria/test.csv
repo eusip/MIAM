@@ -1,0 +1,1048 @@
+Speaker,Utterance,Dialogue_Act,Dialogue_ID,File_ID
+Samir,"Déjà de retour avec les plans ?! Bravo les jeunes, vous avez fait vite !",greet,5,Dial_20111128_113927
+Samir,"Que puis-je pour vous, cette fois-ci ?",ask,5,Dial_20111128_113927
+Julie,Yes I !!!,greet,5,Dial_20111128_113927
+Julie,"Ben, vous pouvez me dire où je dois aller pour commencer à fabriquer la manette, peut-être",next_step,5,Dial_20111128_113927
+Samir,"Eh bien, il va falloir la fabriquer, maintenant, cette manette. Allez voir Mélissa, la responsable d'îlot de production, elle vous aidera. Elle doit être à l'atelier de fabrication.",inform,5,Dial_20111128_113927
+Julie,Yes c'est tipar man ...,quit,5,Dial_20111128_113927
+Samir,"Bon, à la prochaine, alors. Je vais retourner à mes occupations.",quit,5,Dial_20111128_113927
+Samir,"Merci de votre visite, bonne chance, et à la prochaine !",quit,5,Dial_20111128_113927
+Preparateur1,Bonjour,greet,9,Dial_20120102_200538
+Preparateur1,je peux vous renseigner sur cet endroit?,ask,9,Dial_20120102_200538
+Julie,Avec plaisir.,yes,9,Dial_20120102_200538
+Preparateur1,"Je vais vous expliquer . Quand on reçoit les granulés de matière , ils sont pleins d' humidité . On ne peut pas les utiliser comme ça , sinon l' eau ferait plein de petites bulles dans le plastique et le produit final serait inutilisable . Alors on les passe dans une étuve , pour bien les sécher , et puis on peut aussi ajouter des colorants , pour donner une nouvelle couleur à la matière .",inform,9,Dial_20120102_200538
+Julie,C'est intéressant et vous jouez quel rôle dans tout ce cycle?,inform_job,9,Dial_20120102_200538
+Preparateur1,"Mon rôle , est de m' assurer que les machines soient bien approvisionnées , avec les bonnes matières , dans les bonnes couleurs . Je dois faire fonctionner les étuves et tout le système d' approvisionnement .",inform,9,Dial_20120102_200538
+Julie,Intéressant. Vous pouvez me dire autre chose?,todo_failure,9,Dial_20120102_200538
+Preparateur1,"Si jamais il y a une panne j' appelle le technicien de maintenance c' est lui le pro pour tout réparer . mais mieux vaut prévenir que guérir . Alors son job , c' est aussi de passer régulièrement pour vérifier que tout va bien et corriger si nécessaire .",inform,9,Dial_20120102_200538
+Julie,Bon je pars maintenant!,quit,9,Dial_20120102_200538
+Preparateur1,"Avant que vous décidiez de partir j'aurais besoin de votre aide pour alimenter une machine. Pouvez-vous m'aider? Je dois alimenter une machine qui fabrique des sacs plastiques. Pouvez-vous rechercher la matière qui est la plus appropriée pour cette machine? Il s'agit d'une matière plastique ""éco"".",ask,9,Dial_20120102_200538
+Julie,Bien volontiers.,yes,9,Dial_20120102_200538
+Preparateur1,"ok, c'est parti",inform,9,Dial_20120102_200538
+Preparateur1,Bon courage pour la suite.,quit,9,Dial_20120102_200538
+Serge,Beau travail!,greet,14,Dial_20120105_192522
+Ben,Merci. C'est grâce à vous.,greet,14,Dial_20120105_192522
+Serge,"Bon , il est temps que je vous laisse . Il ne vous reste plus qu' à trouver les composants électroniques pour terminer cette manette . Sophia doit les avoir sur elle , je l' ai vue passer tout à l' heure .",inform,14,Dial_20120105_192522
+Ben,Ok. Merci encore.,quit,14,Dial_20120105_192522
+Serge,"Mais avant de partir , voulez vous faire un mini quizz avec moi ?",ask,14,Dial_20120105_192522
+Ben,Ouais?,yes,14,Dial_20120105_192522
+Serge,Que compter vous faire de cette une fois qu' elle ne fonctionnera plus ?,ask,14,Dial_20120105_192522
+Ben,Je ne sais pas.. il faut avoir une autre machine pour détruire..,todo_irreparable,14,Dial_20120105_192522
+Serge,"Et bien , on raméne les équipements hors - service au magasin , ils pourront les faire recycler .",inform,14,Dial_20120105_192522
+Ben,Ok...,yes,14,Dial_20120105_192522
+Serge,"Bon, je vous laisse. Bonne continuation !",quit,14,Dial_20120105_192522
+Mélissa,"Bonjour, je suis Mélissa la responsable d'îlot de production.",greet,46,Dial_20110617_140755
+Mélissa,Qu'est-ce que je peux faire pour vous?,ask,46,Dial_20110617_140755
+Lucas,on a besoin d'une manette,manufacturing_reqs,46,Dial_20110617_140755
+Mélissa,"bien sûr. pour fabriquer une pièce, il vous faut un moule, une machine et de la matière colorée dans la bonne teinte.",inform,46,Dial_20110617_140755
+Mélissa,savez vous où trouver tout ça ?,ask,46,Dial_20110617_140755
+Lucas,non du tout,no,46,Dial_20110617_140755
+Mélissa,"Procédons par étapes: les moules on les garde dans une pièce spéciale, le magasin de stockage de moules, qui leur est entièrement dédiée. C'est qu'on en prend soin, de nos moules, ce sont les éléments les plus précieux et les plus importants de l' entreprise. Avec les clients et le personnel, bien sûr",inform,46,Dial_20110617_140755
+Mélissa,revenez me voir quand vous l'avez .,quit,46,Dial_20110617_140755
+Preparateur1,"Bonjour, je suis Preparator le préparateur matière.",greet,67,Dial_20111224_220116
+Preparateur1,"Que puis-je faire pour vous ? De l'aide, un renseignement, peut-être ?",ask,67,Dial_20111224_220116
+Julie,Allons-y,yes,67,Dial_20111224_220116
+Preparateur1,Je peux vous parler un peu de mon métier ou de l'espace matière ... Je peux aussi vous parler un peu de la maintenance des machines si vous le souhaitez.,inform,67,Dial_20111224_220116
+Julie,"Ah oui, allez-y !",yes,67,Dial_20111224_220116
+Preparateur1,"En fait, quand on reçoit les granulés de matière, ils sont pleins d'humidité. On ne peut pas les utiliser comme ça, sinon l'eau ferait plein de petites bulles dans le plastique et le produit final serait inutilisable. Alors on les passe dans une étuve, pour bien les sécher, et puis on peut aussi ajouter des colorants, pour donner une nouvelle couleur à la matière.",inform,67,Dial_20111224_220116
+Julie,"Ah, d'accord ! Merci !",ack,67,Dial_20111224_220116
+Preparateur1,"J'ai un petit service à vous demander. J'ai une nouvelle machine à alimenter, elle doit faire des sacs plastiques, mais je ne me rappelle plus de la matière qu'il faut. Voulez-vous me donner un coup de main ?",ask,67,Dial_20111224_220116
+Julie,"Bah,pourquoi pas",yes,67,Dial_20111224_220116
+Preparateur1,"Ok, merci ! Alors c'est parti !",inform,67,Dial_20111224_220116
+Preparateur1,"Bon, vous savez tout ! Je vais reprendre mon travail. Bonne chance !",quit,67,Dial_20111224_220116
+Preparateur1,"Bonjour, je suis Preparateur1 le préparateur matière.",greet,103,Dial_20110616_145910
+Preparateur1,Qu'est-ce que je peux faire pour vous?,ask,103,Dial_20110616_145910
+Julie,Je voudrais en savoir plus de l'espace matiere,inform_material_space,103,Dial_20110616_145910
+Preparateur1,"Eh bien quand on reçoit les granulés de matière, ils sont pleins d' humidité. on ne peut pas les utiliser comme ça, sinon l' eau ferait plein de petites bulles dans le plastique et le produit final serait inutilisable. Alors on les passe dans une étuve, pour bien les sécher, et puis on peut aussi ajouter des colorants, pour donner une nouvelle couleur à la matière.",inform,103,Dial_20110616_145910
+Preparateur1,Voulez vous en savoir plus sur mon métier ?,ask,103,Dial_20110616_145910
+Julie,"Oui, racontez moi",yes,103,Dial_20110616_145910
+Preparateur1,"mon rôle, c' est de m' assurer que les machines soient bien approvisionnées, avec les bonnes matières, dans les bonnes couleurs. Je dois faire fonctionner les étuves et tout le système d' approvisionnement.",inform,103,Dial_20110616_145910
+Preparateur1,Voulez vous en savoir plus sur le protocole à suivre en cas de panne ?,ask,103,Dial_20110616_145910
+Julie,Oui s'il te plait,yes,103,Dial_20110616_145910
+Preparateur1,"Si jamais il y a une panne j' appelle le technicien de maintenance c' est lui le pro pour tout réparer. mais mieux vaut prévenir que guérir. Alors son job, c' est aussi de passer régulièrement pour vérifier que tout va bien et corriger si nécessaire.",inform,103,Dial_20110616_145910
+Preparateur1,"voila, je crois que je vous ai tout dit ...",quit,103,Dial_20110616_145910
+Julie,"Merci beaucoup, c'est tres interesant!!",quit,103,Dial_20110616_145910
+Preparateur1,"Attendez ne partez pas si vite! j' ai une nouvelle machine à alimenter, elle doit faire des sacs plastiques, mais Je ne me rappelle plus de la matière qu' il faut. Tu veux bien me donner un coup de main?",ask,103,Dial_20110616_145910
+Julie,"Oui, bien sur!",yes,103,Dial_20110616_145910
+Preparateur1,"ok, c' est parti",inform,103,Dial_20110616_145910
+Preparateur1,"merci de votre aide, au revoir !",quit,103,Dial_20110616_145910
+Samir,Bravo !  Vous avez êté rapides !,greet,117,Dial_20111211_180147
+Julie,"Qu'est-ce qu'il faut faire, là?",next_step,117,Dial_20111211_180147
+Samir,"Eh bien , il va falloir la fabriquer maintenant cette manette . Allez voir Mélissa , la responsable d' îlot de production , elle va vous aider . Elle doit être dans l' atelier de fabrication .",inform,117,Dial_20111211_180147
+Julie,"Ok, super. Merci!",quit,117,Dial_20111211_180147
+Samir,"Ok, Bonne Chance !",quit,117,Dial_20111211_180147
+Serge,Bravo! Vous avez été rapides!,greet,121,Dial_20110617_120539
+Serge,Qu'est-ce que je peux faire pour vous?,ask,121,Dial_20110617_120539
+Ben,"je ne sais pas, qu'est ce que vous proposez?",help,121,Dial_20110617_120539
+Serge,Je peux vous indiquer la prochaine étape et vous donner des informations sur les équipements irréparables.,inform,121,Dial_20110617_120539
+Serge,qu'est ce qui vous intéresse ?,ask,121,Dial_20110617_120539
+Ben,bah dis moi des choses les équipement irréparable alors,todo_irreparable,121,Dial_20110617_120539
+Serge,"on ramène les équipements hors-service au magasin, ils pourront les faire recycler",inform,121,Dial_20110617_120539
+Serge,Voulez vous en savoir plus sur la prochaine étape ?,ask,121,Dial_20110617_120539
+Ben,dis moi tout suite la suit,next_step,121,Dial_20110617_120539
+Serge,"Il ne vous reste plus qu' à trouver les composants électroniques pour terminer cette manette. Sophia doit les avoir sur elle, je l' ai vue passer tout à l' heure.",inform,121,Dial_20110617_120539
+Serge,J'aurais aimé continuer à répondre à vos questions mais je dois reprendre mon travail! Bonne Chance!,quit,121,Dial_20110617_120539
+Lucas,J'ai trouvé!,greet,127,Dial_20111229_142703
+Lucas,Qu'est-ce qu'il faut faire?,next_step,127,Dial_20111229_142703
+Mélissa,"Il faut d' abord chercher la machine qui convient sur laquelle monter votre moule . avec la fiche du moule et celle des machines , ça ne devrait pas être trop compliqué .",inform,127,Dial_20111229_142703
+Lucas,"Ok, à toute!",quit,127,Dial_20111229_142703
+Mélissa,Bravo! Vous avez été rapides!,greet,129,Dial_20110615_111341
+Mélissa,Qu'est-ce que je peux faire pour vous?,ask,129,Dial_20110615_111341
+Lucas,Quelle machine doit on utiliser pour fabriquer la manette ?,next_step,129,Dial_20110615_111341
+Mélissa,"d' abord, cherchez la machine qui convient sur laquelle monter votre moule. Avec la fiche du moule et celle des machines, ça ne devrait pas être trop compliqué.",inform,129,Dial_20110615_111341
+Mélissa,revenez me voir une fois que vous avez monté le moule dessus.,quit,129,Dial_20110615_111341
+Mélissa,Encore bien joué !,greet,130,Dial_20120105_191834
+Mélissa,Vous avez trouvé votre moule ainsi que la machine correspondante ?,ask,130,Dial_20120105_191834
+Lucas,Et oui!,yes,130,Dial_20120105_191834
+Mélissa,"Ok, le monteur régleur va s' en charger . Il y en a pour 1 bonne heure . Pendant ce temps , Allez préparer la matière plastique pour alimenter la machine . Il faut que tout soit prêt dans 1 heure , quand on va la mettre en route . Sinon on perdra du temps sur la production . Et le temps , c' est de l' argent",inform,130,Dial_20120105_191834
+Lucas,Ok,ack,130,Dial_20120105_191834
+Mélissa,Au revoir!,quit,130,Dial_20120105_191834
+Lucas,Je vous remercie! Au revoir,quit,130,Dial_20120105_191834
+M.Jasper,"Bonjour, je suis M.Jasper le directeur.",greet,134,Dial_20110614_110423
+M.Jasper,Qu'est-ce que je peux faire pour vous?,ask,134,Dial_20110614_110423
+Lucas,je dois sauver mon oncle,first_step,134,Dial_20110614_110423
+M.Jasper,"Pour faire votre manette, il vous faut des plans. Allez voir dans le bureau d' études, ils devraient y être.",inform,134,Dial_20110614_110423
+M.Jasper,J'aurais aimé continuer à répondre à vos questions mais je dois reprendre mon travail! Bonne Chance!,quit,134,Dial_20110614_110423
+Mélissa,"Vous revoila , vous vous êtes bien débrouillé",greet,135,Dial_20111203_115352
+Lucas,"Oui, maintenant, qu'est-ce que je peux faire?",next_step,135,Dial_20111203_115352
+Mélissa,"D' abord , cherchez la machine qui convient sur laquelle monter votre moule . Avec la fiche du moule et celle des machines , ça ne devrait pas être trop compliqué .",inform,135,Dial_20111203_115352
+Lucas,"Ok, j'y vais.",quit,135,Dial_20111203_115352
+Mélissa,"Une fois que vous avez trouvé la bonne machine , posez votre moule dessus et revenez me voir .",quit,135,Dial_20111203_115352
+Samir,"Déjà de retour avec les plans ?! Bravo les jeunes, vous avez fait vite !",greet,139,Dial_20111122_201523
+Samir,"Que puis-je pour vous, cette fois-ci ?",ask,139,Dial_20111122_201523
+Julie,Euuuh,ack,139,Dial_20111122_201523
+Samir,"Je peux vous indiquer la prochaine étape de votre quête, et je peux aussi vous donner des informations supplémentaires sur les métiers et les employés de cette entreprise, si ça vous dit. Par exemple quelles études nous avons fait et quel est le profil des gens travaillent ici, à Plastechnologies.",inform,139,Dial_20111122_201523
+Julie,"Oui, je voudrais bien savoir quoi faire ensuite ...",next_step,139,Dial_20111122_201523
+Julie,La suite des opérations quoi ...,next_step,139,Dial_20111122_201523
+Samir,"Eh bien, il va falloir la fabriquer, maintenant, cette manette. Allez voir Mélissa, la responsable d'îlot de production, elle vous aidera. Elle doit être à l'atelier de fabrication.",inform,139,Dial_20111122_201523
+Julie,Très bien.,ack,139,Dial_20111122_201523
+Samir,Si vous avez le temps je peux encore répondre à vos éventuelles questions.,ask,139,Dial_20111122_201523
+Julie,Je n'ai plus vraiment de questions ...,no,139,Dial_20111122_201523
+Samir,"Bon, à la prochaine, alors. Je vais retourner à mes occupations.",quit,139,Dial_20111122_201523
+Samir,"Merci de votre visite, bonne chance, et à la prochaine !",quit,139,Dial_20111122_201523
+M.Jasper,"Bonjour, je suis M.Jasper le directeur.",greet,160,Dial_20120107_173431
+M.Jasper,Que puis-je faire pour vous aider ?,ask,160,Dial_20120107_173431
+Lucas,"Enchanté, moi c'est Lucas",greet,160,Dial_20120107_173431
+Lucas,"Je voudrais trouver la manette que je cherche. C'est vous savez, pour l'invention de mon père, là, un vieux geek",first_step,160,Dial_20120107_173431
+M.Jasper,"Pour fabriquer la manette dont vous avez besoin pour l'appareil de votre père, vous devez commencer par récupérer les plans auprès de Samir, dans le bureau d'études. Il vous faut un badge pour y entrer.",inform,160,Dial_20120107_173431
+Lucas,"Ah, très bien, très bien !",ack,160,Dial_20120107_173431
+M.Jasper,"Allez voir Samir au bureau d'études. Au revoir et bonne chance ! Ah, et n'oubliez pas d'utiliser un badge pour pouvoir y entrer !",quit,160,Dial_20120107_173431
+Samir,"Bonjour, je suis Samir le concepteur de produit.",greet,165,Dial_20111116_144224
+Samir,Je peux vous aider ?,ask,165,Dial_20111116_144224
+Julie,Bonjour Samir,greet,165,Dial_20111116_144224
+Julie,Je voudrais des infos pour ma manette,find_plans,165,Dial_20111116_144224
+Samir,"Tous les plans sont dans l'armoire, mais elle est verrouillée par un code. Ah, la protection des données ... C'est un défi permanent. Je ne connais pas le code, mais je sais que le responsable regarde souvent autour de lui avant de le taper. Mais bon, ce n'est jamais que 3 chiffres ... Je suis sûr qu'en étant un peu observateur ...",inform,165,Dial_20111116_144224
+Julie,"Ok, je vais voir ça",quit,165,Dial_20111116_144224
+Samir,"Bon, eh bien, si je peux vous être de nouveau utile, vous savez où me trouver ...",quit,165,Dial_20111116_144224
+Samir,"Eh bien, je me remet au travail. Bonne chance pour trouver le code de l'armoire ! N'hésitez pas à revenir me voir lorsque vous aurez les plans.",quit,165,Dial_20111116_144224
+Preparateur1,"Bonjour, je suis Preparateur1 le préparateur matière.",greet,180,Dial_20110530_161659
+Preparateur1,Qu'est-ce que je peux faire pour vous?,ask,180,Dial_20110530_161659
+Julie,mais quel est votre nom?,help,180,Dial_20110530_161659
+Julie,mais quel est votre nom?,help,180,Dial_20110530_161659
+Preparateur1,"Je peux vous donner des informations sur mon métier, l' Espace Matières et la maintenance",inform,180,Dial_20110530_161659
+Preparateur1,Voulez vous en savoir plus?,ask,180,Dial_20110530_161659
+Julie,oui je voudrais en connaître plus sur la matière ABS.,inform_material_space,180,Dial_20110530_161659
+Preparateur1,"Eh bien quand on reçoit les granulés de matière, ils sont pleins d' humidité. on ne peut pas les utiliser comme ça, sinon l' eau ferait plein de petites bulles dans le plastique et le produit final serait inutilisable. Alors on les passe dans une étuve, pour bien les sécher, et puis on peut aussi ajouter des colorants, pour donner une nouvelle couleur à la matière.",inform,180,Dial_20110530_161659
+Preparateur1,Voulez vous en savoir plus?,ask,180,Dial_20110530_161659
+Julie,et la maintenance?,todo_failure,180,Dial_20110530_161659
+Julie,et la maintenance?,todo_failure,180,Dial_20110530_161659
+Preparateur1,"Si jamais il y a une panne j' appelle le technicien de maintenance c' est lui le pro pour tout réparer. mais mieux vaut prévenir que guérir. Alors son job, c' est aussi de passer régulièrement pour vérifier que tout va bien et corriger si nécessaire.",inform,180,Dial_20110530_161659
+Preparateur1,Voulez vous en savoir plus sur mon métier à moi ?,ask,180,Dial_20110530_161659
+Julie,"bien sûr, j'adore votre job",inform_job,180,Dial_20110530_161659
+Julie,"bien sûr, j'adore votre job",inform_job,180,Dial_20110530_161659
+Preparateur1,"mon rôle, c' est de m' assurer que les machines soient bien approvisionnées, Avec les bonnes matières, dans les bonnes couleurs. Je dois faire fonctionner les étuves et tout le système d' approvisionnement.",inform,180,Dial_20110530_161659
+Preparateur1,Voulez vous en savoir plus?,ask,180,Dial_20110530_161659
+Julie,"non merci, vous avez été très gentil. Au revoir.",quit,180,Dial_20110530_161659
+Julie,"non merci, vous avez été très gentil. Au revoir.",no,180,Dial_20110530_161659
+Preparateur1,"attndez, ne partez pas si vite, j'ai un petit service à vous demander. J' ai une nouvelle machine à alimenter, elle doit faire des sacs plastiques, mais Je ne me rappelle plus de la matière qu' il faut. Tu veux bien me donner un coup de main",ask,180,Dial_20110530_161659
+Julie,oui si ca vous fait plaisir.,yes,180,Dial_20110530_161659
+Preparateur1,"ok, c' est parti",inform,180,Dial_20110530_161659
+Preparateur1,"Merci de votre aide, à plus tard.",quit,180,Dial_20110530_161659
+Sophia,"Bonjour, je suis Sophia l' opérateur en décoration.",greet,188,Dial_20110525_143135
+Sophia,Qu'est-ce que je peux faire pour vous?,ask,188,Dial_20110525_143135
+Julie,"je ne sais pas, que pouvez vous faire pour nous ?",help,188,Dial_20110525_143135
+Sophia,Je peux vous donner des informations sur les composants électroniques et mon métier,inform,188,Dial_20110525_143135
+Sophia,Voila,ask,188,Dial_20110525_143135
+Julie,et bien je veux bien avoir quelques renseigments sur votre métier oui,informer_decoration,188,Dial_20110525_143135
+Sophia,Je m' occupe de la finition décoration. C' est un métier pour lequel il faut être polyvalent et minutieux.,inform,188,Dial_20110525_143135
+Sophia,Voulez vous en savoir plus?,ask,188,Dial_20110525_143135
+Julie,oui maintenant il nous faudrait nos composants électroniques s'il vous plaît. Savez vous où ils se trouvent ?,informer_elcomps,188,Dial_20110525_143135
+Sophia,"Eh bien Justement, je venais vous les apporter j' ai entendu parler de votre histoire de manette et comme j' avais les composants à portée de main, je me suis dis que ça vous ferait gagner du temps si je vous les apportais par contre, je vous laisse vous occuper de l' assemblage",inform,188,Dial_20110525_143135
+Sophia,bon assemblage !,quit,188,Dial_20110525_143135
+Samir,"Bonjour , je suis Samir le concepteur de produit .",greet,189,Dial_20111226_113716
+Julie,Bonjour!,greet,189,Dial_20111226_113716
+Samir,Je peux vous aider ?,ask,189,Dial_20111226_113716
+Julie,"On vient pour chercher les plans, Monsieur.",find_plans,189,Dial_20111226_113716
+Samir,"Ils sont dans l' armoire , mais elle est verrouillée par un code . Ah la protection des données . Un défi permanent . Je ne connais pas ce code , mais je sais que le responsable regarde souvent autour de lui avant de le taper . Je sais seulement qu' il y a 3 chiffres .",inform,189,Dial_20111226_113716
+Julie,"Ok, Je vais aller voir",ack,189,Dial_20111226_113716
+Samir,Voulez vous en savoir plus sur la sécurité ici ?,ask,189,Dial_20111226_113716
+Julie,La sécurité?,security_policies,189,Dial_20111226_113716
+Samir,"Vous savez , ici vous êtes dans un lieu stratégique . Les nouveautés , les produits de demain , c' est ici qu' ils naissent . Et il faut les protéger . C' est pour ça qu' on ne laisse pas entrer n' importe qui dans cette piéce .",inform,189,Dial_20111226_113716
+Julie,"Ah, oui! Bien sûr",ack,189,Dial_20111226_113716
+Samir,Voulez vous en savoir plus sur les études que j' ai faites ?,ask,189,Dial_20111226_113716
+Julie,"Non, merci, Monsieur. Je voudrais aller chercher les plans.",no,189,Dial_20111226_113716
+Sophia,"Bonjour , je suis Sophia l' opératrice en décoration .",greet,229,Dial_20120103_170152
+Sophia,Je vous apporte les composants électronique qu'il vous manque .,inform,229,Dial_20120103_170152
+Julie,Cool! c'est bien que je tombe justement sur vous par puuuuuuur hasard. Alors je vais devoir souder les composants un à un? seulement j'ai oublié mon fer à souder que j'ai pourtant l'habitude de toujours mettre dans ma poche.,ack,229,Dial_20120103_170152
+Sophia,Je vous laisse vous occuper de l' assemblage. Vous ne devriez pas avoir de problème.,quit,229,Dial_20120103_170152
+Sophia,"Bien joué les enfants, vous avez fait du beau travail !",greet,239,Dial_20111115_231632
+Sophia,"Alors, où en sommes nous ?",ask,239,Dial_20111115_231632
+Lucas,je crois qu'on a terminé,informer_end_manufacturing,239,Dial_20111115_231632
+Sophia,Et bien on finit la fabrication par conditionner le produit.,inform,239,Dial_20111115_231632
+Lucas,"ah, conditionner ? c'est quoi ?",informer_conditioner,239,Dial_20111115_231632
+Sophia,"Conditioner le produit, c'est l' emballer soigneusement pour pouvoir l'expédier au client. Aldo, le logisticien, s'assure qu'on ne manque pas de stock ; il gère les livraisons et les expéditions.",inform,239,Dial_20111115_231632
+Lucas,"ah, je vois",ack,239,Dial_20111115_231632
+Lucas,"alors c'est bien, on a fini !",ack,239,Dial_20111115_231632
+Sophia,"Au revoir vous trois, ce fut un plaisir !",quit,239,Dial_20111115_231632
+M.Jasper,"Bonjour, je suis M.Jasper le directeur.",greet,243,Dial_20110609_140849
+M.Jasper,Qu'est-ce que je peux faire pour vous?,ask,243,Dial_20110609_140849
+Lucas,Il nous faudrait la commande du professeur Geekman s'il vous plait.,first_step,243,Dial_20110609_140849
+M.Jasper,"Pour faire votre manette, il vous faut des plans. Allez voir dans le bureau d' études, ils devraient y être.",inform,243,Dial_20110609_140849
+M.Jasper,J'aurais aimé continuer à répondre à vos questions mais je dois reprendre mon travail! Bonne Chance!,quit,243,Dial_20110609_140849
+Preparateur1,"Bonjour, je suis Preparator le préparateur matière.",greet,265,Dial_20120107_182554
+Preparateur1,"Que puis-je faire pour vous ? De l'aide, un renseignement, peut-être ?",ask,265,Dial_20120107_182554
+Julie,"Bonjour, ben oui,pourquoi pas ...",yes,265,Dial_20120107_182554
+Preparateur1,Je peux vous parler un peu de mon métier ou de l'espace matière ... Je peux aussi vous parler un peu de la maintenance des machines si vous le souhaitez.,inform,265,Dial_20120107_182554
+Julie,"Oui, quel est votre métier, Preparator ?",inform_job,265,Dial_20120107_182554
+Preparateur1,"Mon rôle, c' est de m' assurer que les machines soient bien approvisionnées, avec les bonnes matières, dans les bonnes couleurs. Je dois faire fonctionner les étuves et tout le système d' approvisionnement.",inform,265,Dial_20120107_182554
+Julie,"Ah ok,super intéressant ça ...",ack,265,Dial_20120107_182554
+Julie,"Et mais il fait drolement chaud ici, vous rester là toute la journée ?",inform_material_space,265,Dial_20120107_182554
+Preparateur1,"En fait, quand on reçoit les granulés de matière, ils sont pleins d'humidité. On ne peut pas les utiliser comme ça, sinon l'eau ferait plein de petites bulles dans le plastique et le produit final serait inutilisable. Alors on les passe dans une étuve, pour bien les sécher, et puis on peut aussi ajouter des colorants, pour donner une nouvelle couleur à la matière.",inform,265,Dial_20120107_182554
+Julie,"D'accord d'accord ! Oui, c'est l'humidité aussi ...",ack,265,Dial_20120107_182554
+Julie,"Et donc,allez y, parlez moi un peu de la maintenance, pour voir ?",todo_failure,265,Dial_20120107_182554
+Preparateur1,"Si jamais il y a une panne j' appelle le technicien de maintenance c' est lui le pro pour tout réparer. Mais mieux vaut prévenir que guérir. Alors son travail, c' est aussi de passer régulièrement pour vérifier que tout va bien et corriger si nécessaire.",inform,265,Dial_20120107_182554
+Preparateur1,"J'ai un petit service à vous demander. J'ai une nouvelle machine à alimenter, elle doit faire des sacs plastiques, mais je ne me rappelle plus de la matière qu'il faut. Voulez-vous me donner un coup de main ?",ask,265,Dial_20120107_182554
+Julie,"euh, oui,pourquoi pas",yes,265,Dial_20120107_182554
+Preparateur1,"Ok, merci ! Alors c'est parti !",inform,265,Dial_20120107_182554
+Preparateur1,"Bon, vous savez tout ! Je vais reprendre mon travail. Bonne chance !",quit,265,Dial_20120107_182554
+Samir,"Bonjour, je suis Samir le concepteur de produit.",greet,273,Dial_20110526_135247
+Samir,Qu'est-ce que je peux faire pour vous?,ask,273,Dial_20110526_135247
+Julie,je ne sais pas ce que je dois faire,help,273,Dial_20110526_135247
+Samir,"Je peux vous aider trouver les plans et vous donner des informations sur les normes de sécurité et sur mon métier. Par exemple quels sont les études nécessaires et quels types de gens peuvent faire cet métier(homme, femme).",inform,273,Dial_20110526_135247
+Samir,Voulez vous en savoir plus?,ask,273,Dial_20110526_135247
+Julie,"oui, je veux bien avoir plus de renseignements sur le métier que vous faites.",inform_job,273,Dial_20110526_135247
+Samir,c' est moi qui conçois et dessine les articles qu' on fabrique dans cette entreprise.,inform,273,Dial_20110526_135247
+Samir,ça vous intéresse ?,ask,273,Dial_20110526_135247
+Julie,"oui, c'est original. Et vous avez fait quoi comme &études pour faire ce métier ?",studies_job,273,Dial_20110526_135247
+Samir,"C' est un métier de création. Plusieurs formations peuvent mener à ce métier les arts appliqués, des études de design industriel, de conception assistée par ordinateur",inform,273,Dial_20110526_135247
+Samir,quels autres renseignements vous ferait plaisir ?,ask,273,Dial_20110526_135247
+Julie,"vous aviez dit que vous pouviez me parler du étype de gens"" qui travaillent ici. Pouvez vous m'en dire un peu plus ?",staff_job,273,Dial_20110526_135247
+Samir,mon métier peut plaire autant aux filles qu' aux garçons.,inform,273,Dial_20110526_135247
+Samir,Voulez vous en savoir plus?,ask,273,Dial_20110526_135247
+Julie,"non, merci, mais le temps presse. Il nous faut trouver les plans qui nous permettront de fabriquer la manette du professeur Geekman, pouvez vous nous aider ?",find_plans,273,Dial_20110526_135247
+Samir,"Oui, ils sont dans l' armoire, mais elle est verrouillée par un code. Ah la protection des données. Un défi permanent. Je ne connais pas ce code, mais je sais que le responsable regarde souvent autour de lui avant de le taper. Je sais seulement qu' il y a 3 chiffres.",inform,273,Dial_20110526_135247
+Samir,allez donc voir,quit,273,Dial_20110526_135247
+Julie,j'y file,quit,273,Dial_20110526_135247
+Julie,j'y file,quit,273,Dial_20110526_135247
+Samir,Qu' est-ce que vous-voulez savoir?,ask,273,Dial_20110526_135247
+Julie,je dois aller chercher les plans.,quit,273,Dial_20110526_135247
+Julie,je dois aller chercher les plans.,quit,273,Dial_20110526_135247
+Mélissa,Bravo! Vous avez été rapides!,greet,303,Dial_20110615_142327
+Mélissa,Qu'est-ce que je peux faire pour vous?,ask,303,Dial_20110615_142327
+Lucas,Me dire où est ce qu'il y a la machine même si en fait je sais déjà où elle st mouhahha,next_step,303,Dial_20110615_142327
+Mélissa,"d' abord, cherchez la machine qui convient sur laquelle monter votre moule. Avec la fiche du moule et celle des machines, ça ne devrait pas être trop compliqué.",inform,303,Dial_20110615_142327
+Mélissa,revenez me voir une fois que c'est fait.,quit,303,Dial_20110615_142327
+Samir,"Bonjour, je suis Samir le concepteur de produit.",greet,318,Dial_20110606_141239
+Samir,Qu'est-ce que je peux faire pour vous?,ask,318,Dial_20110606_141239
+Julie,Je souhaiterais consulter les plans pour réaliser une manette afin de liberer mon oncle de la console.,find_plans,318,Dial_20110606_141239
+Samir,"Oui, ils sont dans l' armoire, mais elle est verrouillée par un code. Ah la protection des données. Un défi permanent. Je ne connais pas ce code, mais je sais que le responsable regarde souvent autour de lui avant de le taper. Je sais seulement qu' il y a 3 chiffres.",inform,318,Dial_20110606_141239
+Samir,"Mais avant d'aller les chercher, voulez vous que je vous donne des informations sur mon métier, mes collègues, les études que j'ai faites pour en arriver là ... ?",ask,318,Dial_20110606_141239
+Julie,Certainement?,yes,318,Dial_20110606_141239
+Samir,Je conçois et dessine les articles qu' on fabrique dans cette entreprise.,inform,318,Dial_20110606_141239
+Samir,Voulez vous en savoir plus?,ask,318,Dial_20110606_141239
+Julie,Quel genre d'articles?,other,318,Dial_20110606_141239
+Samir,Je suis desolé. Je ne peux pas repondre à cette question.,other,318,Dial_20110606_141239
+Samir,"Voulez vous des informations sur mes collègues, les études que j'ai faites, ou bien les normes de sécurité ?",ask,318,Dial_20110606_141239
+Julie,Qu'en est-il des normes de sécurité?,security_policies,318,Dial_20110606_141239
+Samir,"vous savez, ici vous êtes dans un lieu stratégique. Les nouveautés, les produits de demain, c' est ici qu' ils naissent. Et il faut les protéger. C' est pour ça qu' on ne laisse pas entrer n' importe qui dans cette pièce.",inform,318,Dial_20110606_141239
+Samir,Voulez vous en savoir plus sur mes collègues ou sur les études que j'ai suivi ?,ask,318,Dial_20110606_141239
+Julie,Que font vos collègues?,staff_job,318,Dial_20110606_141239
+Samir,mon métier peut plaire autant aux filles qu' aux garçons.,inform,318,Dial_20110606_141239
+Samir,Voulez vous en savoir plus sur mes études ?,ask,318,Dial_20110606_141239
+Mélissa,"Bonjour, je suis Mélissa la responsable d'îlot de production.",greet,319,Dial_20110615_161758
+Mélissa,Qu'est-ce que je peux faire pour vous?,ask,319,Dial_20110615_161758
+Lucas,il faut que je fasse construire une manette,manufacturing_reqs,319,Dial_20110615_161758
+Mélissa,"bien sûr. pour fabriquer une pièce, il vous faut un moule, une machine et de la matière colorée dans la bonne teinte.",inform,319,Dial_20110615_161758
+Mélissa,savez vous où trouver tout ça ?,ask,319,Dial_20110615_161758
+Lucas,dites moi,yes,319,Dial_20110615_161758
+Mélissa,"Procédons par étapes: les moules on les garde dans une pièce spéciale, le magasin de stockage de moules, qui leur est entièrement dédiée. C'est qu'on en prend soin, de nos moules, ce sont les éléments les plus précieux et les plus importants de l' entreprise. Avec les clients et le personnel, bien sûr",inform,319,Dial_20110615_161758
+Mélissa,revenez me voir une fois que vous l'avez.,quit,319,Dial_20110615_161758
+Mélissa,"Encore une fois , bon travail , vous êtes efficaces",greet,322,Dial_20111210_122306
+Lucas,Merci!,greet,322,Dial_20111210_122306
+Mélissa,Vous avez trouvé votre moule ainsi que la machine correspondante ?,ask,322,Dial_20111210_122306
+Lucas,"Oui, je crois.",yes,322,Dial_20111210_122306
+Mélissa,"Restons serieux . Le monteur régleur va s' en charger de la fabrication de votre piéce . Il y en a pour 1 bonne heure . Pendant ce temps , allez préparer la matière plastique pour alimenter la machine . Il faut que tout soit prêt dans 1 heure , quand on va la mettre en route . Sinon on perdra du temps sur la production . Et le temps , c' est de l' argent",inform,322,Dial_20111210_122306
+Lucas,"Oui, je suis conscient.",yes,322,Dial_20111210_122306
+Mélissa,"Allez , on retourne bosser !",quit,322,Dial_20111210_122306
+Lucas,"Bonjour, vous êtes Melissa?",greet,353,Dial_20111029_222632
+Mélissa,"Bonjour , je suis Mélissa la responsable d' îlot de production .",greet,353,Dial_20111029_222632
+Lucas,"Wow! on est bien tomb?, alors!",ack,353,Dial_20111029_222632
+Mélissa,"Que voulez vous , dites moi vous trois ?",ask,353,Dial_20111029_222632
+Lucas,On veut fabriquer une manette et on a déjà trouvé des plans. Mais on ne sais pas quoi faire avec.,manufacturing_reqs,353,Dial_20111029_222632
+Mélissa,"Bien sûr . Pour fabriquer une piéce , il vous faut un moule , une machine et de la matière colorée dans la bonne teinte .",inform,353,Dial_20111029_222632
+Lucas,Ah... où on peut les trouver?,find_mold,353,Dial_20111029_222632
+Mélissa,"Par exemple ou trouver les moules : on les garde dans une piéce spéciale , le magasin de stockage de moules , qui leur est entièrement dédiée . ? C' est qu' on en prend soin , de nos moules , ce sont les éléments les plus précieux et les plus importants de l' entreprise . Avec les clients et le personnel , bien sûr?",inform,353,Dial_20111029_222632
+Lucas,"Ok. Merci, vous êtes bien gentille",ack,353,Dial_20111029_222632
+Mélissa,"Une fois que vous avez le bon moule , revenez me voir pour la suite .",quit,353,Dial_20111029_222632
+Lucas,a tout à l'heure,quit,353,Dial_20111029_222632
+Sophia,Vous avez fait du bon travail les enfants,greet,373,Dial_20111029_120658
+Lucas,Je vous remercie,ack,373,Dial_20111029_120658
+Sophia,Qu' est - ce que je peux faire pour vous ?,ask,373,Dial_20111029_120658
+Lucas,Vous savez qu'est ce qu'on doit faire maintenant?,informer_end_manufacturing,373,Dial_20111029_120658
+Sophia,On fini la fabrication par conditionner le produit,inform,373,Dial_20111029_120658
+Lucas,C'est une étape importante!,ack,373,Dial_20111029_120658
+Sophia,"Tu sais ce que cela signifit , conditionner ?",ask,373,Dial_20111029_120658
+Lucas,Oui,yes,373,Dial_20111029_120658
+Sophia,"au revoir alors , bonne continuation !",quit,373,Dial_20111029_120658
+Samir,Bravo! Vous avez été rapides!,greet,381,Dial_20110609_092559
+Samir,Qu'est-ce que je peux faire pour vous?,ask,381,Dial_20110609_092559
+Julie,"Alors on a les plans, et maintenqnt on fait comment?",next_step,381,Dial_20110609_092559
+Samir,"Eh bien, il va falloir la fabriquer cette manette. Allez voir Mélissa, la responsable d' îlot de production, elle va vous aider. Elle doit être dans l' atelier de fabrication.",inform,381,Dial_20110609_092559
+Samir,"Mais avant, voulez vous que je vous parle un peu de mes collègues et de leurs études ?",ask,381,Dial_20110609_092559
+Julie,"Non, merci.",no,381,Dial_20110609_092559
+Samir,"d'accord, au revoir !",quit,381,Dial_20110609_092559
+Sophia,Bravo! Vous avez été rapides!,greet,388,Dial_20110610_151716
+Sophia,Qu'est-ce que je peux faire pour vous?,ask,388,Dial_20110610_151716
+Lucas,"Ben, on a fini qu'est qu'on fait maintenant?",informer_end_manufacturing,388,Dial_20110610_151716
+Sophia,On finit la fabrication par conditionner le produit,inform,388,Dial_20110610_151716
+Sophia,Voulez vous en savoir plus sur le conditionnement produit ?,ask,388,Dial_20110610_151716
+Lucas,"oui ,bien sur",yes,388,Dial_20110610_151716
+Sophia,"Conditioner le produit veut dire l' emballer soigneusement pour pouvoir l' expédier au client. Aldo, le logisticien assure qu' on ne manque pas de stock et de gérer les livraisons et les expéditions.",inform,388,Dial_20110610_151716
+Sophia,J'aurais aimé continuer à répondre à vos questions mais je dois reprendre mon travail! Bonne Chance!,quit,388,Dial_20110610_151716
+Lucas,Alors!,greet,409,Dial_20110526_134317
+Lucas,Il faut que tu trouves l' adresse de l' entreprise de plasturgie,ask,409,Dial_20110526_134317
+Ben,pourquoi faire ? Pourquoi tu demande pas à Julie ?,no,409,Dial_20110526_134317
+Lucas,"C' est toi le meilleur pour trouver des indices. T' as qu' à fouiller, mon père a dit que c' était ici!",inform,409,Dial_20110526_134317
+Lucas,Allez!,quit,409,Dial_20110526_134317
+Mélissa,"Bonjour, je suis Mélissa la responsable d'îlot de production.",greet,432,Dial_20110615_132504
+Mélissa,Qu'est-ce que je peux faire pour vous?,ask,432,Dial_20110615_132504
+Lucas,Bonjour. Nous aurions besoin d'aide pour fabriquer une manette à partir de plans.,manufacturing_reqs,432,Dial_20110615_132504
+Mélissa,"bien sûr. pour fabriquer une pièce, il vous faut un moule, une machine et de la matière colorée dans la bonne teinte.",inform,432,Dial_20110615_132504
+Mélissa,savez vous où trouver tout ça ?,ask,432,Dial_20110615_132504
+Lucas,non. pourriez-vous m'apporter des précisions ?,no,432,Dial_20110615_132504
+Mélissa,"Procédons par étapes: les moules on les garde dans une pièce spéciale, le magasin de stockage de moules, qui leur est entièrement dédiée. C'est qu'on en prend soin, de nos moules, ce sont les éléments les plus précieux et les plus importants de l' entreprise. Avec les clients et le personnel, bien sûr",inform,432,Dial_20110615_132504
+Mélissa,revenez me voir une fois que vous l'avez.,quit,432,Dial_20110615_132504
+Mélissa,"Vous revoila , vous vous êtes bien débrouillé",greet,436,Dial_20120105_191658
+Lucas,Qu'est-ce qu'il faut faire?,next_step,436,Dial_20120105_191658
+Mélissa,"Il faut d' abord chercher la machine qui convient sur laquelle monter votre moule . avec la fiche du moule et celle des machines , ça ne devrait pas être trop compliqué .",inform,436,Dial_20120105_191658
+Lucas,Ok. j'y vais.,ack,436,Dial_20120105_191658
+Mélissa,"Une fois la machine trouvée , montez bien le moule dessus puis revenez me voir .",quit,436,Dial_20120105_191658
+Lucas,Merci! à toute!,quit,436,Dial_20120105_191658
+Lucas,Alors!,greet,452,Dial_20110708_100537
+Lucas,Tu dois trouver l' adresse de l' entreprise de plasturgie,ask,452,Dial_20110708_100537
+Ben,d'accord. Allons chercher l'adresse alors,yes,452,Dial_20110708_100537
+Lucas,Au boulot!,quit,452,Dial_20110708_100537
+Lucas,Allez!,quit,452,Dial_20110708_100537
+M.Jasper,"Bonjour , je suis M . Jasper le directeur .",greet,464,Dial_20111210_120659
+Lucas,Bonjour!,greet,464,Dial_20111210_120659
+M.Jasper,Qu' est - ce que vous voulez ?,ask,464,Dial_20111210_120659
+Lucas,Nous aimerions fabriquer une manette pour sauver le prof. Geekman,first_step,464,Dial_20111210_120659
+M.Jasper,"Pour faire votre manette , il vous faut des plans . Ils devraient être quelques parts dans le bureau .",inform,464,Dial_20111210_120659
+Lucas,"Ok, Merci de votre aide!",quit,464,Dial_20111210_120659
+M.Jasper,Bon courage vous trois !,quit,464,Dial_20111210_120659
+M.Jasper,"Bonjour, je suis M.Jasper le directeur.",greet,466,Dial_20110707_161345
+M.Jasper,Je pense pouvoir t'aider ?,ask,466,Dial_20110707_161345
+Lucas,Eh bien si vous pensez pouvoir m'aider c'est cool. Faites le.,first_step,466,Dial_20110707_161345
+M.Jasper,"Pour faire votre manette, il vous faut des plans. Allez voir dans le bureau d' études, ils devraient y être.",inform,466,Dial_20110707_161345
+M.Jasper,Bon courage vous trois !,quit,466,Dial_20110707_161345
+Serge,Bravo! Vous avez été rapides!,greet,468,Dial_20110614_162429
+Serge,Qu'est-ce que je peux faire pour vous?,ask,468,Dial_20110614_162429
+Ben,"le test de conformité a été passé, on doit faire quoi maintenant?",next_step,468,Dial_20110614_162429
+Serge,"Il ne vous reste plus qu' à trouver les composants électroniques pour terminer cette manette. Sophia doit les avoir sur elle, je l' ai vue passer tout à l' heure.",inform,468,Dial_20110614_162429
+Serge,"Mais avant, voulez vous faire un mini quizz avec moi ?",ask,468,Dial_20110614_162429
+Ben,"Ce serait sympa, oui",yes,468,Dial_20110614_162429
+Serge,Que faudra t il faire une fois que votre manette sera cassée et irréparable ?,ask,468,Dial_20110614_162429
+Ben,"la recycler, il faut prendre en considération l'environnement",todo_irreparable,468,Dial_20110614_162429
+Serge,"tout à fait, on ramène les équipements hors-service au magasin, ils pourront les faire recycler",inform,468,Dial_20110614_162429
+Serge,J'aurais aimé continuer à répondre à vos questions mais je dois reprendre mon travail! Bonne Chance!,quit,468,Dial_20110614_162429
+Serge,Bravo! Vous avez été rapides!,greet,472,Dial_20110530_111901
+Serge,Qu'est-ce que je peux faire pour vous?,ask,472,Dial_20110530_111901
+Ben,que doit on faire maintenant?,next_step,472,Dial_20110530_111901
+Serge,"Il est temps que Je vous laisse. Il ne vous reste plus qu' à trouver les composants électroniques pour terminer cette manette. Sophia doit les avoir sur elle, je l' ai vue passer tout à l' heure.",inform,472,Dial_20110530_111901
+Serge,voila. Des dernières question sur mon métier ?,ask,472,Dial_20110530_111901
+Ben,"non merci, je vais aller chercher sophia, ou se trouve-t-elle ?",no,472,Dial_20110530_111901
+Serge,Elle doit être dans l'atelier à côté. Allez voir. Bonne continuation !,quit,472,Dial_20110530_111901
+Samir,"Bonjour , je suis Samir le concepteur de produit .",greet,474,Dial_20111227_204551
+Julie,"Ah, c'est vous! Je dois chercher des plans, monsieur",find_plans,474,Dial_20111227_204551
+Samir,"ils sont dans l' armoire , mais elle est verrouillée par un code . Ah la protection des données . Un défi permanent . Je ne connais pas ce code , mais je sais que le responsable regarde souvent autour de lui avant de le taper . Je sais seulement qu' il y a 3 chiffres .",inform,474,Dial_20111227_204551
+Julie,"Ok, merci",ack,474,Dial_20111227_204551
+Samir,"Mais avant , voulez vous que je vous parle une peu de mon métier , mes études , mes collègues , ou encore les mesures de sécurités appliquées ici ?",ask,474,Dial_20111227_204551
+Julie,Oui!,yes,474,Dial_20111227_204551
+Samir,c' est moi qui conçois et dessine les articles qu' on fabrique dans cette entreprise .,inform,474,Dial_20111227_204551
+Julie,Oui. Et comment on peut devenir comme vous?,studies_job,474,Dial_20111227_204551
+Samir,"C' est un métier de création . Plusieurs formations peuvent mener à ce métier les arts appliqués , des études de design industriel , de conception assistée par ordinateur",inform,474,Dial_20111227_204551
+Julie,"Oui, c'est génial comme boulot",ack,474,Dial_20111227_204551
+Samir,mon métier peut plaire autant aux filles qu' aux garçons .,inform,474,Dial_20111227_204551
+Serge,"Bonjour, je suis Serge le technicien QHSE.",greet,478,Dial_20110616_162932
+Serge,Qu'est-ce que je peux faire pour vous?,ask,478,Dial_20110616_162932
+Ben,oui bonjour je suis Ben et j'ai en main une manette qu'on vient tout juste de fabriquer ? pouvez vous nous dire si elle est conforme au plans ?,quality_control,478,Dial_20110616_162932
+Serge,"Je vais m' occuper de tous les autres tests, mais je vous laisse tester la solidité de la coque. c' est simple il faut envoyer 10 poids sur la manette. Si elle résiste, c' est qu' elle est conforme",inform,478,Dial_20110616_162932
+Serge,"Mais avant, voulez vous que je vous parle de mon métier ?",ask,478,Dial_20110616_162932
+Ben,non,no,478,Dial_20110616_162932
+Serge,"ok, alors au travail !",quit,478,Dial_20110616_162932
+Sophia,Bravo ! C' est très bien !,greet,502,Dial_20111229_145552
+Lucas,"C'est fini, non?",informer_end_manufacturing,502,Dial_20111229_145552
+Sophia,Pas encore . on finit la fabrication par conditionner le produit,inform,502,Dial_20111229_145552
+Sophia,"Conditioner le produit veut dire l' emballer soigneusement pour pouvoir l' expédier au client . Aldo , le logisticien assure qu' on ne manque pas de stock et de gérer les livraisons et les expéditions .",inform,502,Dial_20111229_145552
+Lucas,"Ok, merci de votre information",ack,502,Dial_20111229_145552
+Sophia,"Bon , je vous ai tout dit . Au revoir !",quit,502,Dial_20111229_145552
+Lucas,Au revoir! Merci,quit,502,Dial_20111229_145552
+Sophia,"Bonjour, je suis Sophia l' opérateur en décoration.",greet,529,Dial_20110614_145901
+Sophia,Qu'est-ce que je peux faire pour vous?,ask,529,Dial_20110614_145901
+Julie,"bonjour, voici une manette conforme, il faudrait y ajouter le composants electroniques",informer_elcomps,529,Dial_20110614_145901
+Sophia,"Eh bien Justement, je venais vous les apporter. J' ai entendu parler de votre histoire de manette et comme j' avais les composants à portée de main, je me suis dis que ça vous ferait gagner du temps si je vous les apportais. Par contre, je vous laisse vous occuper de l' assemblage",inform,529,Dial_20110614_145901
+Sophia,"Mais avant, voulez vous que je vous parle un petit peu de mon métier ?",ask,529,Dial_20110614_145901
+Julie,oui,yes,529,Dial_20110614_145901
+Sophia,Je m' occupe de la finition décoration. C' est un métier pour lequel il faut être polyvalent et minutieux.,inform,529,Dial_20110614_145901
+Sophia,"Je vous laisse passer à l'assemblage, les pièces sont sur l'établi derrière moi.",quit,529,Dial_20110614_145901
+M.Jasper,"Bonjour, je suis M.Jasper le directeur.",greet,541,Dial_20110712_104210
+M.Jasper,Qu'est-ce qui vous amène ici ?,ask,541,Dial_20110712_104210
+Lucas,je dois fabriquer une manette pour mon oncle,first_step,541,Dial_20110712_104210
+M.Jasper,"Bien, pour cela il vous faut des plans. Allez voir dans le bureau d' études, ils y sont surement.",inform,541,Dial_20110712_104210
+M.Jasper,Bon chance vous trois!,quit,541,Dial_20110712_104210
+Samir,"Bonjour, je suis Samir le concepteur de produit.",greet,557,Dial_20110617_111421
+Samir,Qu'est-ce que je peux faire pour vous?,ask,557,Dial_20110617_111421
+Julie,il parrai que c'est ici qu'on pourrai me dire où est ce que je pourrai faire une manette,find_plans,557,Dial_20110617_111421
+Samir,"Oui, les plans sont dans l' armoire, mais elle est verrouillée par un code. Ah la protection des données. Un défi permanent. Je ne connais pas ce code, mais je sais que le responsable regarde souvent autour de lui avant de le taper. Je sais seulement qu' il y a 3 chiffres.",inform,557,Dial_20110617_111421
+Samir,mais avant voulez vous que je vous parle de mon métier ?,ask,557,Dial_20110617_111421
+Julie,"Oui allez y, je suis super ouvert dans fille ;)",yes,557,Dial_20110617_111421
+Samir,c' est moi qui conçois et dessine les articles qu' on fabrique dans cette entreprise.,inform,557,Dial_20110617_111421
+Samir,Voulez vous en savoir plus? sur mes études ?,ask,557,Dial_20110617_111421
+Julie,"Oui, j'en veux tjrs plus. Quels ont été vos études?",studies_job,557,Dial_20110617_111421
+Samir,"C' est un métier de création. Plusieurs formations peuvent mener à ce métier les arts appliqués, des études de design industriel, de conception assistée par ordinateur",inform,557,Dial_20110617_111421
+Samir,Voulez vous en savoir plus sur les mesures de sécurité appliquées ici ?,ask,557,Dial_20110617_111421
+Julie,Oui quelles sont les mesures qui sont appliqué pour protéger du plastique?,security_policies,557,Dial_20110617_111421
+Samir,"vous savez, ici vous êtes dans un lieu stratégique. Les nouveautés, les produits de demain, c' est ici qu' ils naissent. Et il faut les protéger. C' est pour ça qu' on ne laisse pas entrer n' importe qui dans cette pièce.",inform,557,Dial_20110617_111421
+Samir,Voulez vous en savoir plus sur mes collègues ?,ask,557,Dial_20110617_111421
+Sophia,"Bonjour, je suis Sophia l' opérateur en décoration.",greet,568,Dial_20110617_095641
+Sophia,Qu'est-ce que je peux faire pour vous?,ask,568,Dial_20110617_095641
+Julie,je souhaiterais obtenir les composants pour la manette,informer_elcomps,568,Dial_20110617_095641
+Sophia,"Eh bien Justement, je venais vous les apporter. J' ai entendu parler de votre histoire de manette et comme j' avais les composants à portée de main, je me suis dis que ça vous ferait gagner du temps si je vous les apportais. Par contre, je vous laisse vous occuper de l' assemblage",inform,568,Dial_20110617_095641
+Sophia,"Mais avant, voulez vous que je vous parle rapidement de mon métier ?",ask,568,Dial_20110617_095641
+Julie,non merci,no,568,Dial_20110617_095641
+Sophia,"Ok, je vous laisse passer à l'assemblage .",quit,568,Dial_20110617_095641
+M.Jasper,"Bonjour, je suis M.Jasper le directeur.",greet,593,Dial_20110610_154523
+M.Jasper,Qu'est-ce que je peux faire pour vous?,ask,593,Dial_20110610_154523
+Lucas,je souhaite construire une manette de jeu,first_step,593,Dial_20110610_154523
+M.Jasper,"Pour faire votre manette, il vous faut des plans. Allez voir dans le bureau d' études, ils devraient y être.",inform,593,Dial_20110610_154523
+M.Jasper,J'aurais aimé continuer à répondre à vos questions mais je dois reprendre mon travail! Bonne Chance!,quit,593,Dial_20110610_154523
+Serge,Bravo! Vous avez été rapides!,greet,616,Dial_20110617_144145
+Serge,Qu'est-ce que je peux faire pour vous?,ask,616,Dial_20110617_144145
+Ben,il faut qu'on termine la manette,next_step,616,Dial_20110617_144145
+Serge,"Il ne vous reste plus qu' à trouver les composants électroniques pour terminer cette manette. Sophia doit les avoir sur elle, je l' ai vue passer tout à l' heure.",inform,616,Dial_20110617_144145
+Serge,"Mais avant, voulez vous faire un mini quizz avec moi ?",ask,616,Dial_20110617_144145
+Ben,oui,yes,616,Dial_20110617_144145
+Serge,que faudra-t-il faire de votre manette une fois qu'elle sera cassée et irréparable ?,ask,616,Dial_20110617_144145
+Ben,on la recycle bien sur,todo_irreparable,616,Dial_20110617_144145
+Serge,"tout à fait, on ramène les équipements hors-service au magasin, ils pourront les faire recycler",inform,616,Dial_20110617_144145
+Serge,J'aurais aimé continuer à répondre à vos questions mais je dois reprendre mon travail! Bonne Chance!,quit,616,Dial_20110617_144145
+Sophia,"Bonjour, je suis Sophia l' opérateur en décoration.",greet,618,Dial_20110609_164547
+Sophia,Qu'est-ce que je peux faire pour vous?,ask,618,Dial_20110609_164547
+Julie,"je cherche las composants electroniques pour ma manette, vous les avez ?",informer_elcomps,618,Dial_20110609_164547
+Sophia,"Eh bien Justement, je venais vous les apporter. J' ai entendu parler de votre histoire de manette et comme j' avais les composants à portée de main, je me suis dis que ça vous ferait gagner du temps si je vous les apportais. Par contre, je vous laisse vous occuper de l' assemblage",inform,618,Dial_20110609_164547
+Sophia,"avant ça, voulez vous que je vous parle un peu de mon métier ?",ask,618,Dial_20110609_164547
+Julie,oui s'il vous plait,yes,618,Dial_20110609_164547
+Sophia,Je m' occupe de la finition décoration. C' est un métier pour lequel il faut être polyvalent et minutieux.,inform,618,Dial_20110609_164547
+Sophia,je vous laisse assmebler votre manette maintenant. Les composants sont sur la table derrière moi.,quit,618,Dial_20110609_164547
+Sophia,"Bonjour , je suis Sophia l' opérateur en décoration .",greet,625,Dial_20111029_120339
+Julie,Bonjour,greet,625,Dial_20111029_120339
+Sophia,Que voulez vous ?,ask,625,Dial_20111029_120339
+Julie,Je n'en sais rien,help,625,Dial_20111029_120339
+Sophia,"Je peux vous donner des informations sur les composants électroniques de la manette , et vous parler de mon métier",inform,625,Dial_20111029_120339
+Julie,C'est ça,ack,625,Dial_20111029_120339
+Sophia,"Je venais vous apporter vos composants électroniques . J' ai entendu parler de votre histoire de manette et comme j' avais les composants à portée de main , je me suis dis que ça vous ferait gagner du temps si je vous les apportais . Par contre , je vous laisse vous occuper de l' assemblage",inform,625,Dial_20111029_120339
+Julie,ok,ack,625,Dial_20111029_120339
+Sophia,"avant ça , voulez vous que je vous parle un peu de mon métier ?",ask,625,Dial_20111029_120339
+Julie,Non,no,625,Dial_20111029_120339
+Sophia,Je vous laisse passer à l' assemblage .,quit,625,Dial_20111029_120339
+M.Jasper,"Bonjour, je suis M.Jasper le directeur.",greet,647,Dial_20110617_101831
+M.Jasper,Qu'est-ce que je peux faire pour vous?,ask,647,Dial_20110617_101831
+Lucas,Comment créer la manette?,first_step,647,Dial_20110617_101831
+M.Jasper,"Pour faire votre manette, il vous faut des plans. Allez voir dans le bureau d' études, ils devraient y être.",inform,647,Dial_20110617_101831
+M.Jasper,J'aurais aimé continuer à répondre à vos questions mais je dois reprendre mon travail! Bonne Chance!,quit,647,Dial_20110617_101831
+Mélissa,"Bonjour, je suis Mélissa la responsable d'îlot de production.",greet,648,Dial_20111225_145335
+Mélissa,En quoi puis-je vous être utile ?,ask,648,Dial_20111225_145335
+Lucas,"Ah, Mélissa, bonjour, j'ai besoin de vous ...",help,648,Dial_20111225_145335
+Mélissa,"Je peux vous décrire le processus de fabrication, par exemple, ou encore vous aider à trouver un moule.",inform,648,Dial_20111225_145335
+Lucas,"Oui, je veux bien connaitre le processus de fabrication justement ... J'ai les plans, je sais pas quoi faire là. C'est Samir, le designer qui m'a dit de venir vous trouver",manufacturing_reqs,648,Dial_20111225_145335
+Mélissa,"Alors, pour fabriquer une pièce, il faut déjà trouver un moule. Ensuite, il vous faudra une machine adaptée, et de la matière plastique colorée dans la bonne teinte, mais on verra ça plus tard.",inform,648,Dial_20111225_145335
+Lucas,"Ok, c'est compris.",yes,648,Dial_20111225_145335
+Lucas,"Et ce moule, donc ?",find_mold,648,Dial_20111225_145335
+Mélissa,"Oui, commençons par le commencement : les moules, nous les gardons dans une pièce spéciale, le ""magasin de stockage de moules"", qui leur est dédiée. On en prend grand soin, de nos moules, ce sont les éléments les plus précieux et les plus importants de l' entreprise. Avec les clients et le personnel, bien sûr.",inform,648,Dial_20111225_145335
+Mélissa,"Revenez me voir dès que vous avez trouvé ce qu'il vous faut dans le ""magasin de moules"", on pourra discuter encore un peu.",quit,648,Dial_20111225_145335
+Serge,"Bonjour, je suis Serge le technicien QHSE.",greet,651,Dial_20111116_175724
+Serge,Bien. Que puis-je faire pour vous ?,ask,651,Dial_20111116_175724
+Ben,Bonjour ! Technicien quoi ?? C'est quoi ?,inform_job,651,Dial_20111116_175724
+Serge,"Eh bien, pour résumer, c'est moi qui suis chargé de contrôler que les pièces fabriquées par nos machines soient bien conformes aux attentes des clients. QHSE, ça signifie Qualité, Hygiène, Sécurité et Environnement.",inform,651,Dial_20111116_175724
+Ben,"Ah, c'est cool ça, ça me bootte bien",other,651,Dial_20111116_175724
+Serge,"Autre chose, peut-être ? Une information sur le controle qualité ?",ask,651,Dial_20111116_175724
+Ben,"oui ! ça tombe bien voici une manette à tester, du taf pour vous :o)",quality_control,651,Dial_20111116_175724
+Serge,"Pour votre manette, je vais m'occuper de tous les tests, je vous laisse juste tester la solidité de la coque. C'est simple il faut envoyer 10 poids sur la manette. Si elle résiste, c'est qu'elle est conforme.",inform,651,Dial_20111116_175724
+Serge,"Bon ! A plus tard, et bon courage à vous !  Revenez me voir lorsque c'est fait.",quit,651,Dial_20111116_175724
+Samir,"Bonjour, je suis Samir le concepteur de produit.",greet,654,Dial_20110706_135830
+Samir,Qu'est-ce que je peux faire pour vous?,ask,654,Dial_20110706_135830
+Julie,"Bonjour Samir, on cherche les plans pour construire une manette, ou sont-tils ?",find_plans,654,Dial_20110706_135830
+Samir,"Oui, ils sont dans l' armoire, mais elle est verrouillée par un code. Ah la protection des données. Un défi permanent. Je ne connais pas ce code, mais je sais que le responsable regarde souvent autour de lui avant de le taper. Je sais seulement qu' il y a 3 chiffres.",inform,654,Dial_20110706_135830
+Samir,ça vous interesse de connaitre mon métier ou les études que j'ai faite ou encore les normes de sécurité ?,ask,654,Dial_20110706_135830
+Julie,Dis nous ce que vous faite tous les jours,inform_job,654,Dial_20110706_135830
+Samir,c' est moi qui conçois et dessine les articles qu' on fabrique dans cette entreprise.,inform,654,Dial_20110706_135830
+Samir,"Et les normes de sécurité, ça vous intéresse ?",ask,654,Dial_20110706_135830
+Julie,"Oui, allez-y, expliquez nous",yes,654,Dial_20110706_135830
+Samir,"vous savez, ici vous êtes dans un lieu stratégique. Les nouveautés, les produits de demain, c' est ici qu' ils naissent. Et il faut les protéger. C' est pour ça qu' on ne laisse pas entrer n' importe qui dans cette pièce.",inform,654,Dial_20110706_135830
+Samir,Savez vous à qui convient ce genre de travail?,ask,654,Dial_20110706_135830
+Julie,"non, expliquez nous",yes,654,Dial_20110706_135830
+Samir,mon métier peut plaire autant aux filles qu' aux garçons.,inform,654,Dial_20110706_135830
+Samir,Encore des questions ? Sur les études par exemple?,ask,654,Dial_20110706_135830
+Julie,"non merci, ça ira",no,654,Dial_20110706_135830
+Samir,"D'accord, bonne chance pour la suite alors!",quit,654,Dial_20110706_135830
+Mélissa,Bravo! Vous avez été rapides!,greet,662,Dial_20110608_145517
+Mélissa,"ça y est, vous avez trouvé le moule et la machine?",ask,662,Dial_20110608_145517
+Lucas,oui.... mais il me manque la matiere. Ou la trouver?,yes,662,Dial_20110608_145517
+Mélissa,"ok, le monteur régleur va s' en charger. Il y en a pour 1 bonne heure. Pendant ce temps, Allez préparer la matière plastique pour alimenter la machine. Il faut que tout soit prêt dans 1 heure, quand on va la mettre en route. Sinon on perdra du temps sur la production. Et le temps, c' est de l' argent",inform,662,Dial_20110608_145517
+Mélissa,à tout à l'heure !,quit,662,Dial_20110608_145517
+Mélissa,Bravo! Vous avez été rapides!,greet,686,Dial_20110609_113310
+Mélissa,Qu'est-ce que je peux faire pour vous?,ask,686,Dial_20110609_113310
+Lucas,il est question d'une machine si je me souviens bien.,next_step,686,Dial_20110609_113310
+Mélissa,"tout à fait. cherchez la machine qui convient sur laquelle monter votre moule. Avec la fiche du moule et celle des machines, ça ne devrait pas être trop compliqué.",inform,686,Dial_20110609_113310
+Mélissa,"Une fois que vous l'avez trouvé, montez le moule dessus puis revenez me voir.",quit,686,Dial_20110609_113310
+Sophia,"Bonjour, je suis Sophia l'opérateur en décoration.",greet,696,Dial_20111128_235728
+Sophia,Que désirez-vous ?,ask,696,Dial_20111128_235728
+Julie,"Alors, je désire ... Un joystick s'il vous plait !!! :o)",informer_elcomps,696,Dial_20111128_235728
+Sophia,"Eh bien Justement, je venais vous apporter vos composants électroniques. J' ai entendu parler de votre histoire de manette et comme j' avais les composants à portée de main, je me suis dis que ça vous ferait gagner du temps si je vous les apportais. Par contre, je vous laisse vous occuper de l' assemblage.",inform,696,Dial_20111128_235728
+Julie,"Eh ben voilà je suis exaucée ... Au revoir, et merci ;)",quit,696,Dial_20111128_235728
+Sophia,"Bon, comme vous voulez . Je vous laisse passer à l'assemblage, les composants sont sur l'établi derrière moi. A tout à l'heure !",quit,696,Dial_20111128_235728
+Mélissa,"Ah, vous revoilà, déjà. Ce que vous êtes rapides !",greet,706,Dial_20111204_155626
+Mélissa,"Ca y est, vous avez trouvé la bonne machine ?",ask,706,Dial_20111204_155626
+Lucas,Oué oué,yes,706,Dial_20111204_155626
+Mélissa,"Bien joué ! Le monteur-régleur va se charger des réglages, il y en a pour 1 bonne heure. Pendant ce temps, il faut préparer la matière plastique. Allez voir le préparateur matière,dans l'espace matière.",inform,706,Dial_20111204_155626
+Mélissa,Ravie d'avoir pu vous aider. Bonne chance pour la suite !,quit,706,Dial_20111204_155626
+Mélissa,"Encore une fois , bon travail , vous êtes efficaces",greet,732,Dial_20120104_153145
+Mélissa,Vous avez votre moule et trouvé la bonne machine alors ?,ask,732,Dial_20120104_153145
+Lucas,"Oui, je pense que tout est bien",yes,732,Dial_20120104_153145
+Mélissa,"Bien , le monteur régleur va se charger de la suite . Il y en a pour 1 bonne heure . Pendant ce temps , allez préparer la matière plastique pour alimenter la machine . Il faut que tout soit prêt dans 1 heure , quand on va la mettre en route . Sinon on perdra du temps sur la production . Et le temps , c' est de l' argent",inform,732,Dial_20120104_153145
+Lucas,Ok. Merci!,ack,732,Dial_20120104_153145
+Mélissa,Allez au boulot! Au revoir!,quit,732,Dial_20120104_153145
+Lucas,Au revoir!,quit,732,Dial_20120104_153145
+Lucas,Alors!,greet,741,Dial_20110608_160555
+Lucas,Il faut que tu trouves l' adresse de l' entreprise de plasturgie,ask,741,Dial_20110608_160555
+Ben,donne moi des informations,help,741,Dial_20110608_160555
+Lucas,Je ne sais pas... mon oncle a dit que c' était quelque part dans ce labo. Il faut fouiller. Regarde voir près du tableau noir là bas.,inform,741,Dial_20110608_160555
+Lucas,Allez!,quit,741,Dial_20110608_160555
+Samir,"Déjà de retour avec les plans ?! Bravo les jeunes, vous avez fait vite !",greet,746,Dial_20111214_121321
+Samir,"Que puis-je pour vous, cette fois-ci ?",ask,746,Dial_20111214_121321
+Julie,"Ben, je sais pas, moi",help,746,Dial_20111214_121321
+Samir,"Je peux vous indiquer la prochaine étape de votre quête, et je peux aussi vous donner des informations supplémentaires sur les métiers et les employés de cette entreprise, si ça vous dit. Par exemple quelles études nous avons fait et quel est le profil des gens travaillent ici, à Plastechnologies.",inform,746,Dial_20111214_121321
+Julie,"Oui, je voudrais bien connaitre la prochaine étape, hein ...",next_step,746,Dial_20111214_121321
+Samir,"Eh bien, il va falloir la fabriquer, maintenant, cette manette. Allez voir Mélissa, la responsable d'îlot de production, elle vous aidera. Elle doit être à l'atelier de fabrication.",inform,746,Dial_20111214_121321
+Julie,"d'accord,j'y vais alors  ! merci, au revoir Samir !",quit,746,Dial_20111214_121321
+Samir,"Bon, à la prochaine, alors. Je vais retourner à mes occupations.",quit,746,Dial_20111214_121321
+Samir,"Merci de votre visite, bonne chance, et à la prochaine !",quit,746,Dial_20111214_121321
+Preparateur1,"Bonjour , je suis le préparateur matière .",greet,750,Dial_20111203_104037
+Julie,"Bonjour, je suis entrain de fabriquer une manette...",help,750,Dial_20111203_104037
+Preparateur1,"Je peux vous donner des informations sur mon métier , l' Espace Matières et la maintenance",inform,750,Dial_20111203_104037
+Julie,Qu'est-ce que c'est l'espace matière?,inform_material_space,750,Dial_20111203_104037
+Preparateur1,"Je vais vous expliquer . Quand on reçoit les granulés de matière , ils sont pleins d' humidité . On ne peut pas les utiliser comme ça , sinon l' eau ferait plein de petites bulles dans le plastique et le produit final serait inutilisable . Alors on les passe dans une étuve , pour bien les sécher , et puis on peut aussi ajouter des colorants , pour donner une nouvelle couleur à la matière .",inform,750,Dial_20111203_104037
+Julie,"Ok, j'ai compris",ack,750,Dial_20111203_104037
+Preparateur1,Voulez vous en savoir plus sur les démarches à suivre en cas de panne ?,ask,750,Dial_20111203_104037
+Julie,"Oui, bien sûr",yes,750,Dial_20111203_104037
+Preparateur1,"Et bien dans ce cas j' appelle le technicien de maintenance c' est lui le pro pour tout réparer . Mais mieux vaut prévenir que guérir . Alors son job , c' est aussi de passer régulièrement pour vérifier que tout va bien et corriger si nécessaire .",inform,750,Dial_20111203_104037
+Julie,"Oui, bien sûr. Je vois qu'est-ce que c'est.",ack,750,Dial_20111203_104037
+Preparateur1,"Voila , je crois que je vous ai tout dit . Au revoir!",quit,750,Dial_20111203_104037
+Julie,Merci de vos informations!,quit,750,Dial_20111203_104037
+Samir,"Bonjour, je suis Samir le concepteur de produit.",greet,758,Dial_20110615_160505
+Samir,Qu'est-ce que je peux faire pour vous?,ask,758,Dial_20110615_160505
+Julie,je voudrais des plans pour faire la manette,find_plans,758,Dial_20110615_160505
+Samir,"Oui, ils sont dans l' armoire, mais elle est verrouillée par un code. Ah la protection des données. Un défi permanent. Je ne connais pas ce code, mais je sais que le responsable regarde souvent autour de lui avant de le taper. Je sais seulement qu' il y a 3 chiffres.",inform,758,Dial_20110615_160505
+Samir,"Mais avant, voulez vous que je vous parle un peu de mon métier ?",ask,758,Dial_20110615_160505
+Julie,allez y,yes,758,Dial_20110615_160505
+Samir,c' est moi qui conçois et dessine les articles qu' on fabrique dans cette entreprise.,inform,758,Dial_20110615_160505
+Samir,Voulez vous en savoir plus sur les études que j'ai suivies ?,ask,758,Dial_20110615_160505
+Julie,dites moi,yes,758,Dial_20110615_160505
+Samir,"C' est un métier de création. Plusieurs formations peuvent mener à ce métier les arts appliqués, des études de design industriel, de conception assistée par ordinateur",inform,758,Dial_20110615_160505
+Samir,Voulez vous en savoir plus sur les mesures de sécurité appliquées ici ?,ask,758,Dial_20110615_160505
+Julie,oui,yes,758,Dial_20110615_160505
+Samir,"vous savez, ici vous êtes dans un lieu stratégique. Les nouveautés, les produits de demain, c' est ici qu' ils naissent. Et il faut les protéger. C' est pour ça qu' on ne laisse pas entrer n' importe qui dans cette pièce.",inform,758,Dial_20110615_160505
+Samir,Voulez vous en savoir plus sur mes collègues ?,ask,758,Dial_20110615_160505
+Julie,je vais continuer mes recherches,quit,758,Dial_20110615_160505
+Samir,ok bonne chance.,quit,758,Dial_20110615_160505
+Samir,"Bonjour, je suis Samir le concepteur de produit.",greet,776,Dial_20110526_135834
+Samir,Qu'est-ce que je peux faire pour vous?,ask,776,Dial_20110526_135834
+Julie,pouvez vous nous indiquer où sont les plans de la manette du docteur Geekman ?,find_plans,776,Dial_20110526_135834
+Samir,"Oui, ils sont dans l' armoire, mais elle est verrouillée par un code. Ah la protection des données. Un défi permanent. Je ne connais pas ce code, mais je sais que le responsable regarde souvent autour de lui avant de le taper. Je sais seulement qu' il y a 3 chiffres.",inform,776,Dial_20110526_135834
+Samir,Voulez vous en savoir plus?,ask,776,Dial_20110526_135834
+Julie,pouvez vous nous indiquer où sont les plans de la manette du docteur Geekman ?,find_plans,776,Dial_20110526_135834
+Samir,"d'accord, bonne chasse au trésor alors.",quit,776,Dial_20110526_135834
+Lucas,Alors!,greet,789,Dial_20110609_140429
+Lucas,Il faut que tu trouves l' adresse de l' entreprise de plasturgie,ask,789,Dial_20110609_140429
+Ben,As-tu un annuaire?,help,789,Dial_20110609_140429
+Lucas,Non désolé. Je ne sais pas... mon oncle a dit que c' était quelque part dans ce labo. Il faut fouiller. Regarde voir près du tableau noir là bas.,inform,789,Dial_20110609_140429
+Lucas,Allez!,quit,789,Dial_20110609_140429
+M.Jasper,"Bonjour , je suis M . Jasper le directeur .",greet,793,Dial_20111203_112719
+Lucas,"Bonjour, monsieur directeur. Je suis venue pour fabriquer une manette.",first_step,793,Dial_20111203_112719
+M.Jasper,"Pour faire votre manette , il vous faut des plans . Allez voir dans le bureau d' études , il devraient y être .",inform,793,Dial_20111203_112719
+Lucas,"Merci, monsieur!",ack,793,Dial_20111203_112719
+M.Jasper,Allez voir SAMIR dans les bureaux d' études . Au revoir !,quit,793,Dial_20111203_112719
+Lucas,Au revoir!,quit,793,Dial_20111203_112719
+Mélissa,"Bien , vous êtes efficaces",greet,802,Dial_20111224_140151
+Mélissa,Maintenant il vous faut trouver la machine dans laquelle déposer votre moule .,inform,802,Dial_20111224_140151
+Lucas,Comment?,help,802,Dial_20111224_140151
+Mélissa,Je pense que vous allez trouver une bonne machine facilement . Il faut essayer !,quit,802,Dial_20111224_140151
+Lucas,D'accord. Merci!,quit,802,Dial_20111224_140151
+Samir,"Bonjour, je suis Samir le concepteur de produit.",greet,814,Dial_20111112_101009
+Samir,Je peux vous aider ?,ask,814,Dial_20111112_101009
+Julie,"Euh, eh bien le directeur m'a demandé de venir vous voir pour récupérer les plans de la manette que je souhaite construire pour M.Geekman",find_plans,814,Dial_20111112_101009
+Samir,"Tous les plans sont dans l'armoire, mais elle est verrouillée par un code. Ah, la protection des données ... C'est un défi permanent. Je ne connais pas le code, mais je sais que le responsable regarde souvent autour de lui avant de le taper. Mais bon, ce n'est jamais que 3 chiffres ... Je suis sûr qu'en étant un peu observateur ...",inform,814,Dial_20111112_101009
+Samir,"Posez-moi d'autres questions, n'hésitez surtout pas !",ask,814,Dial_20111112_101009
+Julie,"Mais, le code, euh, vous ne l'avez pas ??",other,814,Dial_20111112_101009
+Samir,"Je ne connais pas ce code ... Mais il ne s'agit que de 3 chiffres ... L'armoire est déjà en sécurité ici, il y a même de fortes chances pour que le code se trouve quelque part dans cette pièce, connaissant mon responsable ... Une vraie tête en l'air ! Peut-être cherchez vers le tableau, là, à ta gauche, qui sait ...?",other,814,Dial_20111112_101009
+Julie,"Bon, très bien, merci ... Je vais voir ça",quit,814,Dial_20111112_101009
+Samir,Je sens que vous avez envie de poser une autre question ...,ask,814,Dial_20111112_101009
+Julie,"Euuuh, pas vraiment, je sais pas",help,814,Dial_20111112_101009
+Samir,"Si vous avez besoins de trouver des plans, je peux vous aider. Mais je peux également vous renseigner sur mon métier, les études qu'il faut faire, le type de personne pour qui c'est approprié, ou encore les normes de sécurité ...",inform,814,Dial_20111112_101009
+Julie,"Ben non, merci bien, ça ira",no,814,Dial_20111112_101009
+Samir,"Bon, ben,si je peux vous être de nouveau utile, vous savez où me trouver ...",quit,814,Dial_20111112_101009
+Samir,"Eh bien, je me remet au travail. Bonne chance pour trouver le code de l'armoire ! N'hésitez pas à revenir me voir lorsque vous aurez les plans.",quit,814,Dial_20111112_101009
+Serge,"Bonjour, je suis Serge le technicien QHSE.",greet,818,Dial_20110607_114924
+Serge,Qu'est-ce que je peux faire pour vous?,ask,818,Dial_20110607_114924
+Ben,j'ai fait une manette,quality_control,818,Dial_20110607_114924
+Serge,"Je vais m' occuper de tous les autres tests, mais je vous laisse tester la solidité de la coque. c' est simple il faut envoyer 10 poids sur la manette. Si elle résiste, c' est qu' elle est conforme",inform,818,Dial_20110607_114924
+Serge,Voulez vous en savoir plus sur mon métier avant de nous mettre à la tâche ?,ask,818,Dial_20110607_114924
+Ben,non allons-y,no,818,Dial_20110607_114924
+Serge,"ok, au travail !",quit,818,Dial_20110607_114924
+Sophia,"Bonjour, je suis Sophia l' opérateur en décoration.",greet,823,Dial_20110712_113410
+Sophia,Alors ?,ask,823,Dial_20110712_113410
+Julie,"je cherche les composants électroniques pour ma manette, pouvez vous m'ader",informer_elcomps,823,Dial_20110712_113410
+Sophia,"Eh bien justement, je venais vous les apporter. J' ai entendu parler de votre histoire de manette et comme j' avais les composants à portée de main, je me suis dis que ça vous ferait gagner du temps si je vous les apportais. Par contre, je vous laisse vous occuper de l' assemblage",inform,823,Dial_20110712_113410
+Sophia,"Maintenant que vous êtes là, peut être que vous aimeriez que je vous parle un peu de la finition décoration ?",ask,823,Dial_20110712_113410
+Julie,oui,yes,823,Dial_20110712_113410
+Sophia,C'est moi qui m'en occupe. C' est un métier pour lequel il faut être polyvalent et minutieux.,inform,823,Dial_20110712_113410
+Sophia,"Allez, je vous dis au revoir, à bientôt peut être qui sait !",quit,823,Dial_20110712_113410
+Lucas,Alors!,greet,829,Dial_20110616_142547
+Lucas,Il faut que tu trouves l' adresse de l' entreprise de plasturgie,ask,829,Dial_20110616_142547
+Ben,"Salut! On doit trouver l'adresse de l'usine, est ce que tu sais ou on peut chercher?",help,829,Dial_20110616_142547
+Lucas,Je ne sais pas... mon oncle a dit que c' était quelque part dans ce labo. Il faut fouiller. Regarde voir près du tableau noir là bas.,inform,829,Dial_20110616_142547
+Lucas,Allez!,quit,829,Dial_20110616_142547
+Samir,"Bonjour, je m'appelle Samir, concepteur de produit",greet,834,Dial_20111120_181803
+Samir,vous avez besoins d'aide?,ask,834,Dial_20111120_181803
+Julie,"Oui, je cherche des plans.",find_plans,834,Dial_20111120_181803
+Samir,"Tous les plans se trouvent dans cette armoire , mais elle est verrouillée par un code car nous devons les protéger. Vous m'avez l'air perdu alors je vais vous aider. Je ne connais pas ce code , mais je sais que le responsable regarde souvent autour de lui avant de le taper . Je sais seulement qu'il y a 3 chiffres .",inform,834,Dial_20111120_181803
+Julie,Où se trouve le responsable?,help,834,Dial_20111120_181803
+Samir,Alors là... je ne l'ai pas vu de la journée. Mais je ne pense pas qu'il vous en voudra si vous prenez directement les plans dans l'armoire.,inform,834,Dial_20111120_181803
+Julie,"Oui, mais je n'ai pas le code!",help,834,Dial_20111120_181803
+Samir,"Je crois bien que le code est écrit quelque part dans la pièce. Observez bien les murs, le responsable regarde souvent dans leur direction avant de taper le code.",inform,834,Dial_20111120_181803
+Julie,"Merci beaucoup, je vais regarder.",quit,834,Dial_20111120_181803
+Samir,"De rien, mais dites-moi... peut-être qu'avant de chercher ce code vous souhaiteriez en savoir plus à propos de mon métier de concepteur de produit?",ask,834,Dial_20111120_181803
+Julie,Non merci!,no,834,Dial_20111120_181803
+Samir,"Très bien, bonne chance!",quit,834,Dial_20111120_181803
+M.Jasper,"Bonjour , je suis M . Jasper le directeur .",greet,848,Dial_20111224_135450
+Lucas,"Bonjour, Monsieur directeur!",greet,848,Dial_20111224_135450
+Lucas,Je voudrais construire une manette. Vous pouvez faire quelques choses pour moi?,first_step,848,Dial_20111224_135450
+M.Jasper,"Tout d' abord , vous devez avoir des plans pour construire une manette.",inform,848,Dial_20111224_135450
+Lucas,D'accord. Où sont les plans?,other,848,Dial_20111224_135450
+M.Jasper,"Allez voir dans le bureau d' études , ils y sont surement .",other,848,Dial_20111224_135450
+Lucas,"Merci, monsieur",quit,848,Dial_20111224_135450
+M.Jasper,Bonne chance à vous,quit,848,Dial_20111224_135450
+M.Jasper,"Bonjour, je suis M.Jasper le directeur.",greet,866,Dial_20110610_163742
+M.Jasper,Qu'est-ce que je peux faire pour vous?,ask,866,Dial_20110610_163742
+Lucas,"Bonjour monsieur le directeur, je viens pour la conception d'une nouvelle manette",first_step,866,Dial_20110610_163742
+M.Jasper,"Pour faire votre manette, il vous faut des plans. Allez voir dans le bureau d' études, ils devraient y être.",inform,866,Dial_20110610_163742
+M.Jasper,J'aurais aimé continuer à répondre à vos questions mais je dois reprendre mon travail! Bonne Chance!,quit,866,Dial_20110610_163742
+Julie,Bonjour!,greet,870,Dial_20111205_190128
+Samir,"Bonjour , je suis Samir le concepteur de produit .",greet,870,Dial_20111205_190128
+Julie,Je pense que vous pourriez nous aider,help,870,Dial_20111205_190128
+Samir,Qu' est - ce que je peux faire pour vous ?,ask,870,Dial_20111205_190128
+Julie,On ne sais pas,help,870,Dial_20111205_190128
+Julie,Mais on doit avoir des plans pour construire une manette,find_plans,870,Dial_20111205_190128
+Samir,"Ils sont dans l' armoire , mais elle est verrouillée par un code . Ah la protection des données . Un défi permanent . Je ne connais pas ce code , mais je sais que le responsable regarde souvent autour de lui avant de le taper . Je sais seulement qu' il y a 3 chiffres .",inform,870,Dial_20111205_190128
+Julie,Ok!,ack,870,Dial_20111205_190128
+Samir,"Mais avant de partir les chercher , voulez vous que je vous renseigne un peu sur mon métier ? Ou bien sur les études que j' ai suivi pour arriver ici ? Ou encore sur les gens avec qui je travaille ?",ask,870,Dial_20111205_190128
+Julie,"Non, ça nous intéresse pas vraiment",no,870,Dial_20111205_190128
+Samir,"Voulez vous en savoir plus , sur mes collègues , les mesures de sécurité appliquées ici , ou encore sur les études que j' ai suivies ?",ask,870,Dial_20111205_190128
+Julie,"Bah, si vous voulez",yes,870,Dial_20111205_190128
+Samir,"Vous savez , ici vous êtes dans un lieu stratégique . Les nouveautés , les produits de demain , c' est ici qu' ils naissent . Et il faut les protéger . C' est pour ça qu' on ne laisse pas entrer n' importe qui dans cette piéce .",inform,870,Dial_20111205_190128
+Julie,Oui,ack,870,Dial_20111205_190128
+Samir,mon métier peut plaire autant aux filles qu' aux garçons en effet !,inform,870,Dial_20111205_190128
+Julie,Quelles études vous avez fait pour avoir ce travail?,studies_job,870,Dial_20111205_190128
+Samir,"C' est un métier de création . Plusieurs formations peuvent mener à ce métier les arts appliqués , des études de design industriel , de conception assistée par ordinateur",inform,870,Dial_20111205_190128
+Julie,"Ok, merci!",ack,870,Dial_20111205_190128
+Samir,"Bon , je vous laisse chercher vos plans . Bonne Chance !",quit,870,Dial_20111205_190128
+Preparateur1,"Bonjour, je suis Preparateur1 le préparateur matière.",greet,873,Dial_20110617_114746
+Preparateur1,Qu'est-ce que je peux faire pour vous?,ask,873,Dial_20110617_114746
+Julie,Me raconter un peu votre métier parce que ça m'interresse à fond !!,inform_job,873,Dial_20110617_114746
+Preparateur1,"mon rôle, c' est de m' assurer que les machines soient bien approvisionnées, avec les bonnes matières, dans les bonnes couleurs. Je dois faire fonctionner les étuves et tout le système d' approvisionnement.",inform,873,Dial_20110617_114746
+Preparateur1,Voulez vous en savoir plus l'espace matière ?,ask,873,Dial_20110617_114746
+Julie,Oui parce que c'est bizarre si il y a un endroit avec full matière on ne doit pas pouvoir y aller...,other,873,Dial_20110617_114746
+Preparateur1,"Eh bien quand on reçoit les granulés de matière, ils sont pleins d' humidité. on ne peut pas les utiliser comme ça, sinon l' eau ferait plein de petites bulles dans le plastique et le produit final serait inutilisable. Alors on les passe dans une étuve, pour bien les sécher, et puis on peut aussi ajouter des colorants, pour donner une nouvelle couleur à la matière.",inform,873,Dial_20110617_114746
+Preparateur1,Voulez vous en savoir plus sur le protocole à suivre en cas de panne ?,ask,873,Dial_20110617_114746
+Julie,"Oui, si vous avez des poissons, vous avez des cas de panne^^",other,873,Dial_20110617_114746
+Preparateur1,"Si jamais il y a une panne j' appelle le technicien de maintenance c' est lui le pro pour tout réparer. mais mieux vaut prévenir que guérir. Alors son job, c' est aussi de passer régulièrement pour vérifier que tout va bien et corriger si nécessaire.",inform,873,Dial_20110617_114746
+Preparateur1,voila je crois que je vous ai tout dit .,quit,873,Dial_20110617_114746
+Julie,"Oui je pense, donc je vais me la bouger :p",quit,873,Dial_20110617_114746
+Preparateur1,"Attendez ne partez pas si vite! j' ai une nouvelle machine à alimenter, elle doit faire des sacs plastiques, mais Je ne me rappelle plus de la matière qu' il faut. Tu veux bien me donner un coup de main?",ask,873,Dial_20110617_114746
+Julie,zyva,other,873,Dial_20110617_114746
+Preparateur1,"ok, c' est parti",inform,873,Dial_20110617_114746
+Preparateur1,"merci de votre aide, au revoir.",quit,873,Dial_20110617_114746
+Mélissa,Bravo! Vous avez été rapides!,greet,874,Dial_20110615_133204
+Mélissa,"ça y est, vous avez trouvé le moule et la machine?",ask,874,Dial_20110615_133204
+Lucas,oui c'est bon.,yes,874,Dial_20110615_133204
+Mélissa,"ok, le monteur régleur va s' en charger. Il y en a pour 1 bonne heure. Pendant ce temps, Allez préparer la matière plastique pour alimenter la machine. Il faut que tout soit prêt dans 1 heure, quand on va la mettre en route. Sinon on perdra du temps sur la production. Et le temps, c' est de l' argent",inform,874,Dial_20110615_133204
+Mélissa,à tout à l'heure.,quit,874,Dial_20110615_133204
+Lucas,Alors!,greet,876,Dial_20110526_103832
+Lucas,Il faut que tu trouves l' adresse de l' entreprise de plasturgie,ask,876,Dial_20110526_103832
+Ben,"je veux bien, mais comment ?",help,876,Dial_20110526_103832
+Ben,"je veux bien, mais comment ?",help,876,Dial_20110526_103832
+Lucas,Il faut que tu trouves l' adresse de l' entreprise de plasturgie,ask,876,Dial_20110526_103832
+Ben,d'accord mais comment faire ?,help,876,Dial_20110526_103832
+Sophia,"Bonjour , je suis Sophia le opérateur en décoration .",greet,882,Dial_20111029_232202
+Sophia,Je pense que vous avez besoin de moi ?,greet,882,Dial_20111029_232202
+Julie,"Oui, bonjour",greet,882,Dial_20111029_232202
+Julie,Pourriez-vous nous aider de fabriquer une manette?,help,882,Dial_20111029_232202
+Sophia,Je peux vous donner des informations sur les composants électroniques et mon métier,inform,882,Dial_20111029_232202
+Julie,On veut bien savoir les composants électroniques de notre manette.,informer_elcomps,882,Dial_20111029_232202
+Sophia,"Eh bien Justement , je venais vous apporter les composants électroniques de la manette . J' ai entendu parler de votre histoire de manette et comme j' avais les composants à portée de main , je me suis dis que ça vous ferait gagner du temps si je vous les apportais . Par contre , je vous laisse vous occuper de l' assemblage",inform,882,Dial_20111029_232202
+Julie,C'est super. Vous êtes gentille,ack,882,Dial_20111029_232202
+Sophia,Voulez vous en savoir plus sur mon métier ?,ask,882,Dial_20111029_232202
+Julie,"Non, on n'a pas de temps",no,882,Dial_20111029_232202
+Sophia,"bon , je vous laisse passer à l' assemblage .",quit,882,Dial_20111029_232202
+Mélissa,Bravo! Vous avez été rapides!,greet,929,Dial_20110607_093915
+Mélissa,Bravo! Vous avez été rapides!,greet,929,Dial_20110607_093915
+Mélissa,Qu'est-ce que je peux faire pour vous?,ask,929,Dial_20110607_093915
+Lucas,nous avons le moule que doit on faire maintenant ?,next_step,929,Dial_20110607_093915
+Mélissa,"Maintenant cherchez la machine qui va avec et revenez me voir après. Avec la fiche du moule et celle de la machine, vous devriez pouvoir y arriver",inform,929,Dial_20110607_093915
+Mélissa,"Une fois que vous avez trouvé la bonne machine, posez bien le moule dessus avant de revenir me voir !",quit,929,Dial_20110607_093915
+Samir,Bien joué !,greet,931,Dial_20111213_185541
+Julie,Rebonjour!,greet,931,Dial_20111213_185541
+Julie,"Qu'est ce qu'il faut faire, maintenant?",next_step,931,Dial_20111213_185541
+Samir,"Allez voir Mélissa , la responsable d' îlot de production , elle va vous aider a fabriquer votre manette . Elle doit être dans l' atelier de fabrication .",inform,931,Dial_20111213_185541
+Julie,D'accord. Merci,ack,931,Dial_20111213_185541
+Samir,"Voulez vous en savoir plus sur les études que les employèes ont fait pour arriver ici , où sur le type de gens qui travaillent dans cette entreprise ?",ask,931,Dial_20111213_185541
+Julie,"Non, merci",no,931,Dial_20111213_185541
+Samir,"D' accord , bonne chance alors pour la fabrication de votre manette !",quit,931,Dial_20111213_185541
+Mélissa,Bravo! Vous avez été rapides!,greet,939,Dial_20110526_112916
+Mélissa,Qu'est-ce que je peux faire pour vous?,ask,939,Dial_20110526_112916
+Lucas,"on a les plans, on fait quoi ?",next_step,939,Dial_20110526_112916
+Mélissa,"Maintenant cherchez la machine qui va avec et revenez me voir après avec la fiche du moule, vous devriez pouvoir y arrive",inform,939,Dial_20110526_112916
+Mélissa,allez hop hop hop,quit,939,Dial_20110526_112916
+Samir,"Bonjour, je suis Samir le concepteur de produit.",greet,954,Dial_20110606_142941
+Samir,Qu'est-ce que je peux faire pour vous?,ask,954,Dial_20110606_142941
+Julie,Je souhaiterais obtenir les plans pour une manette.,find_plans,954,Dial_20110606_142941
+Samir,"Oui, ils sont dans l' armoire, mais elle est verrouillée par un code. Ah la protection des données. Un défi permanent. Je ne connais pas ce code, mais je sais que le responsable regarde souvent autour de lui avant de le taper. Je sais seulement qu' il y a 3 chiffres.",inform,954,Dial_20110606_142941
+Samir,Voulez vous en savoir plus sur mon métier auparavant ?,ask,954,Dial_20110606_142941
+Julie,non,no,954,Dial_20110606_142941
+Samir,J'aurais aimé continuer à répondre à vos questions mais je dois reprendre mon travail! Bonne Chance!,quit,954,Dial_20110606_142941
+Preparateur1,"Bonjour, je suis Preparator le préparateur matière.",greet,966,Dial_20111115_224623
+Preparateur1,"Que puis-je faire pour vous ? De l'aide, un renseignement, peut-être ?",ask,966,Dial_20111115_224623
+Julie,Je voudrais des renseignements,help,966,Dial_20111115_224623
+Preparateur1,"Je peux vous donner des informations sur mon métier, l'Espace Matières et la maintenance des machines.",inform,966,Dial_20111115_224623
+Julie,comment ça marche ici ?,inform_material_space,966,Dial_20111115_224623
+Preparateur1,"En fait, quand on reçoit les granulés de matière, ils sont pleins d'humidité. On ne peut pas les utiliser comme ça, sinon l'eau ferait plein de petites bulles dans le plastique et le produit final serait inutilisable. Alors on les passe dans une étuve, pour bien les sécher, et puis on peut aussi ajouter des colorants, pour donner une nouvelle couleur à la matière.",inform,966,Dial_20111115_224623
+Julie,"et donc vous, vous faites quoi dans tout ça?",inform_job,966,Dial_20111115_224623
+Preparateur1,"Mon rôle, c' est de m' assurer que les machines soient bien approvisionnées, avec les bonnes matières, dans les bonnes couleurs. Je dois faire fonctionner les étuves et tout le système d'approvisionnement.",inform,966,Dial_20111115_224623
+Preparateur1,"Alors, que voulez vous savoir d'autre ?",ask,966,Dial_20111115_224623
+Julie,"ben je sais pas, que pouvez vous me dire d'autre ?",help,966,Dial_20111115_224623
+Preparateur1,Je peux vous parler de la maintenance des machines si ça vous intéresse.,ask,966,Dial_20111115_224623
+Julie,ah oui pourquoi pas,yes,966,Dial_20111115_224623
+Preparateur1,"Si jamais il y a une panne j' appelle le technicien de maintenance c' est lui le pro pour tout réparer. Mais mieux vaut prévenir que guérir. Alors son job, c' est aussi de passer régulièrement pour vérifier que tout va bien et corriger si nécessaire.",inform,966,Dial_20111115_224623
+Preparateur1,"Bon, vous savez tout ! Je vais reprendre mon travail. Bonne chance !",quit,966,Dial_20111115_224623
+Mélissa,Bonjour,greet,984,Dial_20120102_200108
+Mélissa,Je peux vous être utile?,ask,984,Dial_20120102_200108
+Lucas,"Bonjour. En effet, nous cherchons à construire une manette.",manufacturing_reqs,984,Dial_20120102_200108
+Mélissa,"J' ai beaucoup de travail mais la construction de cette manette n' a pas l' air trop compliquée . Vous devez d' abord vous procurer un moule , cherchez ensuite la machine sur laquelle adapter ce moule puis recherchez du colorant pour votre matière plastique .",inform,984,Dial_20120102_200108
+Mélissa,A bientôt!,quit,984,Dial_20120102_200108
+Serge,"Bonjour, je suis Serge le technicien QHSE.",greet,1000,Dial_20110615_144216
+Serge,Qu'est-ce que je peux faire pour vous?,ask,1000,Dial_20110615_144216
+Ben,Monter ma manette en kit parce que c'est moins facile que chez ikéa,quality_control,1000,Dial_20110615_144216
+Serge,"Je vais m' occuper de tous les autres tests, mais je vous laisse tester la solidité de la coque. c' est simple il faut envoyer 10 poids sur la manette. Si elle résiste, c' est qu' elle est conforme",inform,1000,Dial_20110615_144216
+Serge,"Mais avant, voulez vous que je vous parle un peu de mon métier ?",ask,1000,Dial_20110615_144216
+Ben,"Oui, par exemple dite moi si vous faite souvent recommencer les personnes qui viennent ici parce que vous leur avez défoncer leurs objets?",yes,1000,Dial_20110615_144216
+Serge,"pour résumer, c' est moi qui suis chargé de contrôler que les pièces fabriquées par nos machines soient bien conformes aux attentes des clients.",inform,1000,Dial_20110615_144216
+Serge,"bon, au travail.",quit,1000,Dial_20110615_144216
+Preparateur1,"Bonjour, je suis Preparateur1 le préparateur matière.",greet,1006,Dial_20110609_163521
+Preparateur1,Qu'est-ce que je peux faire pour vous?,ask,1006,Dial_20110609_163521
+Julie,parlez moi de votre métier,inform_job,1006,Dial_20110609_163521
+Preparateur1,"mon rôle, c' est de m' assurer que les machines soient bien approvisionnées, avec les bonnes matières, dans les bonnes couleurs. Je dois faire fonctionner les étuves et tout le système d' approvisionnement.",inform,1006,Dial_20110609_163521
+Preparateur1,"Voulez vous en savoir plus, sur l'espace matière ou bien sur le protocole à suivre en cas de panne ?",ask,1006,Dial_20110609_163521
+Julie,oui dite m'en plus....,yes,1006,Dial_20110609_163521
+Preparateur1,"Eh bien quand on reçoit les granulés de matière, ils sont pleins d' humidité. on ne peut pas les utiliser comme ça, sinon l' eau ferait plein de petites bulles dans le plastique et le produit final serait inutilisable. Alors on les passe dans une étuve, pour bien les sécher, et puis on peut aussi ajouter des colorants, pour donner une nouvelle couleur à la matière.",inform,1006,Dial_20110609_163521
+Preparateur1,"Voulez vous en savoir plus, sur le protocole à suivre en cas de panne ?",ask,1006,Dial_20110609_163521
+Julie,ouahouh c'est passionnant mais j'en ai appris assez pour un seul jou ;),no,1006,Dial_20110609_163521
+Preparateur1,"Attendez ne partez pas si vite! j' ai une nouvelle machine à alimenter, elle doit faire des sacs plastiques, mais Je ne me rappelle plus de la matière qu' il faut. Tu veux bien me donner un coup de main?",ask,1006,Dial_20110609_163521
+Julie,non,no,1006,Dial_20110609_163521
+Preparateur1,"ok, c' est bon!",inform,1006,Dial_20110609_163521
+Preparateur1,bonne journée à vous.,quit,1006,Dial_20110609_163521
+Serge,"Bonjour, je suis Serge le technicien QHSE.",greet,1014,Dial_20110526_143254
+Serge,Qu'est-ce que je peux faire pour vous?,ask,1014,Dial_20110526_143254
+Ben,je sais pas,help,1014,Dial_20110526_143254
+Serge,Je peux vous donner des informations sur Comment tester la qualité d' un produit et sur mon métier.,inform,1014,Dial_20110526_143254
+Serge,qu'est ce que vous voulez savoir ?,ask,1014,Dial_20110526_143254
+Ben,comment est ce que je teste la qualité de ma manette ?,quality_control,1014,Dial_20110526_143254
+Serge,"Je vais m' occuper de tous les autres tests, mais je vous laisse tester la solidité de la coque. c' est simple il faut envoyer 10 poids sur la manette. Si elle résiste, c' est qu' elle est conforme",inform,1014,Dial_20110526_143254
+Serge,mon métier ne vous intéresse pas ?,ask,1014,Dial_20110526_143254
+Ben,"si mais nous sommes pressés, désolé !",no,1014,Dial_20110526_143254
+Serge,"soit, au travail alors !",quit,1014,Dial_20110526_143254
+Samir,"Bonjour, je suis Samir le concepteur de produit.",greet,1035,Dial_20111128_222631
+Samir,Je peux vous aider ?,ask,1035,Dial_20111128_222631
+Julie,"Oui, sûreent ... :o)",yes,1035,Dial_20111128_222631
+Samir,"Si vous avez besoins de trouver des plans, je peux vous aider. Mais je peux également vous renseigner sur mon métier, les études qu'il faut faire, le type de personne pour qui c'est approprié, ou encore les normes de sécurité ...",inform,1035,Dial_20111128_222631
+Julie,"Oui, à la base, je suis venue pour construire une joystick. Mais le directeur m'a dit qu'il fallait vous deander des plans, et tout, fin bref",find_plans,1035,Dial_20111128_222631
+Samir,"Tous les plans sont dans l'armoire, mais elle est verrouillée par un code. Ah, la protection des données ... C'est un défi permanent. Je ne connais pas le code, mais je sais que le responsable regarde souvent autour de lui avant de le taper. Mais bon, ce n'est jamais que 3 chiffres ... Je suis sûr qu'en étant un peu observateur ...",inform,1035,Dial_20111128_222631
+Julie,"Ok ... Mais,c'est dansgereux ça, j'ai pas le droit ... Si je me fait choper, ça craint ???",security_policies,1035,Dial_20111128_222631
+Samir,"Vous savez, ici vous êtes dans un lieu stratégique. Les nouveautés, les produits de demain, c' est ici qu' ils naissent. Et il faut les protéger. C'est pour ça qu'on ne laisse pas entrer n'importe qui ici,et c'est pourquoi l'armoire est protégée. Les conditions de sécurités sont vraiment draconiennens.",inform,1035,Dial_20111128_222631
+Julie,"Bon, ok ... Ahah c'est très rassurant, je vais finir au commisariat koi",ack,1035,Dial_20111128_222631
+Samir,"Bon, eh bien, si je peux vous être de nouveau utile, vous savez où me trouver ...",quit,1035,Dial_20111128_222631
+Samir,"Eh bien, je me remet au travail. Bonne chance pour trouver le code de l'armoire ! N'hésitez pas à revenir me voir lorsque vous aurez les plans.",quit,1035,Dial_20111128_222631
+Serge,"Bonjour , moi c' est Serge le technicien QHSE .",greet,1038,Dial_20111220_191303
+Ben,Enchanté,greet,1038,Dial_20111220_191303
+Serge,Que cherchez vous ici les enfants ?,ask,1038,Dial_20111220_191303
+Ben,"Nous sommes entrain de construire une manette, monsieur",help,1038,Dial_20111220_191303
+Serge,Je peux vous donner des informations sur comment tester la qualité d' un produit et sur mon métier .,inform,1038,Dial_20111220_191303
+Ben,"Oui, comment on testera notre manette?",quality_control,1038,Dial_20111220_191303
+Serge,"Je vais m' occuper de tous les autres tests , mais je vous laisse tester la solidité de la coque . C' est simple il faut envoyer 10 poids sur la manette . Si elle résiste , c' est qu' elle est conforme",inform,1038,Dial_20111220_191303
+Ben,"Ok, c'est gentil",yes,1038,Dial_20111220_191303
+Serge,"Mais avant , voulez vous que je vous parle u peu de mon métier ?",ask,1038,Dial_20111220_191303
+Ben,"Oui, allez-y",yes,1038,Dial_20111220_191303
+Serge,"Pour résumer , c' est moi qui suis chargé de contrôler que les pièces fabriquées par nos machines soient bien conformes aux attentes des clients .",inform,1038,Dial_20111220_191303
+Ben,ça a l'air super,ack,1038,Dial_20111220_191303
+Serge,"Maintenant je vous laisse continuer votre travail , et je retourne au mien !",quit,1038,Dial_20111220_191303
+Samir,Bravo! Vous avez été rapides!,greet,1053,Dial_20110609_141634
+Samir,Qu'est-ce que je peux faire pour vous?,ask,1053,Dial_20110609_141634
+Julie,Pouvez-vous nous aider à réaliser la manette à l'aide de ces plans?,next_step,1053,Dial_20110609_141634
+Samir,"Allez voir Mélissa, la responsable d' îlot de production, elle va vous aider. Elle doit être dans l' atelier de fabrication.",inform,1053,Dial_20110609_141634
+Samir,"Avant de partir, voulez vous que je vous parle un peu des gens qui travaillent dans cette entreprise, et les études qu'ils ont suivies ?",ask,1053,Dial_20110609_141634
+Julie,"Non merci, merci de votre aide.",no,1053,Dial_20110609_141634
+Samir,"ok, bonne journée !",quit,1053,Dial_20110609_141634
+Samir,"Déjà de retour , et avec les plans ! Bravo !",greet,1054,Dial_20111224_145304
+Julie,Quelle est la prochaine étape?,next_step,1054,Dial_20111224_145304
+Samir,"Allez voir Mélissa , la responsable d' îlot de production , elle va vous aider . Elle doit être dans l' atelier de fabrication .",inform,1054,Dial_20111224_145304
+Julie,"D'accord. Merci, vous etes aimable",ack,1054,Dial_20111224_145304
+Samir,Voulez vous en savoir plus sur les gens qui travaillent ici ?,ask,1054,Dial_20111224_145304
+Julie,Non,no,1054,Dial_20111224_145304
+Samir,"ok , bonne chance !",quit,1054,Dial_20111224_145304
+Mélissa,Rapides les petits !,greet,1056,Dial_20111029_230920
+Lucas,Oauis!!!!,greet,1056,Dial_20111029_230920
+Mélissa,"Je pense qu' il faut aller chercher la machine , non ?",ack,1056,Dial_20111029_230920
+Lucas,"Oui, mais comment?",help,1056,Dial_20111029_230920
+Mélissa,"C' est ici , dans l' îlot de production . cherchez la machine qui convient sur laquelle monter votre moule . Avec la fiche du moule et celle des machines , ça ne devrait pas être trop compliqué .",inform,1056,Dial_20111029_230920
+Lucas,D'accord. On va essayer,quit,1056,Dial_20111029_230920
+Mélissa,revenez me voir quand vous avez mon le moule sur la machine qui convient .,quit,1056,Dial_20111029_230920
+Mélissa,Bravo! Vous avez été rapides!,greet,1075,Dial_20110616_162009
+Mélissa,"ça y est, vous avez trouvé le moule et la machine?",ask,1075,Dial_20110616_162009
+Lucas,oui j'ai localisé la machine et maintenant je fais quoi ?,yes,1075,Dial_20110616_162009
+Mélissa,"ok, le monteur régleur va s' en charger. Il y en a pour 1 bonne heure. Pendant ce temps, Allez préparer la matière plastique pour alimenter la machine. Il faut que tout soit prêt dans 1 heure, quand on va la mettre en route. Sinon on perdra du temps sur la production. Et le temps, c' est de l' argent",inform,1075,Dial_20110616_162009
+Mélissa,à tout à l'heure,quit,1075,Dial_20110616_162009
+Lucas,Alors!,greet,1089,Dial_20110606_140413
+Lucas,Il faut que tu trouves l' adresse de l' entreprise de plasturgie,ask,1089,Dial_20110606_140413
+Ben,tres bien,yes,1089,Dial_20110606_140413
+Lucas,"ok, c' est parti",inform,1089,Dial_20110606_140413
+Lucas,Allez!,quit,1089,Dial_20110606_140413
+Preparateur1,"Bonjour, je suis Preparator le préparateur matière.",greet,1092,Dial_20111204_161532
+Preparateur1,"Que puis-je faire pour vous ? De l'aide, un renseignement, peut-être ?",ask,1092,Dial_20111204_161532
+Julie,Oué,yes,1092,Dial_20111204_161532
+Preparateur1,Je peux vous parler un peu de mon métier ou de l'espace matière ... Je peux aussi vous parler un peu de la maintenance des machines si vous le souhaitez.,inform,1092,Dial_20111204_161532
+Julie,oh vous savez ça m'interesse pas trop tout ça hein ... moi je veux juste finir ma manette !,quit,1092,Dial_20111204_161532
+Preparateur1,"Ok, tant pis !",ack,1092,Dial_20111204_161532
+Preparateur1,"J'ai un petit service à vous demander. J'ai une nouvelle machine à alimenter, elle doit faire des sacs plastiques, mais je ne me rappelle plus de la matière qu'il faut. Voulez-vous me donner un coup de main ?",ask,1092,Dial_20111204_161532
+Julie,"Ah onon je peux pas là ... désolée, je suis un peu pressée ...",no,1092,Dial_20111204_161532
+Preparateur1,"Ah, c'est dommage ... Mais, tant pis pour vous !",inform,1092,Dial_20111204_161532
+Preparateur1,"Bon, vous savez tout ! Je vais reprendre mon travail. Bonne chance !",quit,1092,Dial_20111204_161532
+Mélissa,"Encore une fois , bon travail , vous êtes efficaces",greet,1094,Dial_20111229_133915
+Mélissa,Vous vous en êtes sortis avec le moule et la machine ?,ask,1094,Dial_20111229_133915
+Lucas,Oui!,yes,1094,Dial_20111229_133915
+Lucas,"Maintenant, il me faut quoi?",help,1094,Dial_20111229_133915
+Mélissa,"Le monteur régleur va se charger du reste . Il y en a pour 1 bonne heure . Pendant ce temps , allez préparer la matière plastique pour alimenter la machine . Il faut que tout soit prêt dans 1 heure , quand on va la mettre en route . Sinon on perdra du temps sur la production . Et le temps , c' est de l' argent .",inform,1094,Dial_20111229_133915
+Lucas,Bien sûr. Je comprends!,ack,1094,Dial_20111229_133915
+Mélissa,Allez au boulot ! Au revoir !,quit,1094,Dial_20111229_133915
+Preparateur1,"Bonjour , je suisle préparateur matière .",greet,1098,Dial_20111224_113542
+Julie,Bonjour!,greet,1098,Dial_20111224_113542
+Preparateur1,Besoin d' un renseignement ? Je peux vous parler du métier de préparateur matière si vous voulez ?,ask,1098,Dial_20111224_113542
+Julie,Oui.,yes,1098,Dial_20111224_113542
+Preparateur1,"Alors , mon travail , c' est de m' assurer que les machines soient bien approvisionnées , avec les bonnes matières , dans les bonnes couleurs . Je dois faire fonctionner les étuves et tout le système d' approvisionnement .",inform,1098,Dial_20111224_113542
+Julie,D'accord.,ack,1098,Dial_20111224_113542
+Preparateur1,Voulez vous en savoir plus sur l' espace matière ?,ask,1098,Dial_20111224_113542
+Julie,"Oui, qu'est-ce que c'est?",inform_material_space,1098,Dial_20111224_113542
+Preparateur1,"Eh bien quand on reçoit les granulés de matière , ils sont pleins d' humidité . On ne peut pas les utiliser comme ça , sinon l' eau ferait plein de petites bulles dans le plastique et le produit final serait inutilisable . Alors on les passe dans une étuve , pour bien les sécher , et puis on peut aussi ajouter des colorants , pour donner une nouvelle couleur à la matière . C' est interessant , n' est - ce pas ?",inform,1098,Dial_20111224_113542
+Julie,Oui. C'est sûr,ack,1098,Dial_20111224_113542
+Preparateur1,Voulez vous en savoir plus le protocole à suivre en cas de panne ?,ask,1098,Dial_20111224_113542
+Julie,Oui.,yes,1098,Dial_20111224_113542
+Preparateur1,"Dans ce cas , j' appelle le technicien de maintenance c' est lui le pro pour tout réparer . Mais mieux vaut prévenir que guérir . Alors son job , c' est aussi de passer régulièrement pour vérifier que tout va bien et corriger si nécessaire .",inform,1098,Dial_20111224_113542
+Julie,Ok. c'est bien tout ça,ack,1098,Dial_20111224_113542
+Preparateur1,"Vous voulez bien me rendre un petit service ? j' ai une nouvelle machine à alimenter , elle doit faire des sacs plastiques , mais Je ne me rappelle plus de la matière qu' il faut . Tu veux bien me donner un coup de main?",ask,1098,Dial_20111224_113542
+Julie,Oui. Bien sûr!,yes,1098,Dial_20111224_113542
+Preparateur1,"Merci de votre aide , à bientôt !",quit,1098,Dial_20111224_113542
+M.Jasper,"Bonjour, je suis M.Jasper le directeur.",greet,1102,Dial_20110616_143014
+M.Jasper,Qu'est-ce que je peux faire pour vous?,ask,1102,Dial_20110616_143014
+Lucas,"Bonjour, j'ai besoin d'un badge, est ce que vous pouvez m'aider?",other,1102,Dial_20110616_143014
+M.Jasper,La borne derrière vous en distribue.,other,1102,Dial_20110616_143014
+M.Jasper,Qu'est-ce que je peux faire pour vous?,ask,1102,Dial_20110616_143014
+Lucas,Qu'est ce que je dois faire maintenant?,first_step,1102,Dial_20110616_143014
+M.Jasper,"Pour faire votre manette, il vous faut des plans. Allez voir dans le bureau d' études, ils devraient y être.",inform,1102,Dial_20110616_143014
+M.Jasper,J'aurais aimé continuer à répondre à vos questions mais je dois reprendre mon travail! Bonne Chance!,quit,1102,Dial_20110616_143014
+Samir,Bravo! Vous avez été rapides!,greet,1126,Dial_20110610_164846
+Samir,Qu'est-ce que je peux faire pour vous?,ask,1126,Dial_20110610_164846
+Julie,maintenant que nous avons les plans où pouvons nous les utiliser ?,next_step,1126,Dial_20110610_164846
+Samir,"Eh bien, il va falloir la fabriquer cette manette. Allez voir Mélissa, la responsable d' îlot de production, elle va vous aider. Elle doit être dans l' atelier de fabrication.",inform,1126,Dial_20110610_164846
+Samir,"mais avant, voulez vous que je vous parle des gens qui travaillent dans cette entreprise, et des études qu'ils ont suivies pour en arriver là ?",ask,1126,Dial_20110610_164846
+Julie,non on va partir maintenant,no,1126,Dial_20110610_164846
+Samir,"ok, bonne continuation",quit,1126,Dial_20110610_164846
+Samir,"Bonjour, je suis Samir le concepteur de produit.",greet,1134,Dial_20110609_162017
+Samir,Qu'est-ce que je peux faire pour vous?,ask,1134,Dial_20110609_162017
+Julie,j'aimerais obtenir les plans pour fabriquer la manette,find_plans,1134,Dial_20110609_162017
+Samir,"Oui, ils sont dans l' armoire, mais elle est verrouillée par un code. Ah la protection des données. Un défi permanent. Je ne connais pas ce code, mais je sais que le responsable regarde souvent autour de lui avant de le taper. Je sais seulement qu' il y a 3 chiffres.",inform,1134,Dial_20110609_162017
+Samir,"Mais avant, voulez vous que je vous donne des informations sur mon métier, sur les études que j'ai faites, sur les normes de sécurité applicables ici, ou encore sur mes collègues ?",ask,1134,Dial_20110609_162017
+Julie,non merci,no,1134,Dial_20110609_162017
+Samir,"ok, bonne chance !",quit,1134,Dial_20110609_162017
+Samir,Bravo! Vous avez été rapides!,greet,1142,Dial_20110607_112853
+Samir,Qu'est-ce que je peux faire pour vous?,ask,1142,Dial_20110607_112853
+Julie,donc je fais comment pour la construire maintenant ?,next_step,1142,Dial_20110607_112853
+Samir,"Allez voir Mélissa, la responsable d' îlot de production, elle va vous aider. Elle doit être dans l' atelier de fabrication.",inform,1142,Dial_20110607_112853
+Samir,"Avant de partir, voulez vous que je vous parle du staff de l'entréprise, ou encore des études qu'ils ont suivi pour en arriver à travailler ici ?",ask,1142,Dial_20110607_112853
+Julie,non non peut-être plus tard,no,1142,Dial_20110607_112853
+Samir,"Très bien, bonne continuation alors !",quit,1142,Dial_20110607_112853
+M.Jasper,"Bonjour , je suis M . Jasper le directeur .",greet,1150,Dial_20111203_102839
+Lucas,Enchanté!,greet,1150,Dial_20111203_102839
+Lucas,Est-ce que vous pouvez m'aider?,help,1150,Dial_20111203_102839
+M.Jasper,Je peux vous donner des informations sur la première chose à faire pour fabriquer votre manette .,inform,1150,Dial_20111203_102839
+Lucas,"Merci. Alors, qu'est-ce que je peux faire?",first_step,1150,Dial_20111203_102839
+M.Jasper,"Avec des plans ça sera plus facile de construire votre manette . Allez voir dans le bureau d' études , ils devraient y être .",inform,1150,Dial_20111203_102839
+Lucas,"Merci, monsieur. Au revoir!",quit,1150,Dial_20111203_102839
+Mélissa,Rapides dis donc !,greet,1159,Dial_20111029_231018
+Lucas,Merci!,greet,1159,Dial_20111029_231018
+Mélissa,Vous avez votre moule j' espère ? Et vous avez trouvé la bonne machine ?,ask,1159,Dial_20111029_231018
+Lucas,Oui je crois,yes,1159,Dial_20111029_231018
+Mélissa,"Ok , le monteur régleur va s' en charger . Il y en a pour 1 bonne heure . Pendant ce temps , allez préparer la matière plastique pour alimenter la machine . Il faut que tout soit prêt dans 1 heure , quand on va la mettre en route . Sinon on perdra du temps sur la production . Et le temps , c' est de l' argent",inform,1159,Dial_20111029_231018
+Lucas,Bien sûr,ack,1159,Dial_20111029_231018
+Mélissa,Bonne Chance !,quit,1159,Dial_20111029_231018
+Samir,"Bonjour , je suis Samir le concepteur de produit .",greet,1161,Dial_20111213_184824
+Julie,"Oui, bonjour",greet,1161,Dial_20111213_184824
+Samir,Qu' est - ce que je peux faire pour vous ?,ask,1161,Dial_20111213_184824
+Julie,On est là pour faire une manette,find_plans,1161,Dial_20111213_184824
+Julie,On crois qu'il faut avoir des plans,find_plans,1161,Dial_20111213_184824
+Samir,"Oui , les plans nécessaires sont dans l' armoire sont dans l' armoire , mais elle est verrouillée par un code . Ah la protection des données . Un défi permanent . Je ne connais pas ce code , mais je sais que le responsable regarde souvent autour de lui avant de le taper . Je sais seulement qu' il y a 3 chiffres .",inform,1161,Dial_20111213_184824
+Julie,"Ok, on va aller voir",ack,1161,Dial_20111213_184824
+Samir,Voulez vous en savoir plus sur les études que j' ai faites ?,ask,1161,Dial_20111213_184824
+Julie,"Oui, bien sûr",yes,1161,Dial_20111213_184824
+Samir,"C' est un métier de création . Plusieurs formations peuvent mener à ce métier les arts appliqués , des études de design industriel , de conception assistée par ordinateur",inform,1161,Dial_20111213_184824
+Julie,"Oui, c'est vraiment bien",ack,1161,Dial_20111213_184824
+Samir,Voulez vous en savoir plus sur les mesures de sécurité appliquées ici ?,ask,1161,Dial_20111213_184824
+Julie,Oui,yes,1161,Dial_20111213_184824
+Samir,"vous savez , ici vous êtes dans un lieu stratégique . Les nouveautés , les produits de demain , c' est ici qu' ils naissent . Et il faut les protéger . C' est pour ça qu' on ne laisse pas entrer n' importe qui dans cette piéce .",inform,1161,Dial_20111213_184824
+Julie,Donc on a de la chance d'entrer cette salle.,ack,1161,Dial_20111213_184824
+Samir,Bien sûr!,yes,1161,Dial_20111213_184824
+Julie,"Bon, maintenant, on doit vous laisser",quit,1161,Dial_20111213_184824
+Samir,"Très bien , bonne chance à vous alors !",quit,1161,Dial_20111213_184824
+M.Jasper,"Bonjour, je suis M.Jasper le directeur.",greet,1164,Dial_20110615_105502
+M.Jasper,Qu'est-ce que je peux faire pour vous?,ask,1164,Dial_20110615_105502
+Lucas,Il faut qu'on fabrique une manette de jeu.,first_step,1164,Dial_20110615_105502
+M.Jasper,"Pour faire votre manette, il vous faut des plans. Allez voir dans le bureau d' études, ils devraient y être.",inform,1164,Dial_20110615_105502
+M.Jasper,J'aurais aimé continuer à répondre à vos questions mais je dois reprendre mon travail! Bonne Chance!,quit,1164,Dial_20110615_105502
+Sophia,Bravo! Vous avez été rapides!,greet,1187,Dial_20110706_144507
+Sophia,Un dernier renseignement ?,ask,1187,Dial_20110706_144507
+Lucas,C'est quoi la toute dernière étape ?,informer_end_manufacturing,1187,Dial_20110706_144507
+Sophia,On finit la fabrication par conditionner le produit,inform,1187,Dial_20110706_144507
+Sophia,Vous savez ce que c'est conditionner un produit ?,ask,1187,Dial_20110706_144507
+Lucas,"Euh, non, expliquez nous ?",yes,1187,Dial_20110706_144507
+Sophia,"Conditioner le produit veut dire l' emballer soigneusement pour pouvoir l' expédier au client. Aldo, le logisticien assure qu' on ne manque pas de stock et de gérer les livraisons et les expéditions.",inform,1187,Dial_20110706_144507
+Sophia,Au revoir à vous tous !,quit,1187,Dial_20110706_144507
+Samir,"Déja de retour, et avec les plans! Bravo!",greet,1189,Dial_20110525_132843
+Samir,Qu'est-ce que je peux faire pour vous?,ask,1189,Dial_20110525_132843
+Julie,"on est un peu perdus : maintenant qu'on a les plans, qu'est ce qu'on fait ?",next_step,1189,Dial_20110525_132843
+Samir,"Eh bien, il va falloir la fabriquer cette manette. Allez voir Mélissa, la responsable d' îlot de production, elle va vous aider. Elle doit être dans l' atelier de fabrication.",inform,1189,Dial_20110525_132843
+Samir,"d'ailleurs, je ne vous ai pas parlé des autres métiers possibles dans la plasturige, ça vous intéresse ?",ask,1189,Dial_20110525_132843
+Julie,"ma foi oui, dites.",yes,1189,Dial_20110525_132843
+Samir,"La plasturgie, c' est plus une question de logique que de force physique. que ce soit pour imaginer les produits de demain comme ici, au bureau d' études, ou pour les créer, comme dans l' atelier, tout le monde y trouve son compte, filles comme garçons Il y a tellement de métiers différents et intéressants.",inform,1189,Dial_20110525_132843
+Samir,Voulez vous en savoir plus?,ask,1189,Dial_20110525_132843
+Samir,Merci de votre visite! Au Revoir!,quit,1189,Dial_20110525_132843
+Preparateur1,"Bonjour, je suis Preparateur1 le préparateur matière.",greet,1192,Dial_20110617_142946
+Preparateur1,Qu'est-ce que je peux faire pour vous?,ask,1192,Dial_20110617_142946
+Julie,il faut qu'on finisse notre manette,other,1192,Dial_20110617_142946
+Preparateur1,Je ne peux pas répondre à cette question .,other,1192,Dial_20110617_142946
+Preparateur1,"Je peux vous donner des informations sur mon métier, l' Espace Matières et la maintenance",inform,1192,Dial_20110617_142946
+Julie,"pouvez vous m'en dire plus sur votre métier, l' Espace Matières et la maintenance",inform_material_space,1192,Dial_20110617_142946
+Preparateur1,"Eh bien quand on reçoit les granulés de matière, ils sont pleins d' humidité. on ne peut pas les utiliser comme ça, sinon l' eau ferait plein de petites bulles dans le plastique et le produit final serait inutilisable. Alors on les passe dans une étuve, pour bien les sécher, et puis on peut aussi ajouter des colorants, pour donner une nouvelle couleur à la matière.",inform,1192,Dial_20110617_142946
+Preparateur1,Voulez vous en savoir plus sur mon métier ?,ask,1192,Dial_20110617_142946
+Julie,oui,yes,1192,Dial_20110617_142946
+Preparateur1,"mon rôle, c' est de m' assurer que les machines soient bien approvisionnées, avec les bonnes matières, dans les bonnes couleurs. Je dois faire fonctionner les étuves et tout le système d' approvisionnement.",inform,1192,Dial_20110617_142946
+Preparateur1,Voulez vous en savoir plus sur le protocole à suivre en cas de panne ?,ask,1192,Dial_20110617_142946
+Julie,oui,yes,1192,Dial_20110617_142946
+Preparateur1,"Si jamais il y a une panne j' appelle le technicien de maintenance c' est lui le pro pour tout réparer. mais mieux vaut prévenir que guérir. Alors son job, c' est aussi de passer régulièrement pour vérifier que tout va bien et corriger si nécessaire.",inform,1192,Dial_20110617_142946
+Preparateur1,voila je crois que je vous ai tout dit.,quit,1192,Dial_20110617_142946
+Julie,merci au revoir,quit,1192,Dial_20110617_142946
+Preparateur1,"Attendez ne partez pas si vite! j' ai une nouvelle machine à alimenter, elle doit faire des sacs plastiques, mais Je ne me rappelle plus de la matière qu' il faut. Tu veux bien me donner un coup de main?",ask,1192,Dial_20110617_142946
+Julie,pourquoi pas,yes,1192,Dial_20110617_142946
+Preparateur1,"ok, c' est parti",inform,1192,Dial_20110617_142946
+Preparateur1,"Merci de votre aide, au revoir !",quit,1192,Dial_20110617_142946
+Sophia,"Bonjour, je suis Sophia l' opérateur en décoration.",greet,1193,Dial_20110610_171643
+Sophia,Qu'est-ce que je peux faire pour vous?,ask,1193,Dial_20110610_171643
+Julie,"Bonjour, nous venons de terminer nos tests sur notre manette, il faudrait la décorer maintenant",informer_elcomps,1193,Dial_20110610_171643
+Sophia,"Eh bien Justement, je venais vousapporter vos composants électroniques. J' ai entendu parler de votre histoire de manette et comme j' avais les composants à portée de main, je me suis dis que ça vous ferait gagner du temps si je vous les apportais. Par contre, je vous laisse vous occuper de l' assemblage",inform,1193,Dial_20110610_171643
+Sophia,"mais avant, voulez vous que je vous parle de mon métier ?",ask,1193,Dial_20110610_171643
+Julie,oui,yes,1193,Dial_20110610_171643
+Sophia,Je m' occupe de la finition décoration. C' est un métier pour lequel il faut être polyvalent et minutieux.,inform,1193,Dial_20110610_171643
+Sophia,je vous laisse vous mettre à l'assemblage. Les composants sont sur la table juste derrière moi.,quit,1193,Dial_20110610_171643
+Serge,"Bonjour, je suis Serge le technicien QHSE.",greet,1205,Dial_20111231_145817
+Serge,Bien. Que puis-je faire pour vous ?,ask,1205,Dial_20111231_145817
+Ben,"Tester la conformité de mon boitier, par exemple ?",quality_control,1205,Dial_20111231_145817
+Serge,"Pour votre manette, je vais m'occuper de tous les tests, je vous laisse juste tester la solidité de la coque. C'est simple il faut envoyer 10 poids sur la manette. Si elle résiste, c'est qu'elle est conforme.",inform,1205,Dial_20111231_145817
+Ben,"Ok, merci beaucoup !",quit,1205,Dial_20111231_145817
+Serge,"Bon ! A plus tard, et bon courage à vous !  Revenez me voir lorsque c'est fait.",quit,1205,Dial_20111231_145817
+Mélissa,"Bien , vous êtes efficaces",greet,1213,Dial_20111227_192327
+Lucas,"Oui, mais aprés celà...",next_step,1213,Dial_20111227_192327
+Mélissa,"Il vous faut trouver la machine qui convient sur laquelle monter votre moule . Avec la fiche du moule et celle des machines , ça ne devrait pas être trop compliqué .",inform,1213,Dial_20111227_192327
+Lucas,"Bon, ok",ack,1213,Dial_20111227_192327
+Mélissa,"Allez , au boulot !",quit,1213,Dial_20111227_192327
+Serge,Bien le bonjour !,greet,1226,Dial_20111124_170818
+Serge,Vous venez tester votre nouvelle manette n' est - ce pas ?,ask,1226,Dial_20111124_170818
+Ben,"Bien le bonjour amigo! Oui, je veux tester ma manette.",quality_control,1226,Dial_20111124_170818
+Serge,"Je vais m'occuper des tests les plus techniques, je vous laisse le plus interactif. Il s'agit de faire tomber des poids à différents endroits de la coque.",inform,1226,Dial_20111124_170818
+Ben,"Je suis technicienne supérieur en mesure physique, les tests qualité ça me connaît. Petit sous-fifre.",other,1226,Dial_20111124_170818
+Serge,"Bien, je dois retourner travailler. A moins que vous vouliez en savoir plus sur mon métier, je vais vous laisser réaliser ce test.",ask,1226,Dial_20111124_170818
+Ben,"Non merci, je vais faire le test.",no,1226,Dial_20111124_170818
+Serge,Bonne chance pour la suite!,quit,1226,Dial_20111124_170818
+M.Jasper,"Bonjour, je suis M.Jasper le directeur.",greet,1227,Dial_20110609_161535
+M.Jasper,Qu'est-ce que je peux faire pour vous?,ask,1227,Dial_20110609_161535
+Lucas,je ne sais plus ce que je dois faire,help,1227,Dial_20110609_161535
+M.Jasper,Qu'est-ce que je peux faire pour vous?,ask,1227,Dial_20110609_161535
+Lucas,je ne sais plus ce que je dois faire,help,1227,Dial_20110609_161535
+Sophia,Bravo! Vous avez été rapides!,greet,1230,Dial_20110617_150953
+Sophia,Qu'est-ce que je peux faire pour vous?,ask,1230,Dial_20110617_150953
+Lucas,que dois je faire pour la finir,informer_end_manufacturing,1230,Dial_20110617_150953
+Sophia,on finit la fabrication par conditionner le produit,inform,1230,Dial_20110617_150953
+Sophia,Voulez vous en savoir plus sur le conditionnement produit ?,ask,1230,Dial_20110617_150953
+Lucas,oui,yes,1230,Dial_20110617_150953
+Sophia,"Conditioner le produit veut dire l' emballer soigneusement pour pouvoir l' expédier au client. Aldo, le logisticien assure qu' on ne manque pas de stock et de gérer les livraisons et les expéditions.",inform,1230,Dial_20110617_150953
+Sophia,J'aurais aimé continuer à répondre à vos questions mais je dois reprendre mon travail! Bonne Chance!,quit,1230,Dial_20110617_150953
+M.Jasper,"Bonjour, je suis Mélissa la responsable d'îlot de production.",greet,1232,Dial_20110617_141335
+M.Jasper,Qu'est-ce que je peux faire pour vous?,ask,1232,Dial_20110617_141335
+Lucas,un truque pour voir,first_step,1232,Dial_20110617_141335
+M.Jasper,"Pour faire votre manette, il vous faut des plans. Allez voir dans le bureau d' études, ils devraient y être.",inform,1232,Dial_20110617_141335
+M.Jasper,J'aurais aimé continuer à répondre à vos questions mais je dois reprendre mon travail! Bonne Chance!,quit,1232,Dial_20110617_141335
+Samir,"Bonjour, je suis Samir le concepteur de produit.",greet,1240,Dial_20110616_131251
+Samir,Qu'est-ce que je peux faire pour vous?,ask,1240,Dial_20110616_131251
+Julie,"Bonjour, vous ne me connaissez pas mais j'adorerai en savoir plus sur vous, la vie, l'univers, le reste et bien sur la manière de réaliser une super manette pour l'oncle de l'autre type là-bas.",find_plans,1240,Dial_20110616_131251
+Samir,"Oui, les plans sont dans l' armoire, mais elle est verrouillée par un code. Ah la protection des données. Un défi permanent. Je ne connais pas ce code, mais je sais que le responsable regarde souvent autour de lui avant de le taper. Je sais seulement qu' il y a 3 chiffres.",inform,1240,Dial_20110616_131251
+Samir,"Mais avant, voulez vous que je vous parle un peu de mon métier ?",ask,1240,Dial_20110616_131251
+Julie,Oh ouiiiii !!!,yes,1240,Dial_20110616_131251
+Samir,c' est moi qui conçois et dessine les articles qu' on fabrique dans cette entreprise.,inform,1240,Dial_20110616_131251
+Samir,Voulez vous en savoir plus sur les études que j'ai suivies ?,ask,1240,Dial_20110616_131251
+Julie,"Pourquoi pas, ça peut être enrichissant ...",yes,1240,Dial_20110616_131251
+Samir,"C' est un métier de création. Plusieurs formations peuvent mener à ce métier les arts appliqués, des études de design industriel, de conception assistée par ordinateur",inform,1240,Dial_20110616_131251
+Samir,Voulez vous en savoir plus sur les mesures de sécurités appliquées ici ?,ask,1240,Dial_20110616_131251
+Julie,"Oh lalala, il y a donc des choses dangereuses dans les ateliers ?",security_policies,1240,Dial_20110616_131251
+Samir,"vous savez, ici vous êtes dans un lieu stratégique. Les nouveautés, les produits de demain, c' est ici qu' ils naissent. Et il faut les protéger. C' est pour ça qu' on ne laisse pas entrer n' importe qui dans cette pièce.",inform,1240,Dial_20110616_131251
+Samir,Voulez vous en savoir plus sur mes collègues ?,ask,1240,Dial_20110616_131251
+Julie,"Ceux qui sont jeunes, riches et intelligents, oui ... Les autres, pas vraiment ...",other,1240,Dial_20110616_131251
+Samir,mon métier peut plaire autant aux filles qu' aux garçons.,inform,1240,Dial_20110616_131251
+Samir,Bonne chance !,quit,1240,Dial_20110616_131251
+Preparateur1,"Bonjour, je suis Preparateur1 le préparateur matière.",greet,1247,Dial_20110610_112656
+Preparateur1,Qu'est-ce que je peux faire pour vous?,ask,1247,Dial_20110610_112656
+Julie,pouvez vous nous en dire plus sur votre métier?,inform_job,1247,Dial_20110610_112656
+Preparateur1,"mon rôle, c' est de m' assurer que les machines soient bien approvisionnées, avec les bonnes matières, dans les bonnes couleurs. Je dois faire fonctionner les étuves et tout le système d' approvisionnement.",inform,1247,Dial_20110610_112656
+Preparateur1,Voulez vous en savoir plus?,ask,1247,Dial_20110610_112656
+Julie,l'espace matiere c'est quoi ?,inform_material_space,1247,Dial_20110610_112656
+Preparateur1,"Eh bien quand on reçoit les granulés de matière, ils sont pleins d' humidité. on ne peut pas les utiliser comme ça, sinon l' eau ferait plein de petites bulles dans le plastique et le produit final serait inutilisable. Alors on les passe dans une étuve, pour bien les sécher, et puis on peut aussi ajouter des colorants, pour donner une nouvelle couleur à la matière.",inform,1247,Dial_20110610_112656
+Preparateur1,Voulez vous en savoir plus?,ask,1247,Dial_20110610_112656
+Julie,non ca ira merci,no,1247,Dial_20110610_112656
+Preparateur1,"Attendez ne partez pas si vite! j' ai une nouvelle machine à alimenter, elle doit faire des sacs plastiques, mais Je ne me rappelle plus de la matière qu' il faut. Tu veux bien me donner un coup de main?",ask,1247,Dial_20110610_112656
+Julie,pourquoi pas,yes,1247,Dial_20110610_112656
+Preparateur1,"ok, c' est parti",inform,1247,Dial_20110610_112656
+Preparateur1,"Merci de votre aide, bonne continuation !",quit,1247,Dial_20110610_112656

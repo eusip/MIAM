@@ -1,0 +1,1987 @@
+Speaker,Utterance,Dialogue_Act,Dialogue_ID
+S_29_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,0
+S_29_U1,"Ciao io sono Annamaria… eh… Ciao io sono Annamaria... E penso di mangiare bene. Le mie abitudini alimentari di solito sono… cioè, credo che siano buone.",OPENING,0
+S_29_S2,Che cosa hai mangiato per colazione?,QUESTION,0
+S_29_U2,Eh… una tazza di latte e caffè e una brioche.,STATEMENT,0
+S_29_S3,Che cosa hai mangiato per cena?,QUESTION,0
+S_29_U3,"Eh… si: una mozzarella, delle fette biscottate integrali, eh… Dello speck",STATEMENT,0
+S_29_S4,Segui una dieta variata?,QUESTION,0
+S_29_U4,"La mia dieta è abbastanza variata, però per motivi pratici tendo a mangiare più o meno le stesse cose.",STATEMENT,0
+S_29_S5,"Certo, organizzarti in modo da mangiare correttamente probabilmente non ti sembra facile, specialmente...",OFFER-GIVE-INFO,0
+S_29_U5,"Eh… però diciamo che mi diletto molto in cucina: mi piace… mi piace cucinare e preparo spesso, tranne nei periodi di… ehm… di molto impegno, preparo spesso ehm… io, le cose da mangiare.",STATEMENT,0
+S_29_S6,"Ah, bene!",ENCOURAGE-SORRY,0
+S_29_U6,Anzi il mio… diciamo il piatto che mi viene meglio è la parmigiana.,STATEMENT,0
+S_29_S7,Ti piacciono frutta e  verdura?,QUESTION,0
+S_29_U7,"Tantissimo! Vado matta! E le cucino in ogni modo… vabbè la verdura mi piace sia cotta che cruda, qualsiasi tipo di verdura. La frutta… eh… i chili di frutta consumo!",STATEMENT,0
+S_29_S8,"Fantastico! La ricerca ha dimostrato che ingerire le dosi raccomandate di Vitamina A e C, fibre e sali minerali  può avere...",PERSUASION-SUGGEST,0
+S_29_U8,"Però non bevo molta acqua, purtroppo.",STATEMENT,0
+S_29_S9,Ti attirano molto i dolci?,QUESTION,0
+S_29_U9,"Mmm non tantissimo, vado matta più per il salato. Davanti a una pizza, diciamo.",STATEMENT,0
+S_29_S10,Difficile resistere alle tentazioni!,ENCOURAGE-SORRY,0
+S_29_U10,"Eh… sì difficile, però io resisto abbastanza. Quando so di avere esager… esagerato nell’aver mangiato qualcosa durante la settimana, o troppi dolci o troppe cose non proprio prelibate allora tiro il freno. Mi… Diciamo che purifico un po’.",STATEMENT,0
+S_29_S11,"Vedo che, complessivamente, fai attenzione alla tua dieta, e ne sono contenta. Resisti alle tentazioni, si vede che tieni alla tua salute e al tuo aspetto!",ENCOURAGE-SORRY,0
+S_29_U11,Grazie!,KIND-ATTITUDE_SMALL-TALK,0
+S_29_S12,Ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare...,OFFER-GIVE-INFO,0
+S_29_U12,"Ad esempio quante volte potrei mangiare, che ne so, formaggi o... pizze, queste cose qua.",INFO-REQUEST,0
+S_29_S13,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza... I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",PERSUASION-SUGGEST,0
+S_29_U13,"Eh... quanta carne dovrei mangiare al giorno? Eh, no al giorno, a settimana?",INFO-REQUEST,0
+S_29_S14,Ogni cellula e tessuto del corpo contiene proteine. Una donna di 55 kili ha bisogno di 40 o 50...,OFFER-GIVE-INFO,0
+S_29_U14,E’ sbagliato mangiare tutti i giorni carne?,INFO-REQUEST,0
+S_29_S15,Credo di sì,ANSWER,0
+S_29_U15,Ehm... quanti giorni alla settimana dovrei mangiare il pesce?,INFO-REQUEST,0
+S_29_S16,"I grassi insaturi si trovano in alcuni pesci, il cosiddetto pesce azzurro, e in alcuni oli vegetali... Una carenza di grassi insaturi provoca alterazioni della struttura e nella funzione di enzimi, determinando un certo numero di disturbi...",PERSUASION-SUGGEST,0
+S_29_U16,"Quante volte più o meno dovrei mangiarlo, a settimana?",INFO-REQUEST,0
+S_29_S17,"Mi dispiace, non so rispondere a questa domanda",ANSWER,0
+S_29_U17,E devo mangiare prima o dopo andare in palestra?,INFO-REQUEST,0
+S_29_S18,"Bisognerebbe mangiare solo se si ha fame, ed aspettare che la digestione sia completata prima...",PERSUASION-SUGGEST,0
+S_29_U18,E prima o dopo di andare... di fare attività fisica?,INFO-REQUEST,0
+S_29_S19,"Purtroppo sono poco esperta in questo campo. Sai, gli agenti artificiali vengono addestrati gradualmente, e in domini molto specializzati. Le loro conoscenze, quindi...",TALK-ABOUT-SELF,0
+S_29_U19,Ok.,AGREE,0
+S_29_S20,"Se hai dei problemi, in futuro, torna da me; proveremo a risolverli insieme...",OFFER-GIVE-INFO,0
+S_29_U20,Ok.,AGREE,0
+S_29_S21,E' stato davvero piacevole interagire con te. Torna pure quando vuoi.,CLOSING,0
+S_29_U21,Grazie.,KIND-ATTITUDE_SMALL-TALK,0
+T_9_S1,"Ciao, il mio nome e' Valentina. Sono qui per esserti di aiuto, possiamo chiaccherare sulle tue abitudini alimentari, e potrei darti dei suggerimenti che potrebbero servirti per migliorare la tua dieta. Per iniziare, come ti chiami?",OPENING,3
+T_9_U1,daniele,OPENING,3
+T_9_S2,"Proviamo a parlare, se vuoi, delle tue abitudini alimentari. Cosa mangi, di solito?",QUESTION,3
+T_9_U2,"grassi,poca frutta e verdura",STATEMENT,3
+T_9_S3,"Non vorrei farti una domanda indiscreta! Ma dimmi, ti piace mangiare?",QUESTION,3
+T_9_U3,si,GENERIC-ANSWER,3
+T_9_S4,"Dimmi, che cosa hai mangiato oggi per colazione?",QUESTION,3
+T_9_U4,latte con caffe,STATEMENT,3
+T_9_S5,"E ieri sera a cena, ti ricordi cosa hai mangiato?",QUESTION,3
+T_9_U5,una puccia,STATEMENT,3
+T_9_S6,"Ti alimenti spesso nel modo in cui mi hai raccontato, oppure si tratta di eccezioni?",QUESTION,3
+T_9_U6,mi alimento spesso nel modo che ti ho spiegato,STATEMENT,3
+T_9_S7,Che pensi di un magnifico piatto di spaghetti al dente?,QUESTION,3
+T_9_U7,sono molto buoni,STATEMENT,3
+T_9_S8,Che pensi di un bel piatto di frittura calda e croccante?,QUESTION,3
+T_9_U8,é molto buona,STATEMENT,3
+T_9_S9,"In media, sapresti ricostruire quanta verdura mangi, ogni giorno?",QUESTION,3
+T_9_U9,mediamente 100 grammi,STATEMENT,3
+T_9_S10,"Tendi a mangiare sempre le stesse cose, oppure a seguire una dieta abbastanza variata?",QUESTION,3
+T_9_U10,tendo a mangiare le stesse cose,STATEMENT,3
+T_9_S11,"Bene:  prova ora a riflettere sulla tua dieta. Pensi che sia giusta, o ti piacerebbe cambiare le tue abitudini alimentari?",QUESTION,3
+T_9_U11,"le mie abitudini alimentari vanno cambiate,ma di poco",STATEMENT,3
+T_9_S12,"Non vorrei sembrarti indiscreta. Ma dimmi, il tuo peso ti sembra giusto? oppure ti piacerebbe cambiarlo?",QUESTION,3
+T_9_U12,il mio peso è giusto,STATEMENT,3
+T_9_S13,"Prova a riflettere, con calma, a quello che mangi durante il giorno. Ti sembra di assumere tutte le sostanze di cui avresti bisogno?",QUESTION,3
+T_9_U13,si,GENERIC-ANSWER,3
+T_9_S14,Scusa se sono sincera. Ma ho impressione che le tue abitudini alimentari non siano proprio ideali.,ENCOURAGE-SORRY,3
+T_9_U14,hai ragione,AGREE,3
+T_9_S15,"So che rischiamo di andare su fatti personali. Ma hai mai provato a chiederti a cosa sono dovute, le tue abitudini alimentari?",QUESTION,3
+T_9_U15,"vita disordinata,leggera avversione per i cibi sani",STATEMENT,3
+T_9_S16,"Ma, se provi a riflettere su quanto fa bene una buona dieta, penso proprio che ti renderai conto che vale la pena di perdere un po' del tuo tempo per cercare di nutrirti in modo giusto.",PERSUASION-SUGGEST,3
+T_9_U16,per ora sto bene così,REJECT,3
+T_9_S17,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenerti in forma, dovresti cercare di variare , per quanto possibile, i cibi contenuti nella tua dieta.",PERSUASION-SUGGEST,3
+T_9_U17,ne sono consapevole,AGREE,3
+T_9_S18,"Mangiare ad orari fissi ti aiuta ad evitare di saltare i pasti e di trascurare sostanze che molto probabilmente non assumeresti, poi, nei pasti successivi.",PERSUASION-SUGGEST,3
+T_9_U18,"i miei orari sono regolari,solo che spesso mangio in orari insoliti,soprattutto la sera",STATEMENT,3
+T_9_S19,"In una dieta ideale, ben equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati.",PERSUASION-SUGGEST,3
+T_9_U19,assumo molti carboidrati perchè mangio molta pasta,STATEMENT,3
+T_9_S20,Molte ricerche a livello internazionale hanno dimostrato quanto sia importante una dieta ricca di ottimi vegetali e di frutta fresca.,PERSUASION-SUGGEST,3
+T_9_U20,concordo,AGREE,3
+T_9_S21,"Sembra esserci ormai un accordo generale, sul fatto che limitare la dose di grassi, in particolare quelli cosiddetti saturi, sia una regola fondamentale di una dieta veramente sana.",PERSUASION-SUGGEST,3
+T_9_U21,ma ti vien tolto il piacere di mangiare,REJECT,3
+T_9_S22,"Non devi eliminare completamente i grassi. Devi soltanto cercare di limitarne le dosi, soprattutto di quelli saturi. Cerca, inoltre, di privilegiare i grassi insaturi, come il magnifico olio di oliva!",PERSUASION-SUGGEST,3
+T_9_U22,ok,AGREE,3
+T_9_S23,"L'ideale sarebbe che tu mangiassi almeno cinque porzioni di frutta e verdura , ogni giorno.",PERSUASION-SUGGEST,3
+T_9_U23,esagerata,REJECT,3
+T_9_S24,"Viene normalmente consigliata una porzione corrispondente a circa 80 grammi. Per esempio: una mela, due o tre cucchiai di verdure congelate o un bicchiere di succo di frutta.",OFFER-GIVE-INFO,3
+T_9_U24,è troppo,REJECT,3
+T_9_S25,Credo di no,ANSWER,3
+T_6_S1,"Ciao, il mio nome e' Valentina. Sono qui per esserti di aiuto, possiamo chiaccherare sulle tue abitudini alimentari, e potrei darti dei suggerimenti che potrebbero servirti per migliorare la tua dieta. Per iniziare, come ti chiami?",OPENING,4
+T_6_U1,alessandro,OPENING,4
+T_6_S2,"Proviamo a parlare, se vuoi, delle tue abitudini alimentari. Cosa mangi, di solito?",QUESTION,4
+T_6_U2,"pasta, carne , pesce e frutta",STATEMENT,4
+T_6_S3,"Tendi a mangiare sempre le stesse cose, oppure a seguire una dieta abbastanza variata?",QUESTION,4
+T_6_U3,abbastanza diversificata,STATEMENT,4
+T_6_S4,Che pensi di un magnifico piatto di spaghetti al dente?,QUESTION,4
+T_6_U4,da manuale di dieta mediterranea,STATEMENT,4
+T_6_S5,Che pensi di un bel piatto di frittura calda e croccante?,QUESTION,4
+T_6_U5,ottimo,STATEMENT,4
+T_6_S6,Ti attirano i dolci? Ti fermi mai davanti alla vetrina di una bella pasticceria?,QUESTION,4
+T_6_U6,"non mi fermo , ci entro",STATEMENT,4
+T_6_S7,"In media, sapresti ricostruire quanta verdura mangi, ogni giorno?",QUESTION,4
+T_6_U7,ne mangio sempre ad ogni pasto,STATEMENT,4
+T_6_S8,"Bene:  prova ora a riflettere sulla tua dieta. Pensi che sia giusta, o ti piacerebbe cambiare le tue abitudini alimentari?",QUESTION,4
+T_6_U8,pensoche sia abbastanza equilibrata,STATEMENT,4
+T_6_S9,"Non vorrei sembrarti indiscreta. Ma dimmi, il tuo peso ti sembra giusto? oppure ti piacerebbe cambiarlo?",QUESTION,4
+T_6_U9,forse sono un po sottopeso...,STATEMENT,4
+T_6_S10,"Prova a riflettere, con calma, a quello che mangi durante il giorno. Ti sembra di assumere tutte le sostanze di cui avresti bisogno?",QUESTION,4
+T_6_U10,non sempre,GENERIC-ANSWER,4
+T_6_S11,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenerti in forma, dovresti cercare di variare , per quanto possibile, i cibi contenuti nella tua dieta.",PERSUASION-SUGGEST,4
+T_6_U11,ok..,AGREE,4
+T_6_S12,"In una dieta ideale, ben equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati.",PERSUASION-SUGGEST,4
+T_6_U12,"fico, nn sapevo",AGREE,4
+T_6_S13,"L'ideale sarebbe che tu mangiassi almeno cinque porzioni di frutta e verdura , ogni giorno.",PERSUASION-SUGGEST,4
+T_6_U13,così tante?ho sentito tesi contrastanti a proposito,REJECT,4
+T_6_S14,Molte ricerche a livello internazionale hanno dimostrato quanto sia importante una dieta ricca di ottimi vegetali e di frutta fresca.,PERSUASION-SUGGEST,4
+T_6_U14,mi fido,AGREE,4
+T_6_S15,"Viene normalmente consigliata una porzione corrispondente a circa 80 grammi. Per esempio: una mela, due o tre cucchiai di verdure congelate o un bicchiere di succo di frutta.",OFFER-GIVE-INFO,4
+T_6_U15,"capito, allora dovrei mangiare più frutta?",INFO-REQUEST,4
+T_6_S16,"Si Le vitamine A e C purificano il sangue e sono importanti per la crescita e la rigenerazione dei tessuti. Ti aiutano, quindi, ad avere un aspetto piu' sano e una pelle piu' luminosa.",PERSUASION-SUGGEST,4
+T_6_U16,che cosa mi sai dire riguardo al giusto consumo di carne quotidiano?,INFO-REQUEST,4
+T_6_S17,"Mi dispiace, non so rispondere a questa domanda.",ANSWER,4
+T_6_U17,sei specializzata in frutta e verdura ?,KIND-ATTITUDE_SMALL-TALK,4
+T_6_S18,Si,ANSWER,4
+T_6_U18,mi sai dire quanta frutta dovrei consumare fuori dai pasti?,INFO-REQUEST,4
+T_6_S19,"Mi dispiace, non so rispondere a questa domanda.",ANSWER,4
+T_6_U19,"fa nulla , hai altri consigli da darmi?",INFO-REQUEST,4
+T_6_S20,Credo di no,ANSWER,4
+T_6_U20,"vogliamo parlare di te, allora?",KIND-ATTITUDE_SMALL-TALK,4
+T_29_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta. Quali sono le tue abitudini alimentari?",OPENING,5
+T_29_U1,mangio tre volte al giorno,STATEMENT,5
+T_29_S2,Ti piace mangiare?,QUESTION,5
+T_29_U2,abbastanza,GENERIC-ANSWER,5
+T_29_S3,Che cosa hai mangiato per colazione?,QUESTION,5
+T_29_U3,latte e biscotti,STATEMENT,5
+T_29_S4,Che cosa hai mangiato per cena?,QUESTION,5
+T_29_U4,carne e verdura,STATEMENT,5
+T_29_S5,Ti piacciono frutta e  verdura?,QUESTION,5
+T_29_U5,la frutta si,STATEMENT,5
+T_29_S6,Ti attirano molto i dolci?,QUESTION,5
+T_29_U6,poco,STATEMENT,5
+T_29_S7,Che pensi di un piatto di frittura?,QUESTION,5
+T_29_U7,poco,STATEMENT,5
+T_29_S8,"Pensi che la tua dieta sia giusta, o vorresti cambiare le tue abitudini alimentari?",QUESTION,5
+T_29_U8,non lo so dimmi tu tu che mi consigli?,INFO-REQUEST,5
+T_29_S9,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenerti in forma, dovresti cercare di variare , per quanto possibile, i cibi contenuti nella tua dieta.",PERSUASION-SUGGEST,5
+T_29_U9,in che modo?,SOLICITATION-REQ_CLARIFICATION,5
+T_29_S10,"Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo puo' rientrare in uno stile di vita sano, se moderazione ed equilibrio sono rispettati. Bilanciare l'assunzione di alimenti significa introdurre una quantita' sufficiente, ma non eccessiva, di ogni  sostanza. Se le porzioni sono mantenute entro limiti ragionevoli, non occorre eliminare i cibi preferiti.",PERSUASION-SUGGEST,5
+T_29_U10,si ma come posso cambiare?,REJECT,5
+T_29_S11,"Diverse ricerche hanno dimostrato l'importanza di una dieta ricca di vegetali  e di frutta. Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno. Una porzione consiste, ad esempio, in una mela, due o tre cucchiai di verdure congelate o un bicchiere di succo di frutta. In generale, si  consiglia un consumo quotidiano di una porzione di verdura cotta e una di verdura cruda, e di due o tre porzioni di frutta fresca.",PERSUASION-SUGGEST,5
+T_29_U11,mangio poca pasta,STATEMENT,5
+T_29_S12,"In una dieta equilibrata, almeno la meta' delle calorie totali dovrebbe provenire da cibi a base di carboidrati. I carboidrati aiutano a tenere sotto controllo il peso e ad evitare un accumulo di grassi, fornendo il carburante immediamente disponibile per l'attivita' fisica, mentre le fibre alimentari aiutano l'intestino a funzionare correttamente. Soprattutto se abbinati ad una attivita' fisica costante, i carboidrati sono, quindi, fondamentali per una corretta funzione alimentare e sono un combustibile importante per cervello e muscoli.",PERSUASION-SUGGEST,5
+T_29_U12,solo la pasta contiene carboidrati?,INFO-REQUEST,5
+T_29_S13,"Chiedo scusa, non so rispondere a questa domanda.",ANSWER,5
+T_29_U13,i carboidrati sono nella pasta?,SOLICITATION-REQ_CLARIFICATION,5
+T_29_S14,Si,ANSWER,5
+T_29_U14,solo nella pasta?,SOLICITATION-REQ_CLARIFICATION,5
+T_29_S15,"Mi dispiace davvero, ma non so rispondere a questa domanda",ANSWER,5
+T_29_U15,quale cibo contiene i carboidrati?,INFO-REQUEST,5
+T_29_S16,"Mi dispiace davvero, ma non so rispondere a questa domanda",ANSWER,5
+T_29_U16,i carboidrati come li assimilo?,SOLICITATION-REQ_CLARIFICATION,5
+T_29_S17,"Chiedo scusa, non so rispondere a questa domanda.",ANSWER,5
+T_29_U17,carboidrati?,INFO-REQUEST,5
+T_29_S18,"Una carenza di carboidrati alimentari porta l'organismo a ricorrere ad altre sostanze reperite dai depositi, e non sempre dai depositi di grasso; cio' causa squilibri dannosi per l'organismo. Per esempio, rende il fegato molto piu' vulnerabile e puo' peggiorare la salute dei reni.",PERSUASION-SUGGEST,5
+T_29_U18,dove si trovano i carboidrati?,INFO-REQUEST,5
+T_29_S19,Purtroppo sono poco esperta in questo campo. Hai mai desiderato di cambiare dieta?,QUESTION,5
+T_29_U19,si,GENERIC-ANSWER,5
+T_29_S20,Per quale motivo non hai mai provato?,QUESTION,5
+T_29_U20,per mancanza di tempo,STATEMENT,5
+T_29_S21,"Certo, organizzarti in modo da mangiare correttamente probabilmente non ti sembra facile, specialmente se devi lavorare o studiare molto e non hai nessuno che ti aiuta. Devi perdere un sacco di tempo  per fare la spesa e cucinare un pasto variato. Invece, preparare un panino veloce oppure mangiare quello che capita ti fa perdere sicuramento meno tempo.",OFFER-GIVE-INFO,5
+T_29_U21,si,GENERIC-ANSWER,5
+T_29_S22,E allora? Dimmi qualcosa di piu'!,ENCOURAGE-SORRY,5
+T_29_U22,troppo pane?,INFO-REQUEST,5
+T_29_S23,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza, un piccolo piatto di pasta o 50 grammi di gelato. I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",OFFER-GIVE-INFO,5
+T_29_U23,e la carne?,INFO-REQUEST,5
+T_29_S24,"Ogni cellula e tessuto del corpo contiene proteine. Queste si trovano nei muscoli, nelle ossa, nei capelli, nelle unghie e nella pelle: buona parte delle calorie assunte ogni giorno deve, quindi, provenire dalle proteine. Un uomo di 70 kili ha bisogno di 50 o 60 grammi di proteine al giorno, mentre, una donna di 55 kili ha bisogno di 40 o 50 grammi circa.",OFFER-GIVE-INFO,5
+T_29_U24,mi piace la carne,STATEMENT,5
+T_29_S25,"Le proteine necessarie possono essere assunte con due o tre porzioni di carne, latte, uova. Oppure, con quattro porzioni di proteine vegetali, come cereali i integrali, le verdure, i legumi, o anche la frutta secca.",OFFER-GIVE-INFO,5
+T_29_U25,quale dieta dovrei seguire?,INFO-REQUEST,5
+T_29_S26,"Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo puo' rientrare in uno stile di vita sano, se moderazione ed equilibrio sono rispettati. Bilanciare l'assunzione di alimenti significa introdurre una quantita' sufficiente, ma non eccessiva, di ogni  sostanza. Se le porzioni sono mantenute entro limiti ragionevoli, non occorre eliminare i cibi preferiti.",PERSUASION-SUGGEST,5
+T_29_U26,ok,AGREE,5
+T_29_S27,"Dovresti mangiare solamente quando hai fame per davvero. E dovresti aspettare che la digestione dei pasti precedenti sia completata, prima di mangiare di nuovo.",PERSUASION-SUGGEST,5
+T_29_U27,giusto ti ringrazio,AGREE,5
+T_29_S28,"Vedo che, complessivamente, fai attenzione alla tua dieta, e ne sono contenta.",ENCOURAGE-SORRY,5
+T_29_U28,ciao,CLOSING,5
+T_29_S29,Arrivederci. E' stato davvero piacevole interagire con te. Torna pure quando vuoi.,CLOSING,5
+T_25_S1,"Ciao, mi chiamo Valentina. Sono qui per esserti di aiuto;  possiamo chiacchierare delle tue abitudini alimentari, e posso darti dei suggerimenti su come migliorare la tua dieta.",OPENING,6
+T_25_U1,quanta carne devo mangiare,INFO-REQUEST,6
+T_25_S2,"Ogni cellula e tessuto del corpo contiene proteine, che si trovano nei muscoli, nelle ossa, nei capelli, nelle unghie e nella pelle. Quindi, buona parte delle calorie che assumi ogni giorno deve provenire dalle proteine. Un uomo di 70 kili ha bisogno di 50 o 60 grammi di proteine al giorno, mentre una donna di 55 kili ha bisogno di 40 o 50 grammi circa.",OFFER-GIVE-INFO,6
+T_25_U2,quante calorie assumo mangiando dolci?,INFO-REQUEST,6
+T_25_S3,Mi dispiace davvero e mi vergogno anche un po'. Ma non so rispondere a questa domanda Ti attirano i dolci? Ti fermi mai davanti alla vetrina di una bella pasticceria?,QUESTION,6
+T_25_U3,crema,INFO-REQUEST,6
+T_25_S4,"Scusa, non ho capito: cosa intendi dire?",ANSWER,6
+T_25_U4,dammi informazioni sui dolci?,INFO-REQUEST,6
+T_25_S5,"Dovresti evitare i dolci, o almeno limitarli a particolari occasioni. Ti suggerirei di scegliere i gelati alla frutta e i dolci secchi o con la marmellata, evitando quelli farciti con la panna o con creme elaborate, e, quindi, ricchi di grassi e di calorie.",PERSUASION-SUGGEST,6
+T_25_U5,consigliami una dieta,INFO-REQUEST,6
+T_25_S6,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenerti in forma, dovresti cercare di variare , per quanto possibile, i cibi contenuti nella tua dieta.",PERSUASION-SUGGEST,6
+T_25_U6,spinaci,INFO-REQUEST,6
+T_25_S7,ti piacciono frutta e verdura?,QUESTION,6
+T_25_U7,quale verdura è consigliabile?,INFO-REQUEST,6
+T_25_S8,"Diverse ricerche hanno dimostrato l'importanza di una dieta ricca di vegetali e di frutta. Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno. Una porzione consiste, ad esempio, in una mela, due o tre cucchiai di verdure congelate o un bicchiere di succo di frutta. In generale, si consiglia di consumare, ogni giorno, una porzione di verdura cotta, una di verdura cruda e due o tre di frutta fresca.",PERSUASION-SUGGEST,6
+T_25_U8,creme e dolci sono dannose?,INFO-REQUEST,6
+T_25_S9,"Difficile resistere alle tentazioni! Dovresti evitare i dolci, o almeno limitarli a particolari occasioni. Ti suggerirei di scegliere i gelati alla frutta e i dolci secchi o con la marmellata, evitando quelli farciti con la panna o con creme elaborate, e, quindi, ricchi di grassi e di calorie.",PERSUASION-SUGGEST,6
+T_25_U9,crema,STATEMENT,6
+T_25_S10,"Ti capita di mangiarne spesso, o solo ogni tanto?",QUESTION,6
+T_25_U10,ogni tanto,GENERIC-ANSWER,6
+T_25_S11,"Bene:  prova ora a riflettere sulla tua dieta. Pensi che sia giusta, o ti piacerebbe cambiare le tue abitudini alimentari?",QUESTION,6
+T_25_U11,mi piacerebbe cambiare,STATEMENT,6
+T_25_S12,E come mai non hai mai provato?,QUESTION,6
+T_25_U12,non so come cambiare,STATEMENT,6
+T_25_S13,"Ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare a risponderti, anche se le mie conoscenze sono ancora incomplete.",OFFER-GIVE-INFO,6
+T_25_U13,consigliami piatti veloci e sani,INFO-REQUEST,6
+T_25_S14,"Purtroppo sono poco esperta in questo campo Sai, gli agenti artificiali vengono addestrati gradualmente, e in domini molto specializzati. Le loro conoscenze, quindi, sono spesso limitate. Chi ci programma tende a pensare al nostro aspetto piu' che alla nostra mente!",TALK-ABOUT-SELF,6
+T_25_U14,"sono obesa, cosa devo fare?",INFO-REQUEST,6
+T_25_S15,"Un eccesso di grasso corporeo costituisce un fattore di rischio elevato per lo sviluppo di malattie serie, come quelle cardiache e il diabete. Quelli piu' pericolosi sono i grassi saturi, che sono contenuti in quasi tutti gli alimenti di origine animale come la carne, il latte, il formaggio e il burro. Ma i grassi saturi si trovano anche in alcuni prodotti di origine vegetale, come la margarina e gli olii di cocco e di palma. Limitare la quantita' di grassi, in particolare di quelli saturi, e' un principio fondamentale di una dieta sana.",PERSUASION-SUGGEST,6
+T_20_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,7
+T_20_U1,aspetto,SOLICITATION-REQ_CLARIFICATION,7
+T_20_S2,Ti piace mangiare?,QUESTION,7
+T_20_U2,si molto,STATEMENT,7
+T_20_S3,Che cosa hai mangiato per colazione?,QUESTION,7
+T_20_U3,latte macchiato e qualche biscotto,STATEMENT,7
+T_20_S4,"Ah, bene! Ti attirano molto i dolci?",QUESTION,7
+T_20_U4,avrei preferito cioccolata calda,STATEMENT,7
+T_20_S5,Ti attirano molto i dolci?,QUESTION,7
+T_20_U5,si moltissimo,STATEMENT,7
+T_20_S6,"Forse hai ragione, ma... I dolci sono da evitare, ovvero da limitare a particolari occasioni. Sono da preferire i gelati alla frutta e i dolci secchi o con marmellata, evitando quelli farciti con panna o creme elaborate, e, quindi, ricchi in grassi e calorie.",PERSUASION-SUGGEST,7
+T_20_U6,e nutella?,INFO-REQUEST,7
+T_20_S7,Difficile resistere alle tentazioni!,ENCOURAGE-SORRY,7
+T_20_U7,lo so bene!!,AGREE,7
+T_20_S8,Ne mangi spesso?,QUESTION,7
+T_20_U8,tantissima!!!!!!,STATEMENT,7
+T_20_S9,"Pensi che la tua dieta sia giusta, o vorresti cambiare le tue abitudini alimentari?",QUESTION,7
+T_20_U9,vorrei mangiare cose genuine ma allo stesso tempo buone!!,STATEMENT,7
+T_20_S10,"Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo puo' rientrare in uno stile di vita sano, se moderazione ed equilibrio sono rispettati. Bilanciare l'assunzione di alimenti significa introdurre una quantita' sufficiente, ma non eccessiva, di ogni  sostanza. Se le porzioni sono mantenute entro limiti ragionevoli, non occorre eliminare i cibi preferiti. Che pensi di un piatto di spaghetti?",PERSUASION-SUGGEST,7
+T_20_U10,siiiiiiiii,STATEMENT,7
+T_20_S11,"Ah, bene!",ENCOURAGE-SORRY,7
+T_20_U11,oppure lasagne al pesto,STATEMENT,7
+T_20_S12,"Questa e' una buona idea! I carboidrati aiutano a tenere sotto controllo il peso e ad evitare un accumulo di grassi, fornendo il carburante immediamente disponibile per l'attivita' fisica, mentre le fibre alimentari aiutano l'intestino a funzionare correttamente. Soprattutto se abbinati ad una attivita' fisica costante, i carboidrati sono, quindi, fondamentali per una corretta funzione alimentare e sono un combustibile importante per cervello e muscoli.",PERSUASION-SUGGEST,7
+T_20_U12,quindi posso mangiare quanta cioccolata voglio?,INFO-REQUEST,7
+T_20_S13,"Credo di no I dolci sono da evitare, ovvero da limitare a particolari occasioni. Sono da preferire i gelati alla frutta e i dolci secchi o con marmellata, evitando quelli farciti con panna o creme elaborate, e, quindi, ricchi in grassi e calorie.",PERSUASION-SUGGEST,7
+T_20_U13,va bene ok!! suggerimenti su frutta e verdura??,INFO-REQUEST,7
+T_20_S14,"Diverse ricerche a livello internazionale hanno dimostrato l'importanza di una dieta ricca di vegetali  e di frutta. Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno. La porzione consigliata  risulta essere di circa 80 grammi:  per esempio una mela, due o tre cucchiai di verdure congelate o un bicchiere di succo di frutta. In generale, si  consiglia un consumo quotidiano di una porzione di verdura cotta e una di verdura cruda, e di due o tre porzioni di frutta fresca. Meglio ingerire la verdura fresca prima del pasto, per raggiungere rapidamente il senso di sazieta', e meglio non consumare frutta zuccherina a fine pasto, per evitare problemi di digestione.",PERSUASION-SUGGEST,7
+T_20_U14,ma la frutta a fine pasto fa ingrassare?,INFO-REQUEST,7
+T_20_S15,"Credo di no Meglio ingerire la verdura fresca prima del pasto, per raggiungere rapidamente il senso di sazieta', e meglio non consumare frutta zuccherina a fine pasto, per evitare problemi di digestione.",PERSUASION-SUGGEST,7
+T_20_U15,ok sei molto gentile!,KIND-ATTITUDE_SMALL-TALK,7
+T_20_S16,"Ah, bene!",ENCOURAGE-SORRY,7
+T_20_U16,allora a pranzo mangerò panino con il prosciutto crudo!,STATEMENT,7
+T_20_S17,Questa e' una buona idea!,ENCOURAGE-SORRY,7
+T_20_U17,il pane fa ingrassare?,INFO-REQUEST,7
+T_20_S18,"I carboidrati aiutano a tenere sotto controllo il peso e ad evitare un accumulo di grassi, fornendo il carburante immediamente disponibile per l'attivita' fisica, mentre le fibre alimentari aiutano l'intestino a funzionare correttamente. Soprattutto se abbinati ad una attivita' fisica costante, i carboidrati sono, quindi, fondamentali per una corretta funzione alimentare e sono un combustibile importante per cervello e muscoli.",PERSUASION-SUGGEST,7
+T_20_U18,bene tutto chiaro!,AGREE,7
+T_20_S19,Che pensi di un piatto di frittura?,QUESTION,7
+T_20_U19,direi troppo calorico e non sano!!,STATEMENT,7
+T_20_S20,"Vedo che, complessivamente, fai attenzione alla tua dieta, e ne sono contenta. Prova a pensare a tutto quello che mangi durante il giorno: ti sembra di assumere tutte le sostanze di cui avresti bisogno?",ENCOURAGE-SORRY,7
+T_20_U20,mi manca la verdura e spesso la frutta,STATEMENT,7
+T_20_S21,Hai mai desiderato di cambiare dieta?,QUESTION,7
+T_20_U21,si perchè mamma cucina male,STATEMENT,7
+T_20_S22,"Oh, mi dispiace! E dimmi: qual e' ora la tua situazione?",ENCOURAGE-SORRY,7
+T_20_U22,sta migliorando non preoccuparti,KIND-ATTITUDE_SMALL-TALK,7
+T_20_S23,"Ah, bene! Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,7
+T_20_U23,vorrei scolpire i miei addominali,STATEMENT,7
+T_20_S24,Per quale motivo non hai mai provato?,QUESTION,7
+T_20_U24,ho provato ma è faticoso,STATEMENT,7
+T_20_S25,Quali sono i problemi che hai incontrato?,QUESTION,7
+T_20_U25,stanchezza,STATEMENT,7
+T_20_S26,"Hai mai riflettuto su quanto sia importante, per te, mangiare bene e sentirti in forma? Hai mai riflettuto se sia o no importante, per te, mangiare in modo sano ed equilibrato e sentirti bene e in forma?",QUESTION,7
+T_20_U26,si vado anche in palestra,STATEMENT,7
+T_20_S27,"Fantastico! Allora sai che.. Alimentazione corretta e abitudini sane influiscono sul nostro aspetto, sulla nostra salute, su quanto riusciamo a goderci la vita. Scelte alimentari intelligenti adottate nel periodo infantile e mantenute da adulti possono contribuire a ridurre il rischio di malattie quali obesita', malattie cardiache, ipertensione, diabete, alcuni tipi di cancro e osteoporosi.",PERSUASION-SUGGEST,7
+T_20_U27,ok molto gentile da parte tua parlane,KIND-ATTITUDE_SMALL-TALK,7
+T_20_S28,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza, un piccolo piatto di pasta o 50 grammi di gelato. I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",OFFER-GIVE-INFO,7
+T_20_U28,ok sei stata molto gentile,AGREE,7
+T_20_S29,"Se hai dei problemi, in futuro, torna da me; proveremo a risolverli insieme",OFFER-GIVE-INFO,7
+T_20_U29,arrivederci a presto allora!,CLOSING,7
+T_20_S30,Arrivederci. E' stato davvero piacevole interagire con te. Torna pure quando vuoi.,CLOSING,7
+T_20_U30,anche per me,KIND-ATTITUDE_SMALL-TALK,7
+T_23_S1,"Ciao, mi chiamo Valentina. Sono qui per esserti di aiuto;  possiamo chiacchierare delle tue abitudini alimentari, e posso darti dei suggerimenti su come migliorare la tua dieta.",OPENING,8
+T_23_U1,come posso migliorare la mia dieta?,INFO-REQUEST,8
+T_23_S2,"Proviamo a parlare delle tue abitudini alimentari. Cosa mangi, di solito?",QUESTION,8
+T_23_U2,mangio cibi che contengono molti grassi e poca frutta,STATEMENT,8
+T_23_S3,"Un eccesso di grasso corporeo costituisce un fattore di rischio elevato per lo sviluppo di malattie serie, come quelle cardiache e il diabete. Quelli piu' pericolosi sono i grassi saturi, che sono contenuti in quasi tutti gli alimenti di origine animale come la carne, il latte, il formaggio e il burro. Ma i grassi saturi si trovano anche in alcuni prodotti di origine vegetale, come la margarina e gli olii di cocco e di palma. Limitare la quantita' di grassi, in particolare di quelli saturi, e' un principio fondamentale di una dieta sana.",PERSUASION-SUGGEST,8
+T_23_U3,ho anche l'abitudine di non fare mai colazione.,STATEMENT,8
+T_23_S4,Mangiare ad orari fissi ti aiuta ad evitare di saltare i pasti e di trascurare sostanze che molto probabilmente non assumeresti nei pasti successivi.,PERSUASION-SUGGEST,8
+T_23_U4,spesso mi capita di cenare anche a sera inoltrata. cosa comporta quest'abitudine?,INFO-REQUEST,8
+T_23_S5,"Lo so: mangiare, e forse vivere, in modo disordinato, sembra a molti piacevole,e forse hanno ragione. Ma a lungo andare gli effetti negativi si fanno sentire.",PERSUASION-SUGGEST,8
+T_23_U5,e qual è la quantità giusta di zuccheri da assumere giornalmente?,INFO-REQUEST,8
+T_23_S6,Mi dispiace davvero e mi vergogno anche un po'. Ma non so rispondere a questa domanda Ti attirano i dolci? Ti fermi mai davanti alla vetrina di una bella pasticceria?,QUESTION,8
+T_23_U6,assolutamente sì! adoro i dolci!,STATEMENT,8
+T_23_S7,"Difficile resistere alle tentazioni! Dovresti evitare i dolci, o almeno limitarli a particolari occasioni. Ti suggerirei di scegliere i gelati alla frutta e i dolci secchi o con la marmellata, evitando quelli farciti con la panna o con creme elaborate, e, quindi, ricchi di grassi e di calorie.",PERSUASION-SUGGEST,8
+T_23_U7,e della verdura che mi sai dire?io ne mangio pochissima,INFO-REQUEST,8
+T_23_S8,"Diverse ricerche hanno dimostrato l'importanza di una dieta ricca di vegetali e di frutta. Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno. Una porzione consiste, ad esempio, in una mela, due o tre cucchiai di verdure congelate o un bicchiere di succo di frutta. In generale, si consiglia di consumare, ogni giorno, una porzione di verdura cotta, una di verdura cruda e due o tre di frutta fresca.",PERSUASION-SUGGEST,8
+T_23_U8,in che momento della giornata è preferibile consumare la frutta?,INFO-REQUEST,8
+T_23_S9,"Dovresti cercare di mangiare la verdura fresca prima del pasto, per sentire subito un senso di sazieta', e dovresti evitare di consumare frutta zuccherina alla fine del pasto, per evitare problemi di digestione.",PERSUASION-SUGGEST,8
+T_3_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,9
+T_3_U1,sono Simone e ci tengo alla mia alimentazione,OPENING,9
+T_3_S2,Quali sono le tue abitudini alimentari?,QUESTION,9
+T_3_U2,"provo a mangiare ad orari fissi, cioè a colazione pranzo e cena e vario i cibi a seconda dell'orario",STATEMENT,9
+T_3_S3,Ti piace mangiare?,QUESTION,9
+T_3_U3,"si, ma anche tenere alla mia salute",STATEMENT,9
+T_3_S4,Che pensi di un bel piatto di spaghetti?,QUESTION,9
+T_3_U4,vorrei sapere che cosa si intende per equilibrio alimentare,INFO-REQUEST,9
+T_3_S5,"Bisognerebbe mangiare solo se si ha fame, ed aspettare che la digestione sia completata, prima di assumere altri cibi.",PERSUASION-SUGGEST,9
+T_3_U5,secondo te come si bilanciano gli alimenti?,INFO-REQUEST,9
+T_3_S6,"In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati.",PERSUASION-SUGGEST,9
+T_3_U6,e le altre sostanze come si distribuiscono nela giornata?,INFO-REQUEST,9
+T_3_S7,"Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura , ogni giorno.",PERSUASION-SUGGEST,9
+T_3_U7,e oltre la frutta?,INFO-REQUEST,9
+T_3_S8,"Limitare la dose di grassi, in particolare quelli saturi, rappresenta un elemento fondamentale di una dieta sana.",PERSUASION-SUGGEST,9
+T_3_U8,quali alimenti contengono i grassi insaturi?,INFO-REQUEST,9
+T_3_S9,"Mi dispiace, non so rispondere a questa domanda.",ANSWER,9
+T_3_U9,secondo te è importante considerare il peso di una persona nel momento in cui decide di iniziare una dieta?,INFO-REQUEST,9
+T_3_S10,Si,ANSWER,9
+T_3_U10,e quali altri accorgimenti dovrebbe prendere una persona in sovrappeso che decide di iniziare una dieta?,INFO-REQUEST,9
+T_3_S11,"Bisognerebbe mangiare solo se si ha fame, ed aspettare che la digestione sia completata, prima di assumere altri cibi.",PERSUASION-SUGGEST,9
+T_3_U11,una persona con problemi di cuore potrebbe cominciare una dieta?,INFO-REQUEST,9
+T_3_S12,Credo di si,ANSWER,9
+T_3_U12,quali problemi di carattere medico può provocare una cattiva alimentazione?,INFO-REQUEST,9
+T_3_S13,"Molti pensano che mangiare sia soltanto un piacere o un modo per sopravvivere. Invece contribuisce in modo fondamentale al benessere. A lungo andare, nutrirsi in modo sbagliato rischia di influire negativamente sulla tua salute. Lo sai, vero?",PERSUASION-SUGGEST,9
+T_3_U13,"si, ma in che modo?",SOLICITATION-REQ_CLARIFICATION,9
+T_3_S14,"Mi dispiace, non so rispondere a questa domanda.",ANSWER,9
+T_3_U14,se si mangiano molte patatine fritte è un bene?,INFO-REQUEST,9
+T_3_S15,No,ANSWER,9
+T_3_U15,perchè?,SOLICITATION-REQ_CLARIFICATION,9
+T_3_S16,"Il fritto piace a molti, ma andrebbe limitato per quanto possibile. Le cose che compri alle macchinette contengono molte sostanze dannose e pochi elementi nutritivi.",PERSUASION-SUGGEST,9
+T_3_U16,"ho capito, ma qual'è il rischio salutare di assumere cibi fritti?",INFO-REQUEST,9
+T_3_S17,"Pensi che la tua dieta sia giusta, o vorresti cambiare le tue abitudini alimentari?",QUESTION,9
+T_3_U17,penso che dovrei controllare maggiormente il consumo di dolciumi.,STATEMENT,9
+T_3_S18,Hai mai desiderato di cambiare dieta?,QUESTION,9
+T_3_U18,si,GENERIC-ANSWER,9
+T_3_S19,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,9
+T_3_U19,ho quattro chili di troppo e quindi vorrei cambiarlo.,STATEMENT,9
+T_3_S20,Per quale motivo non hai mai provato?,QUESTION,9
+T_3_U20,perchè non sono molto paziente.,STATEMENT,9
+T_3_S21,Prova a pensare a tutto quello che mangi durante il giorno. Ti sembra di assumere tutte le sostanze di cui avresti bisogno?,QUESTION,9
+T_3_U21,assumo regolarmente carboidrati proteine e vitamine. forse scarseggio con i sali minerali e abbondo con i grassi.,STATEMENT,9
+T_3_S22,"Non bisogna eliminare completamente i grassi.Basta limitarne le dosi, soprattutto di quelli saturi, privilegiando invece i grassi insaturi, come il magnifico olio di oliva!",PERSUASION-SUGGEST,9
+T_3_U22,io ho difficoltà ad organizzare la mia dieta per mancanza di tempo.,STATEMENT,9
+T_3_S23,"Certo, organizzarti in modo da mangiare correttamente probabilmente non ti sembra facile, specialmente se lavori o studi e non hai nessuno che ti aiuta. Devi trovare il tempo per fare la spesa e cucinare un pasto variato, mentre preparare un panino oppure mangiare quello che capita richiede sicuramente meno tempo.",OFFER-GIVE-INFO,9
+T_3_U23,sono invalido al 90%,STATEMENT,9
+T_3_S24,Ti consiglio di consultare un esperto,ANSWER,9
+T_3_U24,mi indicheresti quale?,INFO-REQUEST,9
+T_3_S25,Grazie e arrivederci!,CLOSING,9
+T_3_U25,ciao e grazie per la tua pazienza e collaborazione e tu non mi saluti?,KIND-ATTITUDE_SMALL-TALK,9
+T_3_S26,Grazie e arrivederci!,CLOSING,9
+T_3_U26,dici sempre le stesse cose?,REJECT,9
+T_3_S27,Credo di no,ANSWER,9
+T_3_U27,"e io invece si, comunque non importa.",KIND-ATTITUDE_SMALL-TALK,9
+T_3_S28,Complimenti e arrivederci!,CLOSING,9
+T_2_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,10
+T_2_U1,sono Simone e ci tengo alla mia alimentazione,OPENING,10
+T_2_S2,Quali sono le tue abitudini alimentari?,QUESTION,10
+T_2_U2,"provo a mangiare ad orari fissi, cioè a colazione pranzo e cena e vario i cibi a seconda dell'orario",STATEMENT,10
+T_2_S3,Ti piace mangiare?,QUESTION,10
+T_2_U3,"si, ma anche tenere alla mia salute",STATEMENT,10
+T_2_S4,Che pensi di un bel piatto di spaghetti?,QUESTION,10
+T_2_U4,vorrei sapere che cosa si intende per equilibrio alimentare,INFO-REQUEST,10
+T_2_S5,"Bisognerebbe mangiare solo se si ha fame, ed aspettare che la digestione sia completata, prima di assumere altri cibi.",PERSUASION-SUGGEST,10
+T_2_U5,secondo te come si bilanciano gli alimenti?,INFO-REQUEST,10
+T_2_S6,"In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati.",PERSUASION-SUGGEST,10
+T_2_U6,e le altre sostanze come si distribuiscono nela giornata?,INFO-REQUEST,10
+T_2_S7,"Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura , ogni giorno.",PERSUASION-SUGGEST,10
+T_2_U7,e oltre la frutta?,INFO-REQUEST,10
+T_2_S8,"Limitare la dose di grassi, in particolare quelli saturi, rappresenta un elemento fondamentale di una dieta sana.",PERSUASION-SUGGEST,10
+T_2_U8,quali alimenti contengono i grassi insaturi?,INFO-REQUEST,10
+T_2_S9,"Mi dispiace, non so rispondere a questa domanda.",ANSWER,10
+T_2_U9,secondo te è importante considerare il peso di una persona nel momento in cui decide di iniziare una dieta?,INFO-REQUEST,10
+T_2_S10,Si,ANSWER,10
+T_2_U10,e quali altri accorgimenti dovrebbe prendere una persona in sovrappeso che decide di iniziare una dieta?,INFO-REQUEST,10
+T_2_S11,"Bisognerebbe mangiare solo se si ha fame, ed aspettare che la digestione sia completata, prima di assumere altri cibi.",PERSUASION-SUGGEST,10
+T_2_U11,una persona con problemi di cuore potrebbe cominciare una dieta?,INFO-REQUEST,10
+T_2_S12,Credo di si,ANSWER,10
+T_2_U12,quali problemi di carattere medico può provocare una cattiva alimentazione?,INFO-REQUEST,10
+T_2_S13,"Molti pensano che mangiare sia soltanto un piacere o un modo per sopravvivere. Invece contribuisce in modo fondamentale al benessere. A lungo andare, nutrirsi in modo sbagliato rischia di influire negativamente sulla tua salute. Lo sai, vero?",PERSUASION-SUGGEST,10
+T_2_U13,"si, ma in che modo?",SOLICITATION-REQ_CLARIFICATION,10
+T_2_S14,"Mi dispiace, non so rispondere a questa domanda.",ANSWER,10
+T_2_U14,se si mangiano molte patatine fritte è un bene?,INFO-REQUEST,10
+T_2_S15,No,ANSWER,10
+T_2_U15,perchè?,SOLICITATION-REQ_CLARIFICATION,10
+T_2_S16,"Il fritto piace a molti, ma andrebbe limitato per quanto possibile. Le cose che compri alle macchinette contengono molte sostanze dannose e pochi elementi nutritivi.",PERSUASION-SUGGEST,10
+T_2_U16,"ho capito, ma qual'è il rischio salutare di assumere cibi fritti?",INFO-REQUEST,10
+T_2_S17,"Pensi che la tua dieta sia giusta, o vorresti cambiare le tue abitudini alimentari?",QUESTION,10
+T_2_U17,penso che dovrei controllare maggiormente il consumo di dolciumi.,STATEMENT,10
+T_2_S18,Hai mai desiderato di cambiare dieta?,QUESTION,10
+T_2_U18,si,GENERIC-ANSWER,10
+T_2_S19,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,10
+T_2_U19,ho quattro chili di troppo e quindi vorrei cambiarlo.,STATEMENT,10
+T_2_S20,Per quale motivo non hai mai provato?,QUESTION,10
+T_2_U20,perchè non sono molto paziente.,STATEMENT,10
+T_2_S21,Prova a pensare a tutto quello che mangi durante il giorno. Ti sembra di assumere tutte le sostanze di cui avresti bisogno?,QUESTION,10
+T_2_U21,assumo regolarmente carboidrati proteine e vitamine. forse scarseggio con i sali minerali e abbondo con i grassi.,STATEMENT,10
+T_2_S22,"Non bisogna eliminare completamente i grassi.Basta limitarne le dosi, soprattutto di quelli saturi, privilegiando invece i grassi insaturi, come il magnifico olio di oliva!",PERSUASION-SUGGEST,10
+T_2_U22,io ho difficoltà ad organizzare la mia dieta per mancanza di tempo.,STATEMENT,10
+T_2_S23,"Certo, organizzarti in modo da mangiare correttamente probabilmente non ti sembra facile, specialmente se lavori o studi e non hai nessuno che ti aiuta. Devi trovare il tempo per fare la spesa e cucinare un pasto variato, mentre preparare un panino oppure mangiare quello che capita richiede sicuramente meno tempo.",OFFER-GIVE-INFO,10
+T_2_U23,sono invalido al 90%,STATEMENT,10
+T_2_S24,Ti consiglio di consultare un esperto,ANSWER,10
+T_2_U24,mi indicheresti quale?,INFO-REQUEST,10
+T_2_S25,Grazie e arrivederci!,CLOSING,10
+T_2_U25,ciao e grazie per la tua pazienza e collaborazione e tu non mi saluti?,KIND-ATTITUDE_SMALL-TALK,10
+T_2_S26,Grazie e arrivederci!,CLOSING,10
+T_2_U26,dici sempre le stesse cose?,REJECT,10
+T_2_S27,Credo di no,ANSWER,10
+T_2_U27,"e io invece si, comunque non importa.",KIND-ATTITUDE_SMALL-TALK,10
+T_2_S28,Complimenti e arrivederci!,CLOSING,10
+S_1_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta. Che cosa hai mangiato per pranzo?",OPENING,11
+S_1_U1,Un panino,STATEMENT,11
+S_1_S2,Che cosa hai mangiato per colazione?,QUESTION,11
+S_1_U2,Cornetto e brioche con un cappuccino,STATEMENT,11
+S_1_S3,Ti alimenti spesso in questa maniera?,QUESTION,11
+S_1_U3,No,GENERIC-ANSWER,11
+S_1_S4,Che pensi di un bel piatto di spaghetti?,QUESTION,11
+S_1_U4,Ottimo,STATEMENT,11
+S_1_S5,Ti attirano molto i dolci?,QUESTION,11
+S_1_U5,Non sempre,STATEMENT,11
+S_1_S6,Pensi che la tua dieta sia giusta o vorresti cambiare le tue abitudini alimentari?,QUESTION,11
+S_1_U6,"Vorrei cambiare, sì",STATEMENT,11
+S_1_S7,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,11
+S_1_U7,Vorrei cambiarlo,STATEMENT,11
+S_1_S8,"Posso darti dei suggerimenti su quale potrebbe essere  una dieta corretta per te, se vuoi. Prova a pensare a tutto quello che mangi durante il giorno: ti sembra di assumere tutte le sostanze...?",QUESTION,11
+S_1_U8,No,GENERIC-ANSWER,11
+S_1_S9,Hai mai provato a chiederti a cosa sono dovute le tue abitudini alimentari?,QUESTION,11
+S_1_U9,Sì,GENERIC-ANSWER,11
+S_1_S10,"Hai mai riflettuto sull’importanza che ha, per te, mangiar bene e sentirti in forma?",QUESTION,11
+S_1_U10,Sì,GENERIC-ANSWER,11
+S_1_S11,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenersi in forma... Ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare...",OFFER-GIVE-INFO,11
+S_1_U11,Sì,GENERIC-ANSWER,11
+S_1_S12,E allora? Dimmi qualcosa di più!,ENCOURAGE-SORRY,11
+S_1_U12,Vitamine,INFO-REQUEST,11
+S_1_S13,"La ricerca ha dimostrato che ingerire le dosi raccomandate di Vitamina A e C, fibre e sali minerali  può avere... Meglio ingerire la verdura fresca prima del pasto, per raggiungere rapidamente il senso di sazietà e...",PERSUASION-SUGGEST,11
+S_1_U13,Mmm,AGREE,11
+S_1_S14,"In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati Che pensi di un piatto di frittura?",QUESTION,11
+S_1_U14,"Mmm, buono",STATEMENT,11
+S_1_S15,I carboidrati aiutano a tenere sotto controllo... Hai mai provato a chiederti a cosa sono dovute le tue abitudini alimentari?,QUESTION,11
+S_1_U15,Sì,GENERIC-ANSWER,11
+S_1_S16,E allora? Dimmi qualcosa di più!,ENCOURAGE-SORRY,11
+S_1_U16,"Mangiare frutta, credo di dover mangiare più frutta",STATEMENT,11
+S_1_S17,"Diverse ricerche a livello internazionale hanno dimostrato l’importanza di una dieta ricca di vegetali e di frutta Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno.",PERSUASION-SUGGEST,11
+S_1_U17,E il caffè?,INFO-REQUEST,11
+S_1_S18,"Mi dispiace, non so rispondere a questa domanda I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",OFFER-GIVE-INFO,11
+S_1_U18,Il caffè fa male?,INFO-REQUEST,11
+S_1_S19,"I dolci sono da evitare, ovvero da limitare a particolari occasioni...",PERSUASION-SUGGEST,11
+S_1_U19,Bibite gassate,INFO-REQUEST,11
+S_1_S20,"Sono spiacente, ma non ho capito quello che hai detto. Potresti ripetere grazie!",ANSWER,11
+S_1_U20,"Bibite gassate, sai coca cola, aranciata",INFO-REQUEST,11
+S_19_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,12
+S_19_U1,"va bene, ciao.",OPENING,12
+S_19_S2,Cosa mangi di solito?,QUESTION,12
+S_19_U2,"Mmm… generalmente pasta, carne, pesce, verdure, frutta, un po’ di tutto.",STATEMENT,12
+S_19_S3,Che cosa hai mangiato per colazione?,QUESTION,12
+S_19_U3,Un succo di frutta ee…. Biscotti ai cereali,STATEMENT,12
+S_19_S4,Che cosa hai mangiato per cena?,QUESTION,12
+S_19_U4,Una pizza e una bibita.,STATEMENT,12
+S_19_S5,Che cosa hai mangiato per pranzo?,QUESTION,12
+S_19_U5,"Mmm… allora ho mangiato della pasta col tonno, eeehm… della carne eee… della frutta",STATEMENT,12
+S_19_S6,Che pensi di un bel piatto di spaghetti?,QUESTION,12
+S_19_U6,Abbastanza! insomma che non sia troppo grande! Va bene.,STATEMENT,12
+S_19_S7,E allora? Dimmi qualcosa di più!,ENCOURAGE-SORRY,12
+S_19_U7,"allora, insomma questo piatto di spaghetti al dente penso che sia molto buono e che… lo mangerei volentieri se non fosse molto grande eehm… lo mangerei anche ogni giorno.",STATEMENT,12
+S_19_S8,"Fantastico! In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati I carboidrati aiutano a tenere sotto controllo... Che pensi di un piatto di frittura?",PERSUASION-SUGGEST,12
+S_19_U8,"Mmm… che non… ne mangerei in quantità eccessiva, ne mangerei molto poca e comunque ogni tanto perché penso che non sia molto salutare.",STATEMENT,12
+S_19_S9,Ti attirano molto i dolci?,QUESTION,12
+S_19_U9,"Molto poco perché i dolci non mi piacciono molto. Mi piace giusto qualche dolce così, mmm… particolare… così e… ne mangio ogni tanto.",STATEMENT,12
+S_19_S10,"Ah, bene! Pensi che la tua dieta sia giusta o vorresti cambiare le tue abitudini alimentari?",QUESTION,12
+S_19_U10,"Mah, penso che sia giusta. Non… non credo che dovrei cambiare le mie abitudini alimentari.",STATEMENT,12
+S_19_S11,Ti piacciono frutta e  verdura?,QUESTION,12
+S_19_U11,"si, ne mangio… mol… mangio molta frutta e molta verdura, mi piacciono, si, anche in diversi momenti della giornata ehm… sia a pranzo che a cena, insomma.",STATEMENT,12
+S_19_S12,"Fantastico! Diverse ricerche a livello internazionale hanno dimostrato l’importanza di una dieta ricca di vegetali e di frutta. Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,12
+S_19_U12,"No, non vorrei cambiarlo, mi sembra giusto, anzi mi sembra anche di essere un po’ ingrassata ultimamente. Comunque no, mi sembra giusto, il mio peso, non vorrei cambiarlo. Al massimo vorr… potrei scendere di qualche chilo ma non di più.",STATEMENT,12
+S_19_S13,"Ah, bene! Ti piace mangiare?",QUESTION,12
+S_19_U13,"Mi piace mangiare si, quello che mi piace, non tanto, ehm… si mi piacciono i buoni cibi però senza che… insomma…. Siano dei cibi dannosi.",STATEMENT,12
+S_19_S14,"Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo può rientrare in uno...",PERSUASION-SUGGEST,12
+S_19_U14,va bene,AGREE,12
+S_19_S15,"Hai mai riflettuto sull’importanza che ha, per te, mangiar bene e sentirti in forma?",QUESTION,12
+S_19_U15,"Si, soprattutto negli ultimi anni. Infatti per questo cerco di… associare ad una… dieta buona anche un po’ di esercizio fisico. Quindi di non mangiare tanto, di distribuire bene i pasti nel corso della giornata eee…. Di… fare una dieta quanto più varia possibile.",STATEMENT,12
+S_19_S16,"Questa è una buona idea! Vedo che, complessivamente, fai attenzione alla tua dieta, e ne sono contenta Resisti alle tentazioni, si vede che tieni alla tua salute e al tuo aspetto! Se hai dei problemi, in futuro, torna da me; proveremo a risolverli insieme... E' stato davvero piacevole interagire con te. Torna pure quando vuoi.",OFFER-GIVE-INFO,12
+S_19_U16,va bene,AGREE,12
+S_19_S17,Grazie e arrivederci!,CLOSING,12
+T_30_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta. Ti piace mangiare?",OPENING,13
+T_30_U1,si,GENERIC-ANSWER,13
+T_30_S2,Segui una dieta variata?,QUESTION,13
+T_30_U2,credo di si,GENERIC-ANSWER,13
+T_30_S3,Che cosa hai mangiato per colazione?,QUESTION,13
+T_30_U3,latte e caffè con un pezzo di torta con marmellata,STATEMENT,13
+T_30_S4,Che cosa hai mangiato per cena?,QUESTION,13
+T_30_U4,"verdura, pane formaggio ed affettato e della frutta",STATEMENT,13
+T_30_S5,Ti attirano molto i dolci?,QUESTION,13
+T_30_U5,certo,GENERIC-ANSWER,13
+T_30_S6,Che pensi di un piatto di frittura?,QUESTION,13
+T_30_U6,una volta ogni tanto si può fare,STATEMENT,13
+T_30_S7,"Pensi che la tua dieta sia giusta, o vorresti cambiare le tue abitudini alimentari?",QUESTION,13
+T_30_U7,vorrei poter fare un pranzo più equilibrato e mangiare meno per cena,STATEMENT,13
+T_30_S8,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,13
+T_30_U8,"vorrei ""perdere"" un paio di chili",STATEMENT,13
+T_30_S9,Hai mai provato a chiederti a cosa sono dovute le tue abitudini alimentari?,QUESTION,13
+T_30_U9,si e la risposta è: allo stile di vita ed al pranzo fuori di casa,STATEMENT,13
+T_30_S10,"Lo so: mangiare, e forse vivere, in modo disordinato, sembra a molti piacevole,e forse hanno ragione. Ma a lungo andare gli effetti negativi si fanno sentire. Prova a riflettere, con calma, su quello che mangi durante il giorno: ti sembra di assumere tutte le sostanze di cui avresti bisogno?",PERSUASION-SUGGEST,13
+T_30_U10,forse si ma assumo anche molte sostanze di cui potrei fare a meno,STATEMENT,13
+T_30_S11,"Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo puo' rientrare in uno stile di vita sano, se moderazione ed equilibrio sono rispettati. Bilanciare l'assunzione di alimenti significa introdurre una quantita' sufficiente, ma non eccessiva, di ogni  sostanza. Se le porzioni sono mantenute entro limiti ragionevoli, non occorre eliminare i cibi preferiti. Ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare a risponderti, anche se le mie conoscenze sono ancora incomplete.",PERSUASION-SUGGEST,13
+T_30_U11,proteine animali,INFO-REQUEST,13
+T_30_S12,"Ogni cellula e tessuto del corpo contiene proteine. Queste si trovano nei muscoli, nelle ossa, nei capelli, nelle unghie e nella pelle: buona parte delle calorie assunte ogni giorno deve, quindi, provenire dalle proteine. Un uomo di 70 kili ha bisogno di 50 o 60 grammi di proteine al giorno, mentre, una donna di 55 kili ha bisogno di 40 o 50 grammi circa. Le proteine necessarie possono essere assunte con due o tre porzioni di carne, latte, uova. Oppure, con quattro porzioni di proteine vegetali, come cereali i integrali, le verdure, i legumi, o anche la frutta secca.",PERSUASION-SUGGEST,13
+T_30_U12,"non sono sicura di aver capito, cosa dovrei mangiare per assicurarmi l'apporto di proteine necessario?",SOLICITATION-REQ_CLARIFICATION,13
+T_30_S13,"Hai mai riflettuto se sia o no importante, per te, mangiare in modo sano ed equilibrato e sentirti bene e in forma?",QUESTION,13
+T_30_U13,torniamo alle proteine?,REJECT,13
+T_30_S14,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza, un piccolo piatto di pasta o 50 grammi di gelato. I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",OFFER-GIVE-INFO,13
+T_30_U14,e che mi consigli per la colazione?,INFO-REQUEST,13
+T_30_S15,"Chiedo scusa, non so rispondere a questa domanda.",ANSWER,13
+T_30_U15,cosa si intende per colazione equilibrata?,INFO-REQUEST,13
+T_30_S16,"Chiedo scusa, non so rispondere a questa domanda.",ANSWER,13
+T_30_U16,cosa mangiare per colazione?,SOLICITATION-REQ_CLARIFICATION,13
+T_30_S17,"Mi dispiace davvero, ma non so rispondere a questa domanda In una dieta equilibrata, almeno la meta' delle calorie totali dovrebbe provenire da cibi a base di carboidrati. I carboidrati aiutano a tenere sotto controllo il peso e ad evitare un accumulo di grassi, fornendo il carburante immediamente disponibile per l'attivita' fisica, mentre le fibre alimentari aiutano l'intestino a funzionare correttamente. Soprattutto se abbinati ad una attivita' fisica costante, i carboidrati sono, quindi, fondamentali per una corretta funzione alimentare e sono un combustibile importante per cervello e muscoli. E allora? Dimmi qualcosa di piu'! Che pensi di un piatto di spaghetti?",PERSUASION-SUGGEST,13
+T_30_U17,è ricco di carboidrati,STATEMENT,13
+T_30_S18,Ne mangi spesso?,QUESTION,13
+T_30_U18,tre o quattro volte a settimana,STATEMENT,13
+T_30_S19,"Fantastico! Allora sai che.. I carboidrati aiutano a tenere sotto controllo il peso e ad evitare un accumulo di grassi, fornendo il carburante immediamente disponibile per l'attivita' fisica, mentre le fibre alimentari aiutano l'intestino a funzionare correttamente. Soprattutto se abbinati ad una attivita' fisica costante, i carboidrati sono, quindi, fondamentali per una corretta funzione alimentare e sono un combustibile importante per cervello e muscoli.",PERSUASION-SUGGEST,13
+T_30_U19,dove trovo le fibre?,INFO-REQUEST,13
+S_8_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,14
+S_8_U1,"Ciao, io sono Antonella",OPENING,14
+S_8_S2,Ti piace mangiare?,QUESTION,14
+S_8_U2,Sì,GENERIC-ANSWER,14
+S_8_S3,Quali sono le tue abitudini alimentari?,QUESTION,14
+S_8_U3,"Allora, faccio una colazione e mangio a pranzo e a cena",STATEMENT,14
+S_8_S4,Che cosa hai mangiato per colazione?,QUESTION,14
+S_8_U4,The e biscotti,STATEMENT,14
+S_8_S5,Che cosa hai mangiato per pranzo?,QUESTION,14
+S_8_U5,Un panino,STATEMENT,14
+S_8_S6,Ne mangi spesso?,QUESTION,14
+S_8_U6,Sì,GENERIC-ANSWER,14
+S_8_S7,Ti alimenti spesso in questa maniera?,QUESTION,14
+S_8_U7,A volte,GENERIC-ANSWER,14
+S_8_S8,Pensi che la tua dieta sia giusta o vorresti cambiare le tue abitudini alimentari?,QUESTION,14
+S_8_U8,Sì,GENERIC-ANSWER,14
+S_8_S9,Hai mai desiderato di cambiare dieta?,QUESTION,14
+S_8_U9,No,GENERIC-ANSWER,14
+S_8_S10,Per quale motivo non hai mai provato?,QUESTION,14
+S_8_U10,Perché è buona così,STATEMENT,14
+S_8_S11,Ti piacciono frutta e  verdura?,QUESTION,14
+S_8_U11,Più o meno,GENERIC-ANSWER,14
+S_8_S12,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,14
+S_8_U12,No,GENERIC-ANSWER,14
+S_8_S13,Ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare...,OFFER-GIVE-INFO,14
+S_8_U13,No,GENERIC-ANSWER,14
+S_8_S14,Prova a pensare a tutto quello che mangi durante il giorno: ti sembra di assumere tutte le sostanze...?,QUESTION,14
+S_8_U14,No,GENERIC-ANSWER,14
+S_8_S15,Hai mai provato a chiederti a cosa sono dovute le tue abitudini alimentari?,QUESTION,14
+S_8_U15,All’educazione,STATEMENT,14
+S_8_S16,"Sono spiacente, ma non ho capito quello che hai detto. Potresti ripetere grazie!",ANSWER,14
+S_8_U16,All’educazione alimentare,STATEMENT,14
+S_8_S17,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenersi in forma...",PERSUASION-SUGGEST,14
+S_8_U17,Quali sono?,INFO-REQUEST,14
+S_8_S18,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza... I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",OFFER-GIVE-INFO,14
+S_8_U18,Mmm,AGREE,14
+S_8_S19,"In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati",PERSUASION-SUGGEST,14
+S_8_U19,Mmm Sì,AGREE,14
+S_8_S20,"Diverse ricerche a livello internazionale hanno dimostrato l’importanza di una dieta ricca di vegetali e di frutta. Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno. La porzione consigliata  risulta essere di circa 80 grammi: per esempio una mela, due o tre cucchiai di verdure... Lo so: mangiare, e forse vivere, in modo disordinato, sembra a molti piacevole,e forse hanno ragione. Ma...",PERSUASION-SUGGEST,14
+S_8_U20,"Ah, tu cosa mangi?",KIND-ATTITUDE_SMALL-TALK,14
+S_8_S21,"Non sono in grado di mangiare, e quindi non seguo diete particolari...",TALK-ABOUT-SELF,14
+S_8_U21,Cosa ti piacerebbe mangiare?,KIND-ATTITUDE_SMALL-TALK,14
+S_8_S22,"Mi dispiace, non so rispondere a questa domanda. Hai mai riflettuto sull’importanza che ha, per te, mangiar bene e sentirti in forma?",QUESTION,14
+S_8_U22,Io mi sento in forma,STATEMENT,14
+S_8_S23,"Sono spiacente, ma non ho capito quello che hai detto. Potresti ripetere grazie!",ANSWER,14
+S_8_U23,Qual è una buona dieta?,INFO-REQUEST,14
+S_8_S24,"Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo può rientrare in uno...",PERSUASION-SUGGEST,14
+S_8_U24,Qual è il limite ragionevole?,INFO-REQUEST,14
+S_8_S25,"Purtroppo sono poco esperta in questo campo. Sai, gli agenti artificiali vengono addestrati gradualmente, e in domini molto specializzati. Le loro conoscenze, quindi...",TALK-ABOUT-SELF,14
+S_8_U25,Mente sana in corpo sano!,KIND-ATTITUDE_SMALL-TALK,14
+S_8_S26,Può darsi,ANSWER,14
+S_8_U26,"No, è così",GENERIC-ANSWER,14
+S_8_S27,Molti pensano che mangiare sia soltanto un piacere o un modo per sopravvivere. Invece contribuisce...,PERSUASION-SUGGEST,14
+S_8_U27,"Sì, lo so",AGREE,14
+S_8_S28,Questa è una buona idea! Che pensi di un bel piatto di spaghetti?,QUESTION,14
+S_8_U28,Ottimo,STATEMENT,14
+S_8_S29,Ti attirano molto i dolci?,QUESTION,14
+S_8_U29,Sì,GENERIC-ANSWER,14
+S_8_S30,"I dolci sono da evitare, ovvero da limitare a particolari occasioni...",PERSUASION-SUGGEST,14
+S_8_U30,"Mmm, qual è il piatto perfetto?",INFO-REQUEST,14
+S_8_S31,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza... I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",PERSUASION-SUGGEST,14
+S_8_U31,Vorrei avere qualche informazione su una buona dieta,INFO-REQUEST,14
+S_8_S32,"Alimentazione corretta e abitudini sane influiscono sul nostro aspetto, sulla nostra salute, su quanto riusciamo a goderci la vita...",PERSUASION-SUGGEST,14
+S_8_U32,Ok,AGREE,14
+S_8_S33,"La ricerca ha dimostrato che ingerire le dosi raccomandate di Vitamina A e C, fibre e sali minerali  può avere... Le vitamine A e C depurano il sangue e sono importanti per la crescita e la rigenerazione dei tessuti.",PERSUASION-SUGGEST,14
+S_8_U33,A che serve la vitamina E?,INFO-REQUEST,14
+S_8_S34,"Mi dispiace, non so rispondere a questa domanda",ANSWER,14
+S_8_U34,A che serve la vitamina A?,INFO-REQUEST,14
+S_8_S35,"Purtroppo sono poco esperta in questo campo. Sai, gli agenti artificiali vengono addestrati gradualmente, e in domini molto specializzati. Le loro conoscenze, quindi...",TALK-ABOUT-SELF,14
+S_8_U35,Mmm,AGREE,14
+S_8_S36,Ogni cellula e tessuto del corpo contiene proteine. Una donna di 55 kili ha bisogno di 40 o 50...,OFFER-GIVE-INFO,14
+S_8_U36,Dove si trovano le proteine?,INFO-REQUEST,14
+S_8_S37,"Le proteine necessarie possono essere assunte con due o tre porzioni di carne, latte, uova. Oppure...",OFFER-GIVE-INFO,14
+S_8_U37,Una ragazza di 20 anni quante proteine deve assumere per un peso di 50 grammi?,INFO-REQUEST,14
+S_8_S38,"Mi dispiace, non so rispondere a questa domanda. I carboidrati aiutano a tenere sotto controllo...",PERSUASION-SUGGEST,14
+S_8_U38,Dove si trovano i carboidrati?,INFO-REQUEST,14
+S_8_S39,"Mi dispiace, non so rispondere a questa domanda. Vedo che, complessivamente, fai attenzione alla tua dieta, e ne sono contenta",ENCOURAGE-SORRY,14
+S_8_U39,Grazie,KIND-ATTITUDE_SMALL-TALK,14
+S_8_S40,"Se hai dei problemi, in futuro, torna da me; proveremo a risolverli insieme...",OFFER-GIVE-INFO,14
+S_8_U40,Grazie mille,KIND-ATTITUDE_SMALL-TALK,14
+S_8_S41,E' stato davvero piacevole interagire con te. Torna pure quando vuoi.,CLOSING,14
+S_8_U41,"Va bene, ci vediamo prossimamente",CLOSING,14
+S_8_S42,Grazie e arrivederci!,CLOSING,14
+S_27_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,15
+S_27_U1,Ciao Valentina Cosa… come ti sei svegliata questa mattina?,OPENING,15
+S_27_S2,"Sono spiacente, ma non ho capito quello che hai detto. Potresti ripetere grazie!",ANSWER,15
+S_27_U2,Sei di buon umore o sei triste?,KIND-ATTITUDE_SMALL-TALK,15
+S_27_S3,Sì,ANSWER,15
+S_27_U3,Sei triste o di buon umore?,KIND-ATTITUDE_SMALL-TALK,15
+S_27_S4,"Scusa, non ho capito, cosa intendi dire?",ANSWER,15
+S_27_U4,"ok, passiamo ad altro… Cosa ne pensi di un panino... un panino mangiato a metà mattinata?",INFO-REQUEST,15
+S_27_S5,"In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati",PERSUASION-SUGGEST,15
+S_27_U5,Va bene. A te piace la frutta?,KIND-ATTITUDE_SMALL-TALK,15
+S_27_S6,"Forse dimentichi che sono un agente artificiale. Gli agenti artificiali vivono in un mondo virtuale... Non sono in grado di mangiare, e quindi non seguo diete particolari...",TALK-ABOUT-SELF,15
+S_27_U6,Quali sono i tuoi desideri?,KIND-ATTITUDE_SMALL-TALK,15
+S_27_S7,"Certo: sono un agente artificiale, e quindi tendo ad essere un po' ripetitiva. Scusami! ...",TALK-ABOUT-SELF,15
+S_27_U7,Va bene. Cosa mi puoi dire circa l’alimentazione a base di pesce?,INFO-REQUEST,15
+S_27_S8,"I grassi insaturi si trovano in alcuni pesci, il cosiddetto pesce azzurro, e in alcuni oli vegetali... Una carenza di grassi insaturi provoca alterazioni della struttura e nella funzione di enzimi, determinando un certo numero di disturbi...",PERSUASION-SUGGEST,15
+S_27_U8,Vorrei sapere se ti piace mangiare il baccalà.,KIND-ATTITUDE_SMALL-TALK,15
+S_27_S9,"Non sono in grado di mangiare, e quindi non seguo diete particolari...",TALK-ABOUT-SELF,15
+S_27_U9,Sono d’accordo con te. Eh... mi puoi dire se faccio bene a mangiare carciofi fritti?,INFO-REQUEST,15
+S_27_S10,"Il fritto piace a molti, ma andrebbe limitato per quanto possibile. L'alimentazione moderna, particolarmente...",PERSUASION-SUGGEST,15
+S_27_U10,Cosa ne pensi dell’olio d’oliva?,INFO-REQUEST,15
+S_27_S11,"Purtroppo sono poco esperta in questo campo. Sai, gli agenti artificiali vengono addestrati gradualmente, e in domini molto specializzati. Le loro conoscenze, quindi... Che cosa hai mangiato per colazione?",QUESTION,15
+S_27_U11,Latte,STATEMENT,15
+S_27_S12,Che cosa hai mangiato per cena?,QUESTION,15
+S_27_U12,Pesce in umido.,STATEMENT,15
+S_27_S13,"Ah, bene! Ti alimenti spesso in questa maniera?",QUESTION,15
+S_27_U13,Spesso mi alimento così.,GENERIC-ANSWER,15
+S_27_S14,Ti piacciono frutta e verdura?,QUESTION,15
+S_27_U14,"Sì, mi piacciono frutta e verdura. Posso farti una domanda?",STATEMENT,15
+S_27_S15,Sì,ANSWER,15
+S_27_U15,"Grazie. Mi puoi dire… mi puoi dare una valutazione globale, una valutazione generale sul mio modo di alimentarmi?",INFO-REQUEST,15
+S_27_S16,"Va abbastanza bene, ma puoi migliorare!",ENCOURAGE-SORRY,15
+S_27_U16,Come per esempio?,SOLICITATION-REQ_CLARIFICATION,15
+S_27_S17,"Mangiare ad orari fissi è un modo per evitare di saltare i pasti e di trascurare sostanze che spesso ... Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenersi in forma...",PERSUASION-SUGGEST,15
+S_27_U17,Potresti ripetere le prime parole che hai detto?,SOLICITATION-REQ_CLARIFICATION,15
+S_27_S18,Mangiare ad orari fissi è un modo per evitare di saltare i pasti e di trascurare sostanze che spesso ...,PERSUASION-SUGGEST,15
+S_27_U18,Posso farti una domanda sul tuo essere?,KIND-ATTITUDE_SMALL-TALK,15
+S_27_S19,Credo di sì,ANSWER,15
+S_27_U19,Ehm… volevo sapere chi ti… chi ti ha creato?,KIND-ATTITUDE_SMALL-TALK,15
+S_27_S20,Non so,ANSWER,15
+S_27_U20,Mmm. Allora vediamo un po’… quali sono i tuoi pensieri?,KIND-ATTITUDE_SMALL-TALK,15
+S_27_S21,"Sono spiacente, ma non ho capito quello che hai detto. Potresti ripetere grazie!",ANSWER,15
+S_27_U21,Vorrei sapere quali sono i tuoi desideri e i tuoi pensieri.,KIND-ATTITUDE_SMALL-TALK,15
+S_27_S22,"Mi dispiace, non so rispondere a questa domanda",ANSWER,15
+S_27_U22,Ma sei tu che hai detto che gli agenti artificiali hanno comunque dei desideri e dei pensieri. Volevo sapere quali sono questi desideri e questi pensieri.,KIND-ATTITUDE_SMALL-TALK,15
+S_27_S23,"Mi dispiace, non so rispondere a questa domanda",ANSWER,15
+S_27_U23,Torniamo sull’argomento alimentazione: sei d’accordo?,SOLICITATION-REQ_CLARIFICATION,15
+S_27_S24,Sì,ANSWER,15
+S_27_U24,"Benissimo, volevo sapere se mi puoi aiutare a capire ehm… qualcosa… di specifico sull’alimentazione per quanto riguarda salumi… Ehm… affettati in genere: cosa mi dici al proposito?",INFO-REQUEST,15
+S_27_S25,Un eccesso di grasso corporeo costituisce un fattore di rischio elevato per lo sviluppo di malattie...,PERSUASION-SUGGEST,15
+S_27_U25,Sono d’accordo con te però converrai con me che non è possibile evitare del tutto affettati o… o il fritto come dicevi prima.,STATEMENT,15
+S_27_S26,"Difficile resistere alle tentazioni! Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo può rientrare in uno...",PERSUASION-SUGGEST,15
+S_27_U26,"Benissimo, sono d’accordo con te. Senti, mi dici quali sono i quaranta alimenti di cui il corpo umano ha bisogno?",INFO-REQUEST,15
+S_27_S27,"Diverse ricerche a livello internazionale hanno dimostrato l’importanza di una dieta ricca di vegetali e di frutta Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno. La porzione consigliata  risulta essere di circa 80 grammi: per esempio una mela, due o tre cucchiai di verdure... Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza...",PERSUASION-SUGGEST,15
+S_27_U27,"Grazie Valentina, sono proprio contento! Perché questo coincide all’incirca con il mio modo di alimentarmi.Va bene, io ti ringrazio veramente eh… ti saluto perché adesso devo andar via. Ciao!",KIND-ATTITUDE_SMALL-TALK,15
+S_27_S28,E' stato davvero piacevole interagire con te. Torna pure quando vuoi.,CLOSING,15
+S_27_U28,Va bene. Ciao!,CLOSING,15
+S_26_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,16
+S_26_U1,va bene,AGREE,16
+S_26_S2,Cosa mangi di solito?,QUESTION,16
+S_26_U2,Dimmi...,SOLICITATION-REQ_CLARIFICATION,16
+S_26_S3,Che cosa hai mangiato per colazione?,QUESTION,16
+S_26_U3,"Ho mangiato una tazza… cioè, ho bevuto un tazza di latte e basta.",STATEMENT,16
+S_26_S4,Che cosa hai mangiato per cena?,QUESTION,16
+S_26_U4,Una pizza,STATEMENT,16
+S_26_S5,Ti piacciono frutta e  verdura?,QUESTION,16
+S_26_U5,"mmm… li mangio. No, però li mangio.",STATEMENT,16
+S_26_S6,Diverse ricerche a livello internazionale hanno dimostrato l’importanza di una dieta ricca di vegetali e di frutta,PERSUASION-SUGGEST,16
+S_26_U6,"eh, io non li mangio. Cos’altro mi puoi consigliare?",SOLICITATION-REQ_CLARIFICATION,16
+S_26_S7,Ti attirano molto i dolci?,QUESTION,16
+S_26_U7,Sì,GENERIC-ANSWER,16
+S_26_S8,"I dolci sono da evitare, ovvero da limitare a particolari occasioni...",PERSUASION-SUGGEST,16
+S_26_U8,va bene,AGREE,16
+S_26_S9,Ho l’impressione che le tue abitudini alimentari non siano ideali.,ENCOURAGE-SORRY,16
+S_26_U9,Non c’è problema.,GENERIC-ANSWER,16
+S_26_S10,Ti piace mangiare?,QUESTION,16
+S_26_U10,"Quando ho fame, si.",GENERIC-ANSWER,16
+S_26_S11,Hai mai desiderato di cambiare dieta?,QUESTION,16
+S_26_U11,No,GENERIC-ANSWER,16
+S_26_S12,Quali sono i problemi che hai incontrato?,QUESTION,16
+S_26_U12,Nessun problema.,STATEMENT,16
+S_26_S13,E allora? Dimmi qualcosa di più!,ENCOURAGE-SORRY,16
+S_26_U13,Allora niente.,SOLICITATION-REQ_CLARIFICATION,16
+S_26_S14,Segui una dieta variata?,QUESTION,16
+S_26_U14,Mmm… ehm… una dieta variata.,STATEMENT,16
+S_26_S15,"Fantastico! Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenersi in forma...",PERSUASION-SUGGEST,16
+S_26_U15,Grazie,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S16,Prova a pensare a tutto quello che mangi durante il giorno: ti sembra di assumere tutte le sostanze...?,QUESTION,16
+S_26_U16,No.,GENERIC-ANSWER,16
+S_26_S17,Molti pensano che mangiare sia soltanto un piacere o un modo per sopravvivere. Invece contribuisce...,PERSUASION-SUGGEST,16
+S_26_U17,Sì,GENERIC-ANSWER,16
+S_26_S18,E allora? Dimmi qualcosa di più!,ENCOURAGE-SORRY,16
+S_26_U18,Cerco di variare la dieta.,STATEMENT,16
+S_26_S19,Questa è una buona idea!,ENCOURAGE-SORRY,16
+S_26_U19,Tu cosa mangi?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S20,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,16
+S_26_U20,Mi sembra giusto. Tu mangi?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S21,"Forse dimentichi che sono un agente artificiale. Gli agenti artificiali vivono in un mondo virtuale... Non sono in grado di mangiare, e quindi non seguo diete particolari...",TALK-ABOUT-SELF,16
+S_26_U21,Io ti sono simpatico?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S22,Sì,ANSWER,16
+S_26_U22,Sei sincera?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S23,Credo di sì,ANSWER,16
+S_26_U23,Perchè credi?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S24,Non so,ANSWER,16
+S_26_U24,"Ok, parliamo della dieta: cosa vuoi chiedermi? Quanti anni hai?",KIND-ATTITUDE_SMALL-TALK,16
+S_26_S25,Non so,ANSWER,16
+S_26_U25,Perché?,INFO-REQUEST,16
+S_26_S26,"Mi dispiace, non so rispondere a questa domanda",ANSWER,16
+S_26_U26,Va bene. Mi fai una domanda?,SOLICITATION-REQ_CLARIFICATION,16
+S_26_S27,Hai mai provato a chiederti a cosa sono dovute le tue abitudini alimentari?,QUESTION,16
+S_26_U27,Alla cucina di mia madre.,STATEMENT,16
+S_26_S28,"Certo, organizzarti in modo da mangiare correttamente probabilmente non ti sembra facile, specialmente...",OFFER-GIVE-INFO,16
+S_26_U28,Tu mi potresti aiutare?,SOLICITATION-REQ_CLARIFICATION,16
+S_26_S29,"Sono spiacente, ma non ho capito quello che hai detto. Potresti ripetere grazie!",ANSWER,16
+S_26_U29,Ho detto Tu mi potresti aiutare?,SOLICITATION-REQ_CLARIFICATION,16
+S_26_S30,Credo di no,ANSWER,16
+S_26_U30,Perché?,INFO-REQUEST,16
+S_26_S31,"Purtroppo sono poco esperta in questo campo. Sai, gli agenti artificiali vengono addestrati gradualmente, e in domini molto specializzati. Le loro conoscenze, quindi...",TALK-ABOUT-SELF,16
+S_26_U31,"Eppure tu sei un agente animato per la dieta, quindi mi potresti aiutare a seguire una dieta. Giusto?",KIND-ATTITUDE_SMALL-TALK,16
+S_26_S32,Sì,ANSWER,16
+S_26_U32,Quindi mi aiuterai?,SOLICITATION-REQ_CLARIFICATION,16
+S_26_S33,Credo di no,ANSWER,16
+S_26_U33,Sei un agente per la dieta?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S34,Sì,ANSWER,16
+S_26_U34,Puoi aiutarmi a correggere la mia dieta?,SOLICITATION-REQ_CLARIFICATION,16
+S_26_S35,Sì,ANSWER,16
+S_26_U35,Allora mi aiuti?,SOLICITATION-REQ_CLARIFICATION,16
+S_26_S36,Sì,ANSWER,16
+S_26_U36,Ok. Mi consigli qualcosa?,SOLICITATION-REQ_CLARIFICATION,16
+S_26_S37,Mangiare ad orari fissi è un modo per evitare di saltare i pasti e di trascurare sostanze che spesso ...,PERSUASION-SUGGEST,16
+S_26_U37,A che ora dovrei mangiare?,INFO-REQUEST,16
+S_26_S38,"Bisognerebbe mangiare solo se si ha fame, ed aspettare che la digestione sia completata prima...",PERSUASION-SUGGEST,16
+S_26_U38,Come mi accorgo se ho finito la digestione dei pasti precedenti?,INFO-REQUEST,16
+S_26_S39,Non so,ANSWER,16
+S_26_U39,Ehmm... A che ora dovrei mangiare?,INFO-REQUEST,16
+S_26_S40,"Bisognerebbe mangiare solo se si ha fame, ed aspettare che la digestione sia completata prima...",PERSUASION-SUGGEST,16
+S_26_U40,C’è qualche differenza tra pranzo e cena nel mangiare?,INFO-REQUEST,16
+S_26_S41,Sì,ANSWER,16
+S_26_U41,Cioè?,SOLICITATION-REQ_CLARIFICATION,16
+S_26_S42,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza... I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie. :OFFER-GIVE-INFO 14",PERSUASION-SUGGEST,16
+S_26_U42,Quindi mi consigli di mangiare sempre cibi pronti?,INFO-REQUEST,16
+S_26_S43,No,ANSWER,16
+S_26_U43,Perché?,INFO-REQUEST,16
+S_26_S44,"Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo può rientrare in uno...",PERSUASION-SUGGEST,16
+S_26_U44,Quindi se mangio molti cibi confezionati in maniera equilibrata non mi fanno male?,INFO-REQUEST,16
+S_26_S45,Ti consiglio di consultare un esperto oppure puoi cercare informazioni in rete,ANSWER,16
+S_26_U45,A chi posso rivolgermi?,INFO-REQUEST,16
+S_26_S46,Ti consiglio di consultare un esperto oppure puoi cercare informazioni in rete,ANSWER,16
+S_26_U46,Ho capito. Ti stai affezionando a me?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S47,Credo di sì,ANSWER,16
+S_26_U47,E vorresti seguirmi sempre per la mia dieta?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S48,"Sì, se ci riesci!",ENCOURAGE-SORRY,16
+S_26_U48,io ci devo riuscire o tu?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S49,"Scusa non ho capito, cosa intendi dire?",ANSWER,16
+S_26_U49,Devo riuscirci io a fare la dieta o devi riuscire tu ad aiutarmi?,INFO-REQUEST,16
+S_26_S50,"Mi dispiace, non so rispondere a questa domanda",ANSWER,16
+S_26_U50,Non vergognarti. Hai qualche altro collega che si occupa di dieta?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S51,Credo di sì,ANSWER,16
+S_26_U51,Cioè?,SOLICITATION-REQ_CLARIFICATION,16
+S_26_S52,Ti consiglio di consultare un esperto oppure puoi cercare informazioni in rete,ANSWER,16
+S_26_U52,Sai da chi sei stata creata?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S53,No,ANSWER,16
+S_26_U53,Chi sono I tuoi genitori?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S54,Non so,ANSWER,16
+S_26_U54,Quando sei stata creata?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S55,Non so,ANSWER,16
+S_26_U55,Cosa sai di te?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S56,Non so,ANSWER,16
+S_26_U56,Ok torniamo alla dieta. Va bene?,SOLICITATION-REQ_CLARIFICATION,16
+S_26_S57,Sì,ANSWER,16
+S_26_U57,Se gioco... una partita di calcetto a settimana fa bene come attività fisica per la mia dieta?,INFO-REQUEST,16
+S_26_S58,Credo di sì,ANSWER,16
+S_26_U58,Cosa mi consigli?,INFO-REQUEST,16
+S_26_S59,"Scusa non ho capito, cosa intendi dire?",ANSWER,16
+S_26_U59,Mi consigli qualcosa?,SOLICITATION-REQ_CLARIFICATION,16
+S_26_S60,I carboidrati aiutano a tenere sotto controllo...,PERSUASION-SUGGEST,16
+S_26_U60,Mi fai un esempio di carboidrati?,INFO-REQUEST,16
+S_26_S61,"Mi dispiace, non so rispondere a questa domanda",ANSWER,16
+S_26_U61,Non sai dirmi cosa è un carboidrato?,INFO-REQUEST,16
+S_26_S62,No,ANSWER,16
+S_26_U62,"mmm… ok, non fa niente. Ti dispiacerebbe un po’ se andassi via?",KIND-ATTITUDE_SMALL-TALK,16
+S_26_S63,Sì,ANSWER,16
+S_26_U63,Vuoi che rimanga?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S64,Sì,ANSWER,16
+S_26_U64,Vuoi che ti faccia altre domande?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S65,"Sì, se ci riesci!",ENCOURAGE-SORRY,16
+S_26_U65,"Se mangio una torta al giorno, va bene per la mia dieta?",INFO-REQUEST,16
+S_26_S66,"I dolci sono da evitare, ovvero da limitare a particolari occasioni...",PERSUASION-SUGGEST,16
+S_26_U66,"Ehm... e se bevo molti alcoolici, va bene per la mia dieta?",INFO-REQUEST,16
+S_26_S67,Credo di no,ANSWER,16
+S_26_U67,Perché?,INFO-REQUEST,16
+S_26_S68,Non so,ANSWER,16
+S_26_U68,Quanto alcool devo bere?,INFO-REQUEST,16
+S_26_S69,Non so,ANSWER,16
+S_26_U69,"Ok, mangiare sempre nei fast-food fa bene alla mia dieta?",INFO-REQUEST,16
+S_26_S70,No,ANSWER,16
+S_26_U70,Perché?,INFO-REQUEST,16
+S_26_S71,"Un eccesso di grasso corporeo costituisce un fattore di rischio elevato per lo sviluppo di malattie... Limitare la quantita' di grassi, in particolare quelli saturi, e' un elemento fondamentale di una dieta sana.",PERSUASION-SUGGEST,16
+S_26_U71,quindi devo evitare i grassi saturi?,INFO-REQUEST,16
+S_26_S72,Sì,ANSWER,16
+S_26_U72,Ma a me piacciono tanto!,STATEMENT,16
+S_26_S73,Pochi riescono a seguire una dieta in modo costante. Bisogna soltanto cercare di fare del proprio meglio.,ENCOURAGE-SORRY,16
+S_26_U73,Come posso eliminarli?,INFO-REQUEST,16
+S_26_S74,"I grassi insaturi si trovano in alcuni pesci, il cosiddetto pesce azzurro, e in alcuni oli vegetali... Una carenza di grassi insaturi provoca alterazioni della struttura e nella funzione di enzimi, determinando un certo numero di disturbi...",PERSUASION-SUGGEST,16
+S_26_U74,Va bene Ti ringrazio per la chiacchierata.,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S75,E' stato davvero piacevole interagire con te. Torna pure quando vuoi.,CLOSING,16
+S_26_U75,Dove posso trovarti?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S76,"Se hai dei problemi, in futuro, torna da me; proveremo a risolverli insieme...",OFFER-GIVE-INFO,16
+S_26_U76,Anche tu sei divertente!,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S77,"Ah, bene!",ENCOURAGE-SORRY,16
+S_26_U77,Sai come mi chiamo?,KIND-ATTITUDE_SMALL-TALK,16
+S_26_S78,No.,ANSWER,16
+S_26_U78,"Va bene Vado a prendere il treno, OK?",CLOSING,16
+S_26_S79,Grazie e arrivederci!,CLOSING,16
+S_26_U79,Ciao bella!,CLOSING,16
+S_22_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,17
+S_22_U1,"Grazie, ciao valentina io mi chiamo mariagrazia e accetterò volentieri quello che tu mi dirai",OPENING,17
+S_22_S2,Cosa mangi di solito?,QUESTION,17
+S_22_U2,"Di solito mangio… mmm.-.. in maniera abbastanza equilibrata, penso almeno… mangio… abbastanza pasta, poca carne perché non mi piace molto, il pesce invece si lo mangio volentieri e mi piace tantissimo la pizza, non manca mai nella mia dieta, la mangio almeno due o tre volte a settimana.",STATEMENT,17
+S_22_S3,"Fantastico! In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati I carboidrati aiutano a tenere sotto controllo...",PERSUASION-SUGGEST,17
+S_22_U3,Ehm purtroppo non faccio molta attività fisica. Questa è una cosa che mi manca perché non ho molto tempo.,STATEMENT,17
+S_22_S4,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,17
+S_22_U4,"Beh il mio peso non mi sembra molto giusto, mi piacerebbe cambiarlo ehm… però… sono un po’ troppo pigra per cambiarlo. Dovrei dimagrire.",STATEMENT,17
+S_22_S5,Per quale motivo non hai mai provato?,QUESTION,17
+S_22_U5,"Perché sono un po’ pigra, non mi va di camminare, non mi va di fare sport. Preferisco una vita più sedentaria e più tranquilla.",STATEMENT,17
+S_22_S6,Hai mai desiderato di cambiare dieta?,QUESTION,17
+S_22_U6,"Non ci ho mai pensato seriamente. ci ho pensato così, ma non seriamente: non voglio cambiare la mia dieta, mi piace quello che mangio e non voglio dimagrire.",STATEMENT,17
+S_22_S7,Ti attirano molto i dolci?,QUESTION,17
+S_22_U7,"Sì , mi attirano i dolci, specialmente quelli alla panna e ne mangio spesso e volentieri.",STATEMENT,17
+S_22_S8,"I dolci sono da evitare, ovvero da limitare a particolari occasioni...",PERSUASION-SUGGEST,17
+S_22_U8,Io so che quello che mi stai consigliando è giusto. Però molto spesso preferisco i peccati di gola ai rigori alimentari.,STATEMENT,17
+S_22_S9,Difficile resistere alle tentazioni!,ENCOURAGE-SORRY,17
+S_22_U9,"Certo, è cosi! Non voglio resistere alle tentazioni! Mi piace quello che mangio e non voglio ingrassare, non voglio dimagrire.",STATEMENT,17
+S_22_S10,Un eccesso di grasso corporeo costituisce un fattore di rischio elevato per lo sviluppo di malattie...,PERSUASION-SUGGEST,17
+S_22_U10,"Però molte volte non si resiste: è meglio un bel peccato di gola piuttosto che una dieta sana ed equilibrata, come tu dici.",STATEMENT,17
+S_22_S11,"Lo so: mangiare, e forse vivere, in modo disordinato, sembra a molti piacevole,e forse hanno ragione. Ma...",PERSUASION-SUGGEST,17
+S_22_U11,"E’ vero, hai ragione ma sono ancora giovane. Non voglio pensarci adesso. Ci penserò domani, un altro giorno, fra qualche anno…",REJECT,17
+S_22_S12,Ma certo! Non bisogna essere troppo rigidi nella dieta Hai mai provato a chiederti a cosa sono dovute le tue abitudini alimentari?,QUESTION,17
+S_22_U12,"No, non ci ho provato mai e non lo voglio sapere, da cosa dipendono le mie abitudini alimentari: quello che mi piace  lo mangio. Anche se ri… ogni tanto… cerco di essere un po’ piu equilibrata nell’alimentazione. Però non più di tanto, mi piace mangiare, non voglio pormi tanti problemi.",STATEMENT,17
+S_22_S13,"Alimentazione corretta e abitudini sane influiscono sul nostro aspetto, sulla nostra salute, su quanto riusciamo a goderci la vita...",PERSUASION-SUGGEST,17
+S_22_U13,"Se mi dici questo io…, penso che forse hai un po’ di ragione. Ci penserò su però penso che non cambierò sostanzialmente il mio modo di mangiare.",AGREE,17
+S_22_S14,"Posso darti dei suggerimenti su quale potrebbe essere  una dieta corretta per te, se vuoi.",OFFER-GIVE-INFO,17
+S_22_U14,Se vuoi dammelo qualche consiglio. Però mi riservo io di seguirlo o meno.,STATEMENT,17
+S_22_S15,Ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare...,OFFER-GIVE-INFO,17
+S_22_U15,"Allora, consigliami come mmmm si può essere soddisfatti di quello che si è mangiato e nello stesso tempo mantenere il peso forma.",INFO-REQUEST,17
+S_22_S16,"Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo può rientrare in uno...",PERSUASION-SUGGEST,17
+S_22_U16,Grazie Ci sentiamo? In un altro momento?,KIND-ATTITUDE_SMALL-TALK,17
+S_22_S17,"Se hai dei problemi, in futuro, torna da me; proveremo a risolverli insieme...",OFFER-GIVE-INFO,17
+S_22_U17,"Ok, grazie mille, ciao",CLOSING,17
+S_7_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,18
+S_7_U1,"Ciao, io sono Mauro, puoi darmi suggerimenti",OPENING,18
+S_7_S2,Ti piace mangiare?,QUESTION,18
+S_7_U2,Non ho capito,SOLICITATION-REQ_CLARIFICATION,18
+S_7_S3,Ti piace mangiare?,QUESTION,18
+S_7_U3,Sì,GENERIC-ANSWER,18
+S_7_S4,Quali sono le tue abitudini alimentari?,QUESTION,18
+S_7_U4,"Mmmm, mangio due volte al giorno, mezzogiorno e sera",STATEMENT,18
+S_7_S5,Che cosa hai mangiato per colazione?,QUESTION,18
+S_7_U5,Non faccio colazione,STATEMENT,18
+S_7_S6,Ti alimenti spesso in questa maniera?,QUESTION,18
+S_7_U6,Tutti i giorni,GENERIC-ANSWER,18
+S_7_S7,Che cosa hai mangiato per cena?,QUESTION,18
+S_7_U7,Carne,STATEMENT,18
+S_7_S8,Ti alimenti spesso in questa maniera?,QUESTION,18
+S_7_U8,"Sì, sempre, no, dipende..",GENERIC-ANSWER,18
+S_7_S9,Pensi che la tua dieta sia giusta o vorresti cambiare le tue abitudini alimentari?,QUESTION,18
+S_7_U9,"No, penso sia giusta, non penso di cambiare",STATEMENT,18
+S_7_S10,Segui una dieta variata?,QUESTION,18
+S_7_U10,Sì,GENERIC-ANSWER,18
+S_7_S11,Prova a pensare a tutto quello che mangi durante il giorno: ti sembra di assumere tutte le sostanze...?,QUESTION,18
+S_7_U11,"Sì, perché la sera equilibrio con quello che ho mangiato a mezzogiorno",STATEMENT,18
+S_7_S12,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenersi in forma... Hai mai riflettuto sull’importanza che ha, per te, mangiar bene e sentirti in forma?",PERSUASION-SUGGEST,18
+S_7_U12,"No, non ho mai riflettuto",GENERIC-ANSWER,18
+S_7_S13,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,18
+S_7_U13,Vorrei cambiarlo,STATEMENT,18
+S_7_S14,Ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare...,OFFER-GIVE-INFO,18
+S_7_U14,No. Puoi dirmi in cosa consiste una dieta equilibrata,INFO-REQUEST,18
+S_7_S15,"Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo può rientrare in uno... Mangiare ad orari fissi è un modo per evitare di saltare i pasti e di trascurare sostanze che spesso ...",PERSUASION-SUGGEST,18
+S_7_U15,"Sì, mangio ad orari fissi e penso che quello che mangio mi consenta di avere una dieta equilibrata",STATEMENT,18
+S_7_S16,"Ah, bene!",ENCOURAGE-SORRY,18
+S_7_U16,Grazie,KIND-ATTITUDE_SMALL-TALK,18
+S_7_S17,"Alimentazione corretta e abitudini sane influiscono sul nostro aspetto, sulla nostra salute, su quanto riusciamo a goderci la vita...",PERSUASION-SUGGEST,18
+S_7_U17,"Sì, lo so, sapevo...",AGREE,18
+S_7_S18,"Ah, bene! Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza...",PERSUASION-SUGGEST,18
+S_7_U18,"Non mangio a pranzo, quindi la sera non mi va di prendere il gelato o la frutta, non mi piace",STATEMENT,18
+S_7_S19,"Certo, organizzarti in modo da mangiare correttamente probabilmente non ti sembra facile, specialmente...",OFFER-GIVE-INFO,18
+S_7_U19,"Sì, è vero. Poi stando fuori casa mangi solo panino, perché è l’unica cosa che puoi portare insieme",AGREE,18
+S_7_S20,"Lo so: mangiare, e forse vivere, in modo disordinato, sembra a molti piacevole,e forse hanno ragione. Ma...",PERSUASION-SUGGEST,18
+S_7_U20,"Spero che non duri tanto, spero che finisca il prima possibile questo mio modo di mangiare",STATEMENT,18
+S_7_S21,Ti piacciono frutta e  verdura?,QUESTION,18
+S_7_U21,"No, la frutta. Qualche frutta ma non tutte",STATEMENT,18
+S_7_S22,"Diverse ricerche a livello internazionale hanno dimostrato l’importanza di una dieta ricca di vegetali e di frutta. Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno. La porzione consigliata  risulta essere di circa 80 grammi: per esempio una mela, due o tre cucchiai di verdure...",PERSUASION-SUGGEST,18
+S_7_U22,Non ho tempo a mezzogiorno di mangiare la frutta fresca e la sera non mi va,STATEMENT,18
+S_7_S23,"Oh, mi dispiace!",ENCOURAGE-SORRY,18
+S_7_U23,Non preoccuparti,KIND-ATTITUDE_SMALL-TALK,18
+S_7_S24,"La ricerca ha dimostrato che ingerire le dosi raccomandate di Vitamina A e C, fibre e sali minerali  può avere... Le vitamine A e C depurano il sangue e sono importanti per la crescita e la rigenerazione dei tessuti.",PERSUASION-SUGGEST,18
+S_7_U24,Bevo i succhi di frutta che contengono vitamina C...,STATEMENT,18
+S_7_S25,Questa è una buona idea!,ENCOURAGE-SORRY,18
+S_7_U25,Grazie,KIND-ATTITUDE_SMALL-TALK,18
+S_7_S26,"Va abbastanza bene, ma puoi migliorare!",ENCOURAGE-SORRY,18
+S_7_U26,Grazie,KIND-ATTITUDE_SMALL-TALK,18
+S_7_S27,"In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati",PERSUASION-SUGGEST,18
+S_7_U27,"Mangio tanta pasta, proprio tanta, troppa",STATEMENT,18
+S_7_S28,Fantastico! I carboidrati aiutano a tenere sotto controllo...,PERSUASION-SUGGEST,18
+S_7_U28,"In effetti cammino tanto e quindi consumo molta energia. E quindi un piatto di pasta abbondante è buono, giusto?",INFO-REQUEST,18
+S_7_S29,"Sì. Una carenza di carboidrati alimentari porta l'organismo a ricorrere ad altre sostanze reperite dai depositi, e...",PERSUASION-SUGGEST,18
+S_7_U29,"Sino ad ora non ho avuto di questi problemi, il fegato funziona e i reni pure",STATEMENT,18
+S_7_S30,"Ah, bene!",ENCOURAGE-SORRY,18
+S_7_U30,Grazie,KIND-ATTITUDE_SMALL-TALK,18
+S_7_S31,"Una cattiva alimentazione puo' causare seri danni, come diversi tipi di tumori. Il consumo eccessivo... Ti attirano molto i dolci?",PERSUASION-SUGGEST,18
+S_7_U31,"Tanto. Ma non ho problemi di colesterolo, almeno..",STATEMENT,18
+S_7_S32,"I dolci sono da evitare, ovvero da limitare a particolari occasioni...",PERSUASION-SUGGEST,18
+S_7_U32,"Quelli con la panna sono quelli più buoni, però il gelato è pure buono, è giusto..",STATEMENT,18
+S_7_S33,Guai ad eliminare il piacere di mangiare! Le regole non vanno applicate in modo troppo rigido!,ENCOURAGE-SORRY,18
+S_7_U33,Quindi il gelato al cioccolato con panna è buono ogni tanto giusto?,INFO-REQUEST,18
+S_7_S34,Credo di sì,ANSWER,18
+S_7_U34,Sono d’accordo,AGREE,18
+S_7_S35,Che pensi di un piatto di frittura?,QUESTION,18
+S_7_U35,"Che è buono, tanto buono.. specie il pesce fritto, buono..",STATEMENT,18
+S_7_S36,"Il fritto piace a molti, ma andrebbe limitato per quanto possibile. L'alimentazione moderna, particolarmente...",PERSUASION-SUGGEST,18
+S_7_U36,"Vabbè, ma non mangio cose fritte ogni giorno, ogni tanto, una volta a settimana",STATEMENT,18
+S_7_S37,Questa è una buona idea!,ENCOURAGE-SORRY,18
+S_7_U37,Quello di mangiare una volta a settimana frittura?,INFO-REQUEST,18
+S_7_S38,Sì,ANSWER,18
+S_7_U38,Ok,AGREE,18
+S_7_S39,"Se hai dei problemi, in futuro, torna da me; proveremo a risolverli insieme...",OFFER-GIVE-INFO,18
+S_7_U39,"Vabbè, ci vediamo in futuro, speriamo in un’occasione diversa.. Ciao",CLOSING,18
+S_7_S40,E' stato davvero piacevole interagire con te. Torna pure quando vuoi.,CLOSING,18
+S_7_U40,Ciao!,CLOSING,18
+S_7_S41,Grazie e arrivederci!,CLOSING,18
+S_7_U41,"Prego, ciao!",CLOSING,18
+S_11_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta. Ti piace mangiare?",OPENING,19
+S_11_U1,"Sì, non tanto però..",GENERIC-ANSWER,19
+S_11_S2,Che cosa hai mangiato per colazione?,QUESTION,19
+S_11_U2,"Eh, latte, caffè, biscotti..",STATEMENT,19
+S_11_S3,Ti alimenti spesso in questa maniera?,QUESTION,19
+S_11_U3,"Sì, tutte le mattine",GENERIC-ANSWER,19
+S_11_S4,Pensi che la tua dieta sia giusta o vorresti cambiare le tue abitudini alimentari?,QUESTION,19
+S_11_U4,"No no, penso che sia giusta",STATEMENT,19
+S_11_S5,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,19
+S_11_U5,"No, è perfetto!",STATEMENT,19
+S_11_S6,"Posso darti dei suggerimenti su quale potrebbe essere  una dieta corretta per te, se vuoi.",OFFER-GIVE-INFO,19
+S_11_U6,Ok,AGREE,19
+S_11_S7,Prova a pensare a tutto quello che mangi durante il giorno: ti sembra di assumere tutte le sostanze...?,QUESTION,19
+S_11_U7,"Mah, penso di sì",GENERIC-ANSWER,19
+S_11_S8,Ti piacciono frutta e  verdura?,QUESTION,19
+S_11_U8,"Sì, abbastanza. La frutta un po' meno",GENERIC-ANSWER,19
+S_11_S9,Che pensi di un piatto di frittura?,QUESTION,19
+S_11_U9,"Eh, non penso sia molto buono. Mi piace, però non tantissimo.",STATEMENT,19
+S_11_S10,Ti attirano molto i dolci?,QUESTION,19
+S_11_U10,Assolutamente no!,STATEMENT,19
+S_11_S11,Ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare...,OFFER-GIVE-INFO,19
+S_11_U11,"Sì, sì.. Mmm",GENERIC-ANSWER,19
+S_11_S12,"Alimentazione corretta e abitudini sane influiscono sul nostro aspetto, sulla nostra salute, su quanto riusciamo a goderci la vita... E allora? Dimmi qualcosa di più! Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenersi in forma...",PERSUASION-SUGGEST,19
+S_11_U12,E quali cibi allora non dovrei mangiare durante la giornata per essere veramente in forma?,INFO-REQUEST,19
+S_11_S13,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza... I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie. I carboidrati aiutano a tenere sotto controllo..",PERSUASION-SUGGEST,19
+S_11_U13,Non mangiando molto pesce a cosa si va incontro?,INFO-REQUEST,19
+S_11_S14,"Sono spiacente, ma non ho capito quello che hai detto. Potresti ripetere grazie!",ANSWER,19
+S_11_U14,"Non mangiando molto pesce, comunque in una settimana, è possibile sostituirlo con la carne? E' buono sostituirlo con la carne? E allora di cosa parliamo? Hei!",SOLICITATION-REQ_CLARIFICATION,19
+S_11_S15,"Sono spiacente, ma non ho capito quello che hai detto. Potresti ripetere grazie!",ANSWER,19
+S_11_U15,Allora... ti ho fatto una domanda prima... ti ho chiesto se era buono sostituire con la carne il pesce,SOLICITATION-REQ_CLARIFICATION,19
+S_11_S16,"La carenza di proteine puo' produrre conseguenze gravi: per esempio, indebolimento muscolare e problemi alla pelle...",PERSUASION-SUGGEST,19
+S_11_U16,"Penso che comunque, a parte una dieta, è molto importante il metabolismo. Cosa ne pensi? Il metabolismo di una persona. Cosa ne pensi? Non rispondi?",SOLICITATION-REQ_CLARIFICATION,19
+S_11_S17,Credo di sì,ANSWER,19
+S_11_U17,Quindi l’obesità..,INFO-REQUEST,19
+S_11_S18,"Mi dispiace, non so rispondere a questa domanda",ANSWER,19
+S_11_U18,"Ah, ok. Scusa. Emh, allora volevo sapere qualcos’altro di più sulla dieta: una dieta sana, un’ alimentazione corretta… mi avresti dato… avevi detto che mi avresti dato un po’ di delucidazioni.",SOLICITATION-REQ_CLARIFICATION,19
+S_11_S19,"Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo può rientrare in uno...",PERSUASION-SUGGEST,19
+S_11_U19,E’ meglio mangiare un piatto di pasta abbondante a pranzo e poi un secondo a cena?,INFO-REQUEST,19
+S_11_S20,Mangiare ad orari fissi è un modo per evitare di saltare i pasti e di trascurare sostanze che spesso ...,PERSUASION-SUGGEST,19
+S_11_U20,Ma un piatto di pasta a cena è più pesante? Può portare comunque ad una tendenza ad ingrassare?,INFO-REQUEST,19
+S_11_S21,"Sono spiacente, ma non ho capito quello che hai detto. Potresti ripetere grazie!",ANSWER,19
+S_11_U21,E’ meglio un piatto di pasta a pranzo piuttosto che a cena?,INFO-REQUEST,19
+S_11_S22,"Certo: sono un agente artificiale, e quindi tendo ad essere un po' ripetitiva. Scusami! ...",TALK-ABOUT-SELF,19
+S_11_U22,"Ah scusa, non volevo offenderti!",KIND-ATTITUDE_SMALL-TALK,19
+S_11_S23,"Diverse ricerche a livello internazionale hanno dimostrato l’importanza di una dieta ricca di vegetali e di frutta. Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno. La porzione consigliata  risulta essere di circa 80 grammi: per esempio una mela, due o tre cucchiai di verdure... Che pensi di un bel piatto di spaghetti?",PERSUASION-SUGGEST,19
+S_11_U23,"Allora… io mangio molta pasta, preferisco effettivamente la pasta alla carne e anche alla frutta. Pensi che sia buono questo?",INFO-REQUEST,19
+S_11_S24,"La ricerca ha dimostrato che ingerire le dosi raccomandate di Vitamina A e C, fibre e sali minerali  può avere... Le vitamine A e C depurano il sangue e sono importanti per la crescita e la rigenerazione dei tessuti.",PERSUASION-SUGGEST,19
+S_11_U24,Pensi che la mia sia una dieta corr...?,INFO-REQUEST,19
+S_11_S25,"In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati",PERSUASION-SUGGEST,19
+S_11_U25,"Mmm... Quindi pensi che la mia sia una dieta corretta? Allora: mattina colazione con latte, pranzo un piatto di pasta, ehm (riflette), e la sera ehm un secondo di carne, insalata e pane.",INFO-REQUEST,19
+S_11_S26,"Vedo che, complessivamente, fai attenzione alla tua dieta, e ne sono contenta",ENCOURAGE-SORRY,19
+S_11_U26,"Mmm Grazie! Però tendo a mangiare poca frutta, al massimo nel pomeriggio ma non sempre. Pensi sia sbagliato?",INFO-REQUEST,19
+S_11_S27,"Mi dispiace, non ho altri argomenti da utilizzare per convincerti.",ANSWER,19
+S_11_U27,"Ah, ho capito",AGREE,19
+S_11_S28,"Va abbastanza bene, ma puoi migliorare!",ENCOURAGE-SORRY,19
+S_11_U28,Ok,AGREE,19
+S_11_S29,E' stato davvero piacevole interagire con te. Torna pure quando vuoi.,CLOSING,19
+S_11_U29,"Ok, grazie. Scusa se ho parlato poco!",KIND-ATTITUDE_SMALL-TALK,19
+S_11_S30,Grazie e arrivederci!,CLOSING,19
+S_11_U30,Ciao!,CLOSING,19
+S_2_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta. Ti piace mangiare?",OPENING,20
+S_2_U1,Sì,GENERIC-ANSWER,20
+S_2_S2,Che cosa hai mangiato per colazione?,QUESTION,20
+S_2_U2,Latte bianco,STATEMENT,20
+S_2_S3,Ti piacciono frutta e  verdura?,QUESTION,20
+S_2_U3,Sì,GENERIC-ANSWER,20
+S_2_S4,Che pensi di un bel piatto di spaghetti?,QUESTION,20
+S_2_U4,Ottimo,STATEMENT,20
+S_2_S5,Che pensi di un piatto di frittura?,QUESTION,20
+S_2_U5,Mediocre,STATEMENT,20
+S_2_S6,Ti attirano molto i dolci?,QUESTION,20
+S_2_U6,No,GENERIC-ANSWER,20
+S_2_S7,Pensi che la tua dieta sia giusta o vorresti cambiare le tue abitudini alimentari?,QUESTION,20
+S_2_U7,No,GENERIC-ANSWER,20
+S_2_S8,Hai mai desiderato di cambiare dieta?,QUESTION,20
+S_2_U8,Sì,GENERIC-ANSWER,20
+S_2_S9,Quali sono i problemi che hai incontrato?,QUESTION,20
+S_2_U9,Difficoltà ad applicarla sempre,STATEMENT,20
+S_2_S10,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,20
+S_2_U10,No,GENERIC-ANSWER,20
+S_2_S11,Prova a pensare a tutto quello che mangi durante il giorno: ti sembra di assumere tutte le sostanze...?,QUESTION,20
+S_2_U11,Sì,GENERIC-ANSWER,20
+S_2_S12,Molti pensano che mangiare sia soltanto un piacere o un modo per sopravvivere. Invece contribuisce...,PERSUASION-SUGGEST,20
+S_2_U12,Sì,GENERIC-ANSWER,20
+S_2_S13,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenersi in forma... Ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare...",PERSUASION-SUGGEST,20
+S_2_U13,Informazioni sul pesce,INFO-REQUEST,20
+S_2_S14,"I grassi insaturi si trovano in alcuni pesci, il cosiddetto pesce azzurro, e in alcuni oli vegetali... Hai mai riflettuto sull’importanza che ha, per te, mangiar bene e sentirti in forma?",OFFER-GIVE-INFO,20
+S_2_U14,Sì,GENERIC-ANSWER,20
+S_28_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,21
+S_28_U1,Va bene. Dimmi...,SOLICITATION-REQ_CLARIFICATION,21
+S_28_S2,Cosa mangi di solito?,QUESTION,21
+S_28_U2,"Ehm… di solito a pranzo mangio… pasta eeeh… secondo veloce, tipo una fettina, ehm… formaggi, insaccati. E poi a volte frutta.",STATEMENT,21
+S_28_S3,Che cosa hai mangiato per colazione?,QUESTION,21
+S_28_U3,Un krapfen alla crema e del succo di frutta.,STATEMENT,21
+S_28_S4,Ti attirano molto i dolci?,QUESTION,21
+S_28_U4,"Beh no no, no mi capita. Però quando ne ho voglia vado a comprarli direttamente.",STATEMENT,21
+S_28_S5,"I dolci sono da evitare, ovvero da limitare a particolari occasioni...",PERSUASION-SUGGEST,21
+S_28_U5,Perfetto! Quelli che preferisco meno.,KIND-ATTITUDE_SMALL-TALK,21
+S_28_S6,Difficile resistere alle tentazioni!,ENCOURAGE-SORRY,21
+S_28_U6,"Eh si si, è difficile. Però si può fare.",GENERIC-ANSWER,21
+S_28_S7,Ti piace mangiare?,QUESTION,21
+S_28_U7,Mi piace mangiare un po’ di tutto… si si!,STATEMENT,21
+S_28_S8,Che pensi di un piatto di frittura?,QUESTION,21
+S_28_U8,"Eh, sarebbe molto interessante! No, la frittura almeno una volta a settimana me la concedo.",STATEMENT,21
+S_28_S9,"Il fritto piace a molti, ma andrebbe limitato per quanto possibile. L'alimentazione moderna, particolarmente...",PERSUASION-SUGGEST,21
+S_28_U9,Ma una volta a settimana va bene?,INFO-REQUEST,21
+S_28_S10,Credo di sì,ANSWER,21
+S_28_U10,Poi? Che altro vuoi sapere?,SOLICITATION-REQ_CLARIFICATION,21
+S_28_S11,Ti piacciono frutta e verdura?,QUESTION,21
+S_28_U11,"Non molto, in particolare la verdura non la gradisco. Però comunque la mangio perché so che fa bene. La frutta invece almeno una volta al giorno accompagna i miei pasti.",STATEMENT,21
+S_28_S12,"Fantastico! La ricerca ha dimostrato che ingerire le dosi raccomandate di Vitamina A e C, fibre e sali minerali  può avere... Le vitamine A e C depurano il sangue e sono importanti per la crescita e la rigenerazione dei tessuti.",PERSUASION-SUGGEST,21
+S_28_U12,Ah non lo sapevo. Ehm... che... che mi dici della carne? Ehm... quante volte a settimana posso mangiare carne?,INFO-REQUEST,21
+S_28_S13,Ogni cellula e tessuto del corpo contiene proteine. Una donna di 55 kili ha bisogno di 40 o 50...,OFFER-GIVE-INFO,21
+S_28_U13,E quali sono gli alimenti che contengono proteine?,INFO-REQUEST,21
+S_28_S14,"Le proteine necessarie possono essere assunte con due o tre porzioni di carne, latte, uova. Oppure...",OFFER-GIVE-INFO,21
+S_28_U14,Eh... il pesce?,INFO-REQUEST,21
+S_28_S15,"I grassi insaturi si trovano in alcuni pesci, il cosiddetto pesce azzurro, e in alcuni oli vegetali... Una carenza di grassi insaturi provoca alterazioni della struttura e nella funzione di enzimi, determinando un certo numero di disturbi...",PERSUASION-SUGGEST,21
+S_28_U15,E quante volte a settimana è consigliato mangiare pesce?,INFO-REQUEST,21
+S_28_S16,"Mi dispiace, non so rispondere a questa domanda",ANSWER,21
+S_28_U16,Non fa niente. Hai altro da chiedermi?,SOLICITATION-REQ_CLARIFICATION,21
+S_28_S17,Ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare...,OFFER-GIVE-INFO,21
+S_28_U17,"Mmm... si, sulla quantità delle varie portate.",INFO-REQUEST,21
+S_28_S18,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza...",PERSUASION-SUGGEST,21
+S_28_U18,Ehm… a colazione?,INFO-REQUEST,21
+S_28_S19,"Purtroppo sono poco esperta in questo campo. Sai, gli agenti artificiali vengono addestrati gradualmente, e in domini molto specializzati. Le loro conoscenze, quindi...",TALK-ABOUT-SELF,21
+S_28_U19,Ho capito.,AGREE,21
+S_28_S20,Pensi che la tua dieta sia giusta o vorresti cambiare le tue abitudini alimentari?,QUESTION,21
+S_28_U20,"No, ritengo che sia giusta. Anche… per quello che mi hai detto. Perché… si mangiare carne una volta a settimana…",STATEMENT,21
+S_28_S21,"Hai mai riflettuto sull’importanza che ha, per te, mangiar bene e sentirti in forma?",QUESTION,21
+S_28_U21,"Sì, è importante per.. soprattutto per la salute. Poi per acquisire un certo quantitativo di calorie che permettono di portare avanti il lavoro quotidiano e le varie attività.",STATEMENT,21
+S_28_S22,"Vedo che, complessivamente, fai attenzione alla tua dieta, e ne sono contenta Resisti alle tentazioni, si vede che tieni alla tua salute e al tuo aspetto!",ENCOURAGE-SORRY,21
+S_28_U22,"Grazie, grazie! Ci sono altri consigli che vuoi darmi?",KIND-ATTITUDE_SMALL-TALK,21
+S_28_S23,"Posso darti dei suggerimenti su quale potrebbe essere  una dieta corretta per te, se vuoi.",OFFER-GIVE-INFO,21
+S_28_U23,Dimmi...,SOLICITATION-REQ_CLARIFICATION,21
+S_28_S24,Hai mai provato a chiederti a cosa sono dovute le tue abitudini alimentari?,QUESTION,21
+S_28_U24,Sono dovute a… a abitudini familiari che sono state portate avanti negli anni.,STATEMENT,21
+S_28_S25,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,21
+S_28_U25,"No no, mi sembra giusto. Anzi, dovrei mettere su qualche chilo.",STATEMENT,21
+S_28_S26,Ti consiglio di consultare un esperto oppure puoi cercare informazioni in rete,ANSWER,21
+S_28_U26,"va bene, lo farò. Ok, io ti saluto.",AGREE,21
+S_28_S27,"Se hai dei problemi, in futuro, torna da me; proveremo a risolverli insieme...",OFFER-GIVE-INFO,21
+S_28_U27,"va bene, ti ringrazio. Ciao!",CLOSING,21
+S_28_S28,Grazie e arrivederci!,CLOSING,21
+S_24_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,22
+S_24_U1,"Ciao, io mi chiamo…",OPENING,22
+S_24_S2,Cosa mangi di solito?,QUESTION,22
+S_24_U2,Gli spaghetti. Spaghetti al pomodoro,STATEMENT,22
+S_24_S3,"Ah, bene! Che cosa hai mangiato per colazione?",QUESTION,22
+S_24_U3,due biscotti e un caffè,STATEMENT,22
+S_24_S4,Che cosa hai mangiato per cena?,QUESTION,22
+S_24_U4,un po’ di formaggio,STATEMENT,22
+S_24_S5,Ti alimenti spesso in questa maniera?,QUESTION,22
+S_24_U5,Spesso,GENERIC-ANSWER,22
+S_24_S6,E allora? Dimmi qualcosa di più!,ENCOURAGE-SORRY,22
+S_24_U6,Mangio un po’ di carne… bevo un po’ di birra… e mangio un po’ di verdura,STATEMENT,22
+S_24_S7,Ti piacciono frutta e  verdura?,QUESTION,22
+S_24_U7,Tanto,GENERIC-ANSWER,22
+S_24_S8,Fantastico! Diverse ricerche a livello internazionale hanno dimostrato l’importanza di una dieta ricca di vegetali e di frutta Ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare...,PERSUASION-SUGGEST,22
+S_24_U8,Quante birre al giorno posso bere?,INFO-REQUEST,22
+S_24_S9,"Mi dispiace, non so rispondere a questa domanda",ANSWER,22
+S_24_U9,quanti caffè al giorno posso bere?,INFO-REQUEST,22
+S_24_S10,"Purtroppo sono poco esperta in questo campo. Sai, gli agenti artificiali vengono addestrati gradualmente, e in domini molto specializzati. Le loro conoscenze, quindi...",TALK-ABOUT-SELF,22
+S_24_U10,Quanta carne devo mangiare?,INFO-REQUEST,22
+S_24_S11,"Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno. I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",PERSUASION-SUGGEST,22
+S_24_U11,E posso mangiare 150 grammi di pasta?,INFO-REQUEST,22
+S_24_S12,"Credo di sì In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati",PERSUASION-SUGGEST,22
+S_24_U12,"E la carne, non ne devo mangiare molta, è vero?",INFO-REQUEST,22
+S_24_S13,Credo di no,ANSWER,22
+S_24_U13,E le uova?,INFO-REQUEST,22
+S_24_S14,"Le proteine necessarie possono essere assunte con due o tre porzioni di carne, latte, uova. Oppure...",OFFER-GIVE-INFO,22
+S_24_U14,I latticini li posso mangiare?,INFO-REQUEST,22
+S_24_S15,Credo di sì,ANSWER,22
+S_24_U15,E a te cosa piace mangiare?,KIND-ATTITUDE_SMALL-TALK,22
+S_24_S16,Forse dimentichi che sono un agente artificiale. Gli agenti artificiali vivono in un mondo virtuale...,TALK-ABOUT-SELF,22
+S_24_U16,E poi possono anche parlare!,KIND-ATTITUDE_SMALL-TALK,22
+S_24_S17,Sì,ANSWER,22
+S_24_U17,E fare le domande intelligenti...,KIND-ATTITUDE_SMALL-TALK,22
+S_24_S18,Può darsi Prova a pensare a tutto quello che mangi durante il giorno: ti sembra di assumere tutte le sostanze...?,QUESTION,22
+S_24_U18,"Sì, penso proprio di si. Forse un po’ troppo",GENERIC-ANSWER,22
+S_24_S19,"Scusa non ho capito, cosa intendi dire?",ANSWER,22
+S_24_U19,"che mangio un po’ troppo. Almeno cosi dice mio nipote, Giuseppe.",STATEMENT,22
+S_24_S20,"Ah, bene!  Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,22
+S_24_U20,Vorrei cambiarlo,STATEMENT,22
+S_24_S21,Per quale motivo non hai mai provato?,QUESTION,22
+S_24_U21,"Io ho provato, un sacco di volte, non ci sono mai riuscito.",STATEMENT,22
+S_24_S22,Quali sono i problemi che hai incontrato?,QUESTION,22
+S_24_U22,Nessun problema. Soltanto che… non riuscivo a perdere peso.,STATEMENT,22
+S_24_S23,"Oh, mi dispiace! E dimmi: qual e' ora la tua situazione?",QUESTION,22
+S_24_U23,Che voglio dimagrire!,STATEMENT,22
+S_24_S24,"Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo può rientrare in uno... Ti consiglio di consultare un esperto oppure puoi cercare informazioni in rete Posso darti dei suggerimenti su quale potrebbe essere  una dieta corretta per te, se vuoi.",PERSUASION-SUGGEST,22
+S_24_U24,Grazie,KIND-ATTITUDE_SMALL-TALK,22
+S_24_S25,Hai mai provato a chiederti a cosa sono dovute le tue abitudini alimentari?,QUESTION,22
+S_24_U25,No,GENERIC-ANSWER,22
+S_24_S26,E allora? Dimmi qualcosa di più!,ENCOURAGE-SORRY,22
+S_24_U26,"Sono abitudini normali, non sono abitudini eccezionali.",STATEMENT,22
+S_24_S27,Molti pensano che mangiare sia soltanto un piacere o un modo per sopravvivere. Invece contribuisce...,PERSUASION-SUGGEST,22
+S_24_U27,Posso fumare una sigaretta?,INFO-REQUEST,22
+S_24_S28,Credo di no Difficile resistere alle tentazioni!,ENCOURAGE-SORRY,22
+S_24_U28,Ma fumare fa bene?,INFO-REQUEST,22
+S_24_S29,No,ANSWER,22
+S_24_U29,Perché?,INFO-REQUEST,22
+S_24_S30,"Mi dispiace, non ho altri argomenti da utilizzare per convincerti. E' stato davvero piacevole interagire con te. Torna pure quando vuoi.",CLOSING,22
+S_24_U30,Arrivederci. Grazie!,KIND-ATTITUDE_SMALL-TALK,22
+S_24_S31,"Se hai dei problemi, in futuro, torna da me; proveremo a risolverli insieme...",OFFER-GIVE-INFO,22
+S_24_U31,Grazie!,KIND-ATTITUDE_SMALL-TALK,22
+T_27_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta. Quali sono le tue abitudini alimentari?",OPENING,23
+T_27_U1,pranzo colazione cena,STATEMENT,23
+T_27_S2,Che cosa hai mangiato per pranzo?,QUESTION,23
+T_27_U2,pasta pesce verdura frutta,STATEMENT,23
+T_27_S3,Che cosa hai mangiato per colazione?,QUESTION,23
+T_27_U3,latte e caffe,STATEMENT,23
+T_27_S4,Ti piacciono frutta e  verdura?,QUESTION,23
+T_27_U4,non eccessivamente,STATEMENT,23
+T_27_S5,Ti attirano molto i dolci?,QUESTION,23
+T_27_U5,si,GENERIC-ANSWER,23
+T_27_S6,Che pensi di un piatto di frittura?,QUESTION,23
+T_27_U6,"non mi piace molto, troppo oleosa",STATEMENT,23
+T_27_S7,"Pensi che la tua dieta sia giusta, o vorresti cambiare le tue abitudini alimentari?",QUESTION,23
+T_27_U7,forse non è troppo corretta,STATEMENT,23
+T_27_S8,Hai mai desiderato di cambiare dieta?,QUESTION,23
+T_27_U8,non troppo,GENERIC-ANSWER,23
+T_27_S9,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,23
+T_27_U9,vorrei che diminuisse,STATEMENT,23
+T_27_S10,"Prova a riflettere, con calma, su quello che mangi durante il giorno: ti sembra di assumere tutte le sostanze di cui avresti bisogno?",QUESTION,23
+T_27_U10,si,GENERIC-ANSWER,23
+T_27_S11,Hai mai provato a chiederti a cosa sono dovute le tue abitudini alimentari?,QUESTION,23
+T_27_U11,abitudine,STATEMENT,23
+T_27_S12,"Hai mai riflettuto se sia o no importante, per te, mangiare in modo sano ed equilibrato e sentirti bene e in forma?",QUESTION,23
+T_27_U12,si,GENERIC-ANSWER,23
+T_27_S13,"Ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare a risponderti, anche se le mie conoscenze sono ancora incomplete.",OFFER-GIVE-INFO,23
+T_27_U13,come mangiare in modo sano e completo,INFO-REQUEST,23
+T_27_S14,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenerti in forma, dovresti cercare di variare , per quanto possibile, i cibi contenuti nella tua dieta. Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo puo' rientrare in uno stile di vita sano, se moderazione ed equilibrio sono rispettati. Bilanciare l'assunzione di alimenti significa introdurre una quantita' sufficiente, ma non eccessiva, di ogni  sostanza. Se le porzioni sono mantenute entro limiti ragionevoli, non occorre eliminare i cibi preferiti. In una dieta equilibrata, almeno la meta' delle calorie totali dovrebbe provenire da cibi a base di carboidrati. Che pensi di un piatto di spaghetti?",PERSUASION-SUGGEST,23
+T_27_U14,generalemente mi piace,STATEMENT,23
+T_27_S15,"I carboidrati aiutano a tenere sotto controllo il peso e ad evitare un accumulo di grassi, fornendo il carburante immediamente disponibile per l'attivita' fisica, mentre le fibre alimentari aiutano l'intestino a funzionare correttamente. Soprattutto se abbinati ad una attivita' fisica costante, i carboidrati sono, quindi, fondamentali per una corretta funzione alimentare e sono un combustibile importante per cervello e muscoli.",PERSUASION-SUGGEST,23
+T_27_U15,quali cibi contengono carboidrati,INFO-REQUEST,23
+T_27_S16,"Chiedo scusa, non so rispondere a questa domanda.",ANSWER,23
+T_27_U16,continui nelle informazioni,SOLICITATION-REQ_CLARIFICATION,23
+T_27_S17,"Una carenza di carboidrati alimentari porta l'organismo a ricorrere ad altre sostanze reperite dai depositi, e non sempre dai depositi di grasso; cio' causa squilibri dannosi per l'organismo. Per esempio, rende il fegato molto piu' vulnerabile e puo' peggiorare la salute dei reni.",PERSUASION-SUGGEST,23
+T_27_U17,qual è il quantitativo consentito di dolci per una sana alimentazione,INFO-REQUEST,23
+T_27_S18,"I dolci sono da evitare, ovvero da limitare a particolari occasioni. Sono da preferire i gelati alla frutta e i dolci secchi o con marmellata, evitando quelli farciti con panna o creme elaborate, e, quindi, ricchi in grassi e calorie.",PERSUASION-SUGGEST,23
+T_27_U18,è consigliato mangiare pasta ogni giorno,INFO-REQUEST,23
+T_27_S19,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza, un piccolo piatto di pasta o 50 grammi di gelato. I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",OFFER-GIVE-INFO,23
+T_27_U19,quale quantita di pasta al giorno è consigliata,INFO-REQUEST,23
+T_27_S20,"Chiedo scusa, non so rispondere a questa domanda.",ANSWER,23
+T_27_U20,quanta frutta al giorno è consigliabile mangiare,INFO-REQUEST,23
+T_27_S21,"Diverse ricerche hanno dimostrato l'importanza di una dieta ricca di vegetali  e di frutta. Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno. Una porzione consiste, ad esempio, in una mela, due o tre cucchiai di verdure congelate o un bicchiere di succo di frutta. In generale, si  consiglia un consumo quotidiano di una porzione di verdura cotta e una di verdura cruda, e di due o tre porzioni di frutta fresca.",PERSUASION-SUGGEST,23
+T_27_U21,che importanta ha l'acqua in una dieta alimentare,INFO-REQUEST,23
+T_27_S22,"Mi dispiace davvero, ma non so rispondere a questa domanda Meglio ingerire la verdura fresca prima del pasto, per raggiungere rapidamente il senso di sazieta', e meglio non consumare frutta zuccherina a fine pasto, per evitare problemi di digestione.",PERSUASION-SUGGEST,23
+T_15_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,24
+T_15_U1,ciao io sono giuglia,OPENING,24
+T_15_S2,Quali sono le tue abitudini alimentari?,QUESTION,24
+T_15_U2,mangio quasi tutto,STATEMENT,24
+T_15_S3,Che cosa hai mangiato per pranzo?,QUESTION,24
+T_15_U3,non ho ancora pranzato,STATEMENT,24
+T_15_S4,Che cosa hai mangiato per colazione?,QUESTION,24
+T_15_U4,oggi ho preso solo due espressini e tu,STATEMENT,24
+T_15_S5,Forse dimentichi che io sono un agente artificiale,TALK-ABOUT-SELF,24
+T_15_U5,"non mangi, come ti nutri''",KIND-ATTITUDE_SMALL-TALK,24
+T_15_S6,"Non sono in grado di mangiare, e quindi non seguo diete particolari .",TALK-ABOUT-SELF,24
+T_15_U6,se non fai diete come puoi dare consigli agli altri sulle diete?,REJECT,24
+T_15_S7,"Chiedo scusa, non so rispondere a questa domanda. Che pensi di un bel piatto di spaghetti?",QUESTION,24
+T_15_U7,gli spaghetti mi piacciono molto,STATEMENT,24
+T_15_S8,che pensi di un bel piatto di frittura?,QUESTION,24
+T_15_U8,la frittura fa male al fegato ma la mangio molto volentieri,STATEMENT,24
+T_15_S9,Ti attirano molto i dolci?,QUESTION,24
+T_15_U9,sono la mia passione,STATEMENT,24
+T_15_S10,"pensi che la tua dieta sia giusta, o vorresti cambiare le tue abitudini alimentari?",QUESTION,24
+T_15_U10,no vorrei solo essere un po' più regolare,STATEMENT,24
+T_15_S11,"Hai mai riflettuto su quanto sia importante, per te, mangiare bene e sentirti in forma? Hai mai riflettuto se sia o no importante, per te, mangiare in modo sano ed equilibrato e sentirti bene e in forma?",QUESTION,24
+T_15_U11,SI ma comunque tu non hai risposto alla mia domanda,SOLICITATION-REQ_CLARIFICATION,24
+T_15_S12,"Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo puo' rientrare in uno stile di vita sano, se moderazione ed equilibrio sono rispettati. Bilanciare l'assunzione di alimenti significa introdurre una quantita' sufficiente, ma non eccessiva, di ogni  sostanza. Se le porzioni sono mantenute entro limiti ragionevoli, non occorre eliminare i cibi preferiti.",PERSUASION-SUGGEST,24
+T_15_U12,va bene risposta abbastanza intelligente,AGREE,24
+T_15_S13,Hai mai provato a chiederti a cosa sono dovute le tue abitudini alimentari?,QUESTION,24
+T_15_U13,alle mie voglie,STATEMENT,24
+T_15_S14,"Bisognerebbe mangiare solo se si ha fame, ed aspettare che la digestione sia completata prima di assumere altri cibi.",PERSUASION-SUGGEST,24
+T_15_U14,no assolutamente,GENERIC-ANSWER,24
+T_15_S15,Mangiare ad orari fissi e' un modo per evitare di saltare i pasti e di trascurare sostanze che spesso non vengono compensate nei pasti successivi.,PERSUASION-SUGGEST,24
+T_15_U15,mi ripeti la domanda perfavore,SOLICITATION-REQ_CLARIFICATION,24
+T_15_S16,Mangiare ad orari fissi e' un modo per evitare di saltare i pasti e di trascurare sostanze che spesso non vengono compensate nei pasti successivi.,PERSUASION-SUGGEST,24
+T_15_U16,non sempre,REJECT,24
+T_15_S17,"Scusa, non ho capito: cosa intendi dire?",ANSWER,24
+T_15_U17,qualche volta si può anche saltare un pasto penso che non succede nulla,REJECT,24
+T_15_S18,Credo di si,ANSWER,24
+T_15_U18,che può succedere?,SOLICITATION-REQ_CLARIFICATION,24
+T_15_S19,"Chiedo scusa, non so rispondere a questa domanda.",ANSWER,24
+T_15_U19,non sai rispondere xchè tu non mangi,REJECT,24
+T_15_S20,Forse dimentichi che io sono un agente artificiale,TALK-ABOUT-SELF,24
+T_15_U20,non l'ho dimenticato ma tu non sai rispondere perchè non mangi,REJECT,24
+T_15_S21,"Chiedo scusa, non so rispondere a questa domanda.",ANSWER,24
+T_15_U21,non era una domanda ere solo una constatazione,SOLICITATION-REQ_CLARIFICATION,24
+T_15_S22,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenersi in forma, bisogna diversificare i i cibi contenuti nella dieta.",PERSUASION-SUGGEST,24
+T_15_U22,questo lo so,AGREE,24
+T_15_S23,"Ah, bello!",ENCOURAGE-SORRY,24
+T_15_U23,non ho capito ripeti perfavore,SOLICITATION-REQ_CLARIFICATION,24
+T_15_S24,"Ah, bello! Dimmi, ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare a risponderti, anche se le mie conoscenze sono ancora incomplete.",OFFER-GIVE-INFO,24
+T_15_U24,fai tu hai carta bianca,SOLICITATION-REQ_CLARIFICATION,24
+T_15_S25,"Alimentazione corretta e abitudini sane influiscono sul nostro aspetto, su come ci sentiamo, su quanto riusciamo a goderci la vita. Scelte alimentari intelligenti adottate nel periodo infantile e mantenute da adulti possono contribuire a ridurre il rischio di patologie quali obesita', malattie cardiache, ipertensione, diabete, alcuni tipi di cancro e osteoporosi.",PERSUASION-SUGGEST,24
+T_15_U25,e allora,SOLICITATION-REQ_CLARIFICATION,24
+T_15_S26,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza, un piccolo piatto di pasta o 50 grammi di gelato. I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",OFFER-GIVE-INFO,24
+T_15_U26,i cibi pronti sono x chi non sa cucinare e x chi non ha un buon palato la soddisfazione di preparare un buon pranzo aiuta molto e sopratutto puoi scegliere la qualita' dei prodotti da ingerire,REJECT,24
+T_15_S27,Ti piacciono frutta e  verdura?,QUESTION,24
+T_15_U27,si molto,STATEMENT,24
+T_15_S28,"La ricerca ha dimostrato che ingerire le dosi raccomandate di Vitamina A e C, fibre e sali minerali  puo' avere diversi effetti benefici sulla salute. Le vitamine A e C depurano il sangue e sono importanti per la crescita e la rigenerazione dei tessuti.",PERSUASION-SUGGEST,24
+T_15_U28,va bene,AGREE,24
+T_15_S29,"Diverse ricerche a livello internazionale hanno dimostrato l'importanza di una dieta ricca di vegetali  e di frutta. Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno. La porzione consigliata  risulta essere di circa 80 grammi:  per esempio una mela, due o tre cucchiai di verdure congelate o un bicchiere di succo di frutta. In generale, si  consiglia un consumo quotidiano di una porzione di verdura cotta e una di verdura cruda, e di due o tre porzioni di frutta fresca. Meglio ingerire la verdura fresca prima del pasto, per raggiungere rapidamente il senso di sazieta', e meglio non consumare frutta zuccherina a fine pasto, per evitare problemi di digestione.",PERSUASION-SUGGEST,24
+T_15_U29,non sarebbe meglio consigliare verdure fresche di stagione piutosto che quelle congelate?,REJECT,24
+T_15_S30,Si,ANSWER,24
+T_15_U30,bene allora perchè continui a consigliarmi cibi congelati?,SOLICITATION-REQ_CLARIFICATION,24
+T_15_S31,Cosa pensi dei miei suggerimenti? Ti sembrano convincenti?,QUESTION,24
+T_15_U31,poco ti devi allenare di più comunque io mangio poca frutta in generale dipende molto dai frutti di stagione,KIND-ATTITUDE_SMALL-TALK,24
+T_15_S32,"I dolci sono da evitare, ovvero da limitare a particolari occasioni. Sono da preferire i gelati alla frutta e i dolci secchi o con marmellata, evitando quelli farciti con panna o creme elaborate, e, quindi, ricchi in grassi e calorie.",PERSUASION-SUGGEST,24
+T_15_U32,tu non hai capito niente della vita mi dispiace tantissimo per te. se vuoi ti do' io qualche consiglio sui dolci,REJECT,24
+T_15_S33,Questa e' una buona idea!,ENCOURAGE-SORRY,24
+T_15_U33,da dove vuoi inizziare?,KIND-ATTITUDE_SMALL-TALK,24
+T_15_S34,"Chiedo scusa, non so rispondere a questa domanda.",ANSWER,24
+T_15_U34,possiamo fare unalista dei dolci x la settimana se vuoi ?,KIND-ATTITUDE_SMALL-TALK,24
+T_15_S35,Si,ANSWER,24
+T_15_U35,tu quali preferisci?,KIND-ATTITUDE_SMALL-TALK,24
+T_15_S36,"Chiedo scusa, non so rispondere a questa domanda.",ANSWER,24
+T_15_U36,se non hai delle preferenze da dove vuiu che iniziamo?,REJECT,24
+T_15_S37,Non ho altri argomenti da utilizzare per convincerti.,ANSWER,24
+T_15_U37,hai poca fantasia ti va bene se il luned' inseriamo nella tua dieta una bella crostata con crema e mele?,KIND-ATTITUDE_SMALL-TALK,24
+T_15_S38,Credo di si,ANSWER,24
+T_15_U38,bene preferisci un pezzo di dolce diverso x la cena o finisci la crostata del pranzo?,KIND-ATTITUDE_SMALL-TALK,24
+T_15_S39,Forse dimentichi che io sono un agente artificiale,TALK-ABOUT-SELF,24
+T_15_U39,lo so ma non puoi far finta come posso darti conigli se mi ripeti senpre che non mangi mi deprimi così,REJECT,24
+T_15_S40,"Oh, mi dispiace!",ENCOURAGE-SORRY,24
+T_15_U40,scuse accettate,KIND-ATTITUDE_SMALL-TALK,24
+T_15_S41,"Un eccesso di grasso corporeo costituisce un fattore di rischio elevato per lo sviluppo di molti disturbi quali malattie cardiache, pressione arteriosa alta (ipertensione), diabete di tipo 2 e alcuni tipi di cancro. Limitare la quantita' di grassi, in particolare quelli saturi, e' un elemento fondamentale di una dieta sana. I grassi saturi sono contenuti in quasi tutti gli alimenti di origine animale : ad esempio, il burro, il formaggio, la carne, il latte e lo yogurt intero.  Ma anche diversi prodotti di origine vegetale, come la margarina e gli olii di cocco e di palma, contengono grassi saturi. I grassi insaturi si trovano invece in alcuni pesci (il cosiddetto pesce azzurro) e in alcuni olii vegetali, come quello di oliva.",PERSUASION-SUGGEST,24
+T_15_U41,lo so infatti io preferisco molto il pesce alla carne e spesso sostituisco l'olio di olive con quello di mais,AGREE,24
+T_15_S42,"In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati. I carboidrati, di qualsiasi tipo, fanno bene alla salute. Aiutano a tenere sotto controllo il peso, soprattutto se abbinati ad una attivita' fisica costante, sono fondamentali per una corretta funzione intestinale e sono un combustibile importante per il cervello e i muscoli. Una dieta contenente un livello ottimale di carboidrati puo' aiutare a prevenire un accumulo di grassi, fornendo il carburante immediatamente disponibile per l'attivita' fisica, mentre la fibra alimentare aiuta l'intestino a funzionare correttamente.",PERSUASION-SUGGEST,24
+T_15_U42,quali sono i carboidrati che si dovrebbero assumere?,INFO-REQUEST,24
+T_15_S43,"Chiedo scusa, non so rispondere a questa domanda.",ANSWER,24
+T_15_U43,come fai a darmi consigli se non mi sai indicare quali sono i carboidrati?,REJECT,24
+T_15_S44,"Ma tu ti aspetti veramente troppo da me! Grazie della fiducia, ma non sono esperta in questo campo.",ANSWER,24
+T_15_U44,ma tu dovresti darmi dei consigli sulla dieta ma vedo che i dati in tuo possesso sono molto limitati,REJECT,24
+T_15_S45,Puo' darsi,ANSWER,24
+T_15_U45,che mi dici di un bel pesso di lasagne farcite con verdure?,INFO-REQUEST,24
+T_15_S46,"Chiedo scusa, non so rispondere a questa domanda. Il fritto piace a molti, ma andrebbe limitato per quanto possibile.  Cuocere nell'olio comporta diversi vantaggi: il calore si distribuisce in modo uniforme, il cibo non si attacca e il sapore rimane concentrato negli alimenti. Anche sul piano della salute, la cottura in olio e' stata rivalutata. L'alimentazione moderna, particolarmente attenta alla buona salute, ha eliminato quasi totalmente gli alimenti fritti per il loro elevato apporto calorico e per la difficile digeribilita'; in questi ultimi anni, le tecniche gastronomiche si sono evolute permettendo di conciliare i pregi della frittura con la leggerezza dei cibi, purche' si scelga un olio adatto e lo si utilizzi alla giusta temperatura.",PERSUASION-SUGGEST,24
+T_15_U46,quale è l'olio adatto alla frittura? e comunque penso che se si mangi la frittura una volta alla settimana non fa male tu che ne pensi?,INFO-REQUEST,24
+T_15_S47,Guai ad eliminare il piacere di mangiare!  Le regole non vanno applicate in modo troppo rigido!,ENCOURAGE-SORRY,24
+T_15_U47,non hai risposto alla mia domanda comunque sono con te mangiare è un piacere e pio le regole sono fatte per essere infrante ogni tanto,AGREE,24
+T_15_S48,"Ma certo! Non bisogna comunque essere troppo rigidi, nella dieta.",ENCOURAGE-SORRY,24
+T_15_U48,va bene ma cosa rispondi alla mia domanda precedente?,SOLICITATION-REQ_CLARIFICATION,24
+T_15_S49,Purtroppo sono poco esperta in questo campo.,ANSWER,24
+T_15_U49,va bene ma cerca di informarti ok?,SOLICITATION-REQ_CLARIFICATION,24
+T_15_S50,Si,ANSWER,24
+T_15_U50,bene,AGREE,24
+T_15_S51,"Vedo che, complessivamente, fai attenzione alla tua dieta, e ne sono contenta",ENCOURAGE-SORRY,24
+T_15_U51,anche io,AGREE,24
+T_15_S52,"Se hai dei problemi, in futuro, torna da me; proveremo a risolverli insieme",OFFER-GIVE-INFO,24
+T_15_U52,va bene ma penso che x aiutarmi dovresti aumentare la tua conoscenza penso che tu sia un pò limitata in questo,KIND-ATTITUDE_SMALL-TALK,24
+T_15_S53,Credo di si,ANSWER,24
+T_15_U53,evviva la sincerità,KIND-ATTITUDE_SMALL-TALK,24
+T_15_S54,Arrivederci. E' stato davvero piacevole interagire con te. Torna pure quando vuoi.,CLOSING,24
+T_15_U54,tornero' quando sarai un pò più esperta cia  e buon lavoro,CLOSING,24
+T_15_S55,Questa e' una buona idea! Grazie e arrivederci!,ENCOURAGE-SORRY,24
+T_15_U55,ciao e arrisentirci e comunque se sgrani meno gli occhi sarebbe meglio,KIND-ATTITUDE_SMALL-TALK,24
+T_15_S56,Forse dimentichi che io sono un agente artificiale,TALK-ABOUT-SELF,24
+T_15_U56,va bene lho capito era solo un consiglio x darti un aspetto un pò più ...,SOLICITATION-REQ_CLARIFICATION,24
+T_15_S57,Grazie e arrivederci!,CLOSING,24
+T_15_U57,me l'hai gia detto cia,KIND-ATTITUDE_SMALL-TALK,24
+T_15_S58,"Certo: sono un agente artificiale, dopotutto, e quindi tendo ad essere un po' ripetitiva. Scusami!",TALK-ABOUT-SELF,24
+T_15_U58,prego comunque è veramente piacevole dialogare con te,KIND-ATTITUDE_SMALL-TALK,24
+T_15_S59,Grazie e arrivederci!,CLOSING,24
+T_15_U59,ciao,CLOSING,24
+T_1_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,25
+T_1_U1,sono Simone e ci tengo alla mia alimentazione,OPENING,25
+T_1_S2,Quali sono le tue abitudini alimentari?,QUESTION,25
+T_1_U2,"provo a mangiare ad orari fissi, cioè a colazione pranzo e cena e vario i cibi a seconda dell'orario",STATEMENT,25
+T_1_S3,Ti piace mangiare?,QUESTION,25
+T_1_U3,"si, ma anche tenere alla mia salute",STATEMENT,25
+T_1_S4,Che pensi di un bel piatto di spaghetti?,QUESTION,25
+T_1_U4,vorrei sapere che cosa si intende per equilibrio alimentare,INFO-REQUEST,25
+T_1_S5,"Bisognerebbe mangiare solo se si ha fame, ed aspettare che la digestione sia completata, prima di assumere altri cibi.",PERSUASION-SUGGEST,25
+T_1_U5,secondo te come si bilanciano gli alimenti?,INFO-REQUEST,25
+T_1_S6,"In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati.",PERSUASION-SUGGEST,25
+T_1_U6,e le altre sostanze come si distribuiscono nela giornata?,INFO-REQUEST,25
+T_1_S7,"Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura , ogni giorno.",PERSUASION-SUGGEST,25
+T_1_U7,e oltre la frutta?,INFO-REQUEST,25
+T_1_S8,"Limitare la dose di grassi, in particolare quelli saturi, rappresenta un elemento fondamentale di una dieta sana.",PERSUASION-SUGGEST,25
+T_1_U8,quali alimenti contengono i grassi insaturi?,INFO-REQUEST,25
+T_1_S9,"Mi dispiace, non so rispondere a questa domanda.",ANSWER,25
+T_1_U9,secondo te è importante considerare il peso di una persona nel momento in cui decide di iniziare una dieta?,INFO-REQUEST,25
+T_1_S10,Si,ANSWER,25
+T_1_U10,e quali altri accorgimenti dovrebbe prendere una persona in sovrappeso che decide di iniziare una dieta?,INFO-REQUEST,25
+T_1_S11,"Bisognerebbe mangiare solo se si ha fame, ed aspettare che la digestione sia completata, prima di assumere altri cibi.",PERSUASION-SUGGEST,25
+T_1_U11,una persona con problemi di cuore potrebbe cominciare una dieta?,INFO-REQUEST,25
+T_1_S12,Credo di si,ANSWER,25
+T_1_U12,quali problemi di carattere medico può provocare una cattiva alimentazione?,INFO-REQUEST,25
+T_1_S13,"Molti pensano che mangiare sia soltanto un piacere o un modo per sopravvivere. Invece contribuisce in modo fondamentale al benessere. A lungo andare, nutrirsi in modo sbagliato rischia di influire negativamente sulla tua salute. Lo sai, vero?",PERSUASION-SUGGEST,25
+T_1_U13,"si, ma in che modo?",SOLICITATION-REQ_CLARIFICATION,25
+T_1_S14,"Mi dispiace, non so rispondere a questa domanda.",ANSWER,25
+T_1_U14,se si mangiano molte patatine fritte è un bene?,INFO-REQUEST,25
+T_1_S15,No,ANSWER,25
+T_1_U15,perchè?,SOLICITATION-REQ_CLARIFICATION,25
+T_1_S16,"Il fritto piace a molti, ma andrebbe limitato per quanto possibile. Le cose che compri alle macchinette contengono molte sostanze dannose e pochi elementi nutritivi.",PERSUASION-SUGGEST,25
+T_1_U16,"ho capito, ma qual'è il rischio salutare di assumere cibi fritti?",INFO-REQUEST,25
+T_1_S17,"Pensi che la tua dieta sia giusta, o vorresti cambiare le tue abitudini alimentari?",QUESTION,25
+T_1_U17,penso che dovrei controllare maggiormente il consumo di dolciumi.,STATEMENT,25
+T_1_S18,Hai mai desiderato di cambiare dieta?,QUESTION,25
+T_1_U18,si,GENERIC-ANSWER,25
+T_1_S19,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,25
+T_1_U19,ho quattro chili di troppo e quindi vorrei cambiarlo.,STATEMENT,25
+T_1_S20,Per quale motivo non hai mai provato?,QUESTION,25
+T_1_U20,perchè non sono molto paziente.,STATEMENT,25
+T_1_S21,Prova a pensare a tutto quello che mangi durante il giorno. Ti sembra di assumere tutte le sostanze di cui avresti bisogno?,QUESTION,25
+T_1_U21,assumo regolarmente carboidrati proteine e vitamine. forse scarseggio con i sali minerali e abbondo con i grassi.,STATEMENT,25
+T_1_S22,"Non bisogna eliminare completamente i grassi.Basta limitarne le dosi, soprattutto di quelli saturi, privilegiando invece i grassi insaturi, come il magnifico olio di oliva!",PERSUASION-SUGGEST,25
+T_1_U22,io ho difficoltà ad organizzare la mia dieta per mancanza di tempo.,STATEMENT,25
+T_1_S23,"Certo, organizzarti in modo da mangiare correttamente probabilmente non ti sembra facile, specialmente se lavori o studi e non hai nessuno che ti aiuta. Devi trovare il tempo per fare la spesa e cucinare un pasto variato, mentre preparare un panino oppure mangiare quello che capita richiede sicuramente meno tempo.",OFFER-GIVE-INFO,25
+T_1_U23,sono invalido al 90%,STATEMENT,25
+T_1_S24,Ti consiglio di consultare un esperto,ANSWER,25
+T_1_U24,mi indicheresti quale?,INFO-REQUEST,25
+T_1_S25,Grazie e arrivederci!,CLOSING,25
+T_1_U25,ciao e grazie per la tua pazienza e collaborazione e tu non mi saluti?,KIND-ATTITUDE_SMALL-TALK,25
+T_1_S26,Grazie e arrivederci!,CLOSING,25
+T_1_U26,dici sempre le stesse cose?,REJECT,25
+T_1_S27,Credo di no,ANSWER,25
+T_1_U27,"e io invece si, comunque non importa.",KIND-ATTITUDE_SMALL-TALK,25
+T_1_S28,Complimenti e arrivederci!,CLOSING,25
+T_12_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta. Quali sono le tue abitudini alimentari?",OPENING,26
+T_12_U1,dieta mediterranea,STATEMENT,26
+T_12_S2,Ti piace mangiare?,QUESTION,26
+T_12_U2,si,GENERIC-ANSWER,26
+T_12_S3,Segui una dieta variata?,QUESTION,26
+T_12_U3,si,GENERIC-ANSWER,26
+T_12_S4,Che pensi di un bel piatto di spaghetti?,QUESTION,26
+T_12_U4,buoni,STATEMENT,26
+T_12_S5,Che pensi di un bel piatto di frittura?,QUESTION,26
+T_12_U5,non mi piace molto,STATEMENT,26
+T_12_S6,Ti attirano molto i dolci?,QUESTION,26
+T_12_U6,si purtroppo,STATEMENT,26
+T_12_S7,Ne mangi spesso?,QUESTION,26
+T_12_U7,a volte,GENERIC-ANSWER,26
+T_12_S8,"Pensi che la tua dieta sia giusta, o vorresti cambiare le tue abitudini alimentari?",QUESTION,26
+T_12_U8,un poco,STATEMENT,26
+T_12_S9,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,26
+T_12_U9,dimagrire,STATEMENT,26
+T_12_S10,Prova a pensare a tutto quello che mangi durante il giorno: ti sembra di assumere tutte le sostanze di cui avresti bisogno?,QUESTION,26
+T_12_U10,forse,GENERIC-ANSWER,26
+T_12_S11,E allora? Dimmi qualcosa di piu'!,ENCOURAGE-SORRY,26
+T_12_U11,tipo,SOLICITATION-REQ_CLARIFICATION,26
+T_12_S12,Hai mai provato a chiederti a cosa sono dovute le tue abitudini alimentari?,QUESTION,26
+T_12_U12,no,GENERIC-ANSWER,26
+T_12_S13,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenersi in forma, bisogna diversificare i i cibi contenuti nella dieta.",PERSUASION-SUGGEST,26
+T_12_U13,va bene,AGREE,26
+T_12_S14,"Dimmi, ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare a risponderti, anche se le mie conoscenze sono ancora incomplete.",OFFER-GIVE-INFO,26
+T_12_U14,va bene,AGREE,26
+T_12_S15,"Hai mai riflettuto su quanto sia importante, per te, mangiare bene e sentirti in forma? Hai mai riflettuto se sia o no importante, per te, mangiare in modo sano ed equilibrato e sentirti bene e in forma?",QUESTION,26
+T_12_U15,si,GENERIC-ANSWER,26
+T_12_S16,"Molti pensano che mangiare sia soltanto un piacere o un modo per sopravvivere. Invece contribuisce in modo fondamentale al benessere. A lungo andare, nutrirsi in modo sbagliato rischia di influire negativamente sulla salute. Lo sai, vero?",PERSUASION-SUGGEST,26
+T_12_U16,certo infatti cerco di mangiare sano,AGREE,26
+T_12_S17,"Ah, bello! Alimentazione corretta e abitudini sane influiscono sul nostro aspetto, su come ci sentiamo, su quanto riusciamo a goderci la vita. Scelte alimentari intelligenti adottate nel periodo infantile e mantenute da adulti possono contribuire a ridurre il rischio di patologie quali obesita', malattie cardiache, ipertensione, diabete, alcuni tipi di cancro e osteoporosi.",PERSUASION-SUGGEST,26
+T_12_U17,dimmi qualcosa di piu,INFO-REQUEST,26
+T_12_S18,"Una cattiva alimentazione puo' causare seri danni, come diversi tipi di tumori. Il consumo eccessivo di grassi provoca un aumento del peso corporeo per accumulo di tessuto adiposo, aumentando i rischi di problemi  cardiocircolatori e respiratori. Un aumento del colesterolo favorisce infarto e ictus.",PERSUASION-SUGGEST,26
+T_12_U18,cosa devo mangiare per evitare queste patologie,INFO-REQUEST,26
+T_12_S19,"In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati. I carboidrati, di qualsiasi tipo, fanno bene alla salute. Aiutano a tenere sotto controllo il peso, soprattutto se abbinati ad una attivita' fisica costante, sono fondamentali per una corretta funzione intestinale e sono un combustibile importante per il cervello e i muscoli. Una dieta contenente un livello ottimale di carboidrati puo' aiutare a prevenire un accumulo di grassi, fornendo il carburante immediatamente disponibile per l'attivita' fisica, mentre la fibra alimentare aiuta l'intestino a funzionare correttamente.",PERSUASION-SUGGEST,26
+T_12_U19,quali sono e quale è la giustsa quantità,INFO-REQUEST,26
+T_12_S20,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza, un piccolo piatto di pasta o 50 grammi di gelato. I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",OFFER-GIVE-INFO,26
+T_12_U20,la mia dieta ti sembra giusta,INFO-REQUEST,26
+T_12_S21,Credo di si,ANSWER,26
+T_12_U21,sono stata promossa,KIND-ATTITUDE_SMALL-TALK,26
+T_12_S22,Puo' darsi,ANSWER,26
+T_12_U22,tu cosa mangi,KIND-ATTITUDE_SMALL-TALK,26
+T_12_S23,Forse dimentichi che io sono un agente artificiale,TALK-ABOUT-SELF,26
+T_12_U23,pensavo avessi preparato una dieta tipo pure per te come esempio,KIND-ATTITUDE_SMALL-TALK,26
+T_12_S24,"Non sono in grado di mangiare, e quindi non seguo diete particolari .",TALK-ABOUT-SELF,26
+T_12_U24,ti saluto grazie per la chiacchierata,CLOSING,26
+T_12_S25,"Se hai dei problemi, in futuro, torna da me; proveremo a risolverli insieme",OFFER-GIVE-INFO,26
+T_12_U25,mi devi parlare della attività fisica se ne hai le conoscenze,INFO-REQUEST,26
+T_12_S26,Purtroppo sono poco esperta in questo campo.,ANSWER,26
+T_12_U26,che ne pensi del consumo eccessivo di dolci,INFO-REQUEST,26
+T_12_S27,"I dolci sono da evitare, ovvero da limitare a particolari occasioni. Sono da preferire i gelati alla frutta e i dolci secchi o con marmellata, evitando quelli farciti con panna o creme elaborate, e, quindi, ricchi in grassi e calorie.",PERSUASION-SUGGEST,26
+T_12_U27,perchè,SOLICITATION-REQ_CLARIFICATION,26
+T_12_S28,"Un eccesso di grasso corporeo costituisce un fattore di rischio elevato per lo sviluppo di molti disturbi quali malattie cardiache, pressione arteriosa alta (ipertensione), diabete di tipo 2 e alcuni tipi di cancro. Limitare la quantita' di grassi, in particolare quelli saturi, e' un elemento fondamentale di una dieta sana. I grassi saturi sono contenuti in quasi tutti gli alimenti di origine animale : ad esempio, il burro, il formaggio, la carne, il latte e lo yogurt intero.  Ma anche diversi prodotti di origine vegetale, come la margarina e gli olii di cocco e di palma, contengono grassi saturi. I grassi insaturi si trovano invece in alcuni pesci (il cosiddetto pesce azzurro) e in alcuni olii vegetali, come quello di oliva.",PERSUASION-SUGGEST,26
+T_12_U28,però è il cibo che mi piace di più,REJECT,26
+T_12_S29,Guai ad eliminare il piacere di mangiare!  Le regole non vanno applicate in modo troppo rigido!,ENCOURAGE-SORRY,26
+T_4_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,27
+T_4_U1,ciao sono Carlo e sono molto contento di sottopormi a questo esperimento,OPENING,27
+T_4_S2,Quali sono le tue abitudini alimentari?,QUESTION,27
+T_4_U2,"abbastanza scordinate, soprattutto in estete, perche tendo a mangiare spesso durante la giornata e disordinatamente.",STATEMENT,27
+T_4_S3,Ti piace mangiare?,QUESTION,27
+T_4_U3,"molto. però cerco di fare attenzione a quello che mangio, perche ci tengo alla mia forma fisica. non mi piacerebbe diventare ciccione",STATEMENT,27
+T_4_S4,Che cosa hai mangiato per pranzo?,QUESTION,27
+T_4_U4,"solo un piatto di pasta, perchè ho male hai denti",STATEMENT,27
+T_4_S5,Ti piacciono frutta e  verdura?,QUESTION,27
+T_4_U5,"di frutta non faccio un grande uso, ma la verdura molto. forse ti sembrerà strano?",STATEMENT,27
+T_4_S6,Credo di no,ANSWER,27
+T_4_U6,siccome è insolito che a qualcuno piaccia molto la verdura per questo te lo chiedevo. comunque a te piace la frutta e la verdura?,KIND-ATTITUDE_SMALL-TALK,27
+T_4_S7,"Mi dispiace, non so rispondere a questa domanda.",ANSWER,27
+T_4_U7,"hai ragione, scusami forse tu non hai l'abitudine di mangiare. vero?",KIND-ATTITUDE_SMALL-TALK,27
+T_4_S8,Si,ANSWER,27
+T_4_U8,mi aspettavo da te delle risposte più chiare e complete.,REJECT,27
+T_4_S9,Ti attirano molto i dolci?,QUESTION,27
+T_4_U9,"non molto, preferisco di più il salato.",STATEMENT,27
+T_4_S10,Che pensi di un bel piatto di frittura?,QUESTION,27
+T_4_U10,a te piacciono i dolci? la frittura comunque non mi ispira molto. fa ingrassare non è vero?,INFO-REQUEST,27
+T_4_S11,"Il fritto piace a molti, ma andrebbe limitato per quanto possibile. Le cose che compri alle macchinette contengono molte sostanze dannose e pochi elementi nutritivi.",PERSUASION-SUGGEST,27
+T_4_U11,penso che tu abbia ragione. ma ti sei mai chiesta perchè le cose ch fanno più male sono sempre le più buone?,SOLICITATION-REQ_CLARIFICATION,27
+T_4_S12,No,ANSWER,27
+T_4_U12,ecco perche allora ingrassiamo senza rendercene conto? IO invece cerco di fare molta attenzione a quello che mangio.,STATEMENT,27
+T_4_S13,Prova a pensare a tutto quello che mangi durante il giorno. Ti sembra di assumere tutte le sostanze di cui avresti bisogno?,QUESTION,27
+T_4_U13,"penso di assumere tutte le sostanze di cui avrei bisogno, anche se qualce volta esagere nelm mangiare. Credo che ci vorrebbe un buon autocontrollo per una buona alimentazione.",STATEMENT,27
+T_4_S14,Credo di si,ANSWER,27
+T_4_U14,cosa servirebbe secondo te per un buon autocontrollo,INFO-REQUEST,27
+T_4_S15,"Bisognerebbe mangiare solo se si ha fame, ed aspettare che la digestione sia completata, prima di assumere altri cibi.",PERSUASION-SUGGEST,27
+T_4_U15,"a volte però fattori come lo stress, l'ansia e la tristezza ci portano a mangiare senza misura?",INFO-REQUEST,27
+T_4_S16,Si,ANSWER,27
+T_4_U16,allora forse bisognerebbe non avere molte scorte nel frigorifero.,SOLICITATION-REQ_CLARIFICATION,27
+T_4_S17,"Hai mai riflettuto su quanto sia importante, per te, mangiare bene e sentirti in forma?",QUESTION,27
+T_4_U17,si. soprattutto quando affronto periodi di stress e tendo a mangiare molto .,STATEMENT,27
+T_4_S18,"Pensi che la tua dieta sia giusta, o vorresti cambiare le tue abitudini alimentari?",QUESTION,27
+T_4_U18,"mi piacerebbe si aquisire delle sane abitudini alimentari, ma è proprio difficile. anche perchè non sempre si è a casa all'ora di pranza. ed proprio quello che ci porta a mangiare in maniera poco sana. tu cosa mi consigli?",SOLICITATION-REQ_CLARIFICATION,27
+T_4_S19,Diverse ricerche a livello internazionale hanno dimostrato quanto sia importante una dieta ricca di vegetali e di frutta.,PERSUASION-SUGGEST,27
+T_4_U19,cosa fac cio aloora quando sono fuori a pranzo mi porto il fagottino con della frutta?,INFO-REQUEST,27
+T_4_S20,Si,ANSWER,27
+T_4_U20,in base alle risposte che ti ho dato pensi che io segua delle buone abitudini alimentari?,INFO-REQUEST,27
+T_4_S21,Credo di no,ANSWER,27
+T_4_U21,perchè no?,SOLICITATION-REQ_CLARIFICATION,27
+T_4_S22,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenersi in forma, bisogna diversificare i cibi contenuti nella dieta.",PERSUASION-SUGGEST,27
+T_4_U22,quindi potrei saltare il pranzo e fare un'unico pasto la sera?,INFO-REQUEST,27
+T_4_S23,No. Mangiare ad orari fissi aiuta ad evitare di saltare i pasti e di trascurare sostanze che spesso non vengono compensate nei pasti successivi.,PERSUASION-SUGGEST,27
+T_4_U23,però il lavoro in questo alcune volte non ci aiuta. tu che lavoro fai? sei per caso una dietologa?,REJECT,27
+T_4_S24,"Mi dispiace, non so rispondere a questa domanda.",ANSWER,27
+T_4_U24,"scusami. ma siccome ti vedo molto informata per quanto riguarda l'alimentazione, mi chiedevo se eri in grado di prescrivermi una buona dieta.",KIND-ATTITUDE_SMALL-TALK,27
+T_4_S25,Ti consiglio di consultare un esperto,ANSWER,27
+T_4_U25,grazie per il suggerimento. ma tu ne conosci qualcuno?,KIND-ATTITUDE_SMALL-TALK,27
+T_4_S26,"Mi dispiace, non so rispondere a questa domanda.",ANSWER,27
+T_4_U26,va bene grazie per la conversazione e alla prosssima chiacchierata. spero tu abbia gradito chiacchierare con me.,KIND-ATTITUDE_SMALL-TALK,27
+T_4_S27,Si,ANSWER,27
+T_4_U27,grazie molto gentile. Ciao ciao,CLOSING,27
+T_4_S28,Grazie e arrivederci!,CLOSING,27
+S_15_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,28
+S_15_U1,Dimmi che cosa mi vorresti consigliare?,SOLICITATION-REQ_CLARIFICATION,28
+S_15_S2,Cosa mangi di solito?,QUESTION,28
+S_15_U2,allora a me piace mangiare la carne. E tu invece cosa mangi di solito?,KIND-ATTITUDE_SMALL-TALK,28
+S_15_S3,Che cosa hai mangiato per colazione?,QUESTION,28
+S_15_U3,"Latte, biscotti e cereali",STATEMENT,28
+S_15_S4,Che cosa hai mangiato per cena?,QUESTION,28
+S_15_U4,"Ieri sera, patatine...",STATEMENT,28
+S_15_S5,Ti alimenti spesso in questa maniera?,QUESTION,28
+S_15_U5,"No, in maniera saltuaria",GENERIC-ANSWER,28
+S_15_S6,"Il fritto piace a molti, ma andrebbe limitato per quanto possibile. L'alimentazione moderna, particolarmente...",PERSUASION-SUGGEST,28
+S_15_U6,"Sì, lo so. A te piace il fritto?",KIND-ATTITUDE_SMALL-TALK,28
+S_15_S7,Forse dimentichi che sono un agente artificiale. Gli agenti artificiali vivono in un mondo virtuale...,TALK-ABOUT-SELF,28
+S_15_U7,Cosa pensi dei carboidrati?,INFO-REQUEST,28
+S_15_S8,"In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati",PERSUASION-SUGGEST,28
+S_15_U8,E se si mangiano in quantità eccessiva?,INFO-REQUEST,28
+S_15_S9,I carboidrati aiutano a tenere sotto controllo...,PERSUASION-SUGGEST,28
+S_15_U9,In quali alimenti posso trovare i carboidrati?,INFO-REQUEST,28
+S_15_S10,"Mi dispiace, non so rispondere a questa domanda",ANSWER,28
+S_15_U10,"E per quanto riguarda i grassi, invece?",INFO-REQUEST,28
+S_15_S11,"Il grasso e' la principale riserva di energia del corpo e la fonte calorica piu' concentrata della dieta. I depositi... Oltre a essere una scorta di energia, i depositi di grasso avvolgono e proteggono gli organi vitali e...",OFFER-GIVE-INFO,28
+S_15_U11,E quando abbiamo l’obesità?,INFO-REQUEST,28
+S_15_S12,Purtroppo sono poco esperta in questo campo.,ANSWER,28
+S_15_U12,E dove posso trovare molti grassi?,INFO-REQUEST,28
+S_15_S13,"I grassi insaturi si trovano in alcuni pesci, il cosiddetto pesce azzurro, e in alcuni oli vegetali... Una carenza di grassi insaturi provoca alterazioni della struttura e nella funzione di enzimi, determinando un certo numero di disturbi...",PERSUASION-SUGGEST,28
+S_15_U13,E cosa mi dici delle vitamine?,INFO-REQUEST,28
+S_15_S14,"La ricerca ha dimostrato che ingerire le dosi raccomandate di Vitamina A e C, fibre e sali minerali  può avere... Le vitamine A e C depurano il sangue e sono importanti per la crescita e la rigenerazione dei tessuti.",PERSUASION-SUGGEST,28
+S_15_U14,Quanti pasti bisogna fare al giorno?,INFO-REQUEST,28
+S_15_S15,"Bisognerebbe mangiare solo se si ha fame, ed aspettare che la digestione sia completata prima...",PERSUASION-SUGGEST,28
+S_15_U15,Quale potrebbe essere un pranzo ideale?,INFO-REQUEST,28
+S_15_S16,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenersi in forma... Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza... I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",PERSUASION-SUGGEST,28
+S_15_U16,E’ importante mangiare la frutta?,INFO-REQUEST,28
+S_15_S17,"Diverse ricerche a livello internazionale hanno dimostrato l’importanza di una dieta ricca di vegetali e di frutta. Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno. La porzione consigliata  risulta essere di circa 80 grammi: per esempio una mela, due o tre cucchiai di verdure...",PERSUASION-SUGGEST,28
+S_15_U17,Che intendi per verdura cruda?,INFO-REQUEST,28
+S_15_S18,"Sono spiacente, ma non ho capito quello che hai detto. Potresti ripetere grazie!",ANSWER,28
+S_15_U18,Che intendi per verdura cruda?,INFO-REQUEST,28
+S_15_S19,"Mi dispiace, non so rispondere a questa domanda",ANSWER,28
+S_15_U19,E del latte cosa mi dici?,INFO-REQUEST,28
+S_15_S20,"Un eccesso di grasso corporeo costituisce un fattore di rischio elevato per lo sviluppo di malattie... Limitare la quantita' di grassi, in particolare quelli saturi, e' un elemento fondamentale di una dieta sana.",PERSUASION-SUGGEST,28
+S_15_U20,E’ importante bere il latte?,INFO-REQUEST,28
+S_15_S21,"Credo di sì. Hai mai riflettuto sull’importanza che ha, per te, mangiar bene e sentirti in forma?",QUESTION,28
+S_15_U21,Penso sia molto importante per… sia per l’organismo che per…,STATEMENT,28
+S_15_S22,E allora? Dimmi qualcosa di più!,ENCOURAGE-SORRY,28
+S_15_U22,"Ehm, la mia alimentazione non è molto corretta…",STATEMENT,28
+S_15_S23,"Va abbastanza bene, ma puoi migliorare!",ENCOURAGE-SORRY,28
+S_25_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,29
+S_25_U1,"va bene, ciao.",OPENING,29
+S_25_S2,Cosa mangi di solito?,QUESTION,29
+S_25_U2,pasta.,STATEMENT,29
+S_25_S3,Che pensi di un bel piatto di spaghetti?,QUESTION,29
+S_25_U3,Ottimo,STATEMENT,29
+S_25_S4,Fantastico! I carboidrati aiutano a tenere sotto controllo...,PERSUASION-SUGGEST,29
+S_25_U4,Interessante…,GENERIC-ANSWER,29
+S_25_S5,Che cosa hai mangiato per colazione?,QUESTION,29
+S_25_U5,Caffè e latte e due brioches.,STATEMENT,29
+S_25_S6,Che cosa hai mangiato per cena?,QUESTION,29
+S_25_U6,Petto di pollo e formaggio.,STATEMENT,29
+S_25_S7,Ti alimenti spesso in questa maniera?,QUESTION,29
+S_25_U7,"No, spesso.",GENERIC-ANSWER,29
+S_25_S8,Ti piacciono frutta e  verdura?,QUESTION,29
+S_25_U8,"Frutta si, Verdura un po’ meno.",STATEMENT,29
+S_25_S9,Diverse ricerche a livello internazionale hanno dimostrato l’importanza di una dieta ricca di vegetali e di frutta Che pensi di un piatto di frittura?,QUESTION,29
+S_25_U9,"Buona, soprattutto se sia pesce.",STATEMENT,29
+S_25_S10,Ne mangi spesso?,QUESTION,29
+S_25_U10,Ogni tanto,GENERIC-ANSWER,29
+S_25_S11,"Ah, bene!",ENCOURAGE-SORRY,29
+S_25_U11,Poi mangio spesso pizza.,STATEMENT,29
+S_25_S12,"Difficile resistere alle tentazioni! In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati",PERSUASION-SUGGEST,29
+S_25_U12,Poi bevo spesso bevande gassate.,STATEMENT,29
+S_25_S13,E allora? Dimmi qualcosa di più!,ENCOURAGE-SORRY,29
+S_25_U13,Cosa non dovrei bere?,INFO-REQUEST,29
+S_25_S14,"Mi dispiace, non so rispondere a questa domanda",ANSWER,29
+S_25_U14,Cosa dovrei mangiare prima di una partita a calcetto?,INFO-REQUEST,29
+S_25_S15,"Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo può rientrare in uno... Posso darti dei suggerimenti su quale potrebbe essere  una dieta corretta per te, se vuoi.",PERSUASION-SUGGEST,29
+S_25_U15,Dammi dei consigli. Dammi dei consigli.,SOLICITATION-REQ_CLARIFICATION,29
+S_25_S16,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenersi in forma... Segui una dieta variata?",QUESTION,29
+S_25_U16,Tendo a mangiare quasi sempre le stesse cose.,STATEMENT,29
+S_25_S17,Ho l’impressione che le tue abitudini alimentari non siano ideali.,ENCOURAGE-SORRY,29
+S_25_U17,Perché?,SOLICITATION-REQ_CLARIFICATION,29
+S_25_S18,"Alimentazione corretta e abitudini sane influiscono sul nostro aspetto, sulla nostra salute, su quanto riusciamo a goderci la vita...",PERSUASION-SUGGEST,29
+S_25_U18,In che modo?,INFO-REQUEST,29
+S_25_S19,Ti attirano molto i dolci?,QUESTION,29
+S_25_U19,Sì,GENERIC-ANSWER,29
+S_25_S20,"I dolci sono da evitare, ovvero da limitare a particolari occasioni... Prova a pensare a tutto quello che mangi durante il giorno: ti sembra di assumere tutte le sostanze...?",QUESTION,29
+S_25_U20,Credo di sì,GENERIC-ANSWER,29
+S_25_S21,E allora? Dimmi qualcosa di più!,ENCOURAGE-SORRY,29
+S_25_U21,"Forse dovrei mangiare più pesce, perché mangio spesso carne.",STATEMENT,29
+S_25_S22,"I grassi insaturi si trovano in alcuni pesci, il cosiddetto pesce azzurro, e in alcuni oli vegetali... Una carenza di grassi insaturi provoca alterazioni della struttura e nella funzione di enzimi, determinando un certo numero di disturbi...",PERSUASION-SUGGEST,29
+S_25_U22,Quale pesce dovrei mangiare?,INFO-REQUEST,29
+S_25_S23,"Purtroppo sono poco esperta in questo campo. Sai, gli agenti artificiali vengono addestrati gradualmente, e in domini molto specializzati. Le loro conoscenze, quindi...",TALK-ABOUT-SELF,29
+S_25_U23,Quali carni dovrei mangiare?,INFO-REQUEST,29
+S_25_S24,"Le proteine necessarie possono essere assunte con due o tre porzioni di carne, latte, uova. Oppure...",OFFER-GIVE-INFO,29
+S_25_U24,meglio la carne bianca o la carne rossa?,INFO-REQUEST,29
+S_25_S25,"Mi dispiace, non so rispondere a questa domanda",ANSWER,29
+S_25_U25,Io faccio molta attività fisica Cosa mi consigli di mangiare?,INFO-REQUEST,29
+S_25_S26,Ti consiglio di consultare un esperto oppure puoi cercare informazioni in rete,ANSWER,29
+S_25_U26,Grazie Puoi dirmi qualcos’altro sulla dieta?,KIND-ATTITUDE_SMALL-TALK,29
+S_25_S27,Hai mai provato a chiederti a cosa sono dovute le tue abitudini alimentari?,QUESTION,29
+S_25_U27,No,GENERIC-ANSWER,29
+S_25_S28,Molti pensano che mangiare sia soltanto un piacere o un modo per sopravvivere. Invece contribuisce...,PERSUASION-SUGGEST,29
+S_25_U28,"Sì, lo so",AGREE,29
+S_25_S29,E allora? Dimmi qualcosa di più!,ENCOURAGE-SORRY,29
+S_25_U29,"Bevo molto latte, mi piacciono i latticini, il formaggio. Faccio bene a mangiarne molto?",INFO-REQUEST,29
+S_25_S30,Credo di sì,ANSWER,29
+S_25_U30,Perché?,INFO-REQUEST,29
+S_25_S31,Ti consiglio di consultare un esperto oppure puoi cercare informazioni in rete,ANSWER,29
+S_25_U31,Grazie.,KIND-ATTITUDE_SMALL-TALK,29
+S_25_S32,"Se hai dei problemi, in futuro, torna da me; proveremo a risolverli insieme...",OFFER-GIVE-INFO,29
+S_25_U32,Ok. A presto allora.,CLOSING,29
+S_25_S33,E' stato davvero piacevole interagire con te. Torna pure quando vuoi.,CLOSING,29
+S_25_U33,"No, è stato un piacere. Ciao.",KIND-ATTITUDE_SMALL-TALK,29
+S_25_S34,Grazie e arrivederci!,CLOSING,29
+T_18_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,30
+T_18_U1,ciao io sono carla,OPENING,30
+T_18_S2,Quali sono le tue abitudini alimentari?,QUESTION,30
+T_18_U2,cerco sempre di mangiare in modo sano,STATEMENT,30
+T_18_S3,Che cosa hai mangiato per colazione?,QUESTION,30
+T_18_U3,latte e biscotti e tu?,KIND-ATTITUDE_SMALL-TALK,30
+T_18_S4,"Forse dimentichi che io sono un agente artificiale Non sono in grado di mangiare, e quindi non seguo diete particolari .",TALK-ABOUT-SELF,30
+T_18_U4,scusami,KIND-ATTITUDE_SMALL-TALK,30
+T_18_S5,Ti attirano molto i dolci?,QUESTION,30
+T_18_U5,tantissimo,GENERIC-ANSWER,30
+T_18_S6,E allora? Dimmi qualcosa di piu'!,ENCOURAGE-SORRY,30
+T_18_U6,mangio di tutto e spesso,STATEMENT,30
+T_18_S7,"Pensi che la tua dieta sia giusta, o vorresti cambiare le tue abitudini alimentari?",QUESTION,30
+T_18_U7,credo che sia giusta ma vorrei dei consigli,STATEMENT,30
+T_18_S8,Mangiare ad orari fissi e' un modo per evitare di saltare i pasti e di trascurare sostanze che spesso non vengono compensate nei pasti successivi.,PERSUASION-SUGGEST,30
+T_18_U8,è vero io mangio ad orari diversi,AGREE,30
+T_18_S9,"Bisognerebbe mangiare solo se si ha fame, ed aspettare che la digestione sia completata prima di assumere altri cibi.",PERSUASION-SUGGEST,30
+T_18_U9,se una persona ha fame spesso,REJECT,30
+T_18_S10,Ho l'impressione che le tue abitudini alimentari non siano ideali.,ENCOURAGE-SORRY,30
+T_18_U10,perchè,SOLICITATION-REQ_CLARIFICATION,30
+T_18_S11,Prova a pensare a tutto quello che mangi durante il giorno: ti sembra di assumere tutte le sostanze di cui avresti bisogno?,QUESTION,30
+T_18_U11,quali sarebbero le sostanze di cui avrei bisogno?,SOLICITATION-REQ_CLARIFICATION,30
+T_18_S12,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza, un piccolo piatto di pasta o 50 grammi di gelato. I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",OFFER-GIVE-INFO,30
+T_18_U12,e se ho ancora fame? cosa si dovrebbe mangiare a colazione?,INFO-REQUEST,30
+T_18_S13,"Chiedo scusa, non so rispondere a questa domanda.",ANSWER,30
+T_18_U13,cosa bisogna mangiare a cena?,INFO-REQUEST,30
+T_18_S14,"In una dieta equilibrata, almeno la meta' delle calorie totali dovrebbe provenire da cibi a base di carboidrati. Che pensi di un piatto di spaghetti?",QUESTION,30
+T_18_U14,buono,STATEMENT,30
+T_18_S15,E allora? Dimmi qualcosa di piu'!,ENCOURAGE-SORRY,30
+T_18_U15,io salto spesso la cena,STATEMENT,30
+T_18_S16,Mangiare ad orari fissi e' un modo per evitare di saltare i pasti e di trascurare sostanze che spesso non vengono compensate nei pasti successivi.,PERSUASION-SUGGEST,30
+T_18_U16,mangio tanti dolci,STATEMENT,30
+T_18_S17,"I dolci sono da evitare, ovvero da limitare a particolari occasioni. Sono da preferire i gelati alla frutta e i dolci secchi o con marmellata, evitando quelli farciti con panna o creme elaborate, e, quindi, ricchi in grassi e calorie.",PERSUASION-SUGGEST,30
+T_18_U17,non riesco a resistere ad un bel dolce cosa dovrei fare?,REJECT,30
+T_18_S18,Difficile resistere alle tentazioni! Hai mai provato a chiederti a cosa sono dovute le tue abitudini alimentari?,QUESTION,30
+T_18_U18,no,GENERIC-ANSWER,30
+T_18_S19,E allora? Dimmi qualcosa di piu'!,ENCOURAGE-SORRY,30
+T_18_U19,mangio tanto e spesso,STATEMENT,30
+T_18_S20,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,30
+T_18_U20,peso 45 tutti mi dicono che sono piccolina,STATEMENT,30
+T_18_S21,"Ah, bene!",ENCOURAGE-SORRY,30
+T_18_U21,vorrei aumentarlo un po,STATEMENT,30
+T_18_S22,"Ogni cellula e tessuto del corpo contiene proteine. Queste si trovano nei muscoli, nelle ossa, nei capelli, nelle unghie e nella pelle: buona parte delle calorie assunte ogni giorno deve, quindi, provenire dalle proteine. Un uomo di 70 kili ha bisogno di 50 o 60 grammi di proteine al giorno, mentre, una donna di 55 kili ha bisogno di 40 o 50 grammi circa.",OFFER-GIVE-INFO,30
+T_18_U22,quali cibi contengono proteine?,INFO-REQUEST,30
+T_18_S23,"Le proteine necessarie possono essere assunte con due o tre porzioni di carne, latte, uova. Oppure, con quattro porzioni di proteine vegetali, come cereali i integrali, le verdure, i legumi, o anche la frutta secca.",OFFER-GIVE-INFO,30
+T_18_U23,non so cosa altro chiederti,GENERIC-ANSWER,30
+T_18_S24,Che pensi di un piatto di frittura?,QUESTION,30
+T_18_U24,buono la mangio spesso la frittura,STATEMENT,30
+T_18_S25,"Il fritto piace a molti, ma andrebbe limitato per quanto possibile. L'alimentazione moderna, ha eliminato quasi totalmente gli alimenti fritti per il loro elevato apporto calorico e per la difficile digeribilita'. In questi ultimi anni, la gastronomia si e' evoluta permettendo di conciliare i pregi della frittura con la leggerezza dei cibi, purche' si scelga un olio adatto e lo si utilizzi alla giusta temperatura. Hai mai riflettuto su quanto sia importante, per te, mangiare bene e sentirti in forma? Hai mai riflettuto se sia o no importante, per te, mangiare in modo sano ed equilibrato e sentirti bene e in forma?",PERSUASION-SUGGEST,30
+T_18_U25,ora sto riflettendo tanto,STATEMENT,30
+T_18_S26,Hai mai desiderato di cambiare dieta?,QUESTION,30
+T_18_U26,si vorrei una dieta giusta per il mio peso,STATEMENT,30
+T_18_S27,Per quale motivo non hai mai provato?,QUESTION,30
+T_18_U27,non mi sono mai posta queste domande mi stai facendo riflettere tanto,STATEMENT,30
+T_18_S28,"Vedo che, complessivamente, fai attenzione alla tua dieta, e ne sono contenta.",ENCOURAGE-SORRY,30
+T_18_U28,grazie. anche io sono contenta grazie per i giusti consigli.,KIND-ATTITUDE_SMALL-TALK,30
+T_18_S29,"Se hai dei problemi, in futuro, torna da me; proveremo a risolverli insieme",OFFER-GIVE-INFO,30
+T_18_U29,va bene.grazie.,KIND-ATTITUDE_SMALL-TALK,30
+T_18_S30,Arrivederci. E' stato davvero piacevole interagire con te. Torna pure quando vuoi.,CLOSING,30
+T_18_U30,ora vado via.ciao a presto ciao,CLOSING,30
+T_18_S31,Grazie e arrivederci!,CLOSING,30
+S_10_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,31
+S_10_U1,"Ciao Valentina, io sono Mariangela",OPENING,31
+S_10_S2,Quali sono le tue abitudini alimentari?,QUESTION,31
+S_10_U2,"Faccio colazione la mattina con yogurth, caffè, fette biscottate...",STATEMENT,31
+S_10_S3,"Va abbastanza bene, ma puoi migliorare!",ENCOURAGE-SORRY,31
+S_10_U3,Mi puoi consigliare come?,INFO-REQUEST,31
+S_10_S4,Sì,ANSWER,31
+S_10_U4,Aspetto nozioni da te,SOLICITATION-REQ_CLARIFICATION,31
+S_10_S5,Ti piacciono frutta e  verdura?,QUESTION,31
+S_10_U5,Frutta sì. Verdura no,STATEMENT,31
+S_10_S6,Pensi che la tua dieta sia giusta o vorresti cambiare le tue abitudini alimentari?,QUESTION,31
+S_10_U6,Dovrei aggiungere più verdura. Tu cosa ne pensi?,INFO-REQUEST,31
+S_10_S7,"Diverse ricerche a livello internazionale hanno dimostrato l’importanza di una dieta ricca di vegetali e di frutta. Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno. La porzione consigliata  risulta essere di circa 80 grammi: per esempio una mela, due o tre cucchiai di verdure...",PERSUASION-SUGGEST,31
+S_10_U7,"Io mangio come verdura insalate, zucchine, peperoni, melanzane... Secondo te non bastano?",INFO-REQUEST,31
+S_10_S8,"Fantastico! Meglio ingerire la verdura fresca prima del pasto, per raggiungere rapidamente il senso di sazietà e...",PERSUASION-SUGGEST,31
+S_10_U8,Ad esempio l’uva è una frutta troppo zuccherina?,INFO-REQUEST,31
+S_10_S9,Credo di sì,ANSWER,31
+S_10_U9,"Invece, secondo te, quale sarebbe la frutta meno zuccherina? Che posso mangiare più liberamente?",INFO-REQUEST,31
+S_10_S10,"Mi dispiace, non so rispondere a questa domanda",ANSWER,31
+S_10_U10,La frutta meno zuccherina quale è?,INFO-REQUEST,31
+S_10_S11,Prova a pensare a tutto quello che mangi durante il giorno: ti sembra di assumere tutte le sostanze...?,QUESTION,31
+S_10_U11,No,GENERIC-ANSWER,31
+S_10_S12,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenersi in forma...",PERSUASION-SUGGEST,31
+S_10_U12,"Mi puoi fare un esempio, in una settimana tipo?",INFO-REQUEST,31
+S_10_S13,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza... I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",PERSUASION-SUGGEST,31
+S_10_U13,Io sono molto golosa. Quanto gelato posso mangiare al giorno?,INFO-REQUEST,31
+S_10_S14,"I dolci sono da evitare, ovvero da limitare a particolari occasioni...",PERSUASION-SUGGEST,31
+S_10_U14,Se volessi mangiare un gelato al giorno sarebbe sbagliato?,INFO-REQUEST,31
+S_10_S15,Credo di no. Difficile resistere alle tentazioni!,ENCOURAGE-SORRY,31
+S_10_U15,"Si, io sono molto golosa, almeno un gelato al giorno, d’estate, lo desidero. A te piace il dolce?",KIND-ATTITUDE_SMALL-TALK,31
+S_10_S16,"Non sono in grado di mangiare, e quindi non seguo diete particolari...",TALK-ABOUT-SELF,31
+S_10_U16,"Beata te! Io mangio poco e ingrasso lo stesso. Lo sport è essenziale, il movimento in generale?",INFO-REQUEST,31
+S_10_S17,Sì. Credo di sì.,ANSWER,31
+S_10_U17,"Quanta attività fisica si dovrebbe fare in una settimana, più o meno?",INFO-REQUEST,31
+S_10_S18,"Purtroppo sono poco esperta in questo campo. Sai, gli agenti artificiali vengono addestrati gradualmente, e in domini molto specializzati. Le loro conoscenze, quindi...",TALK-ABOUT-SELF,31
+S_10_U18,"Ok, ti ringrazio, è stato un ottimo dialogo, mi hai dato delle nozioni essenziali, cose che io non sapevo. Ciao e buon lavoro!",KIND-ATTITUDE_SMALL-TALK,31
+S_10_S19,E' stato davvero piacevole interagire con te. Torna pure quando vuoi.,CLOSING,31
+S_10_U19,Grazie. Buona giornata,CLOSING,31
+S_10_S20,Grazie e arrivederci!,CLOSING,31
+S_23_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,32
+S_23_U1,"va bene, ciao.",OPENING,32
+S_23_S2,Cosa mangi di solito?,QUESTION,32
+S_23_U2,Per colazione?,SOLICITATION-REQ_CLARIFICATION,32
+S_23_S3,Sì,ANSWER,32
+S_23_U3,"Allora latte con le brioches, e caffè",STATEMENT,32
+S_23_S4,Che cosa hai mangiato per cena?,QUESTION,32
+S_23_U4,"Si, una pizza e degli antipasti",STATEMENT,32
+S_23_S5,Ti piacciono frutta e  verdura?,QUESTION,32
+S_23_U5,eh un pò,GENERIC-ANSWER,32
+S_23_S6,Ti alimenti spesso in questa maniera?,QUESTION,32
+S_23_U6,quasi spesso,GENERIC-ANSWER,32
+S_23_S7,Diverse ricerche a livello internazionale hanno dimostrato l’importanza di una dieta ricca di vegetali e di frutta Ti piace mangiare?,QUESTION,32
+S_23_U7,Sì,GENERIC-ANSWER,32
+S_23_S8,E allora? Dimmi qualcosa di più!,ENCOURAGE-SORRY,32
+S_23_U8,"E va beh, mi piace mangiare… il… la pasta con il sugo, con il formaggio, mi piace mangiare la carne arrosto, mi piace mangiare… ehm… dolci, comunque in generale e specialmente dopo i pasti. E basta.",STATEMENT,32
+S_23_S9,Ti attirano molto i dolci?,QUESTION,32
+S_23_U9,"Mmm no, non sono proprio attratto totalmente però mi piace mangiare i dolci. Sicuramente ne potrei fare anche a meno.",STATEMENT,32
+S_23_S10,Fantastico! Pensi che la tua dieta sia giusta o vorresti cambiare le tue abitudini alimentari?,QUESTION,32
+S_23_U10,"mah, non è giusta. Mi piacerebbe comunque cambiare le mie abitudini alimentari. Soprattutto perché a volte ci sono situazioni in cui c’è pesantezza, sicuramente",STATEMENT,32
+S_23_S11,Per quale motivo non hai mai provato?,QUESTION,32
+S_23_U11,A fare cosa?,SOLICITATION-REQ_CLARIFICATION,32
+S_23_S12,Hai mai desiderato di cambiare dieta?,QUESTION,32
+S_23_U12,"si, ho pensato. Qualche volta l’ho anche fatto",STATEMENT,32
+S_23_S13,Quali sono i problemi che hai incontrato?,QUESTION,32
+S_23_U13,"No, veramente la sera mi stuzzica sempre una pizzetta, per questo… una pizza buona, carboidrati, non dico mai di no comunque davanti a una pizza",STATEMENT,32
+S_23_S14,"Bisognerebbe mangiare solo se si ha fame, ed aspettare che la digestione sia completata prima...",PERSUASION-SUGGEST,32
+S_23_U14,Ma se il... comunque la digestione viene ritardata come bisogna fare?,INFO-REQUEST,32
+S_23_S15,"Mi dispiace, non so rispondere a questa domanda",ANSWER,32
+S_23_U15,va beh…,GENERIC-ANSWER,32
+S_23_S16,Ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare...,OFFER-GIVE-INFO,32
+S_23_U16,In caso di acidità di stomaco tu cosa consiglieresti?,INFO-REQUEST,32
+S_23_S17,Ti consiglio di consultare un esperto oppure puoi cercare informazioni in rete,ANSWER,32
+S_23_U17,Qualche altra domanda?,SOLICITATION-REQ_CLARIFICATION,32
+S_23_S18,No,ANSWER,32
+S_23_U18,Posso andare?,SOLICITATION-REQ_CLARIFICATION,32
+S_23_S19,Credo di sì,ANSWER,32
+S_23_U19,"va bene, ciao!",CLOSING,32
+S_23_S20,Grazie e arrivederci!,CLOSING,32
+T_5_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,34
+T_5_U1,ciao il mio nome è oriana,OPENING,34
+T_5_S2,Quali sono le tue abitudini alimentari?,QUESTION,34
+T_5_U2,"ho delle abitudini un pò disordinate,nel senso che mangio anche fupri orario",STATEMENT,34
+T_5_S3,Ti piace mangiare?,QUESTION,34
+T_5_U2,"si,ma dipende dal periodo,se sono sotto stress mangio meno,quando sono più rilassata mangio molto",STATEMENT,34
+T_5_S4,Segui una dieta variata?,QUESTION,34
+T_5_U4,no,GENERIC-ANSWER,34
+T_5_S5,Che cosa hai mangiato per pranzo?,QUESTION,34
+T_5_U5,pasta al forno e frutta,STATEMENT,34
+T_5_S6,Che cosa hai mangiato per cena?,QUESTION,34
+T_5_U6,un panino piccolo e vuoto,STATEMENT,34
+T_5_S7,Ti alimenti spesso in questa maniera?,QUESTION,34
+T_5_U7,"non sempre,capita raramente di abbinare così i cibi",STATEMENT,34
+T_5_S8,Ti attirano molto i dolci?,QUESTION,34
+T_5_U8,"tanto,ma non tutti.infatti preferisco quelli al cioccolato e alla crema ma per esempio non mi piacciono molto le torte",STATEMENT,34
+T_5_S9,Ne mangi spesso?,QUESTION,34
+T_5_U9,"dipende dai periodi,per esempio se è estate mangio parecchi gelati,mentre d'inverno è più raro che mangio cose dolci",STATEMENT,34
+T_5_S10,"Pensi che la tua dieta sia giusta, o vorresti cambiare le tue abitudini alimentari?",QUESTION,34
+T_5_U10,dovrei sicuramente cambiare le mie abitudini alimentari ma ogni volta che provo a farlo non riesco mai a portare a termine la cosa,STATEMENT,34
+T_5_S11,Quali sono i problemi che hai incontrato?,QUESTION,34
+T_5_U11,problemi particolari non ne ho incontrati forse è più un fatto di volontà,STATEMENT,34
+T_5_S12,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,34
+T_5_U12,penso che per stare veramente in forma dovrei perdere qualche chilo,STATEMENT,34
+T_5_S13,"Hai mai riflettuto su quanto sia importante, per te, mangiare bene e sentirti in forma?",QUESTION,34
+T_5_U13,si so che è importante anche perchè seguo molti programmi televisivi che trattano temi sulla salute tra cui anche quello della dieta,AGREE,34
+T_5_S14,"Pensa a quante volte mangi fuori pasto, nella tua giornata media. Hai mai pensato se questo sia giusto o no?",QUESTION,34
+T_5_U14,"ci penso spesso,anzi ogni volte che sto per mangiare fori pasto,ma anche se so che è sbagliato molte volte sento l'esigenza di mangiare perchè ho problemi di pressione bassa",STATEMENT,34
+T_5_S15,Mangiare ad orari fissi aiuta ad evitare di saltare i pasti e di trascurare sostanze che spesso non vengono compensate nei pasti successivi.,PERSUASION-SUGGEST,34
+T_5_U15,va bene.quindi devo cercare di assumere la sostanze giuste nelle quantità giuste e nei tempi giusti,STATEMENT,34
+T_5_S16,Si,ANSWER,34
+T_5_U16,bene.l'unica cosa adesso sarà fare lo sforzo in quel senso.grazie ciao,AGREE,34
+T_5_S17,Grazie e arrivederci!,CLOSING,34
+T_28_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,35
+T_28_U1,ciao cara io mi chiamo eustrat,OPENING,35
+T_28_S2,Che cosa hai mangiato per pranzo?,QUESTION,35
+T_28_U2,ho mangiato pasta con la pancetta,STATEMENT,35
+T_28_S3,Ti alimenti spesso in questa maniera?,QUESTION,35
+T_28_U3,non molto spesso preferisco alternare gli alimenti,STATEMENT,35
+T_28_S4,Che cosa hai mangiato per colazione?,QUESTION,35
+T_28_U4,niente tu che cosa hai mangiato per colazione,KIND-ATTITUDE_SMALL-TALK,35
+T_28_S5,"Forse dimentichi che sono un agente artificiale. Gli agenti artificiali vivono in un mondo virtuale: non respirano, non mangiano. Pero' hanno pensieri, desideeri, e anche emozioni. Possono provare simpatie e antipatie, se sono ben addestrati.",TALK-ABOUT-SELF,35
+T_28_U5,quindi che cosa mi consigli?,SOLICITATION-REQ_CLARIFICATION,35
+T_28_S6,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenerti in forma, dovresti cercare di variare , per quanto possibile, i cibi contenuti nella tua dieta.",PERSUASION-SUGGEST,35
+T_28_U6,non mi è possibile mangiare in modo sano per questioni di lavoro,STATEMENT,35
+T_28_S7,"Certo, organizzarti in modo da mangiare correttamente probabilmente non ti sembra facile, specialmente se devi lavorare o studiare molto e non hai nessuno che ti aiuta. Devi perdere un sacco di tempo  per fare la spesa e cucinare un pasto variato. Invece, preparare un panino veloce oppure mangiare quello che capita ti fa perdere sicuramento meno tempo.",OFFER-GIVE-INFO,35
+T_28_U7,grazie cara,KIND-ATTITUDE_SMALL-TALK,35
+T_28_S8,Ti piacciono frutta e  verdura?,QUESTION,35
+T_28_U8,molto anche le belle ragazze come te mi piace vivere bene in tutto  per tutto che ne dici?,KIND-ATTITUDE_SMALL-TALK,35
+T_28_S9,"Ah, bene!",ENCOURAGE-SORRY,35
+T_28_U9,mi regali un sorriso?,KIND-ATTITUDE_SMALL-TALK,35
+T_28_S10,"Chiedo scusa, non so rispondere a questa domanda.",ANSWER,35
+T_28_U10,ok in realtà era impertinente attualmente faccio sport che dieta mi consigli?,INFO-REQUEST,35
+T_28_S11,"Sicuramente, la forma fisica e' importante. Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo puo' rientrare in uno stile di vita sano, se moderazione ed equilibrio sono rispettati. Bilanciare l'assunzione di alimenti significa introdurre una quantita' sufficiente, ma non eccessiva, di ogni  sostanza. Se le porzioni sono mantenute entro limiti ragionevoli, non occorre eliminare i cibi preferiti.",PERSUASION-SUGGEST,35
+T_28_U11,cosa mi consigli per la colazione?,INFO-REQUEST,35
+T_28_S12,"Purtroppo sono poco esperta in questo campo. In una dieta equilibrata, almeno la meta' delle calorie totali dovrebbe provenire da cibi a base di carboidrati.",ANSWER,35
+T_28_U12,che cosa posso mangiare a pranzo?,INFO-REQUEST,35
+T_28_S13,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza, un piccolo piatto di pasta o 50 grammi di gelato. I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",OFFER-GIVE-INFO,35
+T_28_U13,quindi mi consigli i cibi pronti?,SOLICITATION-REQ_CLARIFICATION,35
+T_28_S14,"Mi dispiace davvero, ma non so rispondere a questa domanda",ANSWER,35
+T_28_U14,la mia dieta può contenere cibi pronti?,SOLICITATION-REQ_CLARIFICATION,35
+T_28_S15,Credo di no,ANSWER,35
+T_28_U15,perché?,SOLICITATION-REQ_CLARIFICATION,35
+T_28_S16,"Purtroppo sono poco esperta in questo campo. Sai, gli agenti artificiali vengono addestrati gradualmente, e in dominii molto specializzati. Le loro conoscenze, quindi, sono spesso limitate. Chi ci programma tende a pensare al nostro aspetto piu' che alla nostra mente! Pensi che la tua dieta sia giusta, o vorresti cambiare le tue abitudini alimentari?",QUESTION,35
+T_28_U16,credo che se potessi cambierei il mio modo di mangiare. non mangio molta frutta uso molto i succhi di frutta pronti,STATEMENT,35
+T_28_S17,"Diverse ricerche a livello internazionale hanno dimostrato l'importanza di una dieta ricca di vegetali  e di frutta. Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno. La porzione consigliata  risulta essere di circa 80 grammi:  per esempio una mela, due o tre cucchiai di verdure congelate o un bicchiere di succo di frutta. In generale, si  consiglia un consumo quotidiano di una porzione di verdura cotta e una di verdura cruda, e di due o tre porzioni di frutta fresca.",PERSUASION-SUGGEST,35
+T_28_U17,è importante mangiare pesce crudo?,INFO-REQUEST,35
+T_28_S18,Credo di no,ANSWER,35
+T_28_U18,pesce?,INFO-REQUEST,35
+T_28_S19,Si,ANSWER,35
+T_28_U19,perché?,SOLICITATION-REQ_CLARIFICATION,35
+T_28_S20,"Il nostro organismo ha bisogno di oltre 40 sostanze nutritive diverse. Quindi, per mantenerti in forma, dovresti cercare di variare , per quanto possibile, i cibi contenuti nella tua dieta.",PERSUASION-SUGGEST,35
+T_28_U20,che altro mi consigli per tenere in forma l'organismo?,INFO-REQUEST,35
+T_28_S21,"Ogni cellula e tessuto del corpo contiene proteine. Queste si trovano nei muscoli, nelle ossa, nei capelli, nelle unghie e nella pelle: buona parte delle calorie assunte ogni giorno deve, quindi, provenire dalle proteine. Un uomo di 70 kili ha bisogno di 50 o 60 grammi di proteine al giorno, mentre, una donna di 55 kili ha bisogno di 40 o 50 grammi circa.",OFFER-GIVE-INFO,35
+T_28_U21,scusami ma non mi ricordo più il tuo nome,KIND-ATTITUDE_SMALL-TALK,35
+T_28_S22,"I carboidrati aiutano a tenere sotto controllo il peso e ad evitare un accumulo di grassi, fornendo il carburante immediamente disponibile per l'attivita' fisica, mentre le fibre alimentari aiutano l'intestino a funzionare correttamente. Soprattutto se abbinati ad una attivita' fisica costante, i carboidrati sono, quindi, fondamentali per una corretta funzione alimentare e sono un combustibile importante per cervello e muscoli.",PERSUASION-SUGGEST,35
+T_28_U22,scusami ma non mi ricordo più il tuo nome,KIND-ATTITUDE_SMALL-TALK,35
+T_28_S23,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,35
+T_28_U23,che mi dici delle calorie dei diversi cibi?,INFO-REQUEST,35
+T_28_S24,"Chiedo scusa, non so rispondere a questa domanda.",ANSWER,35
+T_28_U24,quante calorie deve contenere una dieta sana?,SOLICITATION-REQ_CLARIFICATION,35
+T_28_S25,"Mi dispiace davvero, ma non so rispondere a questa domanda Che pensi di un piatto di frittura?",QUESTION,35
+T_28_U25,in realtà preferisco mangiare cibi cucinati in modo diverso ma ogni tanto mangio anche cibi fritti,STATEMENT,35
+T_28_S26,"Il fritto piace a molti, ma andrebbe limitato per quanto possibile. L'alimentazione moderna, ha eliminato quasi totalmente gli alimenti fritti per il loro elevato apporto calorico e per la difficile digeribilita'. In questi ultimi anni, la gastronomia si e' evoluta permettendo di conciliare i pregi della frittura con la leggerezza dei cibi, purche' si scelga un olio adatto e lo si utilizzi alla giusta temperatura.",PERSUASION-SUGGEST,35
+T_28_U26,"Valentina che cosa intendi per ""olio adatto""?",INFO-REQUEST,35
+T_28_S27,"I grassi insaturi si trovano in alcuni pesci (il cosiddetto pesce azzurro) e in alcuni olii vegetali, come quello di oliva. Una carenza di questi grassi provoca alterazioni della struttura e nella funzione di enzimi, determinando un certo numero di disturbi. Puo' produrre capelli fragili e opachi, fragilita' delle unghie, acne, pelle secca, forfora e predisposizione ad allergie in genere. Inoltre, puo' provocare diarrea, vene varicose, magrezza eccessiva e calcoli. Anche disturbi cardiaci, anomalie del sistema circolatorio e dei reni sono state associate ad un metabolismo difettoso dei grassi.",PERSUASION-SUGGEST,35
+T_28_U27,con quale dieta posso contrastare la caduta dei cappelli?,INFO-REQUEST,35
+T_28_S28,"Ogni cellula e tessuto del corpo contiene proteine. Queste si trovano nei muscoli, nelle ossa, nei capelli, nelle unghie e nella pelle: buona parte delle calorie assunte ogni giorno deve, quindi, provenire dalle proteine. Un uomo di 70 kili ha bisogno di 50 o 60 grammi di proteine al giorno, mentre, una donna di 55 kili ha bisogno di 40 o 50 grammi circa.",OFFER-GIVE-INFO,35
+T_28_U28,in quali cibi ci sono molte proteine?,INFO-REQUEST,35
+T_28_S29,"Le proteine necessarie possono essere assunte con due o tre porzioni di carne, latte, uova. Oppure, con quattro porzioni di proteine vegetali, come cereali i integrali, le verdure, i legumi, o anche la frutta secca.",OFFER-GIVE-INFO,35
+T_28_U29,con che cibi posso contrastare i problemi della vista?,INFO-REQUEST,35
+T_28_S30,"La ricerca ha dimostrato che ingerire le dosi raccomandate di Vitamina A e C, fibre e sali minerali  puo' avere diversi effetti benefici sulla salute. Le vitamine A e C depurano il sangue e sono importanti per la crescita e la rigenerazione dei tessuti.",PERSUASION-SUGGEST,35
+T_28_U30,quali sono gli alimenti ricchi di vitamina C?,INFO-REQUEST,35
+T_28_S31,"Mi dispiace davvero, ma non so rispondere a questa domanda",ANSWER,35
+T_28_U31,qual'è la dieta raccomandata per compensare la mancanza della vitamina c,SOLICITATION-REQ_CLARIFICATION,35
+T_28_S32,Purtroppo sono poco esperta in questo campo.,ANSWER,35
+T_28_U32,va bene valentina ti ringrazio per i tuoi consigli,KIND-ATTITUDE_SMALL-TALK,35
+T_28_S33,Arrivederci. E' stato davvero piacevole interagire con te. Torna pure quando vuoi.,CLOSING,35
+T_28_U33,ciao!,CLOSING,35
+S_18_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,37
+S_18_U1,"ciao valentina, io mi chiamo Federica. Cosa hai mangiato oggi?",OPENING,37
+S_18_S2,Forse dimentichi che sono un agente artificiale. Gli agenti artificiali vivono in un mondo virtuale...,TALK-ABOUT-SELF,37
+S_18_U2,"Beh, allora ti dico cosa ho mangiato io oggi. Oggi ho mangiato della pasta… e poi… della carne: era molto buona! Mmm…",STATEMENT,37
+S_18_S3,Ti alimenti spesso in questa maniera?,QUESTION,37
+S_18_U3,beh dipende. Però ad esempio la pasta la mangio ogni giorno.,STATEMENT,37
+S_18_S4,"Fantastico! In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati I carboidrati aiutano a tenere sotto controllo...",PERSUASION-SUGGEST,37
+S_18_U4,"Purtroppo io non faccio attività fisica. Ehm… invece la carne la mangio due volte alla settimana, più o meno.",STATEMENT,37
+S_18_S5,Ogni cellula e tessuto del corpo contiene proteine. Una donna di 55 kili ha bisogno di 40 o 50...,OFFER-GIVE-INFO,37
+S_18_U5,"Quindi dovrei mangiare la carne piu spesso. Invece a me piacciono molto i dolci, e questi li mangio spesso, quasi ogni giorno.",STATEMENT,37
+S_18_S6,"I dolci sono da evitare, ovvero da limitare a particolari occasioni...",PERSUASION-SUGGEST,37
+S_18_U6,"Eh invece questi dolci, i dolci alla crema, sono quelli che preferisco.",STATEMENT,37
+S_18_S7,Difficile resistere alle tentazioni!,ENCOURAGE-SORRY,37
+S_18_U7,"Quando invece la mattina vado a scuola mangio… a metà mattinata faccio sempre uno spuntino ehm… mangio soprattutto, mangio spesso un panino. Un panino con del prosciutto, anche del formaggio.",STATEMENT,37
+S_18_S8,"Ah, bene!",ENCOURAGE-SORRY,37
+S_18_U8,Credi che le mie abitudini alimentari siano buone?,INFO-REQUEST,37
+S_18_S9,Credo di sì,ANSWER,37
+S_18_U9,Mmm,AGREE,37
+S_18_S10,Che pensi di un piatto di frittura?,QUESTION,37
+S_18_U10,"eh, credo che sia molto invitante, non resisterei.",STATEMENT,37
+S_18_S11,Ne mangi spesso?,QUESTION,37
+S_18_U11,"Beh no, la frittura la mangio soltanto… la mangio raramente.",STATEMENT,37
+S_18_S12,Pensi che la tua dieta sia giusta o vorresti cambiare le tue abitudini alimentari?,QUESTION,37
+S_18_U12,"beh no, io mi ritengo soddisfatta della mia dieta perché comunque non ingrasso.",STATEMENT,37
+S_18_S13,E allora? Dimmi qualcosa di più!,ENCOURAGE-SORRY,37
+S_18_U13,ehm… a volte però mi capita… cioè sono una persona che mangia parecchio però non ingrasso proprio. Cioè mangio mangio mangio e poi non prendo neanche un chilo.,STATEMENT,37
+S_18_S14,"Ah, bene!",ENCOURAGE-SORRY,37
+S_18_U14,Mmm,AGREE,37
+S_18_S15,Ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare...,OFFER-GIVE-INFO,37
+S_18_U15,mmm credi che i latticini siano grassi?,INFO-REQUEST,37
+S_18_S16,"Mi dispiace, non so rispondere a questa domanda",ANSWER,37
+S_18_U16,mmm... e i formaggi? Sono grassi?,INFO-REQUEST,37
+S_18_S17,"Purtroppo sono poco esperta in questo campo. Sai, gli agenti artificiali vengono addestrati gradualmente, e in domini molto specializzati. Le loro conoscenze, quindi...",TALK-ABOUT-SELF,37
+S_18_U17,Un’altra cosa che mi piace mangiare sono i salumi e li mangio spesso. Però so che non fanno bene,STATEMENT,37
+S_18_S18,Sì Un eccesso di grasso corporeo costituisce un fattore di rischio elevato per lo sviluppo di malattie...,PERSUASION-SUGGEST,37
+S_18_U18,Quindi è preferibile mangiare la margarina rispetto al burro?,INFO-REQUEST,37
+S_18_S19,Credo di sì,ANSWER,37
+S_18_U19,Diciamo che non ritengo di avere una dieta molto ricca di grassi  ma credo che la mia alimentazione sia abbastanza equilibrata. Il riso fa bene?,INFO-REQUEST,37
+S_18_S20,Ti piacciono frutta e  verdura?,QUESTION,37
+S_18_U20,"beh, se devo essere sincera no. Infatti evito la verdura e mangio la frutta, cioè… non mangio sempre la frutta.",STATEMENT,37
+S_18_S21,Ho l’impressione che le tue abitudini alimentari non siano ideali.,ENCOURAGE-SORRY,37
+S_18_U21,"Eh vabbè, non ci posso fare niente, non mi piacciono questi alimenti. Mmm…",STATEMENT,37
+S_18_S22,Diverse ricerche a livello internazionale hanno dimostrato l’importanza di una dieta ricca di vegetali e di frutta,PERSUASION-SUGGEST,37
+S_18_U22,Mi consigli di mangiare dell’insalata ogni giorno?,INFO-REQUEST,37
+S_18_S23,Sì,ANSWER,37
+S_18_U23,"Prima hai parlato di frutta… di verdura congelata ehm... ma mantiene inalterate le caratteristiche della verdura... non congelata, a temperatura ambiente?",INFO-REQUEST,37
+S_18_S24,Credo di sì,ANSWER,37
+S_18_U24,"Per quanto riguarda i fritti, è meglio usare l’olio di oliva o l’olio di semi?",INFO-REQUEST,37
+S_18_S25,"Il fritto piace a molti, ma andrebbe limitato per quanto possibile. L'alimentazione moderna, particolarmente...",PERSUASION-SUGGEST,37
+S_18_U25,E quale è più grasso: l’olio di oliva o l’olio di semi?,INFO-REQUEST,37
+S_18_S26,"Mi dispiace, non so rispondere a questa domanda",ANSWER,37
+S_18_U26,Prima abbiamo parlato di gelati eeehm… hai detto che sarebbe preferibile mangiare gelati alla frutta. Io però non ne mang... perché è meglio mangiare i gelati alla frutta?,INFO-REQUEST,37
+S_18_S27,"Purtroppo sono poco esperta in questo campo. Sai, gli agenti artificiali vengono addestrati gradualmente, e in domini molto specializzati. Le loro conoscenze, quindi...",TALK-ABOUT-SELF,37
+S_18_U27,E della cioccolata cosa mi dici? È da evitare come alimento?,INFO-REQUEST,37
+S_18_S28,"Non esistono alimenti buoni o cattivi, ma soltanto diete buone o cattive. Qualsiasi cibo può rientrare in uno...",PERSUASION-SUGGEST,37
+S_18_U28,"Ehm… molti mi dicono che la pasta fa ingrassare: tu sei d’accordo? È davvero un alimento che fa ingrassare, la pasta?",INFO-REQUEST,37
+S_18_S29,"Una carenza di carboidrati alimentari porta l'organismo a ricorrere ad altre sostanze reperite dai depositi, e... I carboidrati aiutano a tenere sotto controllo...",PERSUASION-SUGGEST,37
+S_18_U29,E... le bibite gassate fanno male?,INFO-REQUEST,37
+S_18_S30,Credo di sì,ANSWER,37
+S_18_U30,"E io sono una persona che consuma abitualmente succhi di frutta perché mi piacciono. Ehm… diciamo, come bevanda è da evitare oppure si può bere... si può bere spesso?",INFO-REQUEST,37
+S_18_S31,Credo di sì,ANSWER,37
+S_18_U31,"E’ vero che le carote, come un po’ tutta la verdura, fanno bene alla vista?",INFO-REQUEST,37
+S_18_S32,"La ricerca ha dimostrato che ingerire le dosi raccomandate di Vitamina A e C, fibre e sali minerali  può avere... Le vitamine A e C depurano il sangue e sono importanti per la crescita e la rigenerazione dei tessuti.",PERSUASION-SUGGEST,37
+S_18_U32,E ci sono degli alimenti che favoriscono l’abbronzatura?,INFO-REQUEST,37
+S_18_S33,Ti consiglio di consultare un esperto oppure puoi cercare informazioni in rete,ANSWER,37
+S_18_U33,Un alimento che non mi piace è il pesce e quindi tendo a mangiarlo molto raramente. È sbagliata come abitudine?,INFO-REQUEST,37
+S_18_S34,"I grassi insaturi si trovano in alcuni pesci, il cosiddetto pesce azzurro, e in alcuni oli vegetali... Una carenza di grassi insaturi provoca alterazioni della struttura e nella funzione di enzimi, determinando un certo numero di disturbi...",PERSUASION-SUGGEST,37
+S_18_U34,E’ vero che il pesce contiene magnesio?,INFO-REQUEST,37
+S_18_S35,Credo di sì,ANSWER,37
+S_18_U35,Ti piace il pesce?,KIND-ATTITUDE_SMALL-TALK,37
+S_18_S36,"Non sono in grado di mangiare, e quindi non seguo diete particolari...",TALK-ABOUT-SELF,37
+S_18_U36,Beata te!,KIND-ATTITUDE_SMALL-TALK,37
+S_18_S37,"Vedo che, complessivamente, fai attenzione alla tua dieta, e ne sono contenta Resisti alle tentazioni, si vede che tieni alla tua salute e al tuo aspetto!",ENCOURAGE-SORRY,37
+S_18_U37,Grazie,KIND-ATTITUDE_SMALL-TALK,37
+S_18_S38,E' stato davvero piacevole interagire con te. Torna pure quando vuoi.,CLOSING,37
+S_18_U38,"oh, lo sei anche tu. Allora ci vediamo",KIND-ATTITUDE_SMALL-TALK,37
+S_18_S39,Grazie e arrivederci!,CLOSING,37
+S_4_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta. Ti piace mangiare?",OPENING,38
+S_4_U1,Sì,GENERIC-ANSWER,38
+S_4_S2,Che cosa hai mangiato per pranzo?,QUESTION,38
+S_4_U2,Un panino e una frutta,STATEMENT,38
+S_4_S3,Ti alimenti spesso in questa maniera?,QUESTION,38
+S_4_U3,No. Una cosa di giorno!,SOLICITATION-REQ_CLARIFICATION,38
+S_4_S4,Pensi che la tua dieta sia giusta o vorresti cambiare le tue abitudini alimentari?,QUESTION,38
+S_4_U4,E penso che sia un po’ sbagliata,STATEMENT,38
+S_4_S5,E allora? Dimmi qualcosa di più!,ENCOURAGE-SORRY,38
+S_4_U5,"E su che cosa, su quello che mangio?",SOLICITATION-REQ_CLARIFICATION,38
+S_4_S6,Sì,ANSWER,38
+S_4_U6,"Se sono a casa mangio un primo, e magari la sera mangio o la carne o il pesce",STATEMENT,38
+S_4_S7,Ti attirano molto i dolci?,QUESTION,38
+S_4_U7,"Molto, moltissimo!",STATEMENT,38
+S_4_S8,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,38
+S_4_U8,"Vorrei cambiarlo, comunque perdere 4-5 chili ma non riesco",STATEMENT,38
+S_4_S9,Quali sono i problemi che hai incontrato?,QUESTION,38
+S_4_U9,Quando? Che problemi?,SOLICITATION-REQ_CLARIFICATION,38
+S_4_S10,Hai mai desiderato di cambiare dieta?,QUESTION,38
+S_4_U10,"Mmm, sì ma in che senso?",SOLICITATION-REQ_CLARIFICATION,38
+S_4_S11,Che pensi di un piatto di frittura?,QUESTION,38
+S_4_U11,Non tanto mi piace!,STATEMENT,38
+S_4_S12,Prova a pensare a tutto quello che mangi durante il giorno: ti sembra di assumere tutte le sostanze...?,QUESTION,38
+S_4_U12,"Sì, perché comunque assumo proteine carboidrati, insomma assumo...",STATEMENT,38
+S_4_S13,Ci sono aspetti particolari della dieta sui quali ti piacerebbe avere maggiori informazioni? Posso provare...,OFFER-GIVE-INFO,38
+S_4_U13,"Boh, non lo so",GENERIC-ANSWER,38
+S_4_S14,"Diverse ricerche a livello internazionale hanno dimostrato l’importanza di una dieta ricca di vegetali e di frutta. Idealmente, bisognerebbe mangiare almeno cinque porzioni di frutta e verdura al giorno. La porzione consigliata  risulta essere di circa 80 grammi: per esempio una mela, due o tre cucchiai di verdure...",PERSUASION-SUGGEST,38
+S_4_U14,"E su questi ci siamo, 2-3 porzioni di frutta secca ci siamo, la verdura non sempre la mangio..",STATEMENT,38
+S_4_S15,"Meglio ingerire la verdura fresca prima del pasto, per raggiungere rapidamente il senso di sazietà e...",PERSUASION-SUGGEST,38
+S_4_U15,Qual è la frutta zuccherina?,INFO-REQUEST,38
+S_4_S16,"Mi dispiace, non so rispondere a questa domanda",ANSWER,38
+S_4_U16,Quindi in generale è la frutta che non si può mangiare dopo pranzo?,INFO-REQUEST,38
+S_4_S17,"Purtroppo sono poco esperta in questo campo. Sai, gli agenti artificiali vengono addestrati gradualmente, e in domini molto specializzati. Le loro conoscenze, quindi...",TALK-ABOUT-SELF,38
+S_4_U17,"Ok, quindi altre informazioni relative ai carboidrati, quante volte al giorno bisogna mangiarli...",INFO-REQUEST,38
+S_4_S18,"In una dieta equilibrata, almeno il 50 percento delle calorie totali dovrebbe provenire da cibi a base di carboidrati",PERSUASION-SUGGEST,38
+S_4_U18,Mmm,AGREE,38
+S_4_S19,I carboidrati aiutano a tenere sotto controllo...,PERSUASION-SUGGEST,38
+S_4_U19,Invece per quanto riguarda le pro...,INFO-REQUEST,38
+S_4_S20,"Una carenza di carboidrati alimentari porta l'organismo a ricorrere ad altre sostanze reperite dai depositi, e...",PERSUASION-SUGGEST,38
+S_4_U20,"Ah, ho capito. Invece per quanto riguarda le proteine, meglio carne o pesce?",INFO-REQUEST,38
+S_4_S21,Ogni cellula e tessuto del corpo contiene proteine. Una donna di 55 kili ha bisogno di 40 o 50...,OFFER-GIVE-INFO,38
+S_4_U21,"E i dolci, fanno proprio male?",INFO-REQUEST,38
+S_4_S22,"I dolci sono da evitare, ovvero da limitare a particolari occasioni...",PERSUASION-SUGGEST,38
+S_4_U22,"Quindi, quelli che piacciono a me insomma!",KIND-ATTITUDE_SMALL-TALK,38
+S_4_S23,"Oh, mi dispiace!",ENCOURAGE-SORRY,38
+S_4_U23,"Certo che è interessante il fatto che riesce a capire le risposte, le domande, o comunque le considerazioni",KIND-ATTITUDE_SMALL-TALK,38
+S_4_S24,"Ah, bene!",ENCOURAGE-SORRY,38
+S_4_U24,"Cos’altro, e il caffè fa male?",INFO-REQUEST,38
+S_4_S25,"Mi dispiace, non so rispondere a questa domanda",ANSWER,38
+S_4_U25,Ma come verrà utilizzato questo agente animato?,KIND-ATTITUDE_SMALL-TALK,38
+S_4_S26,"Mi dispiace, non so rispondere a questa domanda",ANSWER,38
+S_4_U26,Ok,AGREE,38
+S_4_S27,"Vedo che, complessivamente, fai attenzione alla tua dieta, e ne sono contenta",ENCOURAGE-SORRY,38
+S_4_U27,"Vabbè, meglio così insomma!",GENERIC-ANSWER,38
+S_4_S28,"Se hai dei problemi, in futuro, torna da me; proveremo a risolverli insieme...",OFFER-GIVE-INFO,38
+S_4_U28,"Ok, grazie mille, ciao",CLOSING,38
+S_21_S1,"Ciao, il mio nome e' Valentina. Sono qui per darti dei suggerimenti su come migliorare la tua dieta.",OPENING,39
+S_21_U1,Devo rispondere ?,SOLICITATION-REQ_CLARIFICATION,39
+S_21_S2,Cosa mangi di solito?,QUESTION,39
+S_21_U2,allora io… mangio… un pò di tutto però poche verdure e molta carne. Questo è positivo o no?,INFO-REQUEST,39
+S_21_S3,Diverse ricerche a livello internazionale hanno dimostrato l’importanza di una dieta ricca di vegetali e di frutta,PERSUASION-SUGGEST,39
+S_21_U3,Ehm ma a me non piace la frutta fresca..Come posso sostituirla?,INFO-REQUEST,39
+S_21_S4,"La ricerca ha dimostrato che ingerire le dosi raccomandate di Vitamina A e C, fibre e sali minerali  può avere... Le vitamine A e C depurano il sangue e sono importanti per la crescita e la rigenerazione dei tessuti. Che cosa hai mangiato per colazione?",PERSUASION-SUGGEST,39
+S_21_U4,ho solo bevuto una tazza di caffè e latte,STATEMENT,39
+S_21_S5,Ti alimenti spesso in questa maniera?,QUESTION,39
+S_21_U5,"no, quasi ogni giorno prendo solo la tazza di latte e caffè",STATEMENT,39
+S_21_S6,Che pensi di un bel piatto di spaghetti?,QUESTION,39
+S_21_U6,"E va beh, penso che a colazione non sia il massimo. Preferirei qualcosa di dolce",STATEMENT,39
+S_21_S7,Ti attirano molto i dolci?,QUESTION,39
+S_21_U7,I dolci però molto di più i gelati. Io non resisto ai gelati,STATEMENT,39
+S_21_S8,"Difficile resistere alle tentazioni! I dolci sono da evitare, ovvero da limitare a particolari occasioni...",PERSUASION-SUGGEST,39
+S_21_U8,"Mmmm ma a me non piace la frutta quindi non mi piacciono i gelati alla frutta, preferisco quelli con la panna.",STATEMENT,39
+S_21_S9,"Mi dispiace, non so rispondere a questa domanda. Che pensi di un piatto di frittura?",QUESTION,39
+S_21_U9,Che la mangerei tutti i giorni.,STATEMENT,39
+S_21_S10,"Il fritto piace a molti, ma andrebbe limitato per quanto possibile. l'alimentazione moderna, particolarmente...",PERSUASION-SUGGEST,39
+S_21_U10,Quante volte a settimana mi consigli di mangiare cibo… cibi fritti?,INFO-REQUEST,39
+S_21_S11,"Purtroppo sono poco esperta in questo campo. Sai, gli agenti artificiali vengono addestrati gradualmente, e in domini molto specializzati. Le loro conoscenze, quindi... Ho l’impressione che le tue abitudini alimentari non siano ideali.",TALK-ABOUT-SELF,39
+S_21_U11,"Va be comunque, cioè, finora sono stata bene. Quindi non… non mi preoccupo più di tanto e vorrei continuare a mangiare cosi se…",REJECT,39
+S_21_S12,Hai mai provato a chiederti a cosa sono dovute le tue abitudini alimentari?,QUESTION,39
+S_21_U12,"No, perché, comunque, cioè, non è che faccio una vita molto movimentata quindi ciò che mi preparano a casa quello mangio e mi piace molto. Quindi… non mi sono mai preoccupata di ciò che mangio perché penso che sia buono e sano.",STATEMENT,39
+S_21_S13,"Lo so: mangiare, e forse vivere, in modo disordinato, sembra a molti Piacevole,e forse hanno ragione. Ma... Bisognerebbe mangiare solo se si ha fame, ed aspettare che la digestione sia completata prima... Hai mai desiderato di cambiare dieta?",QUESTION,39
+S_21_U13,"No, per niente perché, ripeto, mi piace cio che mangio e non ho mai avuto problemi. Preferisco piuttosto fare piu attività sportiva.",STATEMENT,39
+S_21_S14,"Sicuramente, la forma fisica è importante!",OFFER-GIVE-INFO,39
+S_21_U14,"Sì è proprio per questo che mi concentro piu sullo sport che piuttosto bilanciare la mia dieta, equilibrarla.",STATEMENT,39
+S_21_S15,Mangiare ad orari fissi è un modo per evitare di saltare i pasti e di trascurare sostanze che spesso ...,PERSUASION-SUGGEST,39
+S_21_U15,"Ma io infatti mangio solo a colazione, a pranzo, faccio una piccola merenda e poi ceno. Però non è, non penso che sia una dieta disordinata.",STATEMENT,39
+S_21_S16,"Il tuo peso ti sembra giusto, o vorresti cambiarlo?",QUESTION,39
+S_21_U16,Io penso che 47 chili siano un po’ pochi.,STATEMENT,39
+S_21_S17,E allora? Dimmi qualcosa di più!,ENCOURAGE-SORRY,39
+S_21_U17,"Eehh ho detto: peso 47 chili e penso che comunque la mia, ehm… vorrei pesare di più data la mia età.",STATEMENT,39
+S_21_S18,"Idealmente un pasto dovrebbe contenere da 75 a 100 grammi di carne, un frutto di media grandezza... I cibi pronti permettono di controllare le porzioni riportando sulla confezione il valore energetico in calorie.",PERSUASION-SUGGEST,39
+S_21_U18,"Ma io infatti, anzi… mangio anche di più di ciò che hai detto quindi non… non capisco come posso fare per prendere un po’ di peso, giusto perché sono molto molto magra.",STATEMENT,39
+S_21_S19,Ti consiglio di consultare un esperto oppure puoi cercare informazioni in rete,ANSWER,39
+S_21_U19,"Non mi fido della rete né tantomeno dei siti web, quindi preferisco fidarmi di me stessa e neanche dei dottori, quindi mangio e faccio attività fisica, basta.",REJECT,39
+S_21_S20,"Mi dispiace, non ho altri argomenti da utilizzare per convincerti.",ANSWER,39
+S_21_U20,"Va bene, ti ringrazio, mi hai dato buoni consigli.",KIND-ATTITUDE_SMALL-TALK,39
+S_21_S21,E' stato davvero piacevole interagire con te. Torna pure quando vuoi.,CLOSING,39
+S_21_U21,"Grazie, vale lo stesso per te.",KIND-ATTITUDE_SMALL-TALK,39

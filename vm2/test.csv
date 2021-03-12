@@ -1,0 +1,2856 @@
+Utterance,Dialogue_Act,Speaker,Dialogue_ID
+"wie geht es Ihnen",POLITENESS_FORMULA,A,1
+"oh je so gut gelaunt schon",REQUEST_COMMENT,B,1
+"ach ja man tut was man kann ne",FEEDBACK_POSITIVE,A,1
+"wir gehen ja so langsam aber sicher mit riesen Schritten auf das Jahresende zu",INFORM,A,1
+"und Sie wissen was uns noch blüht ne",REQUEST_COMMENT,A,1
+"oh je so gut gelaunt schon",REQUEST_COMMENT,B,2
+"ach ja man tut was man kann ne",FEEDBACK_POSITIVE,A,2
+"wir gehen ja so langsam aber sicher mit riesen Schritten auf das Jahresende zu",INFORM,A,2
+"und Sie wissen was uns noch blüht ne",REQUEST_COMMENT,A,2
+"wir dürfen",NOT_CLASSIFIABLE,A,2
+"ach ja man tut was man kann ne",FEEDBACK_POSITIVE,A,3
+"wir gehen ja so langsam aber sicher mit riesen Schritten auf das Jahresende zu",INFORM,A,3
+"und Sie wissen was uns noch blüht ne",REQUEST_COMMENT,A,3
+"wir dürfen",NOT_CLASSIFIABLE,A,3
+"ja danke",THANK,B,3
+"wir gehen ja so langsam aber sicher mit riesen Schritten auf das Jahresende zu",INFORM,A,4
+"und Sie wissen was uns noch blüht ne",REQUEST_COMMENT,A,4
+"wir dürfen",NOT_CLASSIFIABLE,A,4
+"ja danke",THANK,B,4
+"ja ein letztes Mal",FEEDBACK_POSITIVE,B,4
+"und Sie wissen was uns noch blüht ne",REQUEST_COMMENT,A,5
+"wir dürfen",NOT_CLASSIFIABLE,A,5
+"ja danke",THANK,B,5
+"ja ein letztes Mal",FEEDBACK_POSITIVE,B,5
+"wir dürfen dieses Jahr nicht zu Ende bringen bevor wir nicht noch mal nach Hannover gefahren sind",INIT,A,5
+"wir dürfen",NOT_CLASSIFIABLE,A,6
+"ja danke",THANK,B,6
+"ja ein letztes Mal",FEEDBACK_POSITIVE,B,6
+"wir dürfen dieses Jahr nicht zu Ende bringen bevor wir nicht noch mal nach Hannover gefahren sind",INIT,A,6
+"mhm",BACKCHANNEL,B,6
+"ja danke",THANK,B,7
+"ja ein letztes Mal",FEEDBACK_POSITIVE,B,7
+"wir dürfen dieses Jahr nicht zu Ende bringen bevor wir nicht noch mal nach Hannover gefahren sind",INIT,A,7
+"mhm",BACKCHANNEL,B,7
+"ja",FEEDBACK_POSITIVE,B,7
+"ja ein letztes Mal",FEEDBACK_POSITIVE,B,8
+"wir dürfen dieses Jahr nicht zu Ende bringen bevor wir nicht noch mal nach Hannover gefahren sind",INIT,A,8
+"mhm",BACKCHANNEL,B,8
+"ja",FEEDBACK_POSITIVE,B,8
+"haben Sie Ihren Terminkalender dabei Frau Peikert",REQUEST,A,8
+"wir dürfen dieses Jahr nicht zu Ende bringen bevor wir nicht noch mal nach Hannover gefahren sind",INIT,A,9
+"mhm",BACKCHANNEL,B,9
+"ja",FEEDBACK_POSITIVE,B,9
+"haben Sie Ihren Terminkalender dabei Frau Peikert",REQUEST,A,9
+"ja warten Sie mal",DELIBERATE,B,9
+"mhm",BACKCHANNEL,B,10
+"ja",FEEDBACK_POSITIVE,B,10
+"haben Sie Ihren Terminkalender dabei Frau Peikert",REQUEST,A,10
+"ja warten Sie mal",DELIBERATE,B,10
+"ja okay",FEEDBACK_POSITIVE,B,10
+"ja",FEEDBACK_POSITIVE,B,11
+"haben Sie Ihren Terminkalender dabei Frau Peikert",REQUEST,A,11
+"ja warten Sie mal",DELIBERATE,B,11
+"ja okay",FEEDBACK_POSITIVE,B,11
+"ich hätte anzubieten um Himmels willen",DELIBERATE,B,11
+"haben Sie Ihren Terminkalender dabei Frau Peikert",REQUEST,A,12
+"ja warten Sie mal",DELIBERATE,B,12
+"ja okay",FEEDBACK_POSITIVE,B,12
+"ich hätte anzubieten um Himmels willen",DELIBERATE,B,12
+"oh wir versteigern das jetzt meistbietend",INFORM,A,12
+"ja warten Sie mal",DELIBERATE,B,13
+"ja okay",FEEDBACK_POSITIVE,B,13
+"ich hätte anzubieten um Himmels willen",DELIBERATE,B,13
+"oh wir versteigern das jetzt meistbietend",INFORM,A,13
+"wer bietet mehr he",REQUEST_COMMENT,A,13
+"ja okay",FEEDBACK_POSITIVE,B,14
+"ich hätte anzubieten um Himmels willen",DELIBERATE,B,14
+"oh wir versteigern das jetzt meistbietend",INFORM,A,14
+"wer bietet mehr he",REQUEST_COMMENT,A,14
+"ich biete den dreiundzwanzigsten vierundzwanzigsten Oktober",SUGGEST,B,14
+"ich hätte anzubieten um Himmels willen",DELIBERATE,B,15
+"oh wir versteigern das jetzt meistbietend",INFORM,A,15
+"wer bietet mehr he",REQUEST_COMMENT,A,15
+"ich biete den dreiundzwanzigsten vierundzwanzigsten Oktober",SUGGEST,B,15
+"dann haben wir es bald hinter uns und ich bin frisch aus dem Urlaub und taufrisch da",GIVE_REASON,B,15
+"da tut sich leider gar nichts",REJECT,A,16
+"also November wird es dann wohl schon werden",SUGGEST,A,16
+"wenn Sie sn",NOT_CLASSIFIABLE,A,16
+"sehe ich das richtig Sie sind die ersten beiden <äh> Oktoberwochen weg",REQUEST_CLARIFY,A,16
+"oh",BACKCHANNEL,B,16
+"also November wird es dann wohl schon werden",SUGGEST,A,17
+"wenn Sie sn",NOT_CLASSIFIABLE,A,17
+"sehe ich das richtig Sie sind die ersten beiden <äh> Oktoberwochen weg",REQUEST_CLARIFY,A,17
+"oh",BACKCHANNEL,B,17
+"ja wann",NOT_CLASSIFIABLE,B,17
+"wenn Sie sn",NOT_CLASSIFIABLE,A,18
+"sehe ich das richtig Sie sind die ersten beiden <äh> Oktoberwochen weg",REQUEST_CLARIFY,A,18
+"oh",BACKCHANNEL,B,18
+"ja wann",NOT_CLASSIFIABLE,B,18
+"<äh> ja das ist richtig",FEEDBACK_POSITIVE,B,18
+"sehe ich das richtig Sie sind die ersten beiden <äh> Oktoberwochen weg",REQUEST_CLARIFY,A,19
+"oh",BACKCHANNEL,B,19
+"ja wann",NOT_CLASSIFIABLE,B,19
+"<äh> ja das ist richtig",FEEDBACK_POSITIVE,B,19
+"ja sehen Sie und ich bin dann die letzten beiden weg",EXCLUDE,A,19
+"oh",BACKCHANNEL,B,20
+"ja wann",NOT_CLASSIFIABLE,B,20
+"<äh> ja das ist richtig",FEEDBACK_POSITIVE,B,20
+"ja sehen Sie und ich bin dann die letzten beiden weg",EXCLUDE,A,20
+"<ähm> so sind wir dann leider schon im November",SUGGEST,A,20
+"ja wann",NOT_CLASSIFIABLE,B,21
+"<äh> ja das ist richtig",FEEDBACK_POSITIVE,B,21
+"ja sehen Sie und ich bin dann die letzten beiden weg",EXCLUDE,A,21
+"<ähm> so sind wir dann leider schon im November",SUGGEST,A,21
+"ja was halten Sie von der zweiten Novemberwoche",SUGGEST,B,21
+"<äh> ja das ist richtig",FEEDBACK_POSITIVE,B,22
+"ja sehen Sie und ich bin dann die letzten beiden weg",EXCLUDE,A,22
+"<ähm> so sind wir dann leider schon im November",SUGGEST,A,22
+"ja was halten Sie von der zweiten Novemberwoche",SUGGEST,B,22
+"ja",ACCEPT,A,22
+"ja sehen Sie und ich bin dann die letzten beiden weg",EXCLUDE,A,23
+"<ähm> so sind wir dann leider schon im November",SUGGEST,A,23
+"ja was halten Sie von der zweiten Novemberwoche",SUGGEST,B,23
+"ja",ACCEPT,A,23
+"Montag Dienstag Mittwoch hätte ich frei",SUGGEST,B,23
+"<ähm> so sind wir dann leider schon im November",SUGGEST,A,24
+"ja was halten Sie von der zweiten Novemberwoche",SUGGEST,B,24
+"ja",ACCEPT,A,24
+"Montag Dienstag Mittwoch hätte ich frei",SUGGEST,B,24
+"<häs> <hm> Montag ist ganz schlecht",REJECT,A,24
+"ja was halten Sie von der zweiten Novemberwoche",SUGGEST,B,25
+"ja",ACCEPT,A,25
+"Montag Dienstag Mittwoch hätte ich frei",SUGGEST,B,25
+"<häs> <hm> Montag ist ganz schlecht",REJECT,A,25
+"da habe ich eine Teambesprechung die sehr wichtig ist",GIVE_REASON,A,25
+"ja",ACCEPT,A,26
+"Montag Dienstag Mittwoch hätte ich frei",SUGGEST,B,26
+"<häs> <hm> Montag ist ganz schlecht",REJECT,A,26
+"da habe ich eine Teambesprechung die sehr wichtig ist",GIVE_REASON,A,26
+"aber Dienstag Mittwoch",SUGGEST,A,26
+"Montag Dienstag Mittwoch hätte ich frei",SUGGEST,B,27
+"<häs> <hm> Montag ist ganz schlecht",REJECT,A,27
+"da habe ich eine Teambesprechung die sehr wichtig ist",GIVE_REASON,A,27
+"aber Dienstag Mittwoch",SUGGEST,A,27
+"Dienstag Mittwoch ist gut",ACCEPT,B,27
+"<häs> <hm> Montag ist ganz schlecht",REJECT,A,28
+"da habe ich eine Teambesprechung die sehr wichtig ist",GIVE_REASON,A,28
+"aber Dienstag Mittwoch",SUGGEST,A,28
+"Dienstag Mittwoch ist gut",ACCEPT,B,28
+"Dienstag Mittwoch",REQUEST_CLARIFY,A,28
+"da habe ich eine Teambesprechung die sehr wichtig ist",GIVE_REASON,A,29
+"aber Dienstag Mittwoch",SUGGEST,A,29
+"Dienstag Mittwoch ist gut",ACCEPT,B,29
+"Dienstag Mittwoch",REQUEST_CLARIFY,A,29
+"elfter zwölfter November",REQUEST_CLARIFY,A,29
+"aber Dienstag Mittwoch",SUGGEST,A,30
+"Dienstag Mittwoch ist gut",ACCEPT,B,30
+"Dienstag Mittwoch",REQUEST_CLARIFY,A,30
+"elfter zwölfter November",REQUEST_CLARIFY,A,30
+"ja hervorragend",FEEDBACK_POSITIVE,B,30
+"Dienstag Mittwoch ist gut",ACCEPT,B,31
+"Dienstag Mittwoch",REQUEST_CLARIFY,A,31
+"elfter zwölfter November",REQUEST_CLARIFY,A,31
+"ja hervorragend",FEEDBACK_POSITIVE,B,31
+"moa dann haben wir Mitte November schon unser Jahressoll erfüllt",INFORM,A,31
+"Dienstag Mittwoch",REQUEST_CLARIFY,A,32
+"elfter zwölfter November",REQUEST_CLARIFY,A,32
+"ja hervorragend",FEEDBACK_POSITIVE,B,32
+"moa dann haben wir Mitte November schon unser Jahressoll erfüllt",INFORM,A,32
+"stellen Sie sich das mal vor",INFORM,A,32
+"elfter zwölfter November",REQUEST_CLARIFY,A,33
+"ja hervorragend",FEEDBACK_POSITIVE,B,33
+"moa dann haben wir Mitte November schon unser Jahressoll erfüllt",INFORM,A,33
+"stellen Sie sich das mal vor",INFORM,A,33
+"na ja in dem <äh> Zusammenhang das Jahressoll",INFORM,B,33
+"ja hervorragend",FEEDBACK_POSITIVE,B,34
+"moa dann haben wir Mitte November schon unser Jahressoll erfüllt",INFORM,A,34
+"stellen Sie sich das mal vor",INFORM,A,34
+"na ja in dem <äh> Zusammenhang das Jahressoll",INFORM,B,34
+"ja in dem Teilbereich natürlich",INFORM,A,34
+"moa dann haben wir Mitte November schon unser Jahressoll erfüllt",INFORM,A,35
+"stellen Sie sich das mal vor",INFORM,A,35
+"na ja in dem <äh> Zusammenhang das Jahressoll",INFORM,B,35
+"ja in dem Teilbereich natürlich",INFORM,A,35
+"aber was weg ist ist weg ne",DELIBERATE,A,35
+"stellen Sie sich das mal vor",INFORM,A,36
+"na ja in dem <äh> Zusammenhang das Jahressoll",INFORM,B,36
+"ja in dem Teilbereich natürlich",INFORM,A,36
+"aber was weg ist ist weg ne",DELIBERATE,A,36
+"das kann einen nicht mehr ärgern",DELIBERATE,A,36
+"na ja in dem <äh> Zusammenhang das Jahressoll",INFORM,B,37
+"ja in dem Teilbereich natürlich",INFORM,A,37
+"aber was weg ist ist weg ne",DELIBERATE,A,37
+"das kann einen nicht mehr ärgern",DELIBERATE,A,37
+"mhm",BACKCHANNEL,A,37
+"ja in dem Teilbereich natürlich",INFORM,A,38
+"aber was weg ist ist weg ne",DELIBERATE,A,38
+"das kann einen nicht mehr ärgern",DELIBERATE,A,38
+"mhm",BACKCHANNEL,A,38
+"ja",FEEDBACK_POSITIVE,B,38
+"aber was weg ist ist weg ne",DELIBERATE,A,39
+"das kann einen nicht mehr ärgern",DELIBERATE,A,39
+"mhm",BACKCHANNEL,A,39
+"ja",FEEDBACK_POSITIVE,B,39
+"na warten Sie es ab",INFORM,B,39
+"das kann einen nicht mehr ärgern",DELIBERATE,A,40
+"mhm",BACKCHANNEL,A,40
+"ja",FEEDBACK_POSITIVE,B,40
+"na warten Sie es ab",INFORM,B,40
+"<ähm> wie kommen wir denn hin Frau Peikert",INIT,A,40
+"mhm",BACKCHANNEL,A,41
+"ja",FEEDBACK_POSITIVE,B,41
+"na warten Sie es ab",INFORM,B,41
+"<ähm> wie kommen wir denn hin Frau Peikert",INIT,A,41
+"<ähm> ja ich sehe grade Sie haben schon den Flugplan vor sich liegen",INFORM,B,41
+"ja",FEEDBACK_POSITIVE,B,42
+"na warten Sie es ab",INFORM,B,42
+"<ähm> wie kommen wir denn hin Frau Peikert",INIT,A,42
+"<ähm> ja ich sehe grade Sie haben schon den Flugplan vor sich liegen",INFORM,B,42
+"<hm> ja <häs> gut gerüstet ist halb gewonnen",DELIBERATE,A,42
+"na warten Sie es ab",INFORM,B,43
+"<ähm> wie kommen wir denn hin Frau Peikert",INIT,A,43
+"<ähm> ja ich sehe grade Sie haben schon den Flugplan vor sich liegen",INFORM,B,43
+"<hm> ja <häs> gut gerüstet ist halb gewonnen",DELIBERATE,A,43
+"<äh> Sie fliegen",SUGGEST,A,43
+"<ähm> wie kommen wir denn hin Frau Peikert",INIT,A,44
+"<ähm> ja ich sehe grade Sie haben schon den Flugplan vor sich liegen",INFORM,B,44
+"<hm> ja <häs> gut gerüstet ist halb gewonnen",DELIBERATE,A,44
+"<äh> Sie fliegen",SUGGEST,A,44
+"ja",ACCEPT,B,44
+"<ähm> ja ich sehe grade Sie haben schon den Flugplan vor sich liegen",INFORM,B,45
+"<hm> ja <häs> gut gerüstet ist halb gewonnen",DELIBERATE,A,45
+"<äh> Sie fliegen",SUGGEST,A,45
+"ja",ACCEPT,B,45
+"ich fliege",ACCEPT,B,45
+"<hm> ja <häs> gut gerüstet ist halb gewonnen",DELIBERATE,A,46
+"<äh> Sie fliegen",SUGGEST,A,46
+"ja",ACCEPT,B,46
+"ich fliege",ACCEPT,B,46
+"trotz Nebel s Nebels im November",REQUEST_COMMENT,A,46
+"<äh> Sie fliegen",SUGGEST,A,47
+"ja",ACCEPT,B,47
+"ich fliege",ACCEPT,B,47
+"trotz Nebel s Nebels im November",REQUEST_COMMENT,A,47
+"ja",FEEDBACK_POSITIVE,B,47
+"ja",ACCEPT,B,48
+"ich fliege",ACCEPT,B,48
+"trotz Nebel s Nebels im November",REQUEST_COMMENT,A,48
+"ja",FEEDBACK_POSITIVE,B,48
+"ja das gruselt Sie da nicht",REQUEST_COMMENT,A,48
+"ich fliege",ACCEPT,B,49
+"trotz Nebel s Nebels im November",REQUEST_COMMENT,A,49
+"ja",FEEDBACK_POSITIVE,B,49
+"ja das gruselt Sie da nicht",REQUEST_COMMENT,A,49
+"nehme an da wird es keine <%> nein",FEEDBACK_NEGATIVE,B,49
+"trotz Nebel s Nebels im November",REQUEST_COMMENT,A,50
+"ja",FEEDBACK_POSITIVE,B,50
+"ja das gruselt Sie da nicht",REQUEST_COMMENT,A,50
+"nehme an da wird es keine <%> nein",FEEDBACK_NEGATIVE,B,50
+"<%> nicht doch lieber mal die Bahn oder so",SUGGEST,A,50
+"ja",FEEDBACK_POSITIVE,B,51
+"ja das gruselt Sie da nicht",REQUEST_COMMENT,A,51
+"nehme an da wird es keine <%> nein",FEEDBACK_NEGATIVE,B,51
+"<%> nicht doch lieber mal die Bahn oder so",SUGGEST,A,51
+"um neun Uhr morgens",INFORM,B,51
+"ja das gruselt Sie da nicht",REQUEST_COMMENT,A,52
+"nehme an da wird es keine <%> nein",FEEDBACK_NEGATIVE,B,52
+"<%> nicht doch lieber mal die Bahn oder so",SUGGEST,A,52
+"um neun Uhr morgens",INFORM,B,52
+"<häs> <hm> die braucht ja stundenlang",INFORM,B,52
+"nehme an da wird es keine <%> nein",FEEDBACK_NEGATIVE,B,53
+"<%> nicht doch lieber mal die Bahn oder so",SUGGEST,A,53
+"um neun Uhr morgens",INFORM,B,53
+"<häs> <hm> die braucht ja stundenlang",INFORM,B,53
+"ja das ist wohl wahr ne",FEEDBACK_POSITIVE,A,53
+"<%> nicht doch lieber mal die Bahn oder so",SUGGEST,A,54
+"um neun Uhr morgens",INFORM,B,54
+"<häs> <hm> die braucht ja stundenlang",INFORM,B,54
+"ja das ist wohl wahr ne",FEEDBACK_POSITIVE,A,54
+"wie lang sind wir da unterwegs mit der Bahn",REQUEST_COMMENT,B,54
+"um neun Uhr morgens",INFORM,B,55
+"<häs> <hm> die braucht ja stundenlang",INFORM,B,55
+"ja das ist wohl wahr ne",FEEDBACK_POSITIVE,A,55
+"wie lang sind wir da unterwegs mit der Bahn",REQUEST_COMMENT,B,55
+"zehn St",NOT_CLASSIFIABLE,B,55
+"<häs> <hm> die braucht ja stundenlang",INFORM,B,56
+"ja das ist wohl wahr ne",FEEDBACK_POSITIVE,A,56
+"wie lang sind wir da unterwegs mit der Bahn",REQUEST_COMMENT,B,56
+"zehn St",NOT_CLASSIFIABLE,B,56
+"viereinhalb Stunden",INFORM,A,56
+"ja das ist wohl wahr ne",FEEDBACK_POSITIVE,A,57
+"wie lang sind wir da unterwegs mit der Bahn",REQUEST_COMMENT,B,57
+"zehn St",NOT_CLASSIFIABLE,B,57
+"viereinhalb Stunden",INFORM,A,57
+"stellen Sie sich das vor",INFORM,A,57
+"wie lang sind wir da unterwegs mit der Bahn",REQUEST_COMMENT,B,58
+"zehn St",NOT_CLASSIFIABLE,B,58
+"viereinhalb Stunden",INFORM,A,58
+"stellen Sie sich das vor",INFORM,A,58
+"viereinhalb Stunden",CLARIFY,A,58
+"zehn St",NOT_CLASSIFIABLE,B,59
+"viereinhalb Stunden",INFORM,A,59
+"stellen Sie sich das vor",INFORM,A,59
+"viereinhalb Stunden",CLARIFY,A,59
+"<hm>",NOT_CLASSIFIABLE,A,59
+"viereinhalb Stunden",INFORM,A,60
+"stellen Sie sich das vor",INFORM,A,60
+"viereinhalb Stunden",CLARIFY,A,60
+"<hm>",NOT_CLASSIFIABLE,A,60
+"ach das ist doch nicht zumutbar",REJECT,B,60
+"stellen Sie sich das vor",INFORM,A,61
+"viereinhalb Stunden",CLARIFY,A,61
+"<hm>",NOT_CLASSIFIABLE,A,61
+"ach das ist doch nicht zumutbar",REJECT,B,61
+"das ist ja <%>",NOT_CLASSIFIABLE,B,61
+"viereinhalb Stunden",CLARIFY,A,62
+"<hm>",NOT_CLASSIFIABLE,A,62
+"ach das ist doch nicht zumutbar",REJECT,B,62
+"das ist ja <%>",NOT_CLASSIFIABLE,B,62
+"nee das glaube ich auch ne",FEEDBACK_NEGATIVE,A,62
+"<hm>",NOT_CLASSIFIABLE,A,63
+"ach das ist doch nicht zumutbar",REJECT,B,63
+"das ist ja <%>",NOT_CLASSIFIABLE,B,63
+"nee das glaube ich auch ne",FEEDBACK_NEGATIVE,A,63
+"<häs>",NOT_CLASSIFIABLE,A,63
+"ach das ist doch nicht zumutbar",REJECT,B,64
+"das ist ja <%>",NOT_CLASSIFIABLE,B,64
+"nee das glaube ich auch ne",FEEDBACK_NEGATIVE,A,64
+"<häs>",NOT_CLASSIFIABLE,A,64
+"und die hat ja auch Nebel die klebt ja am Boden",INFORM,B,64
+"das ist ja <%>",NOT_CLASSIFIABLE,B,65
+"nee das glaube ich auch ne",FEEDBACK_NEGATIVE,A,65
+"<häs>",NOT_CLASSIFIABLE,A,65
+"und die hat ja auch Nebel die klebt ja am Boden",INFORM,B,65
+"also",NOT_CLASSIFIABLE,B,65
+"nee das glaube ich auch ne",FEEDBACK_NEGATIVE,A,66
+"<häs>",NOT_CLASSIFIABLE,A,66
+"und die hat ja auch Nebel die klebt ja am Boden",INFORM,B,66
+"also",NOT_CLASSIFIABLE,B,66
+"ja was sind viereinhalb Stunden Bahngerüttel gegen siebzig Minuten Turbulenzen im Flugzeug",INFORM,A,66
+"<häs>",NOT_CLASSIFIABLE,A,67
+"und die hat ja auch Nebel die klebt ja am Boden",INFORM,B,67
+"also",NOT_CLASSIFIABLE,B,67
+"ja was sind viereinhalb Stunden Bahngerüttel gegen siebzig Minuten Turbulenzen im Flugzeug",INFORM,A,67
+"ist in Ordnung",FEEDBACK_POSITIVE,A,67
+"und die hat ja auch Nebel die klebt ja am Boden",INFORM,B,68
+"also",NOT_CLASSIFIABLE,B,68
+"ja was sind viereinhalb Stunden Bahngerüttel gegen siebzig Minuten Turbulenzen im Flugzeug",INFORM,A,68
+"ist in Ordnung",FEEDBACK_POSITIVE,A,68
+"Frau Peikert wir fliegen",CONFIRM,A,68
+"also",NOT_CLASSIFIABLE,B,69
+"ja was sind viereinhalb Stunden Bahngerüttel gegen siebzig Minuten Turbulenzen im Flugzeug",INFORM,A,69
+"ist in Ordnung",FEEDBACK_POSITIVE,A,69
+"Frau Peikert wir fliegen",CONFIRM,A,69
+"der berühmte Flug neun Uhr fünfzehn",SUGGEST,A,69
+"ja was sind viereinhalb Stunden Bahngerüttel gegen siebzig Minuten Turbulenzen im Flugzeug",INFORM,A,70
+"ist in Ordnung",FEEDBACK_POSITIVE,A,70
+"Frau Peikert wir fliegen",CONFIRM,A,70
+"der berühmte Flug neun Uhr fünfzehn",SUGGEST,A,70
+"gut",ACCEPT,B,70
+"ist in Ordnung",FEEDBACK_POSITIVE,A,71
+"Frau Peikert wir fliegen",CONFIRM,A,71
+"der berühmte Flug neun Uhr fünfzehn",SUGGEST,A,71
+"gut",ACCEPT,B,71
+"ist in Ordnung",FEEDBACK_POSITIVE,A,71
+"Frau Peikert wir fliegen",CONFIRM,A,72
+"der berühmte Flug neun Uhr fünfzehn",SUGGEST,A,72
+"gut",ACCEPT,B,72
+"ist in Ordnung",FEEDBACK_POSITIVE,A,72
+"ich buche per Internet",COMMIT,A,72
+"der berühmte Flug neun Uhr fünfzehn",SUGGEST,A,73
+"gut",ACCEPT,B,73
+"ist in Ordnung",FEEDBACK_POSITIVE,A,73
+"ich buche per Internet",COMMIT,A,73
+"<hm> das hat sich ja das letzte Mal wirklich bewährt",INFORM,A,73
+"gut",ACCEPT,B,74
+"ist in Ordnung",FEEDBACK_POSITIVE,A,74
+"ich buche per Internet",COMMIT,A,74
+"<hm> das hat sich ja das letzte Mal wirklich bewährt",INFORM,A,74
+"und was sagen Sie wo kommen wir unter",INIT,A,74
+"ist in Ordnung",FEEDBACK_POSITIVE,A,75
+"ich buche per Internet",COMMIT,A,75
+"<hm> das hat sich ja das letzte Mal wirklich bewährt",INFORM,A,75
+"und was sagen Sie wo kommen wir unter",INIT,A,75
+"mhm",BACKCHANNEL,B,75
+"ich buche per Internet",COMMIT,A,76
+"<hm> das hat sich ja das letzte Mal wirklich bewährt",INFORM,A,76
+"und was sagen Sie wo kommen wir unter",INIT,A,76
+"mhm",BACKCHANNEL,B,76
+"tja <äh> unser Parkhotel hat geschlossen",EXCLUDE,B,76
+"<hm> das hat sich ja das letzte Mal wirklich bewährt",INFORM,A,77
+"und was sagen Sie wo kommen wir unter",INIT,A,77
+"mhm",BACKCHANNEL,B,77
+"tja <äh> unser Parkhotel hat geschlossen",EXCLUDE,B,77
+"nein",REQUEST_COMMENT,A,77
+"und was sagen Sie wo kommen wir unter",INIT,A,78
+"mhm",BACKCHANNEL,B,78
+"tja <äh> unser Parkhotel hat geschlossen",EXCLUDE,B,78
+"nein",REQUEST_COMMENT,A,78
+"renov",NOT_CLASSIFIABLE,A,78
+"mhm",BACKCHANNEL,B,79
+"tja <äh> unser Parkhotel hat geschlossen",EXCLUDE,B,79
+"nein",REQUEST_COMMENT,A,79
+"renov",NOT_CLASSIFIABLE,A,79
+"wegen Umbau",GIVE_REASON,B,79
+"tja <äh> unser Parkhotel hat geschlossen",EXCLUDE,B,80
+"nein",REQUEST_COMMENT,A,80
+"renov",NOT_CLASSIFIABLE,A,80
+"wegen Umbau",GIVE_REASON,B,80
+"die bauen um",INFORM,A,80
+"nein",REQUEST_COMMENT,A,81
+"renov",NOT_CLASSIFIABLE,A,81
+"wegen Umbau",GIVE_REASON,B,81
+"die bauen um",INFORM,A,81
+"ich habe es geahnt",INFORM,A,81
+"renov",NOT_CLASSIFIABLE,A,82
+"wegen Umbau",GIVE_REASON,B,82
+"die bauen um",INFORM,A,82
+"ich habe es geahnt",INFORM,A,82
+"ja war auch Zeit",INFORM,B,82
+"ja ich hätte drei zentrale Hotels anzubieten",INFORM,B,83
+"<häs> davon das Hotel Zentral",SUGGEST,B,83
+"in Bahnhofsnähe das nützt uns was mit der Anbindung",INFORM,B,83
+"es gibt ein Nichtraucher-Etage und eine Garage",INFORM,B,83
+"nein nein nein nein nein nein",REJECT,A,83
+"<häs> davon das Hotel Zentral",SUGGEST,B,84
+"in Bahnhofsnähe das nützt uns was mit der Anbindung",INFORM,B,84
+"es gibt ein Nichtraucher-Etage und eine Garage",INFORM,B,84
+"nein nein nein nein nein nein",REJECT,A,84
+"da <%> also Frau Peikert Sie kennen meine heimlichen Laster ne",REQUEST_COMMENT,A,84
+"in Bahnhofsnähe das nützt uns was mit der Anbindung",INFORM,B,85
+"es gibt ein Nichtraucher-Etage und eine Garage",INFORM,B,85
+"nein nein nein nein nein nein",REJECT,A,85
+"da <%> also Frau Peikert Sie kennen meine heimlichen Laster ne",REQUEST_COMMENT,A,85
+"also ei eine einen Nichtraucher-Trakt den brauche ich sicher nicht nein",INFORM,A,85
+"es gibt ein Nichtraucher-Etage und eine Garage",INFORM,B,86
+"nein nein nein nein nein nein",REJECT,A,86
+"da <%> also Frau Peikert Sie kennen meine heimlichen Laster ne",REQUEST_COMMENT,A,86
+"also ei eine einen Nichtraucher-Trakt den brauche ich sicher nicht nein",INFORM,A,86
+"ja",FEEDBACK_POSITIVE,B,86
+"nein nein nein nein nein nein",REJECT,A,87
+"da <%> also Frau Peikert Sie kennen meine heimlichen Laster ne",REQUEST_COMMENT,A,87
+"also ei eine einen Nichtraucher-Trakt den brauche ich sicher nicht nein",INFORM,A,87
+"ja",FEEDBACK_POSITIVE,B,87
+"ansonsten hat es wenig zu bieten",INFORM,B,87
+"das Hotel n das Hotel Nöhre",SUGGEST,B,88
+"fünf Minuten vom Bahnhof Restaurant Sauna Parkplatz hundert fünfundzwanzig Mark das Einzelzimmer",INFORM,B,88
+"oder der Prinzenhof",SUGGEST,B,88
+"auch zentral mit Bistro Video Kraftraum und Sauna",INFORM,B,88
+"ist aber deutlich teurer",INFORM,B,88
+"fünf Minuten vom Bahnhof Restaurant Sauna Parkplatz hundert fünfundzwanzig Mark das Einzelzimmer",INFORM,B,89
+"oder der Prinzenhof",SUGGEST,B,89
+"auch zentral mit Bistro Video Kraftraum und Sauna",INFORM,B,89
+"ist aber deutlich teurer",INFORM,B,89
+"Kraftraum klingt ja spannend ne",INFORM,A,89
+"oder der Prinzenhof",SUGGEST,B,90
+"auch zentral mit Bistro Video Kraftraum und Sauna",INFORM,B,90
+"ist aber deutlich teurer",INFORM,B,90
+"Kraftraum klingt ja spannend ne",INFORM,A,90
+"aber Sauna täte es ja auch schon also einigen wir doch <häs> uns doch auf die Sauna",ACCEPT,A,90
+"auch zentral mit Bistro Video Kraftraum und Sauna",INFORM,B,91
+"ist aber deutlich teurer",INFORM,B,91
+"Kraftraum klingt ja spannend ne",INFORM,A,91
+"aber Sauna täte es ja auch schon also einigen wir doch <häs> uns doch auf die Sauna",ACCEPT,A,91
+"und nehmen <äh> um das <ähm> Budget nicht noch weiter zu belasten einfach mal was Günstigeres ne",ACCEPT,A,91
+"ist aber deutlich teurer",INFORM,B,92
+"Kraftraum klingt ja spannend ne",INFORM,A,92
+"aber Sauna täte es ja auch schon also einigen wir doch <häs> uns doch auf die Sauna",ACCEPT,A,92
+"und nehmen <äh> um das <ähm> Budget nicht noch weiter zu belasten einfach mal was Günstigeres ne",ACCEPT,A,92
+"gut ja",FEEDBACK_POSITIVE,B,92
+"Kraftraum klingt ja spannend ne",INFORM,A,93
+"aber Sauna täte es ja auch schon also einigen wir doch <häs> uns doch auf die Sauna",ACCEPT,A,93
+"und nehmen <äh> um das <ähm> Budget nicht noch weiter zu belasten einfach mal was Günstigeres ne",ACCEPT,A,93
+"gut ja",FEEDBACK_POSITIVE,B,93
+"ja",REQUEST_COMMENT,A,93
+"aber Sauna täte es ja auch schon also einigen wir doch <häs> uns doch auf die Sauna",ACCEPT,A,94
+"und nehmen <äh> um das <ähm> Budget nicht noch weiter zu belasten einfach mal was Günstigeres ne",ACCEPT,A,94
+"gut ja",FEEDBACK_POSITIVE,B,94
+"ja",REQUEST_COMMENT,A,94
+"bleiben wir im Hotel Nöhre",CONFIRM,B,94
+"und nehmen <äh> um das <ähm> Budget nicht noch weiter zu belasten einfach mal was Günstigeres ne",ACCEPT,A,95
+"gut ja",FEEDBACK_POSITIVE,B,95
+"ja",REQUEST_COMMENT,A,95
+"bleiben wir im Hotel Nöhre",CONFIRM,B,95
+"ich buche die Zimmer",COMMIT,B,95
+"gut ja",FEEDBACK_POSITIVE,B,96
+"ja",REQUEST_COMMENT,A,96
+"bleiben wir im Hotel Nöhre",CONFIRM,B,96
+"ich buche die Zimmer",COMMIT,B,96
+"prima",ACCEPT,A,96
+"ja",REQUEST_COMMENT,A,97
+"bleiben wir im Hotel Nöhre",CONFIRM,B,97
+"ich buche die Zimmer",COMMIT,B,97
+"prima",ACCEPT,A,97
+"gut",FEEDBACK_POSITIVE,B,97
+"bleiben wir im Hotel Nöhre",CONFIRM,B,98
+"ich buche die Zimmer",COMMIT,B,98
+"prima",ACCEPT,A,98
+"gut",FEEDBACK_POSITIVE,B,98
+"tja und dann haben wir die Option am Abend entweder in die Sauna zu gehen",INIT,A,98
+"ich buche die Zimmer",COMMIT,B,99
+"prima",ACCEPT,A,99
+"gut",FEEDBACK_POSITIVE,B,99
+"tja und dann haben wir die Option am Abend entweder in die Sauna zu gehen",INIT,A,99
+"oder <hm> <%>",NOT_CLASSIFIABLE,A,99
+"prima",ACCEPT,A,100
+"gut",FEEDBACK_POSITIVE,B,100
+"tja und dann haben wir die Option am Abend entweder in die Sauna zu gehen",INIT,A,100
+"oder <hm> <%>",NOT_CLASSIFIABLE,A,100
+"ja ich habe gehört es gibt hier tatsächlich so was wie ein Theater",SUGGEST,B,100
+"gut",FEEDBACK_POSITIVE,B,101
+"tja und dann haben wir die Option am Abend entweder in die Sauna zu gehen",INIT,A,101
+"oder <hm> <%>",NOT_CLASSIFIABLE,A,101
+"ja ich habe gehört es gibt hier tatsächlich so was wie ein Theater",SUGGEST,B,101
+"also <häs> man sollte es nicht glauben",INFORM,B,101
+"tja und dann haben wir die Option am Abend entweder in die Sauna zu gehen",INIT,A,102
+"oder <hm> <%>",NOT_CLASSIFIABLE,A,102
+"ja ich habe gehört es gibt hier tatsächlich so was wie ein Theater",SUGGEST,B,102
+"also <häs> man sollte es nicht glauben",INFORM,B,102
+"he he",BACKCHANNEL,A,102
+"oder <hm> <%>",NOT_CLASSIFIABLE,A,103
+"ja ich habe gehört es gibt hier tatsächlich so was wie ein Theater",SUGGEST,B,103
+"also <häs> man sollte es nicht glauben",INFORM,B,103
+"he he",BACKCHANNEL,A,103
+"ja so kurz vor Weihnachten sind dann unter Umständen auch paar interessante Gastspiele",INFORM,A,103
+"ja ich habe gehört es gibt hier tatsächlich so was wie ein Theater",SUGGEST,B,104
+"also <häs> man sollte es nicht glauben",INFORM,B,104
+"he he",BACKCHANNEL,A,104
+"ja so kurz vor Weihnachten sind dann unter Umständen auch paar interessante Gastspiele",INFORM,A,104
+"ja",FEEDBACK_POSITIVE,B,104
+"also <häs> man sollte es nicht glauben",INFORM,B,105
+"he he",BACKCHANNEL,A,105
+"ja so kurz vor Weihnachten sind dann unter Umständen auch paar interessante Gastspiele",INFORM,A,105
+"ja",FEEDBACK_POSITIVE,B,105
+"wollen Sie sich da mal drum kümmern",REQUEST_COMMIT,A,105
+"he he",BACKCHANNEL,A,106
+"ja so kurz vor Weihnachten sind dann unter Umständen auch paar interessante Gastspiele",INFORM,A,106
+"ja",FEEDBACK_POSITIVE,B,106
+"wollen Sie sich da mal drum kümmern",REQUEST_COMMIT,A,106
+"genau ich informiere mich ob irgend jemand <äh> von Rang und Namen mal auftaucht",COMMIT,B,106
+"ja so kurz vor Weihnachten sind dann unter Umständen auch paar interessante Gastspiele",INFORM,A,107
+"ja",FEEDBACK_POSITIVE,B,107
+"wollen Sie sich da mal drum kümmern",REQUEST_COMMIT,A,107
+"genau ich informiere mich ob irgend jemand <äh> von Rang und Namen mal auftaucht",COMMIT,B,107
+"das wäre ja vielleicht nicht schlecht",FEEDBACK_POSITIVE,A,107
+"ja",FEEDBACK_POSITIVE,B,108
+"wollen Sie sich da mal drum kümmern",REQUEST_COMMIT,A,108
+"genau ich informiere mich ob irgend jemand <äh> von Rang und Namen mal auftaucht",COMMIT,B,108
+"das wäre ja vielleicht nicht schlecht",FEEDBACK_POSITIVE,A,108
+"doch weil",NOT_CLASSIFIABLE,A,108
+"wollen Sie sich da mal drum kümmern",REQUEST_COMMIT,A,109
+"genau ich informiere mich ob irgend jemand <äh> von Rang und Namen mal auftaucht",COMMIT,B,109
+"das wäre ja vielleicht nicht schlecht",FEEDBACK_POSITIVE,A,109
+"doch weil",NOT_CLASSIFIABLE,A,109
+"und dann können wir den <äh> Hannoveranern die Plätze wegschnappen",INFORM,B,109
+"genau ich informiere mich ob irgend jemand <äh> von Rang und Namen mal auftaucht",COMMIT,B,110
+"das wäre ja vielleicht nicht schlecht",FEEDBACK_POSITIVE,A,110
+"doch weil",NOT_CLASSIFIABLE,A,110
+"und dann können wir den <äh> Hannoveranern die Plätze wegschnappen",INFORM,B,110
+"ja es ist keine schlechte Idee",FEEDBACK_POSITIVE,A,110
+"ja das test ja ich meine ich kenne sie ja",DELIBERATE,A,111
+"sie sind einfach irgendwie alle bissel holzig und ein bissel stur ne",DEVIATE_SCENARIO,A,111
+"aber <äh> <hm> probieren kann man es ja mal ne probieren kann man es ja mal",INFORM,A,111
+"und von daher würde ich sagen Sie probieren es",REQUEST_COMMIT,A,111
+"Sie schauen einfach mal <ähm> was es im Angebot gibt",REQUEST_COMMIT,A,111
+"sie sind einfach irgendwie alle bissel holzig und ein bissel stur ne",DEVIATE_SCENARIO,A,112
+"aber <äh> <hm> probieren kann man es ja mal ne probieren kann man es ja mal",INFORM,A,112
+"und von daher würde ich sagen Sie probieren es",REQUEST_COMMIT,A,112
+"Sie schauen einfach mal <ähm> was es im Angebot gibt",REQUEST_COMMIT,A,112
+"und ich würde dann die Kollegen anrufen und fragen ob sie Lust haben mitzukommen",COMMIT,A,112
+"aber <äh> <hm> probieren kann man es ja mal ne probieren kann man es ja mal",INFORM,A,113
+"und von daher würde ich sagen Sie probieren es",REQUEST_COMMIT,A,113
+"Sie schauen einfach mal <ähm> was es im Angebot gibt",REQUEST_COMMIT,A,113
+"und ich würde dann die Kollegen anrufen und fragen ob sie Lust haben mitzukommen",COMMIT,A,113
+"ja",FEEDBACK_POSITIVE,B,113
+"und von daher würde ich sagen Sie probieren es",REQUEST_COMMIT,A,114
+"Sie schauen einfach mal <ähm> was es im Angebot gibt",REQUEST_COMMIT,A,114
+"und ich würde dann die Kollegen anrufen und fragen ob sie Lust haben mitzukommen",COMMIT,A,114
+"ja",FEEDBACK_POSITIVE,B,114
+"deswegen lieben wir sie ja",DEVIATE_SCENARIO,B,114
+"Sie schauen einfach mal <ähm> was es im Angebot gibt",REQUEST_COMMIT,A,115
+"und ich würde dann die Kollegen anrufen und fragen ob sie Lust haben mitzukommen",COMMIT,A,115
+"ja",FEEDBACK_POSITIVE,B,115
+"deswegen lieben wir sie ja",DEVIATE_SCENARIO,B,115
+"mhm",BACKCHANNEL,B,115
+"und ich würde dann die Kollegen anrufen und fragen ob sie Lust haben mitzukommen",COMMIT,A,116
+"ja",FEEDBACK_POSITIVE,B,116
+"deswegen lieben wir sie ja",DEVIATE_SCENARIO,B,116
+"mhm",BACKCHANNEL,B,116
+"gut",ACCEPT,B,116
+"ja",FEEDBACK_POSITIVE,B,117
+"deswegen lieben wir sie ja",DEVIATE_SCENARIO,B,117
+"mhm",BACKCHANNEL,B,117
+"gut",ACCEPT,B,117
+"ja",ACCEPT,B,117
+"deswegen lieben wir sie ja",DEVIATE_SCENARIO,B,118
+"mhm",BACKCHANNEL,B,118
+"gut",ACCEPT,B,118
+"ja",ACCEPT,B,118
+"dann sehen wir uns",BYE,B,118
+"mhm",BACKCHANNEL,B,119
+"gut",ACCEPT,B,119
+"ja",ACCEPT,B,119
+"dann sehen wir uns",BYE,B,119
+"ist das eine Sache",REQUEST_COMMENT,A,119
+"gut",ACCEPT,B,120
+"ja",ACCEPT,B,120
+"dann sehen wir uns",BYE,B,120
+"ist das eine Sache",REQUEST_COMMENT,A,120
+"prächtig",FEEDBACK_POSITIVE,A,120
+"ja",ACCEPT,B,121
+"dann sehen wir uns",BYE,B,121
+"ist das eine Sache",REQUEST_COMMENT,A,121
+"prächtig",FEEDBACK_POSITIVE,A,121
+"oh Entschuldigung Frau Peikert jetzt sagen Sie mir den Termin noch mal",REQUEST_CLARIFY,A,121
+"dann sehen wir uns",BYE,B,122
+"ist das eine Sache",REQUEST_COMMENT,A,122
+"prächtig",FEEDBACK_POSITIVE,A,122
+"oh Entschuldigung Frau Peikert jetzt sagen Sie mir den Termin noch mal",REQUEST_CLARIFY,A,122
+"wenn wenn ich mir nicht alles gleich aufschreibe dann ist es schon wieder weg",DELIBERATE,A,122
+"ist das eine Sache",REQUEST_COMMENT,A,123
+"prächtig",FEEDBACK_POSITIVE,A,123
+"oh Entschuldigung Frau Peikert jetzt sagen Sie mir den Termin noch mal",REQUEST_CLARIFY,A,123
+"wenn wenn ich mir nicht alles gleich aufschreibe dann ist es schon wieder weg",DELIBERATE,A,123
+"<hm> was haben wir denn jetzt ausgemacht",REQUEST_CLARIFY,A,123
+"prächtig",FEEDBACK_POSITIVE,A,124
+"oh Entschuldigung Frau Peikert jetzt sagen Sie mir den Termin noch mal",REQUEST_CLARIFY,A,124
+"wenn wenn ich mir nicht alles gleich aufschreibe dann ist es schon wieder weg",DELIBERATE,A,124
+"<hm> was haben wir denn jetzt ausgemacht",REQUEST_CLARIFY,A,124
+"<häs> sehe hier den elften und zwölften November",CLARIFY,B,124
+"oh Entschuldigung Frau Peikert jetzt sagen Sie mir den Termin noch mal",REQUEST_CLARIFY,A,125
+"wenn wenn ich mir nicht alles gleich aufschreibe dann ist es schon wieder weg",DELIBERATE,A,125
+"<hm> was haben wir denn jetzt ausgemacht",REQUEST_CLARIFY,A,125
+"<häs> sehe hier den elften und zwölften November",CLARIFY,B,125
+"elften zwölften November",DELIBERATE,A,125
+"wenn wenn ich mir nicht alles gleich aufschreibe dann ist es schon wieder weg",DELIBERATE,A,126
+"<hm> was haben wir denn jetzt ausgemacht",REQUEST_CLARIFY,A,126
+"<häs> sehe hier den elften und zwölften November",CLARIFY,B,126
+"elften zwölften November",DELIBERATE,A,126
+"ja genau da schreibe ich mir das jetzt sofort rein",CLOSE,A,126
+"<hm> was haben wir denn jetzt ausgemacht",REQUEST_CLARIFY,A,127
+"<häs> sehe hier den elften und zwölften November",CLARIFY,B,127
+"elften zwölften November",DELIBERATE,A,127
+"ja genau da schreibe ich mir das jetzt sofort rein",CLOSE,A,127
+"danke",THANK,A,127
+"<häs> sehe hier den elften und zwölften November",CLARIFY,B,128
+"elften zwölften November",DELIBERATE,A,128
+"ja genau da schreibe ich mir das jetzt sofort rein",CLOSE,A,128
+"danke",THANK,A,128
+"<hm> <häs> tschüß",BYE,A,128
+"elften zwölften November",DELIBERATE,A,129
+"ja genau da schreibe ich mir das jetzt sofort rein",CLOSE,A,129
+"danke",THANK,A,129
+"<hm> <häs> tschüß",BYE,A,129
+"okay gut Frau Payome tschüß",BYE,B,129
+"oh ja",FEEDBACK_POSITIVE,B,130
+"das wird schwer",FEEDBACK_NEGATIVE,B,130
+"wie sieht es bei Ihnen aus im Julu im Juli",SUGGEST,A,130
+"Juli <hm>",DELIBERATE,B,130
+"also an zwei Tagen da hätte ich schon mal <häs> Besprechungen",INFORM,B,130
+"das wird schwer",FEEDBACK_NEGATIVE,B,131
+"wie sieht es bei Ihnen aus im Julu im Juli",SUGGEST,A,131
+"Juli <hm>",DELIBERATE,B,131
+"also an zwei Tagen da hätte ich schon mal <häs> Besprechungen",INFORM,B,131
+"aber sonst vom sechsten bis zum zwölften hätte ich Zeit",SUGGEST,B,131
+"wie sieht es bei Ihnen aus im Julu im Juli",SUGGEST,A,132
+"Juli <hm>",DELIBERATE,B,132
+"also an zwei Tagen da hätte ich schon mal <häs> Besprechungen",INFORM,B,132
+"aber sonst vom sechsten bis zum zwölften hätte ich Zeit",SUGGEST,B,132
+"oder vom fünfzehnten halt bis zum einunddreißigsten",SUGGEST,B,132
+"Juli <hm>",DELIBERATE,B,133
+"also an zwei Tagen da hätte ich schon mal <häs> Besprechungen",INFORM,B,133
+"aber sonst vom sechsten bis zum zwölften hätte ich Zeit",SUGGEST,B,133
+"oder vom fünfzehnten halt bis zum einunddreißigsten",SUGGEST,B,133
+"das müßte man dann",NOT_CLASSIFIABLE,B,133
+"also an zwei Tagen da hätte ich schon mal <häs> Besprechungen",INFORM,B,134
+"aber sonst vom sechsten bis zum zwölften hätte ich Zeit",SUGGEST,B,134
+"oder vom fünfzehnten halt bis zum einunddreißigsten",SUGGEST,B,134
+"das müßte man dann",NOT_CLASSIFIABLE,B,134
+"mhm",BACKCHANNEL,A,134
+"aber sonst vom sechsten bis zum zwölften hätte ich Zeit",SUGGEST,B,135
+"oder vom fünfzehnten halt bis zum einunddreißigsten",SUGGEST,B,135
+"das müßte man dann",NOT_CLASSIFIABLE,B,135
+"mhm",BACKCHANNEL,A,135
+"mhm",BACKCHANNEL,A,135
+"oder vom fünfzehnten halt bis zum einunddreißigsten",SUGGEST,B,136
+"das müßte man dann",NOT_CLASSIFIABLE,B,136
+"mhm",BACKCHANNEL,A,136
+"mhm",BACKCHANNEL,A,136
+"ja das ist doch wunderbar",ACCEPT,A,136
+"das müßte man dann",NOT_CLASSIFIABLE,B,137
+"mhm",BACKCHANNEL,A,137
+"mhm",BACKCHANNEL,A,137
+"ja das ist doch wunderbar",ACCEPT,A,137
+"das paßt mir in der Zeit ganz gut",ACCEPT,A,137
+"mhm",BACKCHANNEL,A,138
+"mhm",BACKCHANNEL,A,138
+"ja das ist doch wunderbar",ACCEPT,A,138
+"das paßt mir in der Zeit ganz gut",ACCEPT,A,138
+"ich könnte vom vierzehnten an bis zum sechsundzwanzigsten",SUGGEST,A,138
+"mhm",BACKCHANNEL,A,139
+"ja das ist doch wunderbar",ACCEPT,A,139
+"das paßt mir in der Zeit ganz gut",ACCEPT,A,139
+"ich könnte vom vierzehnten an bis zum sechsundzwanzigsten",SUGGEST,A,139
+"paßt es Ihnen da auch",REQUEST,B,139
+"ja das ist doch wunderbar",ACCEPT,A,140
+"das paßt mir in der Zeit ganz gut",ACCEPT,A,140
+"ich könnte vom vierzehnten an bis zum sechsundzwanzigsten",SUGGEST,A,140
+"paßt es Ihnen da auch",REQUEST,B,140
+"ich könnte e",NOT_CLASSIFIABLE,B,140
+"das paßt mir in der Zeit ganz gut",ACCEPT,A,141
+"ich könnte vom vierzehnten an bis zum sechsundzwanzigsten",SUGGEST,A,141
+"paßt es Ihnen da auch",REQUEST,B,141
+"ich könnte e",NOT_CLASSIFIABLE,B,141
+"ja so am vierzehnten da habe ich eine Dienstbesprechung also das wäre dann schlecht",EXPLAINED_REJECT,B,141
+"ich könnte vom vierzehnten an bis zum sechsundzwanzigsten",SUGGEST,A,142
+"paßt es Ihnen da auch",REQUEST,B,142
+"ich könnte e",NOT_CLASSIFIABLE,B,142
+"ja so am vierzehnten da habe ich eine Dienstbesprechung also das wäre dann schlecht",EXPLAINED_REJECT,B,142
+"also müßte man irgendwie so",NOT_CLASSIFIABLE,B,142
+"paßt es Ihnen da auch",REQUEST,B,143
+"ich könnte e",NOT_CLASSIFIABLE,B,143
+"ja so am vierzehnten da habe ich eine Dienstbesprechung also das wäre dann schlecht",EXPLAINED_REJECT,B,143
+"also müßte man irgendwie so",NOT_CLASSIFIABLE,B,143
+"mhm",BACKCHANNEL,A,143
+"ich könnte e",NOT_CLASSIFIABLE,B,144
+"ja so am vierzehnten da habe ich eine Dienstbesprechung also das wäre dann schlecht",EXPLAINED_REJECT,B,144
+"also müßte man irgendwie so",NOT_CLASSIFIABLE,B,144
+"mhm",BACKCHANNEL,A,144
+"ja ich denke dann ist am zwa der zwanzigste am sinnvollsten nicht",SUGGEST,A,144
+"ja so am vierzehnten da habe ich eine Dienstbesprechung also das wäre dann schlecht",EXPLAINED_REJECT,B,145
+"also müßte man irgendwie so",NOT_CLASSIFIABLE,B,145
+"mhm",BACKCHANNEL,A,145
+"ja ich denke dann ist am zwa der zwanzigste am sinnvollsten nicht",SUGGEST,A,145
+"vier Tage sollten wir schon einplanen",SUGGEST,A,145
+"also müßte man irgendwie so",NOT_CLASSIFIABLE,B,146
+"mhm",BACKCHANNEL,A,146
+"ja ich denke dann ist am zwa der zwanzigste am sinnvollsten nicht",SUGGEST,A,146
+"vier Tage sollten wir schon einplanen",SUGGEST,A,146
+"also Sie wollten bis Donnerstag dann <%> in Hannover bleiben",REQUEST,B,146
+"mhm",BACKCHANNEL,A,147
+"ja ich denke dann ist am zwa der zwanzigste am sinnvollsten nicht",SUGGEST,A,147
+"vier Tage sollten wir schon einplanen",SUGGEST,A,147
+"also Sie wollten bis Donnerstag dann <%> in Hannover bleiben",REQUEST,B,147
+"ja",FEEDBACK_POSITIVE,A,147
+"ja ich denke dann ist am zwa der zwanzigste am sinnvollsten nicht",SUGGEST,A,148
+"vier Tage sollten wir schon einplanen",SUGGEST,A,148
+"also Sie wollten bis Donnerstag dann <%> in Hannover bleiben",REQUEST,B,148
+"ja",FEEDBACK_POSITIVE,A,148
+"ich denke ich denke ja",FEEDBACK_POSITIVE,A,148
+"vier Tage sollten wir schon einplanen",SUGGEST,A,149
+"also Sie wollten bis Donnerstag dann <%> in Hannover bleiben",REQUEST,B,149
+"ja",FEEDBACK_POSITIVE,A,149
+"ich denke ich denke ja",FEEDBACK_POSITIVE,A,149
+"mhm",BACKCHANNEL,B,149
+"also Sie wollten bis Donnerstag dann <%> in Hannover bleiben",REQUEST,B,150
+"ja",FEEDBACK_POSITIVE,A,150
+"ich denke ich denke ja",FEEDBACK_POSITIVE,A,150
+"mhm",BACKCHANNEL,B,150
+"ist Ihnen das recht",REQUEST_COMMENT,A,150
+"ja",FEEDBACK_POSITIVE,A,151
+"ich denke ich denke ja",FEEDBACK_POSITIVE,A,151
+"mhm",BACKCHANNEL,B,151
+"ist Ihnen das recht",REQUEST_COMMENT,A,151
+"ja",ACCEPT,B,151
+"ich denke ich denke ja",FEEDBACK_POSITIVE,A,152
+"mhm",BACKCHANNEL,B,152
+"ist Ihnen das recht",REQUEST_COMMENT,A,152
+"ja",ACCEPT,B,152
+"das könnte ich so einrichten",ACCEPT,B,152
+"mhm",BACKCHANNEL,B,153
+"ist Ihnen das recht",REQUEST_COMMENT,A,153
+"ja",ACCEPT,B,153
+"das könnte ich so einrichten",ACCEPT,B,153
+"also wenn bis dahin nichts dazwischenkommt ich hoffe mal aber ich lege das jetzt so fest dann",CLOSE,B,153
+"ist Ihnen das recht",REQUEST_COMMENT,A,154
+"ja",ACCEPT,B,154
+"das könnte ich so einrichten",ACCEPT,B,154
+"also wenn bis dahin nichts dazwischenkommt ich hoffe mal aber ich lege das jetzt so fest dann",CLOSE,B,154
+"dann halten wir <%>",NOT_CLASSIFIABLE,A,154
+"ja",ACCEPT,B,155
+"das könnte ich so einrichten",ACCEPT,B,155
+"also wenn bis dahin nichts dazwischenkommt ich hoffe mal aber ich lege das jetzt so fest dann",CLOSE,B,155
+"dann halten wir <%>",NOT_CLASSIFIABLE,A,155
+"alles klar",FEEDBACK_POSITIVE,A,155
+"das könnte ich so einrichten",ACCEPT,B,156
+"also wenn bis dahin nichts dazwischenkommt ich hoffe mal aber ich lege das jetzt so fest dann",CLOSE,B,156
+"dann halten wir <%>",NOT_CLASSIFIABLE,A,156
+"alles klar",FEEDBACK_POSITIVE,A,156
+"das wird schon klappen wunderbar",FEEDBACK_POSITIVE,A,156
+"also wenn bis dahin nichts dazwischenkommt ich hoffe mal aber ich lege das jetzt so fest dann",CLOSE,B,157
+"dann halten wir <%>",NOT_CLASSIFIABLE,A,157
+"alles klar",FEEDBACK_POSITIVE,A,157
+"das wird schon klappen wunderbar",FEEDBACK_POSITIVE,A,157
+"ja ich habe hier vor mir jetzt einige Zugverbindungen und auch Flüge f",INIT,A,157
+"dann halten wir <%>",NOT_CLASSIFIABLE,A,158
+"alles klar",FEEDBACK_POSITIVE,A,158
+"das wird schon klappen wunderbar",FEEDBACK_POSITIVE,A,158
+"ja ich habe hier vor mir jetzt einige Zugverbindungen und auch Flüge f",INIT,A,158
+"<häs> wie wäre es Ihnen denn lieber fliegen mit dem Zug fahren",SUGGEST,A,158
+"alles klar",FEEDBACK_POSITIVE,A,159
+"das wird schon klappen wunderbar",FEEDBACK_POSITIVE,A,159
+"ja ich habe hier vor mir jetzt einige Zugverbindungen und auch Flüge f",INIT,A,159
+"<häs> wie wäre es Ihnen denn lieber fliegen mit dem Zug fahren",SUGGEST,A,159
+"also ich möchte gern schon lieber fliegen",SUGGEST,B,159
+"das wird schon klappen wunderbar",FEEDBACK_POSITIVE,A,160
+"ja ich habe hier vor mir jetzt einige Zugverbindungen und auch Flüge f",INIT,A,160
+"<häs> wie wäre es Ihnen denn lieber fliegen mit dem Zug fahren",SUGGEST,A,160
+"also ich möchte gern schon lieber fliegen",SUGGEST,B,160
+"Sie möchten gerne fliegen",DELIBERATE,A,160
+"ja ich habe hier vor mir jetzt einige Zugverbindungen und auch Flüge f",INIT,A,161
+"<häs> wie wäre es Ihnen denn lieber fliegen mit dem Zug fahren",SUGGEST,A,161
+"also ich möchte gern schon lieber fliegen",SUGGEST,B,161
+"Sie möchten gerne fliegen",DELIBERATE,A,161
+"ja das ist mir auch recht",ACCEPT,A,161
+"<häs> wie wäre es Ihnen denn lieber fliegen mit dem Zug fahren",SUGGEST,A,162
+"also ich möchte gern schon lieber fliegen",SUGGEST,B,162
+"Sie möchten gerne fliegen",DELIBERATE,A,162
+"ja das ist mir auch recht",ACCEPT,A,162
+"ja von <äh> Köln-Bonn gibt es immer nur einen Flug täglich",INFORM,A,162
+"also ich möchte gern schon lieber fliegen",SUGGEST,B,163
+"Sie möchten gerne fliegen",DELIBERATE,A,163
+"ja das ist mir auch recht",ACCEPT,A,163
+"ja von <äh> Köln-Bonn gibt es immer nur einen Flug täglich",INFORM,A,163
+"ab sieben Uhr zehn es wird es uns also nichts übrigbleiben den zu nehmen",SUGGEST,A,163
+"Sie möchten gerne fliegen",DELIBERATE,A,164
+"ja das ist mir auch recht",ACCEPT,A,164
+"ja von <äh> Köln-Bonn gibt es immer nur einen Flug täglich",INFORM,A,164
+"ab sieben Uhr zehn es wird es uns also nichts übrigbleiben den zu nehmen",SUGGEST,A,164
+"<äh> Rückflug können wir wählen",INFORM,A,164
+"ja das ist mir auch recht",ACCEPT,A,165
+"ja von <äh> Köln-Bonn gibt es immer nur einen Flug täglich",INFORM,A,165
+"ab sieben Uhr zehn es wird es uns also nichts übrigbleiben den zu nehmen",SUGGEST,A,165
+"<äh> Rückflug können wir wählen",INFORM,A,165
+"nein können wir eigentlich nicht",FEEDBACK_NEGATIVE,A,165
+"ja von <äh> Köln-Bonn gibt es immer nur einen Flug täglich",INFORM,A,166
+"ab sieben Uhr zehn es wird es uns also nichts übrigbleiben den zu nehmen",SUGGEST,A,166
+"<äh> Rückflug können wir wählen",INFORM,A,166
+"nein können wir eigentlich nicht",FEEDBACK_NEGATIVE,A,166
+"ich sehe grade hier montags bis donnerstags nur ab achtzehn Uhr fünfundzwanzig",SUGGEST,A,166
+"ab sieben Uhr zehn es wird es uns also nichts übrigbleiben den zu nehmen",SUGGEST,A,167
+"<äh> Rückflug können wir wählen",INFORM,A,167
+"nein können wir eigentlich nicht",FEEDBACK_NEGATIVE,A,167
+"ich sehe grade hier montags bis donnerstags nur ab achtzehn Uhr fünfundzwanzig",SUGGEST,A,167
+"da sind wir neunzehn Uhr fünfundzwanzig wieder in Köln-Bonn recht spät also",INFORM,A,167
+"<äh> Rückflug können wir wählen",INFORM,A,168
+"nein können wir eigentlich nicht",FEEDBACK_NEGATIVE,A,168
+"ich sehe grade hier montags bis donnerstags nur ab achtzehn Uhr fünfundzwanzig",SUGGEST,A,168
+"da sind wir neunzehn Uhr fünfundzwanzig wieder in Köln-Bonn recht spät also",INFORM,A,168
+"aber das geht gar nicht anders",FEEDBACK_NEGATIVE,A,168
+"nein können wir eigentlich nicht",FEEDBACK_NEGATIVE,A,169
+"ich sehe grade hier montags bis donnerstags nur ab achtzehn Uhr fünfundzwanzig",SUGGEST,A,169
+"da sind wir neunzehn Uhr fünfundzwanzig wieder in Köln-Bonn recht spät also",INFORM,A,169
+"aber das geht gar nicht anders",FEEDBACK_NEGATIVE,A,169
+"müssen wir in Kauf nehmen ja",FEEDBACK_NEGATIVE,A,169
+"ich sehe grade hier montags bis donnerstags nur ab achtzehn Uhr fünfundzwanzig",SUGGEST,A,170
+"da sind wir neunzehn Uhr fünfundzwanzig wieder in Köln-Bonn recht spät also",INFORM,A,170
+"aber das geht gar nicht anders",FEEDBACK_NEGATIVE,A,170
+"müssen wir in Kauf nehmen ja",FEEDBACK_NEGATIVE,A,170
+"<hm> ja muß man halt so",NOT_CLASSIFIABLE,B,170
+"da sind wir neunzehn Uhr fünfundzwanzig wieder in Köln-Bonn recht spät also",INFORM,A,171
+"aber das geht gar nicht anders",FEEDBACK_NEGATIVE,A,171
+"müssen wir in Kauf nehmen ja",FEEDBACK_NEGATIVE,A,171
+"<hm> ja muß man halt so",NOT_CLASSIFIABLE,B,171
+"nur ob wir nicht zurück mit dem Zug vielleicht fahren könnten",SUGGEST,B,171
+"aber das geht gar nicht anders",FEEDBACK_NEGATIVE,A,172
+"müssen wir in Kauf nehmen ja",FEEDBACK_NEGATIVE,A,172
+"<hm> ja muß man halt so",NOT_CLASSIFIABLE,B,172
+"nur ob wir nicht zurück mit dem Zug vielleicht fahren könnten",SUGGEST,B,172
+"das können wir natürlich auch machen",ACCEPT,A,172
+"müssen wir in Kauf nehmen ja",FEEDBACK_NEGATIVE,A,173
+"<hm> ja muß man halt so",NOT_CLASSIFIABLE,B,173
+"nur ob wir nicht zurück mit dem Zug vielleicht fahren könnten",SUGGEST,B,173
+"das können wir natürlich auch machen",ACCEPT,A,173
+"das ist zu überlegen",DELIBERATE,A,173
+"<hm> ja muß man halt so",NOT_CLASSIFIABLE,B,174
+"nur ob wir nicht zurück mit dem Zug vielleicht fahren könnten",SUGGEST,B,174
+"das können wir natürlich auch machen",ACCEPT,A,174
+"das ist zu überlegen",DELIBERATE,A,174
+"der fährt ab Hannover stündlich von sechs Uhr achtundfünfzig an",INFORM,A,174
+"nur ob wir nicht zurück mit dem Zug vielleicht fahren könnten",SUGGEST,B,175
+"das können wir natürlich auch machen",ACCEPT,A,175
+"das ist zu überlegen",DELIBERATE,A,175
+"der fährt ab Hannover stündlich von sechs Uhr achtundfünfzig an",INFORM,A,175
+"ja dann bräuchte man nicht so lange in Hannover zu bleiben also ich meine",GIVE_REASON,B,175
+"das können wir natürlich auch machen",ACCEPT,A,176
+"das ist zu überlegen",DELIBERATE,A,176
+"der fährt ab Hannover stündlich von sechs Uhr achtundfünfzig an",INFORM,A,176
+"ja dann bräuchte man nicht so lange in Hannover zu bleiben also ich meine",GIVE_REASON,B,176
+"da könnten wir mittags schon zurückfahren",SUGGEST,A,176
+"<hm> ja",ACCEPT,B,177
+"ja",ACCEPT,B,177
+"ja gut dann halten wir das fest",CLOSE,A,177
+"dann werde ich das so buchen",COMMIT,A,177
+"okay",FEEDBACK_POSITIVE,B,177
+"ja",ACCEPT,B,178
+"ja gut dann halten wir das fest",CLOSE,A,178
+"dann werde ich das so buchen",COMMIT,A,178
+"okay",FEEDBACK_POSITIVE,B,178
+"und ich also ich habe mich schon mal über Hotels erkundigt in Hannover",INIT,B,178
+"ja gut dann halten wir das fest",CLOSE,A,179
+"dann werde ich das so buchen",COMMIT,A,179
+"okay",FEEDBACK_POSITIVE,B,179
+"und ich also ich habe mich schon mal über Hotels erkundigt in Hannover",INIT,B,179
+"und zwar hätte ich drei Hotels zur Auswahl wobei leider eines in der Nähe des Flughafens ist",INFORM,B,179
+"dann werde ich das so buchen",COMMIT,A,180
+"okay",FEEDBACK_POSITIVE,B,180
+"und ich also ich habe mich schon mal über Hotels erkundigt in Hannover",INIT,B,180
+"und zwar hätte ich drei Hotels zur Auswahl wobei leider eines in der Nähe des Flughafens ist",INFORM,B,180
+"das ist auch das günstigste Hotel",INFORM,B,180
+"okay",FEEDBACK_POSITIVE,B,181
+"und ich also ich habe mich schon mal über Hotels erkundigt in Hannover",INIT,B,181
+"und zwar hätte ich drei Hotels zur Auswahl wobei leider eines in der Nähe des Flughafens ist",INFORM,B,181
+"das ist auch das günstigste Hotel",INFORM,B,181
+"das ist vier Kilometer entfernt von Hannover",INFORM,B,181
+"und ich also ich habe mich schon mal über Hotels erkundigt in Hannover",INIT,B,182
+"und zwar hätte ich drei Hotels zur Auswahl wobei leider eines in der Nähe des Flughafens ist",INFORM,B,182
+"das ist auch das günstigste Hotel",INFORM,B,182
+"das ist vier Kilometer entfernt von Hannover",INFORM,B,182
+"ich weiß nicht ob Ihnen das so recht ist am Flughafen",SUGGEST,B,182
+"und zwar hätte ich drei Hotels zur Auswahl wobei leider eines in der Nähe des Flughafens ist",INFORM,B,183
+"das ist auch das günstigste Hotel",INFORM,B,183
+"das ist vier Kilometer entfernt von Hannover",INFORM,B,183
+"ich weiß nicht ob Ihnen das so recht ist am Flughafen",SUGGEST,B,183
+"mhm",BACKCHANNEL,A,183
+"das ist auch das günstigste Hotel",INFORM,B,184
+"das ist vier Kilometer entfernt von Hannover",INFORM,B,184
+"ich weiß nicht ob Ihnen das so recht ist am Flughafen",SUGGEST,B,184
+"mhm",BACKCHANNEL,A,184
+"mhm",BACKCHANNEL,A,184
+"das ist vier Kilometer entfernt von Hannover",INFORM,B,185
+"ich weiß nicht ob Ihnen das so recht ist am Flughafen",SUGGEST,B,185
+"mhm",BACKCHANNEL,A,185
+"mhm",BACKCHANNEL,A,185
+"mhm",BACKCHANNEL,A,185
+"ich weiß nicht ob Ihnen das so recht ist am Flughafen",SUGGEST,B,186
+"mhm",BACKCHANNEL,A,186
+"mhm",BACKCHANNEL,A,186
+"mhm",BACKCHANNEL,A,186
+"tja",BACKCHANNEL,A,186
+"mhm",BACKCHANNEL,A,187
+"mhm",BACKCHANNEL,A,187
+"mhm",BACKCHANNEL,A,187
+"tja",BACKCHANNEL,A,187
+"ich denke wir sind vier Tage in Hannover",INFORM,A,187
+"mhm",BACKCHANNEL,A,188
+"mhm",BACKCHANNEL,A,188
+"tja",BACKCHANNEL,A,188
+"ich denke wir sind vier Tage in Hannover",INFORM,A,188
+"<häs> so sollte man",NOT_CLASSIFIABLE,A,188
+"wissen Sie denn ungefähr welche Preisklasse oder ist Ihnen das",REQUEST,B,189
+"<äh> soweit mir bekannt ist trägt die Firma die Kosten",INFORM,A,189
+"da braucht man sich also keine Gedanken machen",INFORM,A,189
+"ach ja",FEEDBACK_POSITIVE,B,189
+"okay",FEEDBACK_POSITIVE,B,189
+"<äh> soweit mir bekannt ist trägt die Firma die Kosten",INFORM,A,190
+"da braucht man sich also keine Gedanken machen",INFORM,A,190
+"ach ja",FEEDBACK_POSITIVE,B,190
+"okay",FEEDBACK_POSITIVE,B,190
+"da hätte ich das Hotel Schweizerhof",SUGGEST,B,190
+"da braucht man sich also keine Gedanken machen",INFORM,A,191
+"ach ja",FEEDBACK_POSITIVE,B,191
+"okay",FEEDBACK_POSITIVE,B,191
+"da hätte ich das Hotel Schweizerhof",SUGGEST,B,191
+"das liegt halt zentral hat ein Restaurant eine Garage und einen Konferenzraum",INFORM,B,191
+"ach ja",FEEDBACK_POSITIVE,B,192
+"okay",FEEDBACK_POSITIVE,B,192
+"da hätte ich das Hotel Schweizerhof",SUGGEST,B,192
+"das liegt halt zentral hat ein Restaurant eine Garage und einen Konferenzraum",INFORM,B,192
+"was natürlich für uns sehr wichtig ist",INFORM,B,192
+"okay",FEEDBACK_POSITIVE,B,193
+"da hätte ich das Hotel Schweizerhof",SUGGEST,B,193
+"das liegt halt zentral hat ein Restaurant eine Garage und einen Konferenzraum",INFORM,B,193
+"was natürlich für uns sehr wichtig ist",INFORM,B,193
+"<häs> ich würde aber lieber <ähm> den Luisenhof vorschlagen",SUGGEST,B,193
+"da hätte ich das Hotel Schweizerhof",SUGGEST,B,194
+"das liegt halt zentral hat ein Restaurant eine Garage und einen Konferenzraum",INFORM,B,194
+"was natürlich für uns sehr wichtig ist",INFORM,B,194
+"<häs> ich würde aber lieber <ähm> den Luisenhof vorschlagen",SUGGEST,B,194
+"weil meine Firma trägt bei mir leider die Spesen nicht mehr",GIVE_REASON,B,194
+"das liegt halt zentral hat ein Restaurant eine Garage und einen Konferenzraum",INFORM,B,195
+"was natürlich für uns sehr wichtig ist",INFORM,B,195
+"<häs> ich würde aber lieber <ähm> den Luisenhof vorschlagen",SUGGEST,B,195
+"weil meine Firma trägt bei mir leider die Spesen nicht mehr",GIVE_REASON,B,195
+"mhm",BACKCHANNEL,A,195
+"was natürlich für uns sehr wichtig ist",INFORM,B,196
+"<häs> ich würde aber lieber <ähm> den Luisenhof vorschlagen",SUGGEST,B,196
+"weil meine Firma trägt bei mir leider die Spesen nicht mehr",GIVE_REASON,B,196
+"mhm",BACKCHANNEL,A,196
+"mhm",BACKCHANNEL,A,196
+"<häs> ich würde aber lieber <ähm> den Luisenhof vorschlagen",SUGGEST,B,197
+"weil meine Firma trägt bei mir leider die Spesen nicht mehr",GIVE_REASON,B,197
+"mhm",BACKCHANNEL,A,197
+"mhm",BACKCHANNEL,A,197
+"oh ja",ACCEPT,A,197
+"weil meine Firma trägt bei mir leider die Spesen nicht mehr",GIVE_REASON,B,198
+"mhm",BACKCHANNEL,A,198
+"mhm",BACKCHANNEL,A,198
+"oh ja",ACCEPT,A,198
+"ja natürlich dann dann schließe ich mich Ihnen an",ACCEPT,A,198
+"mhm",BACKCHANNEL,A,199
+"mhm",BACKCHANNEL,A,199
+"oh ja",ACCEPT,A,199
+"ja natürlich dann dann schließe ich mich Ihnen an",ACCEPT,A,199
+"obwohl <hm> das da sind die da liegt die Preislage doch etwas anders",INFORM,B,199
+"mhm",BACKCHANNEL,A,200
+"oh ja",ACCEPT,A,200
+"ja natürlich dann dann schließe ich mich Ihnen an",ACCEPT,A,200
+"obwohl <hm> das da sind die da liegt die Preislage doch etwas anders",INFORM,B,200
+"ich glaube dann doch lieber das Hotel Schweizerhof",SUGGEST,B,200
+"oh ja",ACCEPT,A,201
+"ja natürlich dann dann schließe ich mich Ihnen an",ACCEPT,A,201
+"obwohl <hm> das da sind die da liegt die Preislage doch etwas anders",INFORM,B,201
+"ich glaube dann doch lieber das Hotel Schweizerhof",SUGGEST,B,201
+"das überlasse ich Ihnen",INFORM,A,201
+"ja natürlich dann dann schließe ich mich Ihnen an",ACCEPT,A,202
+"obwohl <hm> das da sind die da liegt die Preislage doch etwas anders",INFORM,B,202
+"ich glaube dann doch lieber das Hotel Schweizerhof",SUGGEST,B,202
+"das überlasse ich Ihnen",INFORM,A,202
+"ich schließe mich Ihnen da an",ACCEPT,A,202
+"obwohl <hm> das da sind die da liegt die Preislage doch etwas anders",INFORM,B,203
+"ich glaube dann doch lieber das Hotel Schweizerhof",SUGGEST,B,203
+"das überlasse ich Ihnen",INFORM,A,203
+"ich schließe mich Ihnen da an",ACCEPT,A,203
+"ich werde mich noch mal erkundigen für die günstigsten",COMMIT,B,203
+"ich glaube dann doch lieber das Hotel Schweizerhof",SUGGEST,B,204
+"das überlasse ich Ihnen",INFORM,A,204
+"ich schließe mich Ihnen da an",ACCEPT,A,204
+"ich werde mich noch mal erkundigen für die günstigsten",COMMIT,B,204
+"dann halten wir aber den Schweizerhof einfach mal fest",CONFIRM,A,204
+"das überlasse ich Ihnen",INFORM,A,205
+"ich schließe mich Ihnen da an",ACCEPT,A,205
+"ich werde mich noch mal erkundigen für die günstigsten",COMMIT,B,205
+"dann halten wir aber den Schweizerhof einfach mal fest",CONFIRM,A,205
+"ja wir können den <%> einfach mal festhalten",CLOSE,B,205
+"ich schließe mich Ihnen da an",ACCEPT,A,206
+"ich werde mich noch mal erkundigen für die günstigsten",COMMIT,B,206
+"dann halten wir aber den Schweizerhof einfach mal fest",CONFIRM,A,206
+"ja wir können den <%> einfach mal festhalten",CLOSE,B,206
+"ja wunderbar",FEEDBACK_POSITIVE,A,206
+"ich werde mich noch mal erkundigen für die günstigsten",COMMIT,B,207
+"dann halten wir aber den Schweizerhof einfach mal fest",CONFIRM,A,207
+"ja wir können den <%> einfach mal festhalten",CLOSE,B,207
+"ja wunderbar",FEEDBACK_POSITIVE,A,207
+"und bezüglich des Abendprogramms werden wir uns dann an Ort und Stelle entscheiden denke ich",INIT,A,207
+"dann halten wir aber den Schweizerhof einfach mal fest",CONFIRM,A,208
+"ja wir können den <%> einfach mal festhalten",CLOSE,B,208
+"ja wunderbar",FEEDBACK_POSITIVE,A,208
+"und bezüglich des Abendprogramms werden wir uns dann an Ort und Stelle entscheiden denke ich",INIT,A,208
+"ja dann danke ich Ihnen Frau Anslik",THANK,A,208
+"ja wir können den <%> einfach mal festhalten",CLOSE,B,209
+"ja wunderbar",FEEDBACK_POSITIVE,A,209
+"und bezüglich des Abendprogramms werden wir uns dann an Ort und Stelle entscheiden denke ich",INIT,A,209
+"ja dann danke ich Ihnen Frau Anslik",THANK,A,209
+"auf Wiedersehen",BYE,A,209
+"ja wunderbar",FEEDBACK_POSITIVE,A,210
+"und bezüglich des Abendprogramms werden wir uns dann an Ort und Stelle entscheiden denke ich",INIT,A,210
+"ja dann danke ich Ihnen Frau Anslik",THANK,A,210
+"auf Wiedersehen",BYE,A,210
+"okay",FEEDBACK_POSITIVE,B,210
+"und bezüglich des Abendprogramms werden wir uns dann an Ort und Stelle entscheiden denke ich",INIT,A,211
+"ja dann danke ich Ihnen Frau Anslik",THANK,A,211
+"auf Wiedersehen",BYE,A,211
+"okay",FEEDBACK_POSITIVE,B,211
+"na ich wünsche Ihnen noch einen schönen guten Tag Frau Udelhofen",POLITENESS_FORMULA,B,211
+"ja dann danke ich Ihnen Frau Anslik",THANK,A,212
+"auf Wiedersehen",BYE,A,212
+"okay",FEEDBACK_POSITIVE,B,212
+"na ich wünsche Ihnen noch einen schönen guten Tag Frau Udelhofen",POLITENESS_FORMULA,B,212
+"danke schön",THANK,A,212
+"ah ja ich weiß Bescheid",INFORM,B,213
+"grüß Gott Frau Breit",GREET,B,213
+"mein Name ist Wolfrum",INTRODUCE,B,213
+"ja dann würde ich sagen schauen wir doch mal",DELIBERATE,B,213
+"ich habe hier auch grade meinen Terminkalender liegen",DELIBERATE,B,213
+"grüß Gott Frau Breit",GREET,B,214
+"mein Name ist Wolfrum",INTRODUCE,B,214
+"ja dann würde ich sagen schauen wir doch mal",DELIBERATE,B,214
+"ich habe hier auch grade meinen Terminkalender liegen",DELIBERATE,B,214
+"ja habe ich auch vor mir",DELIBERATE,A,214
+"mein Name ist Wolfrum",INTRODUCE,B,215
+"ja dann würde ich sagen schauen wir doch mal",DELIBERATE,B,215
+"ich habe hier auch grade meinen Terminkalender liegen",DELIBERATE,B,215
+"ja habe ich auch vor mir",DELIBERATE,A,215
+"wir brauchen zwei Tage nicht",INFORM,B,215
+"ja dann würde ich sagen schauen wir doch mal",DELIBERATE,B,216
+"ich habe hier auch grade meinen Terminkalender liegen",DELIBERATE,B,216
+"ja habe ich auch vor mir",DELIBERATE,A,216
+"wir brauchen zwei Tage nicht",INFORM,B,216
+"mhm",BACKCHANNEL,B,216
+"weil da wären wir Freitag mittags fertig und könnten nachmittags die Heimreise antreten",GIVE_REASON,A,217
+"ja",FEEDBACK_POSITIVE,B,217
+"oh das ist schön",ACCEPT,B,217
+"grade mit dem Wochenende dann Frau Breit ja ja",ACCEPT,B,217
+"dann nehmen wir doch die zwei Tage",ACCEPT,B,217
+"ja",FEEDBACK_POSITIVE,B,218
+"oh das ist schön",ACCEPT,B,218
+"grade mit dem Wochenende dann Frau Breit ja ja",ACCEPT,B,218
+"dann nehmen wir doch die zwei Tage",ACCEPT,B,218
+"ja genau",FEEDBACK_POSITIVE,A,218
+"oh das ist schön",ACCEPT,B,219
+"grade mit dem Wochenende dann Frau Breit ja ja",ACCEPT,B,219
+"dann nehmen wir doch die zwei Tage",ACCEPT,B,219
+"ja genau",FEEDBACK_POSITIVE,A,219
+"kommen wir gut ins Wochenende",INFORM,A,219
+"grade mit dem Wochenende dann Frau Breit ja ja",ACCEPT,B,220
+"dann nehmen wir doch die zwei Tage",ACCEPT,B,220
+"ja genau",FEEDBACK_POSITIVE,A,220
+"kommen wir gut ins Wochenende",INFORM,A,220
+"haben Sie da auch Zeit Frau Wolfrum",REQUEST,A,220
+"dann nehmen wir doch die zwei Tage",ACCEPT,B,221
+"ja genau",FEEDBACK_POSITIVE,A,221
+"kommen wir gut ins Wochenende",INFORM,A,221
+"haben Sie da auch Zeit Frau Wolfrum",REQUEST,A,221
+"ja das paßt mir wunderbar mhm",FEEDBACK_POSITIVE,B,221
+"ja genau",FEEDBACK_POSITIVE,A,222
+"kommen wir gut ins Wochenende",INFORM,A,222
+"haben Sie da auch Zeit Frau Wolfrum",REQUEST,A,222
+"ja das paßt mir wunderbar mhm",FEEDBACK_POSITIVE,B,222
+"ja wunderbar",FEEDBACK_POSITIVE,A,222
+"kommen wir gut ins Wochenende",INFORM,A,223
+"haben Sie da auch Zeit Frau Wolfrum",REQUEST,A,223
+"ja das paßt mir wunderbar mhm",FEEDBACK_POSITIVE,B,223
+"ja wunderbar",FEEDBACK_POSITIVE,A,223
+"gut <ähm> ja wie kommen wir denn hin",INIT,B,223
+"haben Sie da auch Zeit Frau Wolfrum",REQUEST,A,224
+"ja das paßt mir wunderbar mhm",FEEDBACK_POSITIVE,B,224
+"ja wunderbar",FEEDBACK_POSITIVE,A,224
+"gut <ähm> ja wie kommen wir denn hin",INIT,B,224
+"würde sagen wir fliegen",SUGGEST,B,224
+"ja das paßt mir wunderbar mhm",FEEDBACK_POSITIVE,B,225
+"ja wunderbar",FEEDBACK_POSITIVE,A,225
+"gut <ähm> ja wie kommen wir denn hin",INIT,B,225
+"würde sagen wir fliegen",SUGGEST,B,225
+"das ist immer sehr angenehm",GIVE_REASON,B,225
+"ja wunderbar",FEEDBACK_POSITIVE,A,226
+"gut <ähm> ja wie kommen wir denn hin",INIT,B,226
+"würde sagen wir fliegen",SUGGEST,B,226
+"das ist immer sehr angenehm",GIVE_REASON,B,226
+"richtig",ACCEPT,A,226
+"gut <ähm> ja wie kommen wir denn hin",INIT,B,227
+"würde sagen wir fliegen",SUGGEST,B,227
+"das ist immer sehr angenehm",GIVE_REASON,B,227
+"richtig",ACCEPT,A,227
+"stimme ich Ihnen voll und ganz zu",ACCEPT,A,227
+"würde sagen wir fliegen",SUGGEST,B,228
+"das ist immer sehr angenehm",GIVE_REASON,B,228
+"richtig",ACCEPT,A,228
+"stimme ich Ihnen voll und ganz zu",ACCEPT,A,228
+"da wir ja den Flug bezahlt bekommen",GIVE_REASON,A,228
+"das ist immer sehr angenehm",GIVE_REASON,B,229
+"richtig",ACCEPT,A,229
+"stimme ich Ihnen voll und ganz zu",ACCEPT,A,229
+"da wir ja den Flug bezahlt bekommen",GIVE_REASON,A,229
+"gut",FEEDBACK_POSITIVE,B,229
+"richtig",ACCEPT,A,230
+"stimme ich Ihnen voll und ganz zu",ACCEPT,A,230
+"da wir ja den Flug bezahlt bekommen",GIVE_REASON,A,230
+"gut",FEEDBACK_POSITIVE,B,230
+"eben eben eben",DELIBERATE,B,230
+"stimme ich Ihnen voll und ganz zu",ACCEPT,A,231
+"da wir ja den Flug bezahlt bekommen",GIVE_REASON,A,231
+"gut",FEEDBACK_POSITIVE,B,231
+"eben eben eben",DELIBERATE,B,231
+"<ähm> ja der erste Flug geht um sieben Uhr fünfzehn dann jeweils stündlich <ähm>",INFORM,B,231
+"da wir ja den Flug bezahlt bekommen",GIVE_REASON,A,232
+"gut",FEEDBACK_POSITIVE,B,232
+"eben eben eben",DELIBERATE,B,232
+"<ähm> ja der erste Flug geht um sieben Uhr fünfzehn dann jeweils stündlich <ähm>",INFORM,B,232
+"ja",FEEDBACK_POSITIVE,A,232
+"gut",FEEDBACK_POSITIVE,B,233
+"eben eben eben",DELIBERATE,B,233
+"<ähm> ja der erste Flug geht um sieben Uhr fünfzehn dann jeweils stündlich <ähm>",INFORM,B,233
+"ja",FEEDBACK_POSITIVE,A,233
+"ich denke da sollten wir fast schon den um sieben Uhr fünfzehn nehmen",SUGGEST,A,233
+"eben eben eben",DELIBERATE,B,234
+"<ähm> ja der erste Flug geht um sieben Uhr fünfzehn dann jeweils stündlich <ähm>",INFORM,B,234
+"ja",FEEDBACK_POSITIVE,A,234
+"ich denke da sollten wir fast schon den um sieben Uhr fünfzehn nehmen",SUGGEST,A,234
+"ja",FEEDBACK_POSITIVE,B,234
+"<ähm> ja der erste Flug geht um sieben Uhr fünfzehn dann jeweils stündlich <ähm>",INFORM,B,235
+"ja",FEEDBACK_POSITIVE,A,235
+"ich denke da sollten wir fast schon den um sieben Uhr fünfzehn nehmen",SUGGEST,A,235
+"ja",FEEDBACK_POSITIVE,B,235
+"genau",ACCEPT,B,235
+"ja",FEEDBACK_POSITIVE,A,236
+"ich denke da sollten wir fast schon den um sieben Uhr fünfzehn nehmen",SUGGEST,A,236
+"ja",FEEDBACK_POSITIVE,B,236
+"genau",ACCEPT,B,236
+"wenn wir eben Freitag mittag wieder zurück wollen",GIVE_REASON,B,236
+"ich denke da sollten wir fast schon den um sieben Uhr fünfzehn nehmen",SUGGEST,A,237
+"ja",FEEDBACK_POSITIVE,B,237
+"genau",ACCEPT,B,237
+"wenn wir eben Freitag mittag wieder zurück wollen",GIVE_REASON,B,237
+"genau",FEEDBACK_POSITIVE,A,237
+"ja",FEEDBACK_POSITIVE,B,238
+"genau",ACCEPT,B,238
+"wenn wir eben Freitag mittag wieder zurück wollen",GIVE_REASON,B,238
+"genau",FEEDBACK_POSITIVE,A,238
+"richtig",FEEDBACK_POSITIVE,A,238
+"genau",ACCEPT,B,239
+"wenn wir eben Freitag mittag wieder zurück wollen",GIVE_REASON,B,239
+"genau",FEEDBACK_POSITIVE,A,239
+"richtig",FEEDBACK_POSITIVE,A,239
+"weil wir fliegen ja doch siebzig Minuten",INFORM,A,239
+"wenn wir eben Freitag mittag wieder zurück wollen",GIVE_REASON,B,240
+"genau",FEEDBACK_POSITIVE,A,240
+"richtig",FEEDBACK_POSITIVE,A,240
+"weil wir fliegen ja doch siebzig Minuten",INFORM,A,240
+"alles klar",FEEDBACK_POSITIVE,B,240
+"genau",FEEDBACK_POSITIVE,A,241
+"richtig",FEEDBACK_POSITIVE,A,241
+"weil wir fliegen ja doch siebzig Minuten",INFORM,A,241
+"alles klar",FEEDBACK_POSITIVE,B,241
+"okay",FEEDBACK_POSITIVE,B,241
+"richtig",FEEDBACK_POSITIVE,A,242
+"weil wir fliegen ja doch siebzig Minuten",INFORM,A,242
+"alles klar",FEEDBACK_POSITIVE,B,242
+"okay",FEEDBACK_POSITIVE,B,242
+"dann lasse ich den mal für zwei Personen buchen un",COMMIT,A,242
+"weil wir fliegen ja doch siebzig Minuten",INFORM,A,243
+"alles klar",FEEDBACK_POSITIVE,B,243
+"okay",FEEDBACK_POSITIVE,B,243
+"dann lasse ich den mal für zwei Personen buchen un",COMMIT,A,243
+"schön",ACCEPT,B,243
+"alles klar",FEEDBACK_POSITIVE,B,244
+"okay",FEEDBACK_POSITIVE,B,244
+"dann lasse ich den mal für zwei Personen buchen un",COMMIT,A,244
+"schön",ACCEPT,B,244
+"und den Rückflug Freitag",REQUEST_SUGGEST,B,244
+"okay",FEEDBACK_POSITIVE,B,245
+"dann lasse ich den mal für zwei Personen buchen un",COMMIT,A,245
+"schön",ACCEPT,B,245
+"und den Rückflug Freitag",REQUEST_SUGGEST,B,245
+"<hm> ich denke um vierzehn Uhr sind wir bestimmt fertig",INFORM,A,245
+"dann lasse ich den mal für zwei Personen buchen un",COMMIT,A,246
+"schön",ACCEPT,B,246
+"und den Rückflug Freitag",REQUEST_SUGGEST,B,246
+"<hm> ich denke um vierzehn Uhr sind wir bestimmt fertig",INFORM,A,246
+"ja genau genau",FEEDBACK_POSITIVE,B,246
+"schön",ACCEPT,B,247
+"und den Rückflug Freitag",REQUEST_SUGGEST,B,247
+"<hm> ich denke um vierzehn Uhr sind wir bestimmt fertig",INFORM,A,247
+"ja genau genau",FEEDBACK_POSITIVE,B,247
+"alles klar nehmen wir den vierzehn Uhr <%>",SUGGEST,B,247
+"und den Rückflug Freitag",REQUEST_SUGGEST,B,248
+"<hm> ich denke um vierzehn Uhr sind wir bestimmt fertig",INFORM,A,248
+"ja genau genau",FEEDBACK_POSITIVE,B,248
+"alles klar nehmen wir den vierzehn Uhr <%>",SUGGEST,B,248
+"<hm> nee da flieg",REJECT,A,248
+"<hm> ich denke um vierzehn Uhr sind wir bestimmt fertig",INFORM,A,249
+"ja genau genau",FEEDBACK_POSITIVE,B,249
+"alles klar nehmen wir den vierzehn Uhr <%>",SUGGEST,B,249
+"<hm> nee da flieg",REJECT,A,249
+"<äh> vierzehn Uhr fünfundzwanzig oder dreizehn Uhr fünfundzwanzig hätten wir da Flüge",INFORM,A,249
+"ja genau genau",FEEDBACK_POSITIVE,B,250
+"alles klar nehmen wir den vierzehn Uhr <%>",SUGGEST,B,250
+"<hm> nee da flieg",REJECT,A,250
+"<äh> vierzehn Uhr fünfundzwanzig oder dreizehn Uhr fünfundzwanzig hätten wir da Flüge",INFORM,A,250
+"<hm> jetzt warten Sie mal",DELIBERATE,B,250
+"alles klar nehmen wir den vierzehn Uhr <%>",SUGGEST,B,251
+"<hm> nee da flieg",REJECT,A,251
+"<äh> vierzehn Uhr fünfundzwanzig oder dreizehn Uhr fünfundzwanzig hätten wir da Flüge",INFORM,A,251
+"<hm> jetzt warten Sie mal",DELIBERATE,B,251
+"ja genau mhm",DELIBERATE,B,251
+"<hm> nee da flieg",REJECT,A,252
+"<äh> vierzehn Uhr fünfundzwanzig oder dreizehn Uhr fünfundzwanzig hätten wir da Flüge",INFORM,A,252
+"<hm> jetzt warten Sie mal",DELIBERATE,B,252
+"ja genau mhm",DELIBERATE,B,252
+"haben wir auch so vorliegen genau",DELIBERATE,B,252
+"<äh> vierzehn Uhr fünfundzwanzig oder dreizehn Uhr fünfundzwanzig hätten wir da Flüge",INFORM,A,253
+"<hm> jetzt warten Sie mal",DELIBERATE,B,253
+"ja genau mhm",DELIBERATE,B,253
+"haben wir auch so vorliegen genau",DELIBERATE,B,253
+"nehmen wir den um dreizehn Uhr fünfundzwanzig dann oder",SUGGEST,A,253
+"<hm> jetzt warten Sie mal",DELIBERATE,B,254
+"ja genau mhm",DELIBERATE,B,254
+"haben wir auch so vorliegen genau",DELIBERATE,B,254
+"nehmen wir den um dreizehn Uhr fünfundzwanzig dann oder",SUGGEST,A,254
+"oh glauben Sie das schaffen wir",REQUEST,B,254
+"ja genau mhm",DELIBERATE,B,255
+"haben wir auch so vorliegen genau",DELIBERATE,B,255
+"nehmen wir den um dreizehn Uhr fünfundzwanzig dann oder",SUGGEST,A,255
+"oh glauben Sie das schaffen wir",REQUEST,B,255
+"na ja gut Sie haben recht Frau Wolfrum",FEEDBACK_POSITIVE,A,255
+"haben wir auch so vorliegen genau",DELIBERATE,B,256
+"nehmen wir den um dreizehn Uhr fünfundzwanzig dann oder",SUGGEST,A,256
+"oh glauben Sie das schaffen wir",REQUEST,B,256
+"na ja gut Sie haben recht Frau Wolfrum",FEEDBACK_POSITIVE,A,256
+"gehen wir auf Nummer Sicher",FEEDBACK_POSITIVE,A,256
+"nehmen wir den um dreizehn Uhr fünfundzwanzig dann oder",SUGGEST,A,257
+"oh glauben Sie das schaffen wir",REQUEST,B,257
+"na ja gut Sie haben recht Frau Wolfrum",FEEDBACK_POSITIVE,A,257
+"gehen wir auf Nummer Sicher",FEEDBACK_POSITIVE,A,257
+"nicht daß es dann zeitlich knapp wird Frau Breit",GIVE_REASON,B,257
+"oh glauben Sie das schaffen wir",REQUEST,B,258
+"na ja gut Sie haben recht Frau Wolfrum",FEEDBACK_POSITIVE,A,258
+"gehen wir auf Nummer Sicher",FEEDBACK_POSITIVE,A,258
+"nicht daß es dann zeitlich knapp wird Frau Breit",GIVE_REASON,B,258
+"vierzehn fünfundzwanzig",SUGGEST,B,258
+"na ja gut Sie haben recht Frau Wolfrum",FEEDBACK_POSITIVE,A,259
+"gehen wir auf Nummer Sicher",FEEDBACK_POSITIVE,A,259
+"nicht daß es dann zeitlich knapp wird Frau Breit",GIVE_REASON,B,259
+"vierzehn fünfundzwanzig",SUGGEST,B,259
+"okay alles klar",ACCEPT,B,259
+"gehen wir auf Nummer Sicher",FEEDBACK_POSITIVE,A,260
+"nicht daß es dann zeitlich knapp wird Frau Breit",GIVE_REASON,B,260
+"vierzehn fünfundzwanzig",SUGGEST,B,260
+"okay alles klar",ACCEPT,B,260
+"lassen wir uns die Stunde",ACCEPT,A,260
+"nicht daß es dann zeitlich knapp wird Frau Breit",GIVE_REASON,B,261
+"vierzehn fünfundzwanzig",SUGGEST,B,261
+"okay alles klar",ACCEPT,B,261
+"lassen wir uns die Stunde",ACCEPT,A,261
+"gut ich lasse das soweit buchen",COMMIT,A,261
+"vierzehn fünfundzwanzig",SUGGEST,B,262
+"okay alles klar",ACCEPT,B,262
+"lassen wir uns die Stunde",ACCEPT,A,262
+"gut ich lasse das soweit buchen",COMMIT,A,262
+"dann haben Sie da keine Arbeit Frau Wolfrum",INFORM,A,262
+"okay alles klar",ACCEPT,B,263
+"lassen wir uns die Stunde",ACCEPT,A,263
+"gut ich lasse das soweit buchen",COMMIT,A,263
+"dann haben Sie da keine Arbeit Frau Wolfrum",INFORM,A,263
+"und <äh> ich denke daß das insoweit klappt",INFORM,A,263
+"lassen wir uns die Stunde",ACCEPT,A,264
+"gut ich lasse das soweit buchen",COMMIT,A,264
+"dann haben Sie da keine Arbeit Frau Wolfrum",INFORM,A,264
+"und <äh> ich denke daß das insoweit klappt",INFORM,A,264
+"falls noch irgendwas vorkommen sollte melden Sie sich bei mir und andersrum",DELIBERATE,A,264
+"gut ich lasse das soweit buchen",COMMIT,A,265
+"dann haben Sie da keine Arbeit Frau Wolfrum",INFORM,A,265
+"und <äh> ich denke daß das insoweit klappt",INFORM,A,265
+"falls noch irgendwas vorkommen sollte melden Sie sich bei mir und andersrum",DELIBERATE,A,265
+"ja das ist nett",FEEDBACK_POSITIVE,B,265
+"dann haben Sie da keine Arbeit Frau Wolfrum",INFORM,A,266
+"und <äh> ich denke daß das insoweit klappt",INFORM,A,266
+"falls noch irgendwas vorkommen sollte melden Sie sich bei mir und andersrum",DELIBERATE,A,266
+"ja das ist nett",FEEDBACK_POSITIVE,B,266
+"alles klar wir haben ja unsere Nummer genau",INFORM,B,266
+"und <äh> ich denke daß das insoweit klappt",INFORM,A,267
+"falls noch irgendwas vorkommen sollte melden Sie sich bei mir und andersrum",DELIBERATE,A,267
+"ja das ist nett",FEEDBACK_POSITIVE,B,267
+"alles klar wir haben ja unsere Nummer genau",INFORM,B,267
+"gut <%>",FEEDBACK_POSITIVE,B,267
+"falls noch irgendwas vorkommen sollte melden Sie sich bei mir und andersrum",DELIBERATE,A,268
+"ja das ist nett",FEEDBACK_POSITIVE,B,268
+"alles klar wir haben ja unsere Nummer genau",INFORM,B,268
+"gut <%>",FEEDBACK_POSITIVE,B,268
+"genau",FEEDBACK_POSITIVE,A,268
+"ja das ist nett",FEEDBACK_POSITIVE,B,269
+"alles klar wir haben ja unsere Nummer genau",INFORM,B,269
+"gut <%>",FEEDBACK_POSITIVE,B,269
+"genau",FEEDBACK_POSITIVE,A,269
+"wünsche ich noch einen schönen Tag",POLITENESS_FORMULA,A,269
+"alles klar wir haben ja unsere Nummer genau",INFORM,B,270
+"gut <%>",FEEDBACK_POSITIVE,B,270
+"genau",FEEDBACK_POSITIVE,A,270
+"wünsche ich noch einen schönen Tag",POLITENESS_FORMULA,A,270
+"ebenfalls",POLITENESS_FORMULA,B,270
+"gut <%>",FEEDBACK_POSITIVE,B,271
+"genau",FEEDBACK_POSITIVE,A,271
+"wünsche ich noch einen schönen Tag",POLITENESS_FORMULA,A,271
+"ebenfalls",POLITENESS_FORMULA,B,271
+"Wiedersehen",BYE,B,271
+"genau",FEEDBACK_POSITIVE,A,272
+"wünsche ich noch einen schönen Tag",POLITENESS_FORMULA,A,272
+"ebenfalls",POLITENESS_FORMULA,B,272
+"Wiedersehen",BYE,B,272
+"Wiedersehen",BYE,A,272
+"guten Tag Frau Zanker",GREET,B,273
+"wie geht es Ihnen",POLITENESS_FORMULA,A,273
+"mir geht es sehr gut",FEEDBACK_POSITIVE,B,273
+"wie geht es Ihnen",POLITENESS_FORMULA,B,273
+"gut",FEEDBACK_POSITIVE,A,273
+"wie geht es Ihnen",POLITENESS_FORMULA,A,274
+"mir geht es sehr gut",FEEDBACK_POSITIVE,B,274
+"wie geht es Ihnen",POLITENESS_FORMULA,B,274
+"gut",FEEDBACK_POSITIVE,A,274
+"danke ja",THANK,A,274
+"mir geht es sehr gut",FEEDBACK_POSITIVE,B,275
+"wie geht es Ihnen",POLITENESS_FORMULA,B,275
+"gut",FEEDBACK_POSITIVE,A,275
+"danke ja",THANK,A,275
+"<ähm> wir sollten g uns unterhalten über unsere gemeinsame Geschäftsreise nicht wahr",INIT,A,275
+"wie geht es Ihnen",POLITENESS_FORMULA,B,276
+"gut",FEEDBACK_POSITIVE,A,276
+"danke ja",THANK,A,276
+"<ähm> wir sollten g uns unterhalten über unsere gemeinsame Geschäftsreise nicht wahr",INIT,A,276
+"ja",FEEDBACK_POSITIVE,B,276
+"gut",FEEDBACK_POSITIVE,A,277
+"danke ja",THANK,A,277
+"<ähm> wir sollten g uns unterhalten über unsere gemeinsame Geschäftsreise nicht wahr",INIT,A,277
+"ja",FEEDBACK_POSITIVE,B,277
+"<ähm> drei bis vier Tage nach Hannover",INFORM,A,277
+"danke ja",THANK,A,278
+"<ähm> wir sollten g uns unterhalten über unsere gemeinsame Geschäftsreise nicht wahr",INIT,A,278
+"ja",FEEDBACK_POSITIVE,B,278
+"<ähm> drei bis vier Tage nach Hannover",INFORM,A,278
+"mhm",BACKCHANNEL,A,278
+"<ähm> wir sollten g uns unterhalten über unsere gemeinsame Geschäftsreise nicht wahr",INIT,A,279
+"ja",FEEDBACK_POSITIVE,B,279
+"<ähm> drei bis vier Tage nach Hannover",INFORM,A,279
+"mhm",BACKCHANNEL,A,279
+"mhm",BACKCHANNEL,B,279
+"ja",FEEDBACK_POSITIVE,B,280
+"<ähm> drei bis vier Tage nach Hannover",INFORM,A,280
+"mhm",BACKCHANNEL,A,280
+"mhm",BACKCHANNEL,B,280
+"ja sollte ich vielleicht mal auf meinen Terminkalender sehen",DELIBERATE,B,280
+"<ähm> drei bis vier Tage nach Hannover",INFORM,A,281
+"mhm",BACKCHANNEL,A,281
+"mhm",BACKCHANNEL,B,281
+"ja sollte ich vielleicht mal auf meinen Terminkalender sehen",DELIBERATE,B,281
+"ja",FEEDBACK_POSITIVE,A,281
+"mhm",BACKCHANNEL,A,282
+"mhm",BACKCHANNEL,B,282
+"ja sollte ich vielleicht mal auf meinen Terminkalender sehen",DELIBERATE,B,282
+"ja",FEEDBACK_POSITIVE,A,282
+"hm",BACKCHANNEL,B,282
+"mhm",BACKCHANNEL,B,283
+"ja sollte ich vielleicht mal auf meinen Terminkalender sehen",DELIBERATE,B,283
+"ja",FEEDBACK_POSITIVE,A,283
+"hm",BACKCHANNEL,B,283
+"ja also am Mitte April wollte ich in Urlaub fahren",EXCLUDE,B,283
+"ja sollte ich vielleicht mal auf meinen Terminkalender sehen",DELIBERATE,B,284
+"ja",FEEDBACK_POSITIVE,A,284
+"hm",BACKCHANNEL,B,284
+"ja also am Mitte April wollte ich in Urlaub fahren",EXCLUDE,B,284
+"schwer verdient",GIVE_REASON,B,284
+"ja",FEEDBACK_POSITIVE,A,285
+"hm",BACKCHANNEL,B,285
+"ja also am Mitte April wollte ich in Urlaub fahren",EXCLUDE,B,285
+"schwer verdient",GIVE_REASON,B,285
+"hm",BACKCHANNEL,A,285
+"hm",BACKCHANNEL,B,286
+"ja also am Mitte April wollte ich in Urlaub fahren",EXCLUDE,B,286
+"schwer verdient",GIVE_REASON,B,286
+"hm",BACKCHANNEL,A,286
+"ja ich auch Anfang April Anfang April",EXCLUDE,A,286
+"ja also am Mitte April wollte ich in Urlaub fahren",EXCLUDE,B,287
+"schwer verdient",GIVE_REASON,B,287
+"hm",BACKCHANNEL,A,287
+"ja ich auch Anfang April Anfang April",EXCLUDE,A,287
+"ja dann fällt der April eigentlich schon fast raus",EXCLUDE,B,287
+"schwer verdient",GIVE_REASON,B,288
+"hm",BACKCHANNEL,A,288
+"ja ich auch Anfang April Anfang April",EXCLUDE,A,288
+"ja dann fällt der April eigentlich schon fast raus",EXCLUDE,B,288
+"außer wir würden es vom siebenundzwanzigsten bis zum dreißigsten machen",SUGGEST,B,288
+"hm",BACKCHANNEL,A,289
+"ja ich auch Anfang April Anfang April",EXCLUDE,A,289
+"ja dann fällt der April eigentlich schon fast raus",EXCLUDE,B,289
+"außer wir würden es vom siebenundzwanzigsten bis zum dreißigsten machen",SUGGEST,B,289
+"siebenundzwanzigster bis zum dreißigsten",DELIBERATE,A,289
+"ja ich auch Anfang April Anfang April",EXCLUDE,A,290
+"ja dann fällt der April eigentlich schon fast raus",EXCLUDE,B,290
+"außer wir würden es vom siebenundzwanzigsten bis zum dreißigsten machen",SUGGEST,B,290
+"siebenundzwanzigster bis zum dreißigsten",DELIBERATE,A,290
+"ja eigentlich doch",ACCEPT,A,290
+"ja dann fällt der April eigentlich schon fast raus",EXCLUDE,B,291
+"außer wir würden es vom siebenundzwanzigsten bis zum dreißigsten machen",SUGGEST,B,291
+"siebenundzwanzigster bis zum dreißigsten",DELIBERATE,A,291
+"ja eigentlich doch",ACCEPT,A,291
+"natürlich da habe ich auch Zeit",ACCEPT,A,291
+"außer wir würden es vom siebenundzwanzigsten bis zum dreißigsten machen",SUGGEST,B,292
+"siebenundzwanzigster bis zum dreißigsten",DELIBERATE,A,292
+"ja eigentlich doch",ACCEPT,A,292
+"natürlich da habe ich auch Zeit",ACCEPT,A,292
+"ja",ACCEPT,A,292
+"siebenundzwanzigster bis zum dreißigsten",DELIBERATE,A,293
+"ja eigentlich doch",ACCEPT,A,293
+"natürlich da habe ich auch Zeit",ACCEPT,A,293
+"ja",ACCEPT,A,293
+"mhm",BACKCHANNEL,A,293
+"ja eigentlich doch",ACCEPT,A,294
+"natürlich da habe ich auch Zeit",ACCEPT,A,294
+"ja",ACCEPT,A,294
+"mhm",BACKCHANNEL,A,294
+"gut",ACCEPT,A,294
+"natürlich da habe ich auch Zeit",ACCEPT,A,295
+"ja",ACCEPT,A,295
+"mhm",BACKCHANNEL,A,295
+"gut",ACCEPT,A,295
+"wenn Ihnen das recht ist",REQUEST_COMMENT,A,295
+"ja",ACCEPT,A,296
+"mhm",BACKCHANNEL,A,296
+"gut",ACCEPT,A,296
+"wenn Ihnen das recht ist",REQUEST_COMMENT,A,296
+"mhm",BACKCHANNEL,B,296
+"mhm",BACKCHANNEL,A,297
+"gut",ACCEPT,A,297
+"wenn Ihnen das recht ist",REQUEST_COMMENT,A,297
+"mhm",BACKCHANNEL,B,297
+"ja mir ist es recht",FEEDBACK_POSITIVE,B,297
+"gut",ACCEPT,A,298
+"wenn Ihnen das recht ist",REQUEST_COMMENT,A,298
+"mhm",BACKCHANNEL,B,298
+"ja mir ist es recht",FEEDBACK_POSITIVE,B,298
+"frisch erholt",INFORM,B,298
+"wenn Ihnen das recht ist",REQUEST_COMMENT,A,299
+"mhm",BACKCHANNEL,B,299
+"ja mir ist es recht",FEEDBACK_POSITIVE,B,299
+"frisch erholt",INFORM,B,299
+"braungebrannt noch",DEVIATE_SCENARIO,A,299
+"mhm",BACKCHANNEL,B,300
+"ja mir ist es recht",FEEDBACK_POSITIVE,B,300
+"frisch erholt",INFORM,B,300
+"braungebrannt noch",DEVIATE_SCENARIO,A,300
+"gut",FEEDBACK_POSITIVE,A,300
+"ja mir ist es recht",FEEDBACK_POSITIVE,B,301
+"frisch erholt",INFORM,B,301
+"braungebrannt noch",DEVIATE_SCENARIO,A,301
+"gut",FEEDBACK_POSITIVE,A,301
+"macht immer guten Eindruck",DEVIATE_SCENARIO,B,301
+"frisch erholt",INFORM,B,302
+"braungebrannt noch",DEVIATE_SCENARIO,A,302
+"gut",FEEDBACK_POSITIVE,A,302
+"macht immer guten Eindruck",DEVIATE_SCENARIO,B,302
+"<ähm> ja gut dann halten wir den siebenundzwanzigsten bis zum dreißigsten fest",SUGGEST,A,302
+"braungebrannt noch",DEVIATE_SCENARIO,A,303
+"gut",FEEDBACK_POSITIVE,A,303
+"macht immer guten Eindruck",DEVIATE_SCENARIO,B,303
+"<ähm> ja gut dann halten wir den siebenundzwanzigsten bis zum dreißigsten fest",SUGGEST,A,303
+"ja wäre mir sehr recht",ACCEPT,B,303
+"gut",FEEDBACK_POSITIVE,A,304
+"macht immer guten Eindruck",DEVIATE_SCENARIO,B,304
+"<ähm> ja gut dann halten wir den siebenundzwanzigsten bis zum dreißigsten fest",SUGGEST,A,304
+"ja wäre mir sehr recht",ACCEPT,B,304
+"na dann sollten wir uns noch um das Hotel kümmern",INIT,B,304
+"macht immer guten Eindruck",DEVIATE_SCENARIO,B,305
+"<ähm> ja gut dann halten wir den siebenundzwanzigsten bis zum dreißigsten fest",SUGGEST,A,305
+"ja wäre mir sehr recht",ACCEPT,B,305
+"na dann sollten wir uns noch um das Hotel kümmern",INIT,B,305
+"<hm> ich habe hier drei auf meiner Liste stehen die alle recht zentral liegen",INFORM,B,305
+"<ähm> ja gut dann halten wir den siebenundzwanzigsten bis zum dreißigsten fest",SUGGEST,A,306
+"ja wäre mir sehr recht",ACCEPT,B,306
+"na dann sollten wir uns noch um das Hotel kümmern",INIT,B,306
+"<hm> ich habe hier drei auf meiner Liste stehen die alle recht zentral liegen",INFORM,B,306
+"liegen allerdings vom Preis recht weit auseinander",INFORM,B,306
+"ja wäre mir sehr recht",ACCEPT,B,307
+"na dann sollten wir uns noch um das Hotel kümmern",INIT,B,307
+"<hm> ich habe hier drei auf meiner Liste stehen die alle recht zentral liegen",INFORM,B,307
+"liegen allerdings vom Preis recht weit auseinander",INFORM,B,307
+"das billigste wäre das Hotel Am-Rathaus",INFORM,B,307
+"na dann sollten wir uns noch um das Hotel kümmern",INIT,B,308
+"<hm> ich habe hier drei auf meiner Liste stehen die alle recht zentral liegen",INFORM,B,308
+"liegen allerdings vom Preis recht weit auseinander",INFORM,B,308
+"das billigste wäre das Hotel Am-Rathaus",INFORM,B,308
+"das kostet das Einzelzimmer nur einhundert zehn Mark",INFORM,B,308
+"<hm> ich habe hier drei auf meiner Liste stehen die alle recht zentral liegen",INFORM,B,309
+"liegen allerdings vom Preis recht weit auseinander",INFORM,B,309
+"das billigste wäre das Hotel Am-Rathaus",INFORM,B,309
+"das kostet das Einzelzimmer nur einhundert zehn Mark",INFORM,B,309
+"hm das teuerste wäre das Maritim-Stadthotel für zweihundert fünfundvierzig",INFORM,B,309
+"liegen allerdings vom Preis recht weit auseinander",INFORM,B,310
+"das billigste wäre das Hotel Am-Rathaus",INFORM,B,310
+"das kostet das Einzelzimmer nur einhundert zehn Mark",INFORM,B,310
+"hm das teuerste wäre das Maritim-Stadthotel für zweihundert fünfundvierzig",INFORM,B,310
+"<ähm> alle drei haben einen Konferenzraum",INFORM,B,310
+"das billigste wäre das Hotel Am-Rathaus",INFORM,B,311
+"das kostet das Einzelzimmer nur einhundert zehn Mark",INFORM,B,311
+"hm das teuerste wäre das Maritim-Stadthotel für zweihundert fünfundvierzig",INFORM,B,311
+"<ähm> alle drei haben einen Konferenzraum",INFORM,B,311
+"<hm> das Alpha-Tirol hätte eine Garage",INFORM,B,311
+"das kostet das Einzelzimmer nur einhundert zehn Mark",INFORM,B,312
+"hm das teuerste wäre das Maritim-Stadthotel für zweihundert fünfundvierzig",INFORM,B,312
+"<ähm> alle drei haben einen Konferenzraum",INFORM,B,312
+"<hm> das Alpha-Tirol hätte eine Garage",INFORM,B,312
+"aber ich denke die brauchen wir nicht",REQUEST_COMMENT,B,312
+"hm das teuerste wäre das Maritim-Stadthotel für zweihundert fünfundvierzig",INFORM,B,313
+"<ähm> alle drei haben einen Konferenzraum",INFORM,B,313
+"<hm> das Alpha-Tirol hätte eine Garage",INFORM,B,313
+"aber ich denke die brauchen wir nicht",REQUEST_COMMENT,B,313
+"mhm",BACKCHANNEL,A,313
+"<ähm> alle drei haben einen Konferenzraum",INFORM,B,314
+"<hm> das Alpha-Tirol hätte eine Garage",INFORM,B,314
+"aber ich denke die brauchen wir nicht",REQUEST_COMMENT,B,314
+"mhm",BACKCHANNEL,A,314
+"nein",FEEDBACK_POSITIVE,A,314
+"<hm> das Alpha-Tirol hätte eine Garage",INFORM,B,315
+"aber ich denke die brauchen wir nicht",REQUEST_COMMENT,B,315
+"mhm",BACKCHANNEL,A,315
+"nein",FEEDBACK_POSITIVE,A,315
+"die brauchen wir nicht ne",FEEDBACK_POSITIVE,A,315
+"aber ich denke die brauchen wir nicht",REQUEST_COMMENT,B,316
+"mhm",BACKCHANNEL,A,316
+"nein",FEEDBACK_POSITIVE,A,316
+"die brauchen wir nicht ne",FEEDBACK_POSITIVE,A,316
+"das läge dazwischen das Alpha-Tirol für einhundert achtunddreißig Einzelzimmer",INFORM,B,316
+"mhm",BACKCHANNEL,A,317
+"nein",FEEDBACK_POSITIVE,A,317
+"die brauchen wir nicht ne",FEEDBACK_POSITIVE,A,317
+"das läge dazwischen das Alpha-Tirol für einhundert achtunddreißig Einzelzimmer",INFORM,B,317
+"das Maritim hätte eine Sauna und ein Hallenbad",INFORM,B,317
+"nein",FEEDBACK_POSITIVE,A,318
+"die brauchen wir nicht ne",FEEDBACK_POSITIVE,A,318
+"das läge dazwischen das Alpha-Tirol für einhundert achtunddreißig Einzelzimmer",INFORM,B,318
+"das Maritim hätte eine Sauna und ein Hallenbad",INFORM,B,318
+"dafür hat das Hotel Am-Rathaus ein Restaurant",INFORM,B,318
+"die brauchen wir nicht ne",FEEDBACK_POSITIVE,A,319
+"das läge dazwischen das Alpha-Tirol für einhundert achtunddreißig Einzelzimmer",INFORM,B,319
+"das Maritim hätte eine Sauna und ein Hallenbad",INFORM,B,319
+"dafür hat das Hotel Am-Rathaus ein Restaurant",INFORM,B,319
+"das hört sich natürlich gut an",FEEDBACK_POSITIVE,A,319
+"das läge dazwischen das Alpha-Tirol für einhundert achtunddreißig Einzelzimmer",INFORM,B,320
+"das Maritim hätte eine Sauna und ein Hallenbad",INFORM,B,320
+"dafür hat das Hotel Am-Rathaus ein Restaurant",INFORM,B,320
+"das hört sich natürlich gut an",FEEDBACK_POSITIVE,A,320
+"ja also ich kenne die alle drei nicht",INFORM,A,320
+"das Maritim hätte eine Sauna und ein Hallenbad",INFORM,B,321
+"dafür hat das Hotel Am-Rathaus ein Restaurant",INFORM,B,321
+"das hört sich natürlich gut an",FEEDBACK_POSITIVE,A,321
+"ja also ich kenne die alle drei nicht",INFORM,A,321
+"<äh> haben Sie da vielleicht schon Erfahrungen",REQUEST_COMMENT,A,321
+"dafür hat das Hotel Am-Rathaus ein Restaurant",INFORM,B,322
+"das hört sich natürlich gut an",FEEDBACK_POSITIVE,A,322
+"ja also ich kenne die alle drei nicht",INFORM,A,322
+"<äh> haben Sie da vielleicht schon Erfahrungen",REQUEST_COMMENT,A,322
+"ja",FEEDBACK_POSITIVE,B,322
+"das hört sich natürlich gut an",FEEDBACK_POSITIVE,A,323
+"ja also ich kenne die alle drei nicht",INFORM,A,323
+"<äh> haben Sie da vielleicht schon Erfahrungen",REQUEST_COMMENT,A,323
+"ja",FEEDBACK_POSITIVE,B,323
+"Maritim ist halt sehr teuer ne",INFORM,B,323
+"ja also ich kenne die alle drei nicht",INFORM,A,324
+"<äh> haben Sie da vielleicht schon Erfahrungen",REQUEST_COMMENT,A,324
+"ja",FEEDBACK_POSITIVE,B,324
+"Maritim ist halt sehr teuer ne",INFORM,B,324
+"und ich denke das merkt man dann auch im Service",INFORM,B,324
+"<äh> haben Sie da vielleicht schon Erfahrungen",REQUEST_COMMENT,A,325
+"ja",FEEDBACK_POSITIVE,B,325
+"Maritim ist halt sehr teuer ne",INFORM,B,325
+"und ich denke das merkt man dann auch im Service",INFORM,B,325
+"aber für vier Tage muß ich nicht unbedingt im Maritim wohnen",INFORM,B,325
+"ja",FEEDBACK_POSITIVE,B,326
+"Maritim ist halt sehr teuer ne",INFORM,B,326
+"und ich denke das merkt man dann auch im Service",INFORM,B,326
+"aber für vier Tage muß ich nicht unbedingt im Maritim wohnen",INFORM,B,326
+"ja dann nehmen wir doch einfach das Hotel Am Rathaus",SUGGEST,A,326
+"Maritim ist halt sehr teuer ne",INFORM,B,327
+"und ich denke das merkt man dann auch im Service",INFORM,B,327
+"aber für vier Tage muß ich nicht unbedingt im Maritim wohnen",INFORM,B,327
+"ja dann nehmen wir doch einfach das Hotel Am Rathaus",SUGGEST,A,327
+"Am-Rathaus",DELIBERATE,B,327
+"und ich denke das merkt man dann auch im Service",INFORM,B,328
+"aber für vier Tage muß ich nicht unbedingt im Maritim wohnen",INFORM,B,328
+"ja dann nehmen wir doch einfach das Hotel Am Rathaus",SUGGEST,A,328
+"Am-Rathaus",DELIBERATE,B,328
+"ja",BACKCHANNEL,A,328
+"aber für vier Tage muß ich nicht unbedingt im Maritim wohnen",INFORM,B,329
+"ja dann nehmen wir doch einfach das Hotel Am Rathaus",SUGGEST,A,329
+"Am-Rathaus",DELIBERATE,B,329
+"ja",BACKCHANNEL,A,329
+"wäre das billigste",INFORM,B,329
+"ja dann nehmen wir doch einfach das Hotel Am Rathaus",SUGGEST,A,330
+"Am-Rathaus",DELIBERATE,B,330
+"ja",BACKCHANNEL,A,330
+"wäre das billigste",INFORM,B,330
+"aber",NOT_CLASSIFIABLE,B,330
+"Am-Rathaus",DELIBERATE,B,331
+"ja",BACKCHANNEL,A,331
+"wäre das billigste",INFORM,B,331
+"aber",NOT_CLASSIFIABLE,B,331
+"wir hätten ein Restaurant im Hotel",INFORM,B,331
+"ja",BACKCHANNEL,A,332
+"wäre das billigste",INFORM,B,332
+"aber",NOT_CLASSIFIABLE,B,332
+"wir hätten ein Restaurant im Hotel",INFORM,B,332
+"das ist ein Vorteil",INFORM,B,332
+"wäre das billigste",INFORM,B,333
+"aber",NOT_CLASSIFIABLE,B,333
+"wir hätten ein Restaurant im Hotel",INFORM,B,333
+"das ist ein Vorteil",INFORM,B,333
+"mhm ja",BACKCHANNEL,A,333
+"aber",NOT_CLASSIFIABLE,B,334
+"wir hätten ein Restaurant im Hotel",INFORM,B,334
+"das ist ein Vorteil",INFORM,B,334
+"mhm ja",BACKCHANNEL,A,334
+"nehmen wir einfach das",ACCEPT,B,334
+"wir hätten ein Restaurant im Hotel",INFORM,B,335
+"das ist ein Vorteil",INFORM,B,335
+"mhm ja",BACKCHANNEL,A,335
+"nehmen wir einfach das",ACCEPT,B,335
+"sparen wir ein bißchen Geld",GIVE_REASON,B,335
+"das ist ein Vorteil",INFORM,B,336
+"mhm ja",BACKCHANNEL,A,336
+"nehmen wir einfach das",ACCEPT,B,336
+"sparen wir ein bißchen Geld",GIVE_REASON,B,336
+"gut",ACCEPT,A,336
+"mhm ja",BACKCHANNEL,A,337
+"nehmen wir einfach das",ACCEPT,B,337
+"sparen wir ein bißchen Geld",GIVE_REASON,B,337
+"gut",ACCEPT,A,337
+"<ähm> ja dann müßten wir noch uns die Anreise überlegen",INIT,A,337
+"nehmen wir einfach das",ACCEPT,B,338
+"sparen wir ein bißchen Geld",GIVE_REASON,B,338
+"gut",ACCEPT,A,338
+"<ähm> ja dann müßten wir noch uns die Anreise überlegen",INIT,A,338
+"möchten Sie lieber fliegen oder mit dem Zug",SUGGEST,A,338
+"sparen wir ein bißchen Geld",GIVE_REASON,B,339
+"gut",ACCEPT,A,339
+"<ähm> ja dann müßten wir noch uns die Anreise überlegen",INIT,A,339
+"möchten Sie lieber fliegen oder mit dem Zug",SUGGEST,A,339
+"ja richtig",FEEDBACK_POSITIVE,B,339
+"gut",ACCEPT,A,340
+"<ähm> ja dann müßten wir noch uns die Anreise überlegen",INIT,A,340
+"möchten Sie lieber fliegen oder mit dem Zug",SUGGEST,A,340
+"ja richtig",FEEDBACK_POSITIVE,B,340
+"ja ich glaube beim letzten Mal sind wir mit dem Zug gefahren nicht wahr",REQUEST_COMMENT,B,340
+"<ähm> ja dann müßten wir noch uns die Anreise überlegen",INIT,A,341
+"möchten Sie lieber fliegen oder mit dem Zug",SUGGEST,A,341
+"ja richtig",FEEDBACK_POSITIVE,B,341
+"ja ich glaube beim letzten Mal sind wir mit dem Zug gefahren nicht wahr",REQUEST_COMMENT,B,341
+"ja das war etwas strapaziös",FEEDBACK_NEGATIVE,A,341
+"möchten Sie lieber fliegen oder mit dem Zug",SUGGEST,A,342
+"ja richtig",FEEDBACK_POSITIVE,B,342
+"ja ich glaube beim letzten Mal sind wir mit dem Zug gefahren nicht wahr",REQUEST_COMMENT,B,342
+"ja das war etwas strapaziös",FEEDBACK_NEGATIVE,A,342
+"hm",BACKCHANNEL,A,342
+"ja richtig",FEEDBACK_POSITIVE,B,343
+"ja ich glaube beim letzten Mal sind wir mit dem Zug gefahren nicht wahr",REQUEST_COMMENT,B,343
+"ja das war etwas strapaziös",FEEDBACK_NEGATIVE,A,343
+"hm",BACKCHANNEL,A,343
+"würde ich s",NOT_CLASSIFIABLE,A,343
+"ja ich glaube beim letzten Mal sind wir mit dem Zug gefahren nicht wahr",REQUEST_COMMENT,B,344
+"ja das war etwas strapaziös",FEEDBACK_NEGATIVE,A,344
+"hm",BACKCHANNEL,A,344
+"würde ich s",NOT_CLASSIFIABLE,A,344
+"mhm",BACKCHANNEL,A,344
+"ja das war etwas strapaziös",FEEDBACK_NEGATIVE,A,345
+"hm",BACKCHANNEL,A,345
+"würde ich s",NOT_CLASSIFIABLE,A,345
+"mhm",BACKCHANNEL,A,345
+"dann sollten wir vielleicht diesmal mit dem Flugzeug fliegen",SUGGEST,B,345
+"hm",BACKCHANNEL,A,346
+"würde ich s",NOT_CLASSIFIABLE,A,346
+"mhm",BACKCHANNEL,A,346
+"dann sollten wir vielleicht diesmal mit dem Flugzeug fliegen",SUGGEST,B,346
+"<ähm> ja also fliegen könnten wir montags bis freitags geht das",INFORM,A,346
+"würde ich s",NOT_CLASSIFIABLE,A,347
+"mhm",BACKCHANNEL,A,347
+"dann sollten wir vielleicht diesmal mit dem Flugzeug fliegen",SUGGEST,B,347
+"<ähm> ja also fliegen könnten wir montags bis freitags geht das",INFORM,A,347
+"<ähm> ab Köln-Bonn um sieben Uhr zehn Hannover an um acht Uhr zehn",SUGGEST,A,347
+"mhm",BACKCHANNEL,A,348
+"dann sollten wir vielleicht diesmal mit dem Flugzeug fliegen",SUGGEST,B,348
+"<ähm> ja also fliegen könnten wir montags bis freitags geht das",INFORM,A,348
+"<ähm> ab Köln-Bonn um sieben Uhr zehn Hannover an um acht Uhr zehn",SUGGEST,A,348
+"oh das ist ja recht fix",FEEDBACK_POSITIVE,B,348
+"dann sollten wir vielleicht diesmal mit dem Flugzeug fliegen",SUGGEST,B,349
+"<ähm> ja also fliegen könnten wir montags bis freitags geht das",INFORM,A,349
+"<ähm> ab Köln-Bonn um sieben Uhr zehn Hannover an um acht Uhr zehn",SUGGEST,A,349
+"oh das ist ja recht fix",FEEDBACK_POSITIVE,B,349
+"recht fix und recht früh",INFORM,A,349
+"<ähm> ja also fliegen könnten wir montags bis freitags geht das",INFORM,A,350
+"<ähm> ab Köln-Bonn um sieben Uhr zehn Hannover an um acht Uhr zehn",SUGGEST,A,350
+"oh das ist ja recht fix",FEEDBACK_POSITIVE,B,350
+"recht fix und recht früh",INFORM,A,350
+"und",NOT_CLASSIFIABLE,A,350
+"<ähm> ab Köln-Bonn um sieben Uhr zehn Hannover an um acht Uhr zehn",SUGGEST,A,351
+"oh das ist ja recht fix",FEEDBACK_POSITIVE,B,351
+"recht fix und recht früh",INFORM,A,351
+"und",NOT_CLASSIFIABLE,A,351
+"ja wir können gerne später fliegen",SUGGEST,B,351
+"oh das ist ja recht fix",FEEDBACK_POSITIVE,B,352
+"recht fix und recht früh",INFORM,A,352
+"und",NOT_CLASSIFIABLE,A,352
+"ja wir können gerne später fliegen",SUGGEST,B,352
+"es gibt leider nur diesen einen Flug",EXPLAINED_REJECT,A,352
+"recht fix und recht früh",INFORM,A,353
+"und",NOT_CLASSIFIABLE,A,353
+"ja wir können gerne später fliegen",SUGGEST,B,353
+"es gibt leider nur diesen einen Flug",EXPLAINED_REJECT,A,353
+"ach so",FEEDBACK,B,353
+"und",NOT_CLASSIFIABLE,A,354
+"ja wir können gerne später fliegen",SUGGEST,B,354
+"es gibt leider nur diesen einen Flug",EXPLAINED_REJECT,A,354
+"ach so",FEEDBACK,B,354
+"ja das ist ganz schlecht ja",FEEDBACK_NEGATIVE,A,354
+"ja wir können gerne später fliegen",SUGGEST,B,355
+"es gibt leider nur diesen einen Flug",EXPLAINED_REJECT,A,355
+"ach so",FEEDBACK,B,355
+"ja das ist ganz schlecht ja",FEEDBACK_NEGATIVE,A,355
+"aber dann sind wir immerhin schon früh in Hannover",INFORM,A,355
+"es gibt leider nur diesen einen Flug",EXPLAINED_REJECT,A,356
+"ach so",FEEDBACK,B,356
+"ja das ist ganz schlecht ja",FEEDBACK_NEGATIVE,A,356
+"aber dann sind wir immerhin schon früh in Hannover",INFORM,A,356
+"könnten auch früh wieder zurück am letzten Termin",SUGGEST,A,356
+"ach so",FEEDBACK,B,357
+"ja das ist ganz schlecht ja",FEEDBACK_NEGATIVE,A,357
+"aber dann sind wir immerhin schon früh in Hannover",INFORM,A,357
+"könnten auch früh wieder zurück am letzten Termin",SUGGEST,A,357
+"wir könnten natürlich auch hinfliegen und zurück mit dem Zug fahren",SUGGEST,B,357
+"ja das ist ganz schlecht ja",FEEDBACK_NEGATIVE,A,358
+"aber dann sind wir immerhin schon früh in Hannover",INFORM,A,358
+"könnten auch früh wieder zurück am letzten Termin",SUGGEST,A,358
+"wir könnten natürlich auch hinfliegen und zurück mit dem Zug fahren",SUGGEST,B,358
+"aber fliegen wir mal beide beide Strecken",SUGGEST,B,358
+"aber dann sind wir immerhin schon früh in Hannover",INFORM,A,359
+"könnten auch früh wieder zurück am letzten Termin",SUGGEST,A,359
+"wir könnten natürlich auch hinfliegen und zurück mit dem Zug fahren",SUGGEST,B,359
+"aber fliegen wir mal beide beide Strecken",SUGGEST,B,359
+"ja doch",ACCEPT,A,359
+"könnten auch früh wieder zurück am letzten Termin",SUGGEST,A,360
+"wir könnten natürlich auch hinfliegen und zurück mit dem Zug fahren",SUGGEST,B,360
+"aber fliegen wir mal beide beide Strecken",SUGGEST,B,360
+"ja doch",ACCEPT,A,360
+"<äh> zurück könnten wir dann <ähm> ich würde sagen nachmittags",SUGGEST,A,360
+"wir könnten natürlich auch hinfliegen und zurück mit dem Zug fahren",SUGGEST,B,361
+"aber fliegen wir mal beide beide Strecken",SUGGEST,B,361
+"ja doch",ACCEPT,A,361
+"<äh> zurück könnten wir dann <ähm> ich würde sagen nachmittags",SUGGEST,A,361
+"ja",ACCEPT,B,361
+"aber fliegen wir mal beide beide Strecken",SUGGEST,B,362
+"ja doch",ACCEPT,A,362
+"<äh> zurück könnten wir dann <ähm> ich würde sagen nachmittags",SUGGEST,A,362
+"ja",ACCEPT,B,362
+"um um fünfzehn Uhr fünfunddreißig ab Hannover an in Köln-Bonn um sechzehn Uhr fünfunddreißig",SUGGEST,A,362
+"ja doch",ACCEPT,A,363
+"<äh> zurück könnten wir dann <ähm> ich würde sagen nachmittags",SUGGEST,A,363
+"ja",ACCEPT,B,363
+"um um fünfzehn Uhr fünfunddreißig ab Hannover an in Köln-Bonn um sechzehn Uhr fünfunddreißig",SUGGEST,A,363
+"ja wunderbar",ACCEPT,B,363
+"<äh> zurück könnten wir dann <ähm> ich würde sagen nachmittags",SUGGEST,A,364
+"ja",ACCEPT,B,364
+"um um fünfzehn Uhr fünfunddreißig ab Hannover an in Köln-Bonn um sechzehn Uhr fünfunddreißig",SUGGEST,A,364
+"ja wunderbar",ACCEPT,B,364
+"dann nehmen wir das",ACCEPT,B,364
+"ja",ACCEPT,B,365
+"um um fünfzehn Uhr fünfunddreißig ab Hannover an in Köln-Bonn um sechzehn Uhr fünfunddreißig",SUGGEST,A,365
+"ja wunderbar",ACCEPT,B,365
+"dann nehmen wir das",ACCEPT,B,365
+"ui dann muß ich jetzt aber mal schauen das",DELIBERATE,A,365
+"um um fünfzehn Uhr fünfunddreißig ab Hannover an in Köln-Bonn um sechzehn Uhr fünfunddreißig",SUGGEST,A,366
+"ja wunderbar",ACCEPT,B,366
+"dann nehmen wir das",ACCEPT,B,366
+"ui dann muß ich jetzt aber mal schauen das",DELIBERATE,A,366
+"geht nur freitags",EXCLUDE,A,366
+"ja wunderbar",ACCEPT,B,367
+"dann nehmen wir das",ACCEPT,B,367
+"ui dann muß ich jetzt aber mal schauen das",DELIBERATE,A,367
+"geht nur freitags",EXCLUDE,A,367
+"so",FEEDBACK,B,367
+"dann nehmen wir das",ACCEPT,B,368
+"ui dann muß ich jetzt aber mal schauen das",DELIBERATE,A,368
+"geht nur freitags",EXCLUDE,A,368
+"so",FEEDBACK,B,368
+"dann fällt das wohl raus <%>",EXPLAINED_REJECT,B,368
+"ui dann muß ich jetzt aber mal schauen das",DELIBERATE,A,369
+"geht nur freitags",EXCLUDE,A,369
+"so",FEEDBACK,B,369
+"dann fällt das wohl raus <%>",EXPLAINED_REJECT,B,369
+"und wir hatten ja uns den dreißigsten gedacht ne",INFORM,A,369
+"geht nur freitags",EXCLUDE,A,370
+"so",FEEDBACK,B,370
+"dann fällt das wohl raus <%>",EXPLAINED_REJECT,B,370
+"und wir hatten ja uns den dreißigsten gedacht ne",INFORM,A,370
+"nein das geht nicht",FEEDBACK_NEGATIVE,B,370
+"so",FEEDBACK,B,371
+"dann fällt das wohl raus <%>",EXPLAINED_REJECT,B,371
+"und wir hatten ja uns den dreißigsten gedacht ne",INFORM,A,371
+"nein das geht nicht",FEEDBACK_NEGATIVE,B,371
+"<%> der Freitag ist der erste Mai dann",INFORM,B,371
+"dann fällt das wohl raus <%>",EXPLAINED_REJECT,B,372
+"und wir hatten ja uns den dreißigsten gedacht ne",INFORM,A,372
+"nein das geht nicht",FEEDBACK_NEGATIVE,B,372
+"<%> der Freitag ist der erste Mai dann",INFORM,B,372
+"stimmt ja dann müssen wir den späteren Flug nehmen",INFORM,A,372
+"und wir hatten ja uns den dreißigsten gedacht ne",INFORM,A,373
+"nein das geht nicht",FEEDBACK_NEGATIVE,B,373
+"<%> der Freitag ist der erste Mai dann",INFORM,B,373
+"stimmt ja dann müssen wir den späteren Flug nehmen",INFORM,A,373
+"um achtzehn Uhr fünfundzwanzig ab Hannover an in Köln-Bonn um neunzehn Uhr fünfundzwanzig",SUGGEST,A,373
+"nein das geht nicht",FEEDBACK_NEGATIVE,B,374
+"<%> der Freitag ist der erste Mai dann",INFORM,B,374
+"stimmt ja dann müssen wir den späteren Flug nehmen",INFORM,A,374
+"um achtzehn Uhr fünfundzwanzig ab Hannover an in Köln-Bonn um neunzehn Uhr fünfundzwanzig",SUGGEST,A,374
+"ja",REQUEST_COMMENT,A,374
+"<%> der Freitag ist der erste Mai dann",INFORM,B,375
+"stimmt ja dann müssen wir den späteren Flug nehmen",INFORM,A,375
+"um achtzehn Uhr fünfundzwanzig ab Hannover an in Köln-Bonn um neunzehn Uhr fünfundzwanzig",SUGGEST,A,375
+"ja",REQUEST_COMMENT,A,375
+"gut dann werde ich das buchen lassen",COMMIT,A,375
+"stimmt ja dann müssen wir den späteren Flug nehmen",INFORM,A,376
+"um achtzehn Uhr fünfundzwanzig ab Hannover an in Köln-Bonn um neunzehn Uhr fünfundzwanzig",SUGGEST,A,376
+"ja",REQUEST_COMMENT,A,376
+"gut dann werde ich das buchen lassen",COMMIT,A,376
+"dann sollten wir mit dem",NOT_CLASSIFIABLE,B,376
+"um achtzehn Uhr fünfundzwanzig ab Hannover an in Köln-Bonn um neunzehn Uhr fünfundzwanzig",SUGGEST,A,377
+"ja",REQUEST_COMMENT,A,377
+"gut dann werde ich das buchen lassen",COMMIT,A,377
+"dann sollten wir mit dem",NOT_CLASSIFIABLE,B,377
+"ja",FEEDBACK_POSITIVE,B,377
+"ja",REQUEST_COMMENT,A,378
+"gut dann werde ich das buchen lassen",COMMIT,A,378
+"dann sollten wir mit dem",NOT_CLASSIFIABLE,B,378
+"ja",FEEDBACK_POSITIVE,B,378
+"ja okay",FEEDBACK_POSITIVE,B,378
+"gut dann werde ich das buchen lassen",COMMIT,A,379
+"dann sollten wir mit dem",NOT_CLASSIFIABLE,B,379
+"ja",FEEDBACK_POSITIVE,B,379
+"ja okay",FEEDBACK_POSITIVE,B,379
+"nehmen wir den",ACCEPT,B,379
+"dann sollten wir mit dem",NOT_CLASSIFIABLE,B,380
+"ja",FEEDBACK_POSITIVE,B,380
+"ja okay",FEEDBACK_POSITIVE,B,380
+"nehmen wir den",ACCEPT,B,380
+"ja",ACCEPT,A,380
+"ja",FEEDBACK_POSITIVE,B,381
+"ja okay",FEEDBACK_POSITIVE,B,381
+"nehmen wir den",ACCEPT,B,381
+"ja",ACCEPT,A,381
+"ja dann können wir uns noch über das Abendprogramm vielleicht einigen",INIT,B,381
+"ja okay",FEEDBACK_POSITIVE,B,382
+"nehmen wir den",ACCEPT,B,382
+"ja",ACCEPT,A,382
+"ja dann können wir uns noch über das Abendprogramm vielleicht einigen",INIT,B,382
+"ja was haben Sie denn",REQUEST_SUGGEST,A,382
+"nehmen wir den",ACCEPT,B,383
+"ja",ACCEPT,A,383
+"ja dann können wir uns noch über das Abendprogramm vielleicht einigen",INIT,B,383
+"ja was haben Sie denn",REQUEST_SUGGEST,A,383
+"könnten ins Kino gehen",SUGGEST,B,383
+"ja",ACCEPT,A,384
+"ja dann können wir uns noch über das Abendprogramm vielleicht einigen",INIT,B,384
+"ja was haben Sie denn",REQUEST_SUGGEST,A,384
+"könnten ins Kino gehen",SUGGEST,B,384
+"ja also Kino ist nicht so ganz",REJECT,A,384
+"ja dann können wir uns noch über das Abendprogramm vielleicht einigen",INIT,B,385
+"ja was haben Sie denn",REQUEST_SUGGEST,A,385
+"könnten ins Kino gehen",SUGGEST,B,385
+"ja also Kino ist nicht so ganz",REJECT,A,385
+"Konzert wäre mir doch recht lieber",SUGGEST,A,385
+"ja was haben Sie denn",REQUEST_SUGGEST,A,386
+"könnten ins Kino gehen",SUGGEST,B,386
+"ja also Kino ist nicht so ganz",REJECT,A,386
+"Konzert wäre mir doch recht lieber",SUGGEST,A,386
+"ja dann gehen wir",ACCEPT,B,386
+"könnten ins Kino gehen",SUGGEST,B,387
+"ja also Kino ist nicht so ganz",REJECT,A,387
+"Konzert wäre mir doch recht lieber",SUGGEST,A,387
+"ja dann gehen wir",ACCEPT,B,387
+"ich gehe da auch gerne ins Konzert",INFORM,B,387
+"ja also Kino ist nicht so ganz",REJECT,A,388
+"Konzert wäre mir doch recht lieber",SUGGEST,A,388
+"ja dann gehen wir",ACCEPT,B,388
+"ich gehe da auch gerne ins Konzert",INFORM,B,388
+"ein klassisches",SUGGEST,B,388
+"Konzert wäre mir doch recht lieber",SUGGEST,A,389
+"ja dann gehen wir",ACCEPT,B,389
+"ich gehe da auch gerne ins Konzert",INFORM,B,389
+"ein klassisches",SUGGEST,B,389
+"gehen wir ins Konzert",ACCEPT,A,389
+"ja dann gehen wir",ACCEPT,B,390
+"ich gehe da auch gerne ins Konzert",INFORM,B,390
+"ein klassisches",SUGGEST,B,390
+"gehen wir ins Konzert",ACCEPT,A,390
+"ja dann werde ich mich mal erkundigen was da so geboten wird",COMMIT,A,390
+"ich gehe da auch gerne ins Konzert",INFORM,B,391
+"ein klassisches",SUGGEST,B,391
+"gehen wir ins Konzert",ACCEPT,A,391
+"ja dann werde ich mich mal erkundigen was da so geboten wird",COMMIT,A,391
+"okay",FEEDBACK_POSITIVE,B,391
+"ein klassisches",SUGGEST,B,392
+"gehen wir ins Konzert",ACCEPT,A,392
+"ja dann werde ich mich mal erkundigen was da so geboten wird",COMMIT,A,392
+"okay",FEEDBACK_POSITIVE,B,392
+"ja dann wäre es das eigentlich schon ne",CLOSE,B,392
+"gehen wir ins Konzert",ACCEPT,A,393
+"ja dann werde ich mich mal erkundigen was da so geboten wird",COMMIT,A,393
+"okay",FEEDBACK_POSITIVE,B,393
+"ja dann wäre es das eigentlich schon ne",CLOSE,B,393
+"gut",FEEDBACK_POSITIVE,A,393
+"ja dann werde ich mich mal erkundigen was da so geboten wird",COMMIT,A,394
+"okay",FEEDBACK_POSITIVE,B,394
+"ja dann wäre es das eigentlich schon ne",CLOSE,B,394
+"gut",FEEDBACK_POSITIVE,A,394
+"trage ich das bei mir ein",CLOSE,B,394
+"okay",FEEDBACK_POSITIVE,B,395
+"ja dann wäre es das eigentlich schon ne",CLOSE,B,395
+"gut",FEEDBACK_POSITIVE,A,395
+"trage ich das bei mir ein",CLOSE,B,395
+"ja",FEEDBACK_POSITIVE,A,395
+"ja dann wäre es das eigentlich schon ne",CLOSE,B,396
+"gut",FEEDBACK_POSITIVE,A,396
+"trage ich das bei mir ein",CLOSE,B,396
+"ja",FEEDBACK_POSITIVE,A,396
+"okay",FEEDBACK_POSITIVE,B,396
+"gut",FEEDBACK_POSITIVE,A,397
+"trage ich das bei mir ein",CLOSE,B,397
+"ja",FEEDBACK_POSITIVE,A,397
+"okay",FEEDBACK_POSITIVE,B,397
+"dann bis zum siebenundzwanzigsten",BYE,A,397
+"trage ich das bei mir ein",CLOSE,B,398
+"ja",FEEDBACK_POSITIVE,A,398
+"okay",FEEDBACK_POSITIVE,B,398
+"dann bis zum siebenundzwanzigsten",BYE,A,398
+"siebenundzwanzigsten",DELIBERATE,B,398
+"ja",FEEDBACK_POSITIVE,A,399
+"okay",FEEDBACK_POSITIVE,B,399
+"dann bis zum siebenundzwanzigsten",BYE,A,399
+"siebenundzwanzigsten",DELIBERATE,B,399
+"okay",FEEDBACK_POSITIVE,B,399
+"okay",FEEDBACK_POSITIVE,B,400
+"dann bis zum siebenundzwanzigsten",BYE,A,400
+"siebenundzwanzigsten",DELIBERATE,B,400
+"okay",FEEDBACK_POSITIVE,B,400
+"auf Wiedersehen",BYE,B,400
+"dann bis zum siebenundzwanzigsten",BYE,A,401
+"siebenundzwanzigsten",DELIBERATE,B,401
+"okay",FEEDBACK_POSITIVE,B,401
+"auf Wiedersehen",BYE,B,401
+"auf Wiedersehen",BYE,A,401
+"oder auch der achtundzwanzigste und neunundzwanzigste Juli wären bei mir günstig",SUGGEST,B,402
+"da hätte ich im Moment noch keine Termine",INFORM,B,402
+"ja",FEEDBACK_POSITIVE,A,402
+"also vom achten bis zum zwölften hatten Sie Zeit sagen Sie",DELIBERATE,A,402
+"genau mhm",FEEDBACK_POSITIVE,B,402
+"da hätte ich im Moment noch keine Termine",INFORM,B,403
+"ja",FEEDBACK_POSITIVE,A,403
+"also vom achten bis zum zwölften hatten Sie Zeit sagen Sie",DELIBERATE,A,403
+"genau mhm",FEEDBACK_POSITIVE,B,403
+"ja das würde auch mir sehr gut reingehen",ACCEPT,A,403
+"ja",FEEDBACK_POSITIVE,A,404
+"also vom achten bis zum zwölften hatten Sie Zeit sagen Sie",DELIBERATE,A,404
+"genau mhm",FEEDBACK_POSITIVE,B,404
+"ja das würde auch mir sehr gut reingehen",ACCEPT,A,404
+"ab dem neunten",SUGGEST,A,404
+"also vom achten bis zum zwölften hatten Sie Zeit sagen Sie",DELIBERATE,A,405
+"genau mhm",FEEDBACK_POSITIVE,B,405
+"ja das würde auch mir sehr gut reingehen",ACCEPT,A,405
+"ab dem neunten",SUGGEST,A,405
+"weil ich vom siebten und <häs> am siebten und achten Besuch von Geschäftspartnern habe",GIVE_REASON,A,405
+"genau mhm",FEEDBACK_POSITIVE,B,406
+"ja das würde auch mir sehr gut reingehen",ACCEPT,A,406
+"ab dem neunten",SUGGEST,A,406
+"weil ich vom siebten und <häs> am siebten und achten Besuch von Geschäftspartnern habe",GIVE_REASON,A,406
+"mhm",BACKCHANNEL,B,406
+"ja das würde auch mir sehr gut reingehen",ACCEPT,A,407
+"ab dem neunten",SUGGEST,A,407
+"weil ich vom siebten und <häs> am siebten und achten Besuch von Geschäftspartnern habe",GIVE_REASON,A,407
+"mhm",BACKCHANNEL,B,407
+"gut dann verbleiben wir beim achten und neun beim neunten und zehnten",CONFIRM,B,407
+"ab dem neunten",SUGGEST,A,408
+"weil ich vom siebten und <häs> am siebten und achten Besuch von Geschäftspartnern habe",GIVE_REASON,A,408
+"mhm",BACKCHANNEL,B,408
+"gut dann verbleiben wir beim achten und neun beim neunten und zehnten",CONFIRM,B,408
+"beim neunten und zehnten Juli",CONFIRM,B,408
+"weil ich vom siebten und <häs> am siebten und achten Besuch von Geschäftspartnern habe",GIVE_REASON,A,409
+"mhm",BACKCHANNEL,B,409
+"gut dann verbleiben wir beim achten und neun beim neunten und zehnten",CONFIRM,B,409
+"beim neunten und zehnten Juli",CONFIRM,B,409
+"<ähm> <häs> ansonsten <häs> bezüglich der <äh> Fahrt haben Sie da schon Termine oder",INIT,B,409
+"mhm",BACKCHANNEL,B,410
+"gut dann verbleiben wir beim achten und neun beim neunten und zehnten",CONFIRM,B,410
+"beim neunten und zehnten Juli",CONFIRM,B,410
+"<ähm> <häs> ansonsten <häs> bezüglich der <äh> Fahrt haben Sie da schon Termine oder",INIT,B,410
+"beim",NOT_CLASSIFIABLE,A,410
+"gut dann verbleiben wir beim achten und neun beim neunten und zehnten",CONFIRM,B,411
+"beim neunten und zehnten Juli",CONFIRM,B,411
+"<ähm> <häs> ansonsten <häs> bezüglich der <äh> Fahrt haben Sie da schon Termine oder",INIT,B,411
+"beim",NOT_CLASSIFIABLE,A,411
+"genau",FEEDBACK_POSITIVE,A,411
+"beim neunten und zehnten Juli",CONFIRM,B,412
+"<ähm> <häs> ansonsten <häs> bezüglich der <äh> Fahrt haben Sie da schon Termine oder",INIT,B,412
+"beim",NOT_CLASSIFIABLE,A,412
+"genau",FEEDBACK_POSITIVE,A,412
+"ja da habe ich mich informiert",INFORM,A,412
+"<ähm> <häs> ansonsten <häs> bezüglich der <äh> Fahrt haben Sie da schon Termine oder",INIT,B,413
+"beim",NOT_CLASSIFIABLE,A,413
+"genau",FEEDBACK_POSITIVE,A,413
+"ja da habe ich mich informiert",INFORM,A,413
+"es gibt Zugverbindungen und Flüge nach Hannover",SUGGEST,A,413
+"und die reine Flugzeit beträgt siebzig Minuten",INFORM,A,414
+"mhm",BACKCHANNEL,B,414
+"mhm",BACKCHANNEL,B,414
+"ich wäre <äh> für das Flugzeug <äh> wenn Sie nix dagegen haben",SUGGEST,B,414
+"ja natürlich",ACCEPT,A,414
+"mhm",BACKCHANNEL,B,415
+"mhm",BACKCHANNEL,B,415
+"ich wäre <äh> für das Flugzeug <äh> wenn Sie nix dagegen haben",SUGGEST,B,415
+"ja natürlich",ACCEPT,A,415
+"also ich bin da sehr mit einverstanden",ACCEPT,A,415
+"mhm",BACKCHANNEL,B,416
+"ich wäre <äh> für das Flugzeug <äh> wenn Sie nix dagegen haben",SUGGEST,B,416
+"ja natürlich",ACCEPT,A,416
+"also ich bin da sehr mit einverstanden",ACCEPT,A,416
+"und um welche Uhrzeit",REQUEST_SUGGEST,B,416
+"ich wäre <äh> für das Flugzeug <äh> wenn Sie nix dagegen haben",SUGGEST,B,417
+"ja natürlich",ACCEPT,A,417
+"also ich bin da sehr mit einverstanden",ACCEPT,A,417
+"und um welche Uhrzeit",REQUEST_SUGGEST,B,417
+"ja ich würde sagen so früh wie möglich",SUGGEST,A,417
+"ja natürlich",ACCEPT,A,418
+"also ich bin da sehr mit einverstanden",ACCEPT,A,418
+"und um welche Uhrzeit",REQUEST_SUGGEST,B,418
+"ja ich würde sagen so früh wie möglich",SUGGEST,A,418
+"damit uns noch möglichst viel Zeit in Hannover b bleibt",GIVE_REASON,A,418
+"also ich bin da sehr mit einverstanden",ACCEPT,A,419
+"und um welche Uhrzeit",REQUEST_SUGGEST,B,419
+"ja ich würde sagen so früh wie möglich",SUGGEST,A,419
+"damit uns noch möglichst viel Zeit in Hannover b bleibt",GIVE_REASON,A,419
+"um sieben Uhr fünfzehn",SUGGEST,B,419
+"und um welche Uhrzeit",REQUEST_SUGGEST,B,420
+"ja ich würde sagen so früh wie möglich",SUGGEST,A,420
+"damit uns noch möglichst viel Zeit in Hannover b bleibt",GIVE_REASON,A,420
+"um sieben Uhr fünfzehn",SUGGEST,B,420
+"gleich das erste Flugzeug",SUGGEST,B,420
+"ja ich würde sagen so früh wie möglich",SUGGEST,A,421
+"damit uns noch möglichst viel Zeit in Hannover b bleibt",GIVE_REASON,A,421
+"um sieben Uhr fünfzehn",SUGGEST,B,421
+"gleich das erste Flugzeug",SUGGEST,B,421
+"wäre das recht",REQUEST_COMMENT,B,421
+"damit uns noch möglichst viel Zeit in Hannover b bleibt",GIVE_REASON,A,422
+"um sieben Uhr fünfzehn",SUGGEST,B,422
+"gleich das erste Flugzeug",SUGGEST,B,422
+"wäre das recht",REQUEST_COMMENT,B,422
+"ja das wäre das wäre mir recht",ACCEPT,A,422
+"um sieben Uhr fünfzehn",SUGGEST,B,423
+"gleich das erste Flugzeug",SUGGEST,B,423
+"wäre das recht",REQUEST_COMMENT,B,423
+"ja das wäre das wäre mir recht",ACCEPT,A,423
+"ja gut",FEEDBACK_POSITIVE,B,423
+"gleich das erste Flugzeug",SUGGEST,B,424
+"wäre das recht",REQUEST_COMMENT,B,424
+"ja das wäre das wäre mir recht",ACCEPT,A,424
+"ja gut",FEEDBACK_POSITIVE,B,424
+"ansonsten habe ich mich jetzt mittlerweile über die Unterkunft <ähm> informiert",INIT,B,424
+"wäre das recht",REQUEST_COMMENT,B,425
+"ja das wäre das wäre mir recht",ACCEPT,A,425
+"ja gut",FEEDBACK_POSITIVE,B,425
+"ansonsten habe ich mich jetzt mittlerweile über die Unterkunft <ähm> informiert",INIT,B,425
+"und zwar gibt es das Hotel Royal <häs> in Hannover",SUGGEST,B,425
+"<äh> die Wahl würde bei mir eher auf das Hotel Royal fallen",SUGGEST,B,426
+"weil es direkt im Zentrum liegt und auch eine Cafeteria Terrasse Garage hat",GIVE_REASON,B,426
+"<häs> aber mit dem Abendprogramm müßten wir uns noch mal absprechen wenn Sie möchten",DEFER,B,426
+"weil kein Schwimmbad im <äh> Hotel vorhanden ist",GIVE_REASON,B,426
+"mhm",BACKCHANNEL,A,426
+"weil es direkt im Zentrum liegt und auch eine Cafeteria Terrasse Garage hat",GIVE_REASON,B,427
+"<häs> aber mit dem Abendprogramm müßten wir uns noch mal absprechen wenn Sie möchten",DEFER,B,427
+"weil kein Schwimmbad im <äh> Hotel vorhanden ist",GIVE_REASON,B,427
+"mhm",BACKCHANNEL,A,427
+"ja",FEEDBACK_POSITIVE,A,427
+"<häs> aber mit dem Abendprogramm müßten wir uns noch mal absprechen wenn Sie möchten",DEFER,B,428
+"weil kein Schwimmbad im <äh> Hotel vorhanden ist",GIVE_REASON,B,428
+"mhm",BACKCHANNEL,A,428
+"ja",FEEDBACK_POSITIVE,A,428
+"ja",FEEDBACK_POSITIVE,A,428
+"weil kein Schwimmbad im <äh> Hotel vorhanden ist",GIVE_REASON,B,429
+"mhm",BACKCHANNEL,A,429
+"ja",FEEDBACK_POSITIVE,A,429
+"ja",FEEDBACK_POSITIVE,A,429
+"ja abends schwimmen gehen ist sowieso nicht so unbedingt nötig",SUGGEST,A,429
+"mhm",BACKCHANNEL,A,430
+"ja",FEEDBACK_POSITIVE,A,430
+"ja",FEEDBACK_POSITIVE,A,430
+"ja abends schwimmen gehen ist sowieso nicht so unbedingt nötig",SUGGEST,A,430
+"aber <häs> es gibt dort einige gute Restaurants und Theatervorstellungen",SUGGEST,A,430
+"ja",FEEDBACK_POSITIVE,A,431
+"ja",FEEDBACK_POSITIVE,A,431
+"ja abends schwimmen gehen ist sowieso nicht so unbedingt nötig",SUGGEST,A,431
+"aber <häs> es gibt dort einige gute Restaurants und Theatervorstellungen",SUGGEST,A,431
+"da <%> ist sicher noch was frei",INFORM,A,431
+"ja",FEEDBACK_POSITIVE,A,432
+"ja abends schwimmen gehen ist sowieso nicht so unbedingt nötig",SUGGEST,A,432
+"aber <häs> es gibt dort einige gute Restaurants und Theatervorstellungen",SUGGEST,A,432
+"da <%> ist sicher noch was frei",INFORM,A,432
+"ah ja gut",FEEDBACK_POSITIVE,B,432
+"ja abends schwimmen gehen ist sowieso nicht so unbedingt nötig",SUGGEST,A,433
+"aber <häs> es gibt dort einige gute Restaurants und Theatervorstellungen",SUGGEST,A,433
+"da <%> ist sicher noch was frei",INFORM,A,433
+"ah ja gut",FEEDBACK_POSITIVE,B,433
+"mhm",BACKCHANNEL,B,433
+"in Ordnung",FEEDBACK_POSITIVE,B,434
+"mhm",BACKCHANNEL,B,434
+"ja",FEEDBACK_POSITIVE,B,434
+"gut",FEEDBACK_POSITIVE,B,434
+"<%> ja das wäre eigentlich alles",CLOSE,A,434
+"mhm",BACKCHANNEL,B,435
+"ja",FEEDBACK_POSITIVE,B,435
+"gut",FEEDBACK_POSITIVE,B,435
+"<%> ja das wäre eigentlich alles",CLOSE,A,435
+"ja",FEEDBACK_POSITIVE,B,435
+"ja",FEEDBACK_POSITIVE,B,436
+"gut",FEEDBACK_POSITIVE,B,436
+"<%> ja das wäre eigentlich alles",CLOSE,A,436
+"ja",FEEDBACK_POSITIVE,B,436
+"dann bis zum neunten Juli",BYE,A,436
+"gut",FEEDBACK_POSITIVE,B,437
+"<%> ja das wäre eigentlich alles",CLOSE,A,437
+"ja",FEEDBACK_POSITIVE,B,437
+"dann bis zum neunten Juli",BYE,A,437
+"in Ordnung",FEEDBACK_POSITIVE,B,437
+"<%> ja das wäre eigentlich alles",CLOSE,A,438
+"ja",FEEDBACK_POSITIVE,B,438
+"dann bis zum neunten Juli",BYE,A,438
+"in Ordnung",FEEDBACK_POSITIVE,B,438
+"bis zum neunten Juli",BYE,B,438
+"ja",FEEDBACK_POSITIVE,B,439
+"dann bis zum neunten Juli",BYE,A,439
+"in Ordnung",FEEDBACK_POSITIVE,B,439
+"bis zum neunten Juli",BYE,B,439
+"<äh> Wiedersehen <häs> auf Wiedersehen Herr Nishimoto",BYE,B,439
+"dann bis zum neunten Juli",BYE,A,440
+"in Ordnung",FEEDBACK_POSITIVE,B,440
+"bis zum neunten Juli",BYE,B,440
+"<äh> Wiedersehen <häs> auf Wiedersehen Herr Nishimoto",BYE,B,440
+"auf Wiedersehen Frau Heinicke",BYE,A,440
+"mein Name ist Keller",INTRODUCE,A,441
+"was kann ich für Sie tun",REQUEST,A,441
+"<ähm> guten Tag",GREET,B,441
+"<ähm> Schröder",INTRODUCE,B,441
+"guten Tag Herr Schröder",GREET,A,441
+"ja",FEEDBACK_POSITIVE,A,442
+"und zwar nach Hannover müßte ich dann da",INFORM,B,442
+"ja",FEEDBACK_POSITIVE,A,442
+"und da wollte ich mich mal d erkundigen über tja alle Modalitäten die es da so gibt",INIT,B,442
+"ja da wüssen",NOT_CLASSIFIABLE,A,442
+"und zwar nach Hannover müßte ich dann da",INFORM,B,443
+"ja",FEEDBACK_POSITIVE,A,443
+"und da wollte ich mich mal d erkundigen über tja alle Modalitäten die es da so gibt",INIT,B,443
+"ja da wüssen",NOT_CLASSIFIABLE,A,443
+"also einmal Verbindung Hotel und so weiter",INFORM,B,443
+"ja",FEEDBACK_POSITIVE,A,444
+"und da wollte ich mich mal d erkundigen über tja alle Modalitäten die es da so gibt",INIT,B,444
+"ja da wüssen",NOT_CLASSIFIABLE,A,444
+"also einmal Verbindung Hotel und so weiter",INFORM,B,444
+"das ist richtig",FEEDBACK_POSITIVE,A,444
+"und da wollte ich mich mal d erkundigen über tja alle Modalitäten die es da so gibt",INIT,B,445
+"ja da wüssen",NOT_CLASSIFIABLE,A,445
+"also einmal Verbindung Hotel und so weiter",INFORM,B,445
+"das ist richtig",FEEDBACK_POSITIVE,A,445
+"dafür sind wir da",INFORM,A,445
+"ja da wüssen",NOT_CLASSIFIABLE,A,446
+"also einmal Verbindung Hotel und so weiter",INFORM,B,446
+"das ist richtig",FEEDBACK_POSITIVE,A,446
+"dafür sind wir da",INFORM,A,446
+"dann müßte ich von Ihnen vielleicht noch t konkret den Reisetermin vorher erfahren",REQUEST,A,446
+"also einmal Verbindung Hotel und so weiter",INFORM,B,447
+"das ist richtig",FEEDBACK_POSITIVE,A,447
+"dafür sind wir da",INFORM,A,447
+"dann müßte ich von Ihnen vielleicht noch t konkret den Reisetermin vorher erfahren",REQUEST,A,447
+"ja <hm> ich gucke grade mal eben in meinen Kalender",DELIBERATE,B,447
+"das ist richtig",FEEDBACK_POSITIVE,A,448
+"dafür sind wir da",INFORM,A,448
+"dann müßte ich von Ihnen vielleicht noch t konkret den Reisetermin vorher erfahren",REQUEST,A,448
+"ja <hm> ich gucke grade mal eben in meinen Kalender",DELIBERATE,B,448
+"<äh> wie wäre es vom zwölften bis zum vi <äh> nee vom elften bis zum vierzehnten Mai",SUGGEST,B,448
+"dafür sind wir da",INFORM,A,449
+"dann müßte ich von Ihnen vielleicht noch t konkret den Reisetermin vorher erfahren",REQUEST,A,449
+"ja <hm> ich gucke grade mal eben in meinen Kalender",DELIBERATE,B,449
+"<äh> wie wäre es vom zwölften bis zum vi <äh> nee vom elften bis zum vierzehnten Mai",SUGGEST,B,449
+"elfter bis vierzehnter Mai das ist ein Dienstag bis Freitag",CLARIFY,A,449
+"dann müßte ich von Ihnen vielleicht noch t konkret den Reisetermin vorher erfahren",REQUEST,A,450
+"ja <hm> ich gucke grade mal eben in meinen Kalender",DELIBERATE,B,450
+"<äh> wie wäre es vom zwölften bis zum vi <äh> nee vom elften bis zum vierzehnten Mai",SUGGEST,B,450
+"elfter bis vierzehnter Mai das ist ein Dienstag bis Freitag",CLARIFY,A,450
+"sehe ich das richtig",REQUEST,A,450
+"ja <hm> ich gucke grade mal eben in meinen Kalender",DELIBERATE,B,451
+"<äh> wie wäre es vom zwölften bis zum vi <äh> nee vom elften bis zum vierzehnten Mai",SUGGEST,B,451
+"elfter bis vierzehnter Mai das ist ein Dienstag bis Freitag",CLARIFY,A,451
+"sehe ich das richtig",REQUEST,A,451
+"mhm",BACKCHANNEL,B,451
+"<äh> wie wäre es vom zwölften bis zum vi <äh> nee vom elften bis zum vierzehnten Mai",SUGGEST,B,452
+"elfter bis vierzehnter Mai das ist ein Dienstag bis Freitag",CLARIFY,A,452
+"sehe ich das richtig",REQUEST,A,452
+"mhm",BACKCHANNEL,B,452
+"ah nee Moment",DELIBERATE,B,452
+"elfter bis vierzehnter Mai das ist ein Dienstag bis Freitag",CLARIFY,A,453
+"sehe ich das richtig",REQUEST,A,453
+"mhm",BACKCHANNEL,B,453
+"ah nee Moment",DELIBERATE,B,453
+"da sehe ich da ist Himmelfahrt",CLARIFY,B,453
+"sehe ich das richtig",REQUEST,A,454
+"mhm",BACKCHANNEL,B,454
+"ah nee Moment",DELIBERATE,B,454
+"da sehe ich da ist Himmelfahrt",CLARIFY,B,454
+"das ist nicht gut",REJECT,B,454
+"mhm",BACKCHANNEL,B,455
+"ah nee Moment",DELIBERATE,B,455
+"da sehe ich da ist Himmelfahrt",CLARIFY,B,455
+"das ist nicht gut",REJECT,B,455
+"dann",NOT_CLASSIFIABLE,B,455
+"ah nee Moment",DELIBERATE,B,456
+"da sehe ich da ist Himmelfahrt",CLARIFY,B,456
+"das ist nicht gut",REJECT,B,456
+"dann",NOT_CLASSIFIABLE,B,456
+"<häs> richtig",FEEDBACK_POSITIVE,A,456
+"da sehe ich da ist Himmelfahrt",CLARIFY,B,457
+"das ist nicht gut",REJECT,B,457
+"dann",NOT_CLASSIFIABLE,B,457
+"<häs> richtig",FEEDBACK_POSITIVE,A,457
+"ist ja immer der Mai hat so viele Feiertage",INFORM,A,457
+"das ist nicht gut",REJECT,B,458
+"dann",NOT_CLASSIFIABLE,B,458
+"<häs> richtig",FEEDBACK_POSITIVE,A,458
+"ist ja immer der Mai hat so viele Feiertage",INFORM,A,458
+"ja ja das ist schon",FEEDBACK_POSITIVE,B,458
+"dann",NOT_CLASSIFIABLE,B,459
+"<häs> richtig",FEEDBACK_POSITIVE,A,459
+"ist ja immer der Mai hat so viele Feiertage",INFORM,A,459
+"ja ja das ist schon",FEEDBACK_POSITIVE,B,459
+"nee dann dann mache ich das lieber im April",SUGGEST,B,459
+"<häs> richtig",FEEDBACK_POSITIVE,A,460
+"ist ja immer der Mai hat so viele Feiertage",INFORM,A,460
+"ja ja das ist schon",FEEDBACK_POSITIVE,B,460
+"nee dann dann mache ich das lieber im April",SUGGEST,B,460
+"ja",FEEDBACK_POSITIVE,A,460
+"ist ja immer der Mai hat so viele Feiertage",INFORM,A,461
+"ja ja das ist schon",FEEDBACK_POSITIVE,B,461
+"nee dann dann mache ich das lieber im April",SUGGEST,B,461
+"ja",FEEDBACK_POSITIVE,A,461
+"wie Sie wünschen",POLITENESS_FORMULA,A,461
+"ja ja das ist schon",FEEDBACK_POSITIVE,B,462
+"nee dann dann mache ich das lieber im April",SUGGEST,B,462
+"ja",FEEDBACK_POSITIVE,A,462
+"wie Sie wünschen",POLITENESS_FORMULA,A,462
+"<äh> vom dreizehnten bis zum sechzehnten April",SUGGEST,B,462
+"nee dann dann mache ich das lieber im April",SUGGEST,B,463
+"ja",FEEDBACK_POSITIVE,A,463
+"wie Sie wünschen",POLITENESS_FORMULA,A,463
+"<äh> vom dreizehnten bis zum sechzehnten April",SUGGEST,B,463
+"dreizehnter bis sechzehnter April",DELIBERATE,A,463
+"ja",FEEDBACK_POSITIVE,A,464
+"wie Sie wünschen",POLITENESS_FORMULA,A,464
+"<äh> vom dreizehnten bis zum sechzehnten April",SUGGEST,B,464
+"dreizehnter bis sechzehnter April",DELIBERATE,A,464
+"das ist auch Dienstag bis Freitag",CLARIFY,A,464
+"wie Sie wünschen",POLITENESS_FORMULA,A,465
+"<äh> vom dreizehnten bis zum sechzehnten April",SUGGEST,B,465
+"dreizehnter bis sechzehnter April",DELIBERATE,A,465
+"das ist auch Dienstag bis Freitag",CLARIFY,A,465
+"ja",FEEDBACK_POSITIVE,B,465
+"<äh> vom dreizehnten bis zum sechzehnten April",SUGGEST,B,466
+"dreizehnter bis sechzehnter April",DELIBERATE,A,466
+"das ist auch Dienstag bis Freitag",CLARIFY,A,466
+"ja",FEEDBACK_POSITIVE,B,466
+"mhm",BACKCHANNEL,B,466
+"dreizehnter bis sechzehnter April",DELIBERATE,A,467
+"das ist auch Dienstag bis Freitag",CLARIFY,A,467
+"ja",FEEDBACK_POSITIVE,B,467
+"mhm",BACKCHANNEL,B,467
+"<äh> die Dauer des Aufenthaltes ist dann drei Tage",INFORM,A,467
+"das ist auch Dienstag bis Freitag",CLARIFY,A,468
+"ja",FEEDBACK_POSITIVE,B,468
+"mhm",BACKCHANNEL,B,468
+"<äh> die Dauer des Aufenthaltes ist dann drei Tage",INFORM,A,468
+"ja mit welchem Verkehrsmittel würden Sie gerne nach Hannover reisen",INIT,A,468
+"ja",FEEDBACK_POSITIVE,B,469
+"mhm",BACKCHANNEL,B,469
+"<äh> die Dauer des Aufenthaltes ist dann drei Tage",INFORM,A,469
+"ja mit welchem Verkehrsmittel würden Sie gerne nach Hannover reisen",INIT,A,469
+"also wir können Ihnen eine Zugverbindung und eine Flugverbindung anbieten",SUGGEST,A,469
+"mhm",BACKCHANNEL,B,470
+"<äh> die Dauer des Aufenthaltes ist dann drei Tage",INFORM,A,470
+"ja mit welchem Verkehrsmittel würden Sie gerne nach Hannover reisen",INIT,A,470
+"also wir können Ihnen eine Zugverbindung und eine Flugverbindung anbieten",SUGGEST,A,470
+"oh ich fahre ganz gerne Zug",SUGGEST,B,470
+"<äh> die Dauer des Aufenthaltes ist dann drei Tage",INFORM,A,471
+"ja mit welchem Verkehrsmittel würden Sie gerne nach Hannover reisen",INIT,A,471
+"also wir können Ihnen eine Zugverbindung und eine Flugverbindung anbieten",SUGGEST,A,471
+"oh ich fahre ganz gerne Zug",SUGGEST,B,471
+"Sie fahren ganz gerne Zug",DELIBERATE,A,471
+"ja mit welchem Verkehrsmittel würden Sie gerne nach Hannover reisen",INIT,A,472
+"also wir können Ihnen eine Zugverbindung und eine Flugverbindung anbieten",SUGGEST,A,472
+"oh ich fahre ganz gerne Zug",SUGGEST,B,472
+"Sie fahren ganz gerne Zug",DELIBERATE,A,472
+"ja",FEEDBACK_POSITIVE,B,472
+"mhm",BACKCHANNEL,B,473
+"mhm",BACKCHANNEL,B,473
+"ja dann <äh> denke ich Moment dann müßte ich da sein um zirka ja elf Uhr rum",INFORM,B,473
+"ja dann nehme ich am besten auch schon den ersten damit ich mich auch noch irgendwie",SUGGEST,B,473
+"den um sechs Uhr fünfundvierzig",SUGGEST,A,473
+"mhm",BACKCHANNEL,B,474
+"ja dann <äh> denke ich Moment dann müßte ich da sein um zirka ja elf Uhr rum",INFORM,B,474
+"ja dann nehme ich am besten auch schon den ersten damit ich mich auch noch irgendwie",SUGGEST,B,474
+"den um sechs Uhr fünfundvierzig",SUGGEST,A,474
+"<äh> ja",ACCEPT,B,474
+"ja dann <äh> denke ich Moment dann müßte ich da sein um zirka ja elf Uhr rum",INFORM,B,475
+"ja dann nehme ich am besten auch schon den ersten damit ich mich auch noch irgendwie",SUGGEST,B,475
+"den um sechs Uhr fünfundvierzig",SUGGEST,A,475
+"<äh> ja",ACCEPT,B,475
+"da muß ich zwar früh aufstehen aber das wird schon klappen",INFORM,B,475
+"ja dann nehme ich am besten auch schon den ersten damit ich mich auch noch irgendwie",SUGGEST,B,476
+"den um sechs Uhr fünfundvierzig",SUGGEST,A,476
+"<äh> ja",ACCEPT,B,476
+"da muß ich zwar früh aufstehen aber das wird schon klappen",INFORM,B,476
+"gut",FEEDBACK_POSITIVE,A,476
+"den um sechs Uhr fünfundvierzig",SUGGEST,A,477
+"<äh> ja",ACCEPT,B,477
+"da muß ich zwar früh aufstehen aber das wird schon klappen",INFORM,B,477
+"gut",FEEDBACK_POSITIVE,A,477
+"sollen wir da für Sie eine Reservierung vornehmen",OFFER,A,477
+"<äh> ja",ACCEPT,B,478
+"da muß ich zwar früh aufstehen aber das wird schon klappen",INFORM,B,478
+"gut",FEEDBACK_POSITIVE,A,478
+"sollen wir da für Sie eine Reservierung vornehmen",OFFER,A,478
+"ja das wäre ok das wäre gut ja",ACCEPT,B,478
+"da muß ich zwar früh aufstehen aber das wird schon klappen",INFORM,B,479
+"gut",FEEDBACK_POSITIVE,A,479
+"sollen wir da für Sie eine Reservierung vornehmen",OFFER,A,479
+"ja das wäre ok das wäre gut ja",ACCEPT,B,479
+"Raucher Nichtraucher",REQUEST_SUGGEST,A,479
+"gut",FEEDBACK_POSITIVE,A,480
+"sollen wir da für Sie eine Reservierung vornehmen",OFFER,A,480
+"ja das wäre ok das wäre gut ja",ACCEPT,B,480
+"Raucher Nichtraucher",REQUEST_SUGGEST,A,480
+"<ähm> Raucher",SUGGEST,B,480
+"sollen wir da für Sie eine Reservierung vornehmen",OFFER,A,481
+"ja das wäre ok das wäre gut ja",ACCEPT,B,481
+"Raucher Nichtraucher",REQUEST_SUGGEST,A,481
+"<ähm> Raucher",SUGGEST,B,481
+"Raucher",DELIBERATE,A,481
+"gleiche Fahrtdauer gleicher Preis auch ein Intercity",INFORM,A,482
+"mhm",BACKCHANNEL,B,482
+"ja",FEEDBACK_POSITIVE,B,482
+"wann wollen Sie da zurückfahren",REQUEST,A,482
+"ja dann <ähm> ich werde da um vier rum fertig sein",INFORM,B,482
+"mhm",BACKCHANNEL,B,483
+"ja",FEEDBACK_POSITIVE,B,483
+"wann wollen Sie da zurückfahren",REQUEST,A,483
+"ja dann <ähm> ich werde da um vier rum fertig sein",INFORM,B,483
+"dann würde ich sagen <ähm> mit Packen und ja siebzehn Uhr achtundfünfzig",SUGGEST,B,483
+"ja",FEEDBACK_POSITIVE,B,484
+"wann wollen Sie da zurückfahren",REQUEST,A,484
+"ja dann <ähm> ich werde da um vier rum fertig sein",INFORM,B,484
+"dann würde ich sagen <ähm> mit Packen und ja siebzehn Uhr achtundfünfzig",SUGGEST,B,484
+"bietet sich es",ACCEPT,A,484
+"wann wollen Sie da zurückfahren",REQUEST,A,485
+"ja dann <ähm> ich werde da um vier rum fertig sein",INFORM,B,485
+"dann würde ich sagen <ähm> mit Packen und ja siebzehn Uhr achtundfünfzig",SUGGEST,B,485
+"bietet sich es",ACCEPT,A,485
+"siebzehn Uhr achtundfünfzig",DELIBERATE,A,485
+"ja dann <ähm> ich werde da um vier rum fertig sein",INFORM,B,486
+"dann würde ich sagen <ähm> mit Packen und ja siebzehn Uhr achtundfünfzig",SUGGEST,B,486
+"bietet sich es",ACCEPT,A,486
+"siebzehn Uhr achtundfünfzig",DELIBERATE,A,486
+"gut",FEEDBACK_POSITIVE,A,486
+"dann würde ich sagen <ähm> mit Packen und ja siebzehn Uhr achtundfünfzig",SUGGEST,B,487
+"bietet sich es",ACCEPT,A,487
+"siebzehn Uhr achtundfünfzig",DELIBERATE,A,487
+"gut",FEEDBACK_POSITIVE,A,487
+"auch wieder Raucher",REQUEST,A,487
+"bietet sich es",ACCEPT,A,488
+"siebzehn Uhr achtundfünfzig",DELIBERATE,A,488
+"gut",FEEDBACK_POSITIVE,A,488
+"auch wieder Raucher",REQUEST,A,488
+"ja",FEEDBACK_POSITIVE,B,488
+"siebzehn Uhr achtundfünfzig",DELIBERATE,A,489
+"gut",FEEDBACK_POSITIVE,A,489
+"auch wieder Raucher",REQUEST,A,489
+"ja",FEEDBACK_POSITIVE,B,489
+"ja",FEEDBACK_POSITIVE,B,489
+"gut",FEEDBACK_POSITIVE,A,490
+"auch wieder Raucher",REQUEST,A,490
+"ja",FEEDBACK_POSITIVE,B,490
+"ja",FEEDBACK_POSITIVE,B,490
+"bitte",POLITENESS_FORMULA,B,490
+"auch wieder Raucher",REQUEST,A,491
+"ja",FEEDBACK_POSITIVE,B,491
+"ja",FEEDBACK_POSITIVE,B,491
+"bitte",POLITENESS_FORMULA,B,491
+"in Ordnung",FEEDBACK_POSITIVE,A,491
+"ja",FEEDBACK_POSITIVE,B,492
+"ja",FEEDBACK_POSITIVE,B,492
+"bitte",POLITENESS_FORMULA,B,492
+"in Ordnung",FEEDBACK_POSITIVE,A,492
+"das können wir für Sie reservieren",COMMIT,A,492
+"ja",FEEDBACK_POSITIVE,B,493
+"bitte",POLITENESS_FORMULA,B,493
+"in Ordnung",FEEDBACK_POSITIVE,A,493
+"das können wir für Sie reservieren",COMMIT,A,493
+"ja dann bliebe noch die Frage ich nehme an daß Sie im Hotel unterkommen wollen",INIT,A,493
+"bitte",POLITENESS_FORMULA,B,494
+"in Ordnung",FEEDBACK_POSITIVE,A,494
+"das können wir für Sie reservieren",COMMIT,A,494
+"ja dann bliebe noch die Frage ich nehme an daß Sie im Hotel unterkommen wollen",INIT,A,494
+"das wäre das Weitere",INFORM,A,494
+"in Ordnung",FEEDBACK_POSITIVE,A,495
+"das können wir für Sie reservieren",COMMIT,A,495
+"ja dann bliebe noch die Frage ich nehme an daß Sie im Hotel unterkommen wollen",INIT,A,495
+"das wäre das Weitere",INFORM,A,495
+"mhm",BACKCHANNEL,B,495
+"das können wir für Sie reservieren",COMMIT,A,496
+"ja dann bliebe noch die Frage ich nehme an daß Sie im Hotel unterkommen wollen",INIT,A,496
+"das wäre das Weitere",INFORM,A,496
+"mhm",BACKCHANNEL,B,496
+"ja",ACCEPT,B,496
+"ja dann bliebe noch die Frage ich nehme an daß Sie im Hotel unterkommen wollen",INIT,A,497
+"das wäre das Weitere",INFORM,A,497
+"mhm",BACKCHANNEL,B,497
+"ja",ACCEPT,B,497
+"also es wäre ganz schön wenn es zentral gelegen wäre",SUGGEST,B,497
+"das wäre das Weitere",INFORM,A,498
+"mhm",BACKCHANNEL,B,498
+"ja",ACCEPT,B,498
+"also es wäre ganz schön wenn es zentral gelegen wäre",SUGGEST,B,498
+"weil ich wollte abends noch irgendwie ein bißchen was ausgehen",GIVE_REASON,B,498
+"mhm",BACKCHANNEL,B,499
+"ja",ACCEPT,B,499
+"also es wäre ganz schön wenn es zentral gelegen wäre",SUGGEST,B,499
+"weil ich wollte abends noch irgendwie ein bißchen was ausgehen",GIVE_REASON,B,499
+"wir hä",NOT_CLASSIFIABLE,A,499
+"ja",ACCEPT,B,500
+"also es wäre ganz schön wenn es zentral gelegen wäre",SUGGEST,B,500
+"weil ich wollte abends noch irgendwie ein bißchen was ausgehen",GIVE_REASON,B,500
+"wir hä",NOT_CLASSIFIABLE,A,500
+"ah wenn es zentral <%>",NOT_CLASSIFIABLE,A,500
+"also es wäre ganz schön wenn es zentral gelegen wäre",SUGGEST,B,501
+"weil ich wollte abends noch irgendwie ein bißchen was ausgehen",GIVE_REASON,B,501
+"wir hä",NOT_CLASSIFIABLE,A,501
+"ah wenn es zentral <%>",NOT_CLASSIFIABLE,A,501
+"da hä da muß ich grade gucken",DELIBERATE,A,501
+"weil ich wollte abends noch irgendwie ein bißchen was ausgehen",GIVE_REASON,B,502
+"wir hä",NOT_CLASSIFIABLE,A,502
+"ah wenn es zentral <%>",NOT_CLASSIFIABLE,A,502
+"da hä da muß ich grade gucken",DELIBERATE,A,502
+"da hätten wir zwei Hotels im Angebot",INFORM,A,502
+"wir hä",NOT_CLASSIFIABLE,A,503
+"ah wenn es zentral <%>",NOT_CLASSIFIABLE,A,503
+"da hä da muß ich grade gucken",DELIBERATE,A,503
+"da hätten wir zwei Hotels im Angebot",INFORM,A,503
+"zum einen schon s das Hotel Am-Funkturm",SUGGEST,A,503
+"ah wenn es zentral <%>",NOT_CLASSIFIABLE,A,504
+"da hä da muß ich grade gucken",DELIBERATE,A,504
+"da hätten wir zwei Hotels im Angebot",INFORM,A,504
+"zum einen schon s das Hotel Am-Funkturm",SUGGEST,A,504
+"das ist sehr zentral mit Konferenzraum und Restaurant",INFORM,A,504
+"da hä da muß ich grade gucken",DELIBERATE,A,505
+"da hätten wir zwei Hotels im Angebot",INFORM,A,505
+"zum einen schon s das Hotel Am-Funkturm",SUGGEST,A,505
+"das ist sehr zentral mit Konferenzraum und Restaurant",INFORM,A,505
+"die Preiskategorie pro Nacht beträgt achtundneunzig bis einhundert achtundneunzig Mark",INFORM,A,505
+"da hätten wir zwei Hotels im Angebot",INFORM,A,506
+"zum einen schon s das Hotel Am-Funkturm",SUGGEST,A,506
+"das ist sehr zentral mit Konferenzraum und Restaurant",INFORM,A,506
+"die Preiskategorie pro Nacht beträgt achtundneunzig bis einhundert achtundneunzig Mark",INFORM,A,506
+"mhm",BACKCHANNEL,B,506
+"zum einen schon s das Hotel Am-Funkturm",SUGGEST,A,507
+"das ist sehr zentral mit Konferenzraum und Restaurant",INFORM,A,507
+"die Preiskategorie pro Nacht beträgt achtundneunzig bis einhundert achtundneunzig Mark",INFORM,A,507
+"mhm",BACKCHANNEL,B,507
+"haben Sie was zu schreiben oder ja",REQUEST,A,507
+"das ist sehr zentral mit Konferenzraum und Restaurant",INFORM,A,508
+"die Preiskategorie pro Nacht beträgt achtundneunzig bis einhundert achtundneunzig Mark",INFORM,A,508
+"mhm",BACKCHANNEL,B,508
+"haben Sie was zu schreiben oder ja",REQUEST,A,508
+"und das andere ist das Hotel Thüringer-Hof",SUGGEST,A,508
+"<äh> ja dann nehme ich das am Funkturm doch lieber",SUGGEST,B,509
+"ja",ACCEPT,A,509
+"drei Nächte",SUGGEST,A,509
+"mhm",BACKCHANNEL,B,509
+"ja",ACCEPT,B,509
+"ja",ACCEPT,A,510
+"drei Nächte",SUGGEST,A,510
+"mhm",BACKCHANNEL,B,510
+"ja",ACCEPT,B,510
+"ja das werden wir für Sie reservieren",COMMIT,A,510
+"ja das wäre eine schöne Sache ja",ACCEPT,B,511
+"könnte ich mal reinblättern",FEEDBACK_POSITIVE,B,511
+"das können wir arrangieren",COMMIT,A,511
+"mhm",BACKCHANNEL,B,511
+"ja wunderbar",FEEDBACK_POSITIVE,B,511
+"und <ähm> da können wir ja gleich einen Termin ausmachen",DELIBERATE,A,512
+"was halten Sie gleich vom ersten zweiten Oktober",SUGGEST,A,512
+"das ist bei mir schlecht",REJECT,B,512
+"ich habe da Herbst im Herbst noch Urlaub genommen <ähm>",GIVE_REASON,B,512
+"gut dann neunter zehnter",SUGGEST,A,512
+"was halten Sie gleich vom ersten zweiten Oktober",SUGGEST,A,513
+"das ist bei mir schlecht",REJECT,B,513
+"ich habe da Herbst im Herbst noch Urlaub genommen <ähm>",GIVE_REASON,B,513
+"gut dann neunter zehnter",SUGGEST,A,513
+"nee nee also ich bin da die ersten zweieinhalb Wochen nicht da",EXPLAINED_REJECT,B,513
+"das ist bei mir schlecht",REJECT,B,514
+"ich habe da Herbst im Herbst noch Urlaub genommen <ähm>",GIVE_REASON,B,514
+"gut dann neunter zehnter",SUGGEST,A,514
+"nee nee also ich bin da die ersten zweieinhalb Wochen nicht da",EXPLAINED_REJECT,B,514
+"ab zwanzigsten <äh> ja nein ab dreiundzwanzigsten wäre ich im Prinzip erst verfügbar",SUGGEST,B,514
+"ich habe da Herbst im Herbst noch Urlaub genommen <ähm>",GIVE_REASON,B,515
+"gut dann neunter zehnter",SUGGEST,A,515
+"nee nee also ich bin da die ersten zweieinhalb Wochen nicht da",EXPLAINED_REJECT,B,515
+"ab zwanzigsten <äh> ja nein ab dreiundzwanzigsten wäre ich im Prinzip erst verfügbar",SUGGEST,B,515
+"<äh> würde das Ihnen passen",REQUEST_COMMENT,B,515
+"gut dann neunter zehnter",SUGGEST,A,516
+"nee nee also ich bin da die ersten zweieinhalb Wochen nicht da",EXPLAINED_REJECT,B,516
+"ab zwanzigsten <äh> ja nein ab dreiundzwanzigsten wäre ich im Prinzip erst verfügbar",SUGGEST,B,516
+"<äh> würde das Ihnen passen",REQUEST_COMMENT,B,516
+"dreiundzwanzigster vierundzwanzigster Oktobe",SUGGEST,B,516
+"nee nee also ich bin da die ersten zweieinhalb Wochen nicht da",EXPLAINED_REJECT,B,517
+"ab zwanzigsten <äh> ja nein ab dreiundzwanzigsten wäre ich im Prinzip erst verfügbar",SUGGEST,B,517
+"<äh> würde das Ihnen passen",REQUEST_COMMENT,B,517
+"dreiundzwanzigster vierundzwanzigster Oktobe",SUGGEST,B,517
+"ach so",BACKCHANNEL,A,517
+"ab zwanzigsten <äh> ja nein ab dreiundzwanzigsten wäre ich im Prinzip erst verfügbar",SUGGEST,B,518
+"<äh> würde das Ihnen passen",REQUEST_COMMENT,B,518
+"dreiundzwanzigster vierundzwanzigster Oktobe",SUGGEST,B,518
+"ach so",BACKCHANNEL,A,518
+"nee in der Zeit bin ich leider im Urlaub",EXPLAINED_REJECT,A,518
+"<äh> würde das Ihnen passen",REQUEST_COMMENT,B,519
+"dreiundzwanzigster vierundzwanzigster Oktobe",SUGGEST,B,519
+"ach so",BACKCHANNEL,A,519
+"nee in der Zeit bin ich leider im Urlaub",EXPLAINED_REJECT,A,519
+"wie wäre es mit siebter achter November",SUGGEST,A,519
+"dreiundzwanzigster vierundzwanzigster Oktobe",SUGGEST,B,520
+"ach so",BACKCHANNEL,A,520
+"nee in der Zeit bin ich leider im Urlaub",EXPLAINED_REJECT,A,520
+"wie wäre es mit siebter achter November",SUGGEST,A,520
+"das wäre zwar Freitag Samstag aber",CLARIFY,A,520
+"ach so",BACKCHANNEL,A,521
+"nee in der Zeit bin ich leider im Urlaub",EXPLAINED_REJECT,A,521
+"wie wäre es mit siebter achter November",SUGGEST,A,521
+"das wäre zwar Freitag Samstag aber",CLARIFY,A,521
+"<äh>",NOT_CLASSIFIABLE,B,521
+"nee in der Zeit bin ich leider im Urlaub",EXPLAINED_REJECT,A,522
+"wie wäre es mit siebter achter November",SUGGEST,A,522
+"das wäre zwar Freitag Samstag aber",CLARIFY,A,522
+"<äh>",NOT_CLASSIFIABLE,B,522
+"ja Samstag ja im Notfall",ACCEPT,B,522
+"wie wäre es mit siebter achter November",SUGGEST,A,523
+"das wäre zwar Freitag Samstag aber",CLARIFY,A,523
+"<äh>",NOT_CLASSIFIABLE,B,523
+"ja Samstag ja im Notfall",ACCEPT,B,523
+"das ist es ist bei mir auch sehr eng",FEEDBACK_NEGATIVE,B,523
+"das wäre zwar Freitag Samstag aber",CLARIFY,A,524
+"<äh>",NOT_CLASSIFIABLE,B,524
+"ja Samstag ja im Notfall",ACCEPT,B,524
+"das ist es ist bei mir auch sehr eng",FEEDBACK_NEGATIVE,B,524
+"ich würde sagen unter diesen Umständen bin ich bereit daß wir das",NOT_CLASSIFIABLE,B,524
+"<äh>",NOT_CLASSIFIABLE,B,525
+"ja Samstag ja im Notfall",ACCEPT,B,525
+"das ist es ist bei mir auch sehr eng",FEEDBACK_NEGATIVE,B,525
+"ich würde sagen unter diesen Umständen bin ich bereit daß wir das",NOT_CLASSIFIABLE,B,525
+"<häs> Samstag können wir auch in Hannover durchaus mal verbringen",ACCEPT,B,525
+"ja Samstag ja im Notfall",ACCEPT,B,526
+"das ist es ist bei mir auch sehr eng",FEEDBACK_NEGATIVE,B,526
+"ich würde sagen unter diesen Umständen bin ich bereit daß wir das",NOT_CLASSIFIABLE,B,526
+"<häs> Samstag können wir auch in Hannover durchaus mal verbringen",ACCEPT,B,526
+"okay",ACCEPT,B,526
+"das ist es ist bei mir auch sehr eng",FEEDBACK_NEGATIVE,B,527
+"ich würde sagen unter diesen Umständen bin ich bereit daß wir das",NOT_CLASSIFIABLE,B,527
+"<häs> Samstag können wir auch in Hannover durchaus mal verbringen",ACCEPT,B,527
+"okay",ACCEPT,B,527
+"ja",ACCEPT,B,527
+"ich würde sagen unter diesen Umständen bin ich bereit daß wir das",NOT_CLASSIFIABLE,B,528
+"<häs> Samstag können wir auch in Hannover durchaus mal verbringen",ACCEPT,B,528
+"okay",ACCEPT,B,528
+"ja",ACCEPT,B,528
+"na gut dann <ähm>",NOT_CLASSIFIABLE,A,528
+"<häs> Samstag können wir auch in Hannover durchaus mal verbringen",ACCEPT,B,529
+"okay",ACCEPT,B,529
+"ja",ACCEPT,B,529
+"na gut dann <ähm>",NOT_CLASSIFIABLE,A,529
+"<ähm> ja wie wollen wir hinfahren",REQUEST,A,529
+"okay",ACCEPT,B,530
+"ja",ACCEPT,B,530
+"na gut dann <ähm>",NOT_CLASSIFIABLE,A,530
+"<ähm> ja wie wollen wir hinfahren",REQUEST,A,530
+"also ich würde vorschlagen Zugverbindung",INIT,A,530
+"ja",ACCEPT,B,531
+"na gut dann <ähm>",NOT_CLASSIFIABLE,A,531
+"<ähm> ja wie wollen wir hinfahren",REQUEST,A,531
+"also ich würde vorschlagen Zugverbindung",INIT,A,531
+"und <ähm> da der Herr Schislowsky von der <ähm> Filiale in Hannover mir gesagt hat",GIVE_REASON,A,531
+"na gut dann <ähm>",NOT_CLASSIFIABLE,A,532
+"<ähm> ja wie wollen wir hinfahren",REQUEST,A,532
+"also ich würde vorschlagen Zugverbindung",INIT,A,532
+"und <ähm> da der Herr Schislowsky von der <ähm> Filiale in Hannover mir gesagt hat",GIVE_REASON,A,532
+"wir sollten spätestens um elf Uhr da sein",SUGGEST,A,532
+"<ähm> ja wie wollen wir hinfahren",REQUEST,A,533
+"also ich würde vorschlagen Zugverbindung",INIT,A,533
+"und <ähm> da der Herr Schislowsky von der <ähm> Filiale in Hannover mir gesagt hat",GIVE_REASON,A,533
+"wir sollten spätestens um elf Uhr da sein",SUGGEST,A,533
+"würde ich f",NOT_CLASSIFIABLE,A,533
+"mhm",BACKCHANNEL,B,534
+"<häs> ja",FEEDBACK_POSITIVE,B,534
+"wenn wir den nehmen",SUGGEST,A,534
+"das ist halte ich für eine ganz gute Idee",ACCEPT,B,534
+"also ich meine ich möchte Samstag nicht <äh> beliebig weit rauszögern",INFORM,B,534
+"<häs> ja",FEEDBACK_POSITIVE,B,535
+"wenn wir den nehmen",SUGGEST,A,535
+"das ist halte ich für eine ganz gute Idee",ACCEPT,B,535
+"also ich meine ich möchte Samstag nicht <äh> beliebig weit rauszögern",INFORM,B,535
+"obwohl ich jetzt überlege ob ich das Wochenende denn dort verbringe",DELIBERATE,B,535
+"wenn wir den nehmen",SUGGEST,A,536
+"das ist halte ich für eine ganz gute Idee",ACCEPT,B,536
+"also ich meine ich möchte Samstag nicht <äh> beliebig weit rauszögern",INFORM,B,536
+"obwohl ich jetzt überlege ob ich das Wochenende denn dort verbringe",DELIBERATE,B,536
+"aber <ähm> das wäre mir sehr recht",ACCEPT,B,536
+"das ist halte ich für eine ganz gute Idee",ACCEPT,B,537
+"also ich meine ich möchte Samstag nicht <äh> beliebig weit rauszögern",INFORM,B,537
+"obwohl ich jetzt überlege ob ich das Wochenende denn dort verbringe",DELIBERATE,B,537
+"aber <ähm> das wäre mir sehr recht",ACCEPT,B,537
+"gut ja reservieren Sie da gleich",REQUEST_COMMIT,B,537
+"also ich meine ich möchte Samstag nicht <äh> beliebig weit rauszögern",INFORM,B,538
+"obwohl ich jetzt überlege ob ich das Wochenende denn dort verbringe",DELIBERATE,B,538
+"aber <ähm> das wäre mir sehr recht",ACCEPT,B,538
+"gut ja reservieren Sie da gleich",REQUEST_COMMIT,B,538
+"mhm",BACKCHANNEL,A,538
+"obwohl ich jetzt überlege ob ich das Wochenende denn dort verbringe",DELIBERATE,B,539
+"aber <ähm> das wäre mir sehr recht",ACCEPT,B,539
+"gut ja reservieren Sie da gleich",REQUEST_COMMIT,B,539
+"mhm",BACKCHANNEL,A,539
+"ja genau",ACCEPT,A,539
+"aber <ähm> das wäre mir sehr recht",ACCEPT,B,540
+"gut ja reservieren Sie da gleich",REQUEST_COMMIT,B,540
+"mhm",BACKCHANNEL,A,540
+"ja genau",ACCEPT,A,540
+"und zurück <%> <hm> lassen wir dann offen",DEFER,A,540
+"gut ja reservieren Sie da gleich",REQUEST_COMMIT,B,541
+"mhm",BACKCHANNEL,A,541
+"ja genau",ACCEPT,A,541
+"und zurück <%> <hm> lassen wir dann offen",DEFER,A,541
+"weil wenn Sie das Wochenende eh da noch verbringen",GIVE_REASON,A,541
+"mhm",BACKCHANNEL,A,542
+"ja genau",ACCEPT,A,542
+"und zurück <%> <hm> lassen wir dann offen",DEFER,A,542
+"weil wenn Sie das Wochenende eh da noch verbringen",GIVE_REASON,A,542
+"ich werde ziemlich sicher am Samstag gleich zurückfahren aber gut",INFORM,A,542
+"ja genau",ACCEPT,A,543
+"und zurück <%> <hm> lassen wir dann offen",DEFER,A,543
+"weil wenn Sie das Wochenende eh da noch verbringen",GIVE_REASON,A,543
+"ich werde ziemlich sicher am Samstag gleich zurückfahren aber gut",INFORM,A,543
+"okay",ACCEPT,B,543
+"und zurück <%> <hm> lassen wir dann offen",DEFER,A,544
+"weil wenn Sie das Wochenende eh da noch verbringen",GIVE_REASON,A,544
+"ich werde ziemlich sicher am Samstag gleich zurückfahren aber gut",INFORM,A,544
+"okay",ACCEPT,B,544
+"genau bei mir ist es noch nicht",NOT_CLASSIFIABLE,B,544
+"weil wenn Sie das Wochenende eh da noch verbringen",GIVE_REASON,A,545
+"ich werde ziemlich sicher am Samstag gleich zurückfahren aber gut",INFORM,A,545
+"okay",ACCEPT,B,545
+"genau bei mir ist es noch nicht",NOT_CLASSIFIABLE,B,545
+"ja gut",FEEDBACK_POSITIVE,B,545
+"ich werde ziemlich sicher am Samstag gleich zurückfahren aber gut",INFORM,A,546
+"okay",ACCEPT,B,546
+"genau bei mir ist es noch nicht",NOT_CLASSIFIABLE,B,546
+"ja gut",FEEDBACK_POSITIVE,B,546
+"<ähm> ich könnte dafür mich um Hotel kümmer ein Hotel kümmern",INIT,B,546
+"okay",ACCEPT,B,547
+"genau bei mir ist es noch nicht",NOT_CLASSIFIABLE,B,547
+"ja gut",FEEDBACK_POSITIVE,B,547
+"<ähm> ich könnte dafür mich um Hotel kümmer ein Hotel kümmern",INIT,B,547
+"<ähm> ich weiß nicht haben Sie da irgendwie ein besonderes Interesse irgendwie",REQUEST_SUGGEST,B,547
+"genau bei mir ist es noch nicht",NOT_CLASSIFIABLE,B,548
+"ja gut",FEEDBACK_POSITIVE,B,548
+"<ähm> ich könnte dafür mich um Hotel kümmer ein Hotel kümmern",INIT,B,548
+"<ähm> ich weiß nicht haben Sie da irgendwie ein besonderes Interesse irgendwie",REQUEST_SUGGEST,B,548
+"<äh> ich sehe hier grade eines mit nichtraucher-speziellem Flügel",INFORM,B,548
+"ja gut",FEEDBACK_POSITIVE,B,549
+"<ähm> ich könnte dafür mich um Hotel kümmer ein Hotel kümmern",INIT,B,549
+"<ähm> ich weiß nicht haben Sie da irgendwie ein besonderes Interesse irgendwie",REQUEST_SUGGEST,B,549
+"<äh> ich sehe hier grade eines mit nichtraucher-speziellem Flügel",INFORM,B,549
+"das ist ist Ihnen egal",INFORM,B,549
+"<ähm> ich könnte dafür mich um Hotel kümmer ein Hotel kümmern",INIT,B,550
+"<ähm> ich weiß nicht haben Sie da irgendwie ein besonderes Interesse irgendwie",REQUEST_SUGGEST,B,550
+"<äh> ich sehe hier grade eines mit nichtraucher-speziellem Flügel",INFORM,B,550
+"das ist ist Ihnen egal",INFORM,B,550
+"<ähm>",NOT_CLASSIFIABLE,A,550
+"<ähm> ich weiß nicht haben Sie da irgendwie ein besonderes Interesse irgendwie",REQUEST_SUGGEST,B,551
+"<äh> ich sehe hier grade eines mit nichtraucher-speziellem Flügel",INFORM,B,551
+"das ist ist Ihnen egal",INFORM,B,551
+"<ähm>",NOT_CLASSIFIABLE,A,551
+"mhm",BACKCHANNEL,A,551
+"<äh> ich sehe hier grade eines mit nichtraucher-speziellem Flügel",INFORM,B,552
+"das ist ist Ihnen egal",INFORM,B,552
+"<ähm>",NOT_CLASSIFIABLE,A,552
+"mhm",BACKCHANNEL,A,552
+"nee das ist mir ei alles alles egal",FEEDBACK,A,552
+"das ist ist Ihnen egal",INFORM,B,553
+"<ähm>",NOT_CLASSIFIABLE,A,553
+"mhm",BACKCHANNEL,A,553
+"nee das ist mir ei alles alles egal",FEEDBACK,A,553
+"okay dann <ähm> würde ich sagen nehmen wir doch das ja am nächsten gelegene",SUGGEST,B,553
+"<ähm>",NOT_CLASSIFIABLE,A,554
+"mhm",BACKCHANNEL,A,554
+"nee das ist mir ei alles alles egal",FEEDBACK,A,554
+"okay dann <ähm> würde ich sagen nehmen wir doch das ja am nächsten gelegene",SUGGEST,B,554
+"<ähm>",NOT_CLASSIFIABLE,A,554
+"mhm",BACKCHANNEL,A,555
+"nee das ist mir ei alles alles egal",FEEDBACK,A,555
+"okay dann <ähm> würde ich sagen nehmen wir doch das ja am nächsten gelegene",SUGGEST,B,555
+"<ähm>",NOT_CLASSIFIABLE,A,555
+"genau",ACCEPT,A,555
+"nee das ist mir ei alles alles egal",FEEDBACK,A,556
+"okay dann <ähm> würde ich sagen nehmen wir doch das ja am nächsten gelegene",SUGGEST,B,556
+"<ähm>",NOT_CLASSIFIABLE,A,556
+"genau",ACCEPT,A,556
+"das ist eine gute Idee",FEEDBACK_POSITIVE,A,556
+"okay dann <ähm> würde ich sagen nehmen wir doch das ja am nächsten gelegene",SUGGEST,B,557
+"<ähm>",NOT_CLASSIFIABLE,A,557
+"genau",ACCEPT,A,557
+"das ist eine gute Idee",FEEDBACK_POSITIVE,A,557
+"das heißt <äh> würde ich sagen nehmen wir doch den dann Hotel Nöhre",SUGGEST,B,557
+"<ähm>",NOT_CLASSIFIABLE,A,558
+"genau",ACCEPT,A,558
+"das ist eine gute Idee",FEEDBACK_POSITIVE,A,558
+"das heißt <äh> würde ich sagen nehmen wir doch den dann Hotel Nöhre",SUGGEST,B,558
+"das ist ziemlich nah am Bahnhof",INFORM,B,558
+"genau",ACCEPT,A,559
+"das ist eine gute Idee",FEEDBACK_POSITIVE,A,559
+"das heißt <äh> würde ich sagen nehmen wir doch den dann Hotel Nöhre",SUGGEST,B,559
+"das ist ziemlich nah am Bahnhof",INFORM,B,559
+"das ist wahrscheinlich recht praktisch",INFORM,B,559
+"das ist eine gute Idee",FEEDBACK_POSITIVE,A,560
+"das heißt <äh> würde ich sagen nehmen wir doch den dann Hotel Nöhre",SUGGEST,B,560
+"das ist ziemlich nah am Bahnhof",INFORM,B,560
+"das ist wahrscheinlich recht praktisch",INFORM,B,560
+"ja",ACCEPT,A,560
+"das heißt <äh> würde ich sagen nehmen wir doch den dann Hotel Nöhre",SUGGEST,B,561
+"das ist ziemlich nah am Bahnhof",INFORM,B,561
+"das ist wahrscheinlich recht praktisch",INFORM,B,561
+"ja",ACCEPT,A,561
+"wunderbar was kostet da das Einzelzimmer",REQUEST,A,561
+"das ist ziemlich nah am Bahnhof",INFORM,B,562
+"das ist wahrscheinlich recht praktisch",INFORM,B,562
+"ja",ACCEPT,A,562
+"wunderbar was kostet da das Einzelzimmer",REQUEST,A,562
+"<äh> hundert fünfundzwanzig das ist auch preislich denke ich ganz okay",INFORM,B,562
+"das ist wahrscheinlich recht praktisch",INFORM,B,563
+"ja",ACCEPT,A,563
+"wunderbar was kostet da das Einzelzimmer",REQUEST,A,563
+"<äh> hundert fünfundzwanzig das ist auch preislich denke ich ganz okay",INFORM,B,563
+"ja",FEEDBACK_POSITIVE,A,563
+"ja",ACCEPT,A,564
+"wunderbar was kostet da das Einzelzimmer",REQUEST,A,564
+"<äh> hundert fünfundzwanzig das ist auch preislich denke ich ganz okay",INFORM,B,564
+"ja",FEEDBACK_POSITIVE,A,564
+"mhm",BACKCHANNEL,A,564
+"wunderbar was kostet da das Einzelzimmer",REQUEST,A,565
+"<äh> hundert fünfundzwanzig das ist auch preislich denke ich ganz okay",INFORM,B,565
+"ja",FEEDBACK_POSITIVE,A,565
+"mhm",BACKCHANNEL,A,565
+"und ja gut <äh> ich werde denn da zwei Einzelzimmer reservieren",COMMIT,B,565
+"<äh> hundert fünfundzwanzig das ist auch preislich denke ich ganz okay",INFORM,B,566
+"ja",FEEDBACK_POSITIVE,A,566
+"mhm",BACKCHANNEL,A,566
+"und ja gut <äh> ich werde denn da zwei Einzelzimmer reservieren",COMMIT,B,566
+"ja <häs> in Ordnung",ACCEPT,A,566
+"also freitags würde es wäre es ja schon irgendwie angebracht",INFORM,A,567
+"und <ähm> na ja das besprechen wir dann denke ich",DEFER,A,567
+"okay",ACCEPT,B,567
+"mhm",BACKCHANNEL,B,567
+"okay gut",FEEDBACK_POSITIVE,B,567
+"und <ähm> na ja das besprechen wir dann denke ich",DEFER,A,568
+"okay",ACCEPT,B,568
+"mhm",BACKCHANNEL,B,568
+"okay gut",FEEDBACK_POSITIVE,B,568
+"gut dann bis demnächst",BYE,A,568
+"okay",ACCEPT,B,569
+"mhm",BACKCHANNEL,B,569
+"okay gut",FEEDBACK_POSITIVE,B,569
+"gut dann bis demnächst",BYE,A,569
+"ja",FEEDBACK_POSITIVE,B,569
+"mhm",BACKCHANNEL,B,570
+"okay gut",FEEDBACK_POSITIVE,B,570
+"gut dann bis demnächst",BYE,A,570
+"ja",FEEDBACK_POSITIVE,B,570
+"tschüß Herr Klein",BYE,B,570
+"okay gut",FEEDBACK_POSITIVE,B,571
+"gut dann bis demnächst",BYE,A,571
+"ja",FEEDBACK_POSITIVE,B,571
+"tschüß Herr Klein",BYE,B,571
+"Wiedersehen",BYE,A,571
